@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Reviews Analysis</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 30px;
+        }
+        #controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        #controls select, #controls input {
+            padding: 12px;
+            margin: 0 10px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+        #search-bar {
+            flex-grow: 1;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border-bottom: 1px solid #ddd;
+            padding: 15px;
+            text-align: left;
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #e9ecef;
+        }
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        .tag {
+            background-color: #007bff;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 12px;
+            text-transform: capitalize;
+        }
+        .tag.no-update { background-color: #ffc107; }
+        .tag.niche-demand { background-color: #28a745; }
+        .tag.valuable-opinion { background-color: #17a2b8; }
+        .tag.untagged { background-color: #6c757d; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>App Reviews Analysis</h1>
+
+        <div id="controls">
+            <input type="text" id="search-bar" placeholder="Search reviews...">
+            <select id="tag-filter">
+                <option value="all">All Tags</option>
+            </select>
+                    <select id="sort-by">
+                        <option value="rating-asc">Sort by Rating (Asc)</option>
+                        <option value="rating-desc">Sort by Rating (Desc)</option>
+                        <option value="date-asc">Sort by Date (Asc)</option>
+                        <option value="date-desc">Sort by Date (Desc)</option>
+                    </select>        </div>
+
+        <table id="reviews-table">
+            <thead>
+                <tr>
+                    <th>Platform</th>
+                    <th>App</th>
+                    <th>Review</th>
+                    <th>Rating</th>
+                    <th>Date</th>
+                    <th>Tags</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        let reviewsData = [];
+        let uniqueTags = new Set();
+
+        fetch('../data/tagged_reviews.json')
+            .then(response => response.json())
+            .then(data => {
+                reviewsData = data;
+                populateTags(data);
+                renderTable(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+
+        function populateTags(data) {
+            data.forEach(review => {
+                if (review.tags) {
+                    review.tags.forEach(tag => uniqueTags.add(tag));
+                }
+            });
+
+            const tagFilter = document.getElementById('tag-filter');
+            uniqueTags.forEach(tag => {
+                const option = document.createElement('option');
+                option.value = tag;
+                option.textContent = tag.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                tagFilter.appendChild(option);
+            });
+        }
+
+        function renderTable(data) {
+            const tableBody = document.querySelector('#reviews-table tbody');
+            tableBody.innerHTML = ''; // Clear the table
+
+            if (!data || data.length === 0) {
+                const row = document.createElement('tr');
+                const cell = document.createElement('td');
+                cell.colSpan = 5;
+                cell.textContent = 'No reviews found.';
+                cell.style.textAlign = 'center';
+                row.appendChild(cell);
+                tableBody.appendChild(row);
+                return;
+            }
+
+            data.forEach(review => {
+                const row = document.createElement('tr');
+                const tagsHtml = review.tags && review.tags.length > 0
+                    ? review.tags.map(tag => `<span class="tag ${tag.replace(/ /g, '-')}">${tag.replace(/_/g, ' ')}</span>`).join('')
+                    : '<span class="tag untagged">untagged</span>';
+
+                row.innerHTML = `
+                    <td>App Store</td>
+                    <td>${review.app_name || 'N/A'}</td>
+                    <td>${review.review}</td>
+                    <td>${review.rating}</td>
+                    <td>${review.date || 'N/A'}</td>
+                    <td class="tags">${tagsHtml}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        }
+
+        function filterAndSort() {
+            let filteredData = [...reviewsData];
+
+            // Filter by search
+            const searchTerm = document.getElementById('search-bar').value.toLowerCase();
+            if (searchTerm) {
+                filteredData = filteredData.filter(review => review.review.toLowerCase().includes(searchTerm));
+            }
+
+            // Filter by tag
+            const selectedTag = document.getElementById('tag-filter').value;
+            if (selectedTag !== 'all') {
+                filteredData = filteredData.filter(review => review.tags && review.tags.includes(selectedTag));
+            }
+
+            // Sort
+            const sortBy = document.getElementById('sort-by').value;
+            if (sortBy === 'rating-asc') {
+                filteredData.sort((a, b) => a.rating - b.rating);
+            } else if (sortBy === 'rating-desc') {
+                filteredData.sort((a, b) => b.rating - a.rating);
+            } else if (sortBy === 'date-asc') {
+                filteredData.sort((a, b) => new Date(a.date) - new Date(b.date));
+            } else if (sortBy === 'date-desc') {
+                filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
+            }
+
+            renderTable(filteredData);
+        }
+
+        document.getElementById('search-bar').addEventListener('input', filterAndSort);
+        document.getElementById('tag-filter').addEventListener('change', filterAndSort);
+        document.getElementById('sort-by').addEventListener('change', filterAndSort);
+
+    </script>
+</body>
+</html>
