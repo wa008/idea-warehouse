@@ -7807,5 +7807,603 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1590622755",
+        "name": "\u00b5Browser: Watch Web Browser",
+        "url": "https://apps.apple.com/us/app/%C2%B5browser-watch-web-browser/id1590622755?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "I hate DuckDuckGo. I don\u2019t want it to be my search engine. I want to use regular Google - but I\u2019m forced to use DDG. Please make this a feature.",
+                "date": "2025-09-12",
+                "value": 75,
+                "potential_idea": "Allow users to manually select their preferred default search engine within the app, overriding any pre-set options.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "It\u2019s impossible to cancel the subscription.",
+                "date": "2025-06-28",
+                "value": 20,
+                "potential_idea": "Implement a clear and easily accessible subscription cancellation option within the app settings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 2,
+                "review": "On Apple Watch Series 10 watchOS 11, 1/4 of the screen is taken up by a black bar just for a single (x) button and more is taken up by the URL bar. This only leaves 2/3 of the watch face for web content.\n\nTo me, this makes use more difficult. Otherwise the app works.",
+                "date": "2024-12-24",
+                "value": {
+                    "intensity": 15,
+                    "difference": 10,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 60
+                },
+                "potential_idea": "Implement a dedicated 'compact mode' for the mobile app that minimizes UI elements to maximize web content display on smaller screens like the Apple Watch.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "Works the same as the inside web browser already in the watch and will not be able to be used for intended purpose. Highly recommend a free version makes no difference for the level of browsing that it can perform.",
+                "date": "2024-09-02",
+                "value": 12,
+                "potential_idea": "Develop a truly specialized and optimized mobile browser for wearable devices that goes beyond basic web viewing, offering unique smartwatch-friendly features.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "The install wheel has been spinning for days.",
+                "date": "2024-06-05",
+                "value": 10,
+                "potential_idea": "Implement a robust background download and installation manager for app updates to prevent installation wheels from spinning indefinitely.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "It says everything is restricted every website",
+                "date": "2024-03-12",
+                "value": 15,
+                "potential_idea": "Implement a clear and informative 'restrictions explained' section within the app to detail why certain websites are inaccessible.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 2,
+                "review": "Can i please get a refund?",
+                "date": "2024-03-09",
+                "value": 15,
+                "potential_idea": "Implement a clear and accessible refund request system within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "I can\u2019t get past the top of the screen.",
+                "date": "2024-02-04",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and user guidance for initial app onboarding and navigation to prevent users from getting stuck.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "Hi all. I saw this app came highly recommended and I happily paid for it. Issue is, I can\u2019t seem to connect to any website. I can\u2019t even search anything. Maybe it\u2019s user error, I don\u2019t know. But please advise and maybe send an update. \n\nI\u2019ll update the rating that this app so surely deserves.",
+                "date": "2023-10-25",
+                "value": 15,
+                "potential_idea": "Implement a clear, step-by-step onboarding guide or troubleshooting wizard for new users to ensure proper app setup and connectivity.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 2,
+                "review": "Ok in a pinch I guess. I don\u2019t know why they didn\u2019t scale down safari they know how we Apple users are if your gonna sell a watch why a third party app, from the watches App Store at that! I hope it\u2019s safe that\u2019s all I can say but idk why Apple Watches don\u2019t have safari such a let down . Google watches have Chrome , oh well",
+                "date": "2023-10-23",
+                "value": 72,
+                "potential_idea": "Integrate a scaled-down version of Safari directly into watchOS, similar to Google Chrome on Google Watches, to allow users to browse the web on their Apple Watch.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "Please refund me asap",
+                "date": "2023-10-10",
+                "value": 15,
+                "potential_idea": "Implement an easy-to-use in-app refund request system for users to get their money back.",
+                "tags": []
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 2,
+                "review": "Enjoyed the app until the last recent update, took the app away from being added as a compilation on the ultra watch on iOS 9",
+                "date": "2023-09-19",
+                "value": 15,
+                "potential_idea": "Restore and enhance the ability to add compilations to the Apple Watch Ultra, ensuring compatibility with older iOS versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 2,
+                "review": "Without the companion app, it\u2019s not very useful.",
+                "date": "2023-04-19",
+                "value": 70,
+                "potential_idea": "Develop a standalone version of the app that offers core functionality without requiring a companion device.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "It says safari cannot open the page because the server cannot be found?  Can I get a refund? I tried opening a few pages and this is all I get!!",
+                "date": "2023-03-01",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and clear user feedback for network connectivity issues, including potential refund options for persistent service unavailability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "\u00b5Browser: Watch Web Browser",
+                "rating": 1,
+                "review": "i try to sign in on something and it brought me to a homepage \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d i want my refund please",
+                "date": "2022-12-25",
+                "value": 15,
+                "potential_idea": "Implement a direct refund button or clear refund process within the app to address user frustration with login failures.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "554937499",
+        "name": "Earn to Die",
+        "url": "https://apps.apple.com/us/app/earn-to-die/id554937499?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Earn to Die",
+                "rating": 1,
+                "review": "The game involuntarily reset my progress, the only solution was to buy their second version what the f****ck?!",
+                "date": "2023-12-20",
+                "value": 90,
+                "potential_idea": "Implement a robust cloud save system to prevent accidental progress loss and eliminate the perceived need to purchase a second version of the game for data recovery.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die",
+                "rating": 1,
+                "review": "Avoid like the plague until/if this issue is fixed, unless you like buying extra phones.",
+                "date": "2023-11-11",
+                "value": 15,
+                "potential_idea": "Implement a robust data backup and restore feature to prevent data loss, addressing user concerns about potential device failure.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die",
+                "rating": 1,
+                "review": "This game was last updated 5 years ago.  This game overheats my iPhone 14 pro max.  Phone gets super hot and battery dies quickly.\n\nThe 2nd version of this game, doesn\u2019t have these issues because I bet it is written on the latest sdk",
+                "date": "2023-07-25",
+                "value": {
+                    "intensity": 18,
+                    "difference": 10,
+                    "scope": 15,
+                    "feasibility": 12,
+                    "total": 55
+                },
+                "potential_idea": "Optimize older app versions for current hardware and SDKs to prevent overheating and improve battery life.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1065360416",
+        "name": "BimmerLink for BMW and MINI",
+        "url": "https://apps.apple.com/us/app/bimmerlink-for-bmw-and-mini/id1065360416?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Tried with the OBDLink MX+ and the OBDlink CX and neither work connecting to a G01 X3 (2023). Waste of money and time, says it\u2019s supported but isn\u2019t",
+                "date": "2025-09-07",
+                "value": 18,
+                "potential_idea": "Implement a robust vehicle compatibility checker that accurately cross-references OBD scanner models with specific car makes, models, and years to prevent user disappointment and wasted purchases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "I purchased this app after buying the required connection cables so I could add CarPlay to our BMW X3.  Only AFTER purchasing and downloading and paying another $9.99 for CarPlay in app feature, does it state you need CarPlay already available on your vehicle. The app also is tricky to get connected to the vehicle. This app and the videos online that demo it are very deceiving. I\u2019ve requested a refund from Apple. Waste of $50. Even if Apple refunds that money, I am out $40 which I paid for the cables. . Do Not Purchase.",
+                "date": "2025-08-31",
+                "value": 70,
+                "potential_idea": "Display explicit vehicle compatibility requirements prominently before purchase and a streamlined, guided connection process for easier setup.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 2,
+                "review": "It does the simple job, if it worked on both my pc and apple devices I\u2019d use it more than ista and protool. Honestly better off getting bimmmer geeks pro tool on a dedicated android device.",
+                "date": "2025-08-21",
+                "value": 60,
+                "potential_idea": "Develop a cross-platform mobile and desktop application that integrates seamless syncing and functionality across both PC and Apple devices to compete with existing photo/video editing apps.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Service mode cant be activated, waste of money.",
+                "date": "2025-08-09",
+                "value": 15,
+                "potential_idea": "Implement a robust 'service mode' activation process with clear troubleshooting steps and user support to ensure core app functionality for all users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Reached out a week ago still no response have multiple supported obd adapters sometimes works for one of my cars but not the other completely but other apps do",
+                "date": "2025-05-24",
+                "value": 70,
+                "potential_idea": "Develop an advanced OBD adapter compatibility layer that automatically detects and optimizes settings for various OBD adapters and vehicle models to ensure consistent performance.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Bought the app thinking I could use it to code but it doesn\u2019t do anything different than any other standard scanner app\u2026 Tried getting the full version of BimmerCode since this is the only app that I can buy from the App Store but it\u2019s not the BimmerCode full version.",
+                "date": "2025-05-15",
+                "value": 75,
+                "potential_idea": "Develop a mobile app specifically for BMW coding with advanced features not found in standard scanner apps and a clear distinction from the BimmerCode full version.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Purchased on my iPhone for diagnostics on wife\u2019s car (don\u2019t want to hold onto her phone all afternoon getting it greasy and what not). Now wife can\u2019t use app on her phone to monitor issue while driving (specifically engine temp and oil level in this situation). Upgraded to android tablet to use with OBD reader on other vehicles but would have to purchase this app AGAIN to use on it on tablet.",
+                "date": "2025-04-08",
+                "value": 75,
+                "potential_idea": "Enable cross-device and multi-user license sharing for the app to allow multiple family members to use it on different devices under a single purchase.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Connection trouble",
+                "date": "2025-03-30",
+                "value": 5,
+                "potential_idea": "Implement enhanced offline capabilities for seamless app usage without a stable internet connection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Purchased app to hopefully get faster reading for diagnosing my vehicle. 2005 5 series. It says in the description that my car is compatible basically just readjng the batterh and clearing codes not a single point of actual data then i go to switch over to my other vehicle and it will not let me connect even manually connecting my phone to the dongle before opening the app i would assume it is some sort of way to keep you using it on your friends vehicles. I have 7 cars so if thats the case it is really a terrible design because i know i am definitely not the only person with more than one BMW.",
+                "date": "2025-03-09",
+                "value": 75,
+                "potential_idea": "Allow users to register multiple vehicles for diagnostic use within the app to accommodate car enthusiasts with several vehicles.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "be careful downloading this app. They charge me $40 for nothing. I didn\u2019t even use the app yet. All I did was download it and a few days later I got billed $40 for no reason I didn\u2019t pay for any service or any sub subscription with them and they still charged me for no reason at all.",
+                "date": "2025-03-01",
+                "value": 90,
+                "potential_idea": "Implement a clear, upfront charging explanation and a grace period for new users to prevent unexpected billing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 2,
+                "review": "Just bought this app, and paid the 50$ for the expert bimmercode app so I could reprogram my battery. App is telling me the charge is 28% and will not register correctly. Battery is brand new bought last night and tested at 98%. Unless bimmerlink addresses whatever issues they have I would not recommend this app nor recommend spending the money on it.",
+                "date": "2025-02-21",
+                "value": 75,
+                "potential_idea": "Implement more robust battery health and registration diagnostics to accurately guide users through battery replacement and coding processes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Readings not accurate",
+                "date": "2025-02-12",
+                "value": 10,
+                "potential_idea": "Implement user-adjustable calibration or sensor sensitivity settings for improved measurement accuracy.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Did not provide the options as advertised. No exhaust valve settings for the 2025 X5",
+                "date": "2025-01-11",
+                "value": 60,
+                "potential_idea": "Expand the app's vehicle compatibility list to include more specific model years and trims for exhaust valve settings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Automatic charge 39.99. Downloaded by mistake and did not even open before deletion.",
+                "date": "2024-12-16",
+                "value": 15,
+                "potential_idea": "Implement a grace period for accidental subscriptions or a clear 'try before you buy' option to prevent unwanted charges.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 2,
+                "review": "Purchased the app solely for CarPlay compatibility and when it works it\u2019s satisfactory. When it doesn\u2019t work, you have to quit CarPlay, reconnect the iPhone app and relaunch the CarPlay app which is very dissatisfying. Also, I\u2019ve noticed on multiple occasions that while using the CarPlay app, the selector window that I use in conjunction with the dial mouse in the middle console will disappear forcing me to use the touch screen or restart the car or my phone. Also, the app never remembers what Bluetooth adapter you connected to last and makes you reconnect every time you get in the car which is annoying.",
+                "date": "2024-12-11",
+                "value": 70,
+                "potential_idea": "Improve CarPlay stability and Bluetooth adapter memory within the app to provide a seamless and uninterrupted user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "This app doesn\u2019t do a thing. I can\u2019t control my exhaust valves, reset service reminders, or clear codes on my M850. I\u2019m trying to get a full refund.",
+                "date": "2024-12-11",
+                "value": 18,
+                "potential_idea": "Expand the app's diagnostic and control capabilities to include specific functions for advanced vehicle models like the M850, such as exhaust valve control, service reminder resets, and code clearing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "They will randomly charge your card $39.99 \nDO NOT DOWNLOAD",
+                "date": "2024-11-27",
+                "value": 15,
+                "potential_idea": "Implement a clear and verifiable transaction history with detailed receipts and an easy dispute resolution process to build user trust regarding billing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Save the $10 and don\u2019t get the CarPlay feature. Just paid for it on a 2020 X5 and it does not work. The message on the Idrive screen keeps telling me to open the iPhone app and select sensors for the dashboard even though I already have.  Oh and you can\u2019t get your money back so that\u2019s nice for the app developer I guess?",
+                "date": "2024-06-09",
+                "value": 18,
+                "potential_idea": "A robust troubleshooting guide within the app to help users resolve common connection and setup issues with CarPlay features, including clear step-by-step instructions and diagnostic prompts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "BimmerLink for BMW and MINI",
+                "rating": 1,
+                "review": "Even with every known workaround attempted,still refuses to connect. I even purchased the enet cable promoted by these guys.",
+                "date": "2024-06-08",
+                "value": 15,
+                "potential_idea": "Improve the app's connection stability and provide clearer troubleshooting guidance, potentially through an in-app diagnostic tool for network connectivity.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1484622401",
+        "name": "Religion inc. God Simulator",
+        "url": "https://apps.apple.com/us/app/religion-inc-god-simulator/id1484622401?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "There is very little to this game, it\u2019s a copy of another popular game and they only copied the idea of the game not real mechanics.",
+                "date": "2025-09-04",
+                "value": 15,
+                "potential_idea": "Develop a game that offers unique mechanics and gameplay beyond simple imitation of popular titles.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "I like the game and all and I play on the easiest mode and I still CAN\u2019T win please update it and FIX it",
+                "date": "2025-05-24",
+                "value": 70,
+                "potential_idea": "Implement a difficulty slider for the game that allows users to precisely adjust the challenge, catering to a wider range of player skill levels.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "It\u2019s alright, played 4 games on the hardest difficulty and I\u2019m not sure someone could lose at this. It\u2019s also very cartoony, a personal dislike of mine. It\u2019ll kill about 10 mins of your time and then you\u2019ll never look back. Wouldn\u2019t say it\u2019s particularly worth it",
+                "date": "2025-03-23",
+                "value": 10,
+                "potential_idea": "Introduce an optional 'realistic' or 'gritty' visual theme to appeal to users who dislike the cartoony aesthetic.",
+                "tags": []
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Ran an ad before a loading or start screen even showed, instantly deleted. At least try to get players engaged before trying to get money if you\u2019re on a free-to-play basis. Otherwise just make it a paid game.",
+                "date": "2024-10-23",
+                "value": 15,
+                "potential_idea": "Implement a 'grace period' or engaging intro experience before displaying any advertisements in a free-to-play mobile game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "This game is extremely biased you can obviously tell you ever developed this game was Christian or related heavily to Christian ideology a very surface level game no true depth or knowledge of other religions spirituality and ways of life. Don\u2019t recommend",
+                "date": "2024-10-06",
+                "value": 75,
+                "potential_idea": "Develop a mobile game with a focus on celebrating diverse global religions and spiritual practices, offering accurate and respectful representations of various beliefs and philosophies.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "For the information of the people",
+                "date": "2024-09-17",
+                "value": 15,
+                "potential_idea": "Implement a community-driven fact-checking or information verification feature within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Can\u2019t get a feel for the game as they\u2019re constantly badgering you to pay or watch an ad.\n\n(What I experienced wasn\u2019t worth $1)",
+                "date": "2024-09-10",
+                "value": 75,
+                "potential_idea": "Implement a 'no ads, no interruptions' premium version of the app that offers a truly uninterrupted, uninterrupted gaming experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "I used to love this game and just rediscovered it a few days ago. Every time I try to open the app it crashes. Pleaseeee help me fix this so I can play",
+                "date": "2024-08-29",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated debugging tools to identify and resolve app stability issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Just started playing the game and have to say it\u2019s a fun game. however when I uploaded the new update, I now cannot open up the game. I clicked on the app and it just closes out .what\u2019s going on?! I tried uninstalling it and reinstalling and it will not open back up again. Please fix!",
+                "date": "2024-08-28",
+                "value": 18,
+                "potential_idea": "Implement a robust rollback mechanism for app updates to allow users to revert to a previous stable version if a new update introduces critical bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "The adds are a minute long and too often they ruined the game experience",
+                "date": "2024-06-03",
+                "value": {
+                    "intensity": 20,
+                    "difference": 5,
+                    "scope": 25,
+                    "feasibility": 20,
+                    "total": 70
+                },
+                "potential_idea": "Implement a premium subscription to remove all advertisements, offering an uninterrupted user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "You should not have to pay for a game and not have to be right off the beginning. It is a sin and you\u2019re very greedy. amen",
+                "date": "2024-04-29",
+                "value": 75,
+                "potential_idea": "Offer a free-to-play version of the game with optional in-app purchases for faster progression or cosmetic items, rather than an upfront purchase with immediate monetization pressure.",
+                "tags": []
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "So is looking for a game like this and I found it and then I started playing I snored all the reviews and then I clicked on it and I was like why do I have to not why can\u2019t I play all these different religions and then I clicked on the first one that you see and then I started playing it was really fun at first but then as I kept playing and start to get less fun and less fun instant stop giving me a religion but it\u2019s something fun so don\u2019t be fooled by how fun it looks in the pictures because it is not fun so take my advice don\u2019t take my advice it\u2019s up to you.",
+                "date": "2024-03-08",
+                "value": 65,
+                "potential_idea": "Allow users to toggle between multiple religion-themed game modes to maintain long-term engagement.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "The ads never end giving you the reward, it\u2019s entertaining wasting my time like that for no reason. There\u2019s literally not even an option for customer support, it looks like delusionally they expect you to make a discord account to get any \u2018support\u2019. This\u2019s also a very unrealistic game. It should be titled religion or cult simulator since it has nothing to do with Christ the only God. Don\u2019t waste your time with this.",
+                "date": "2024-03-05",
+                "value": 70,
+                "potential_idea": "Develop a mobile simulation game that accurately and respectfully explores religious or cult dynamics with a focus on historical or anthropological accuracy, rather than misrepresenting religious figures.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
     }
 ]
