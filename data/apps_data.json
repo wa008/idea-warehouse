@@ -39,5 +39,46 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "525818839",
+        "name": "Plague Inc.",
+        "url": "https://apps.apple.com/us/app/plague-inc/id525818839?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Why was France dropping when I literally destroyed its government removed almost all lethality and destroyed the entire European continent I don\u2019t understand why  it was not spreading what kind of game is this",
+                "date": "2025-09-30",
+                "value": 70,
+                "potential_idea": "Introduce an in-game mechanics explainer feature that provides real-time tooltips and post-action summaries to clarify why certain strategies, like government destruction, impact disease spread or country stability in unexpected ways.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Tried the shadow and at one point features just stopped working.",
+                "date": "2025-09-30",
+                "value": 18,
+                "potential_idea": "Implement an auto-recovery mechanism for features that fail during use, allowing seamless resumption without loss of progress.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Well, all my speed runs are still have a good score, they are no longer at global scoreboard.",
+                "date": "2025-09-20",
+                "value": 18,
+                "potential_idea": "Implement an automated leaderboard refresh mechanism to ensure high-scoring speed runs are promptly added to the global scoreboard, addressing visibility issues for competitive users.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
     }
 ]

@@ -43,6 +43,7 @@ def get_reviews_for_app(app, model, remaining_quota):
                 logging.info(f"Processing review: {processing_review_amount} / {remaining_quota} for curect app {app['title']}")
                 processing_review_amount += 1
                 if processing_review_amount > remaining_quota:
+                    logging.info(f"Review quota for current app of {remaining_quota} reached. Stopping.")
                     break
                 analysis = model.get_review_analysis(r['text'])
                 review = {
