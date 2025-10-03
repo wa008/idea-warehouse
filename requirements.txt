@@ -1,6 +1,3 @@
-urllib3
-requests
-beautifulsoup4
 google-generativeai
 python-dotenv
-app-store-scraper
+openai
