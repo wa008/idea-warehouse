@@ -10807,5 +10807,614 @@
                 "tags": []
             }
         ]
+    },
+    {
+        "id": "1491196899",
+        "name": "Papa's Bakeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-bakeria-to-go/id1491196899?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 1,
+                "review": "impossible to get 100% scorring on toppings and boring with so little upgrades",
+                "date": "2025-08-22",
+                "value": 15,
+                "potential_idea": "Introduce a wider variety of challenging topping combinations and more engaging progression systems with diverse upgrade paths to increase replayability and satisfaction.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 1,
+                "review": "There is a major bug in the Slider mini game.  Some of the walls are transparent making you unable to accurately pick the correct direction to win.  Please fix this bug!\n\nThe game itself needs improvements for toppings to be more accurate so the percentages reflect correctly.",
+                "date": "2025-02-18",
+                "value": 10,
+                "potential_idea": "Implement visual debugging tools for mini-game developers to easily identify and fix graphical glitches like transparent walls.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 2,
+                "review": "I specifically bought this game because I said hey I can finally save my progress. I was wrong I recently broke my phone & got a new one & my PROGRESS IS GONE ON BOTH GAMES I BOUGHT. ONLY REASON I GOT THEM WAS BECAUSE I THOUGHT IT WOULD BE SAVED THIS IS RIDICULOUS! I Wish I could get my money back !",
+                "date": "2025-01-11",
+                "value": {
+                    "intensity": 25,
+                    "difference": 10,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 70
+                },
+                "potential_idea": "Implement cloud save functionality for game progress to prevent data loss on device replacement or breakage.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 1,
+                "review": "I played this on day 3, it had been a while since I played it, I was getting Sue her order and she wanted a white chocolate swirl, so I did it, BUT IT WAS WRONG! IT ONLY DID A CIRCLE, NOT A SWIRL. So I gave Sur her order and every thing was 100%, except for the topping. Instead, I got a 0%.\nWHAT? I LOOKED AT THE HELP MENU, TOO, BUT IT DIDNT TELL ME ANYTHING. I RATE THIS 0/10.",
+                "date": "2025-01-08",
+                "value": 15,
+                "potential_idea": "Improve the game's tutorial or help section with visual examples of how to correctly create swirling patterns for drink toppings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 1,
+                "review": "I played this app for quite a while and then stopped because school season was coming around and when I came back to the app the sounds started to sound glitchy and very scratchy. I tried to check the apps settings and restart my phone but nothing helped. Does anyone else have the same problem?",
+                "date": "2024-01-24",
+                "value": 15,
+                "potential_idea": "Implement a robust audio troubleshooting guide or diagnostic tool within the app to help users resolve sound glitches and scratchiness.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 1,
+                "review": "DO NOT GET!!! I got this game a couple minutes ago thinking that it would be $1.99, and it charged me 20?!?!? This game scams and is not to be trusted!!!",
+                "date": "2024-01-23",
+                "value": 15,
+                "potential_idea": "Implement clear and prominent pricing information within the app store listing and upon initial app opening.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Bakeria To Go!",
+                "rating": 2,
+                "review": "You can\u2019t place the toppings on yourself which is like half the fun. Kind of sad I paid for it because I\u2019m just gonna delete it :/",
+                "date": "2023-09-05",
+                "value": 75,
+                "potential_idea": "Introduce a customizable pizza builder where users can freely select and arrange toppings on their pizzas before ordering.",
+                "tags": [
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6752363508",
+        "name": "Garten of Banban 8: Anti Devil",
+        "url": "https://apps.apple.com/us/app/garten-of-banban-8-anti-devil/id6752363508?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Garten of Banban 8: Anti Devil",
+                "rating": 1,
+                "review": "I love this game a lot it\u2019s definitely my favorite in the series so far but PLEASE add settings for the graphics the others games on mobile had settings for it so it feels really weird that this one doesn\u2019t",
+                "date": "2025-09-24",
+                "value": {
+                    "intensity": 20,
+                    "difference": 10,
+                    "scope": 25,
+                    "feasibility": 25,
+                    "total": 80
+                },
+                "potential_idea": "Implement customizable graphics settings in the mobile game to allow users to adjust visual quality and performance.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Garten of Banban 8: Anti Devil",
+                "rating": 2,
+                "review": "the gameplay is fine, but the graphics are terrible. to see the murals on the wall you have to get super close for it to not be blurry, and the bowling pins don\u2019t look anything like what they should. could you fix this?",
+                "date": "2025-09-24",
+                "value": 70,
+                "potential_idea": "Improve in-game graphics by increasing texture resolution and detail for environmental elements like murals and bowling pins.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "454086751",
+        "name": "Flick Home Run !",
+        "url": "https://apps.apple.com/us/app/flick-home-run/id454086751?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Does not work whatsoever on iOS 26.",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement robust compatibility testing for all major iOS versions to ensure app functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Used to be one of my favorite games to kill time on but now it\u2019s just broken. It won\u2019t let you hit the ball anymore no matter what and this makes me very sad I\u2019ve played this game well over 10 years",
+                "date": "2025-09-16",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting and automated diagnostic tool within the game to quickly identify and resolve issues preventing core gameplay mechanics.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "If only i could attach videos of all my no reg hits. So many times a ball that should be a hit ends in an out",
+                "date": "2025-09-12",
+                "value": 75,
+                "potential_idea": "Allow users to attach video evidence of disputed 'no-reg' (no result) calls in sports simulations to a feedback system for review and potential score correction.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Waste of money. Can\u2019t even open the game. It crashes before I can even play. At least it was only 99\u00a2",
+                "date": "2025-06-01",
+                "value": 10,
+                "potential_idea": "Develop a robust pre-launch stability testing protocol for mobile games to prevent immediate crashes upon opening.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Play free version not worth it",
+                "date": "2025-05-27",
+                "value": 12,
+                "potential_idea": "Offer a more compelling free tier with limited, but valuable, features to demonstrate the app's core benefits and encourage upgrades.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Hasn\u2019t been updated in years impossible to hit the ball now.",
+                "date": "2025-04-15",
+                "value": 10,
+                "potential_idea": "Update the app with current game physics to improve gameplay and ball control.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Every time you go to swing the \u201cbat\u201d lags and delays the swing which cause you to miss the ball.",
+                "date": "2025-01-13",
+                "value": 15,
+                "potential_idea": "Implement a predictive swing mechanic that anticipates user input to mitigate lag and improve responsiveness in batting games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "Why do you make a game where you can\u2019t switch the perspective to left handed ESPECIALLY when it\u2019s a batting game?",
+                "date": "2025-01-08",
+                "value": 70,
+                "potential_idea": "Implement a left-handed perspective option for the batting game to accommodate all players.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "I paid for the gold bat package nd it was supposed to be 14 something but this game charged me 20 something dollars close to 30 thats not cool i honestly dont",
+                "date": "2025-01-04",
+                "value": 15,
+                "potential_idea": "Implement a clear breakdown of in-app purchase costs, including taxes and fees, before final confirmation to prevent unexpected charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Used to love this game as a kid re downloaded and there is a game breaking bug where you make perfect contact with the ball yet it doesn\u2019t recognize it and goes 10 yards backwards",
+                "date": "2025-01-03",
+                "value": 15,
+                "potential_idea": "Implement a more robust hit detection system for the game to accurately register perfect contact with the ball.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "This game literally  does not work. No matter how accurate your swing, it won\u2019t connect. Oddly enough the free version riddled with ads works great. \nThere is other reviews from months ago stating this same problem but no fix. Possibly because the greedy developers realized they make more off of ad revenue than single $0.99 charge for this version?",
+                "date": "2024-11-30",
+                "value": 10,
+                "potential_idea": "Implement a 'premium unlock' option within the free version to remove ads and unlock all features, bridging the gap between free and paid user experiences.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Now it crashes after 1 swing\u2026.fix it",
+                "date": "2024-11-24",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated debugging tools to identify and fix app stability issues quickly.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "No matter how well you hit the ball, good luck on advancing very far. I get good solid hits just for it to pop up and go backwards, or it doesn\u2019t make it 60\u2019. If you are like me, and don\u2019t want to pay to level, save yourself by not wasting your time in this game. Years ago it was not as back breaking trying to level up the three phases. Now it seems the game is a lot tougher. That includes hitting the ball, and the way the ball comes out. If they would fix those two problems, the game might be worth playing again.",
+                "date": "2024-11-24",
+                "value": 75,
+                "potential_idea": "Implement a 'fair play' mode with balanced progression that doesn't require in-app purchases for enjoyable advancement.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Seems to miss the ball even when the line goes straight through the ball. I don\u2019t remember the game working so bad",
+                "date": "2024-09-29",
+                "value": 45,
+                "potential_idea": "Improve ball collision detection accuracy in the game, especially for straight-line hits.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "i will swipe my finger and it won\u2019t even make contact with the ball",
+                "date": "2024-09-29",
+                "value": 15,
+                "potential_idea": "Implement an optional on-screen touch sensitivity adjustment slider within the app to compensate for varying touch screen performance or user touch styles.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "I PAID FOR THIS GAME AND IT FREEZES ALL OF THE TIME. EITHER FIX IT OR GIVE ME MY MINEY BACK!",
+                "date": "2024-09-25",
+                "value": 18,
+                "potential_idea": "Implement a robust bug reporting and refund system, especially for paid games, to address user frustration with performance issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "I am 1 gold bat away from completing and it is in multiplayer.. everytime I load into a multiplayer game it kicks me off of the game. The only way to get the gold bat is to pay $15 when I am 1 away and can\u2019t get it because the game is bugged.",
+                "date": "2024-08-23",
+                "value": 80,
+                "potential_idea": "Implement a 'single-player' or 'AI-assisted' mode for users who are one item away from completion but are experiencing multiplayer bugs, allowing them to earn final items without relying on unstable multiplayer servers.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "As the title states, this is a great game for its simplicity and fun level. Works well for the most part and is a good low stress time killer. That said, its ceiling is 3 stars because of the abysmally slow progression and outrageous prices. I\u2019d wager it\u2019d take 2-3 days of actual play time just to get one stat to 70, let alone max all of the stats. It would cost almost $200 minimum to do so by purchasing the upgrades. XP should be 1 for every 25 points or something. 1 XP per 100 points is simply too low w/ how much the amount progresses every level.",
+                "date": "2024-08-19",
+                "value": 55,
+                "potential_idea": "Introduce a tiered progression system or alternative in-app currency to accelerate stat upgrades beyond the current slow grind.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "No option to transfer data or restore purchases and the stay increases make no discernible difference. The swiping function is completely random. Awful game from a developer that doesn\u2019t care and just wants to take your money.",
+                "date": "2024-07-05",
+                "value": 75,
+                "potential_idea": "Implement a robust data backup and restore system for game progress and in-app purchases to prevent data loss and ensure continuity.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Glitches and doesn\u2019t let me hit anything at all. Doesn\u2019t matter how I try to swipe",
+                "date": "2024-06-30",
+                "value": 10,
+                "potential_idea": "Implement a more forgiving or adaptive swipe detection system to compensate for user input variations and app glitches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "Why when I hit the ball, it sometimes go backwards. Why when I swing, it doesn\u2019t register. Why when I swing, it feels like my swings carry different power\u2026.. it\u2019s a baseball players game but this game is inconsistent on its swing.",
+                "date": "2024-04-11",
+                "value": 75,
+                "potential_idea": "Introduce adjustable swing power and more consistent swing registration mechanics to improve the realism and fairness of the baseball game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "The game does not work thankfully it\u2019s only a dollar.\nIf any of the developers are watching can you just fix it so we can hit.",
+                "date": "2024-04-06",
+                "value": 15,
+                "potential_idea": "Implement a quick bug fix system for critical game-breaking issues, communicating updates directly to users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "I used to love playing this game when I was younger I just wanted to play all the modes again but you can\u2019t even hit the ball.  The free one still works but this one ain\u2019t good if you try swiping fast or even slow it won\u2019t hit the ball.  Even if it lines up perfectly it won\u2019t work I was alright with it until it just kept happening.  I\u2019m just glad it was only a dollar I don\u2019t know if this an iphone thing or if it just happens regularly but if you want to play this game just get the free version.",
+                "date": "2024-03-11",
+                "value": 18,
+                "potential_idea": "Develop a premium version of the game with a guaranteed responsive and accurate ball-hitting mechanic for a superior gameplay experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "The app does not work whatsoever on my phone. You swipe to hit the ball and it does not register!! DO NOT BUY!! The FREE VERSION works on my phone but the paid version does not. After reading other reviews it appears this is a common problem with everyone else.",
+                "date": "2024-02-15",
+                "value": 15,
+                "potential_idea": "Investigate and resolve bugs preventing the paid version of the app from functioning correctly on certain devices, especially when the free version works.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "There has been so many times where I swing and it goes right through the ball and does nothing. You have to grind like crazy just to level up one thing. Also many times where u perfectly hit the ball and it for some reason goes backwards. Some game modes are very broken and will make the ball go backwards way to often",
+                "date": "2024-01-03",
+                "value": 65,
+                "potential_idea": "Implement a 'ghost ball' or hit trajectory prediction feature to help players understand why swings miss or shots go backward, alongside a more balanced progression system for leveling up.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Can\u2019t hit the ball with larger screen phones",
+                "date": "2023-12-29",
+                "value": 12,
+                "potential_idea": "Introduce adjustable in-game control scaling for different screen sizes to improve gameplay on larger phones.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "If I swipe to fast it doesn\u2019t hit the balls. Started doing that when I bought the full version. The free version worked perfectly fine.",
+                "date": "2023-11-27",
+                "value": 10,
+                "potential_idea": "Optimize swipe gesture responsiveness for full version users to ensure accurate ball hitting.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "When playing a few levels the game glitches and shuts off. I just recently redownload loaded this game onto my new phone. When I get to level 10, the game shuts down and then I lose those level ups. \n\nThis thing needs a big fix for this.",
+                "date": "2023-10-11",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and auto-save functionality to prevent data loss during unexpected game shutdowns.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "Need a update game crash all the time it is playable, but it\u2019s annoying that it crash all the time",
+                "date": "2023-10-09",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to identify and fix the root causes of frequent game crashes.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "DO NOT BUY THIS GAME\u2026 I will be in the middle of a game and it crashes and I lose all progress. It\u2019s happened multiple times and I tried everything to fix it.. just now was about to be my high score and once again the game just crashes and I lose all progress.. xp everything..",
+                "date": "2023-10-07",
+                "value": 90,
+                "potential_idea": "Implement robust autosave functionality with version history to prevent progress loss due to crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "So the game has been around for a long time and is a fun way to burn some time. However, playing recently I have experienced after working my way painstakingly to some of the later levels, the app will crash and restart. All progress has been lost and you have to start over. After having put some money to upgrade my abilities, I feel that I have wasted all that money because I can\u2019t get to level 10 without it crashing. Developers REALLY need to fix this.",
+                "date": "2023-10-07",
+                "value": 70,
+                "potential_idea": "Implement robust auto-saving and crash recovery mechanisms to prevent progress loss in later game levels.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Used to be a fun game. I redownloaded it and it crashes constantly.",
+                "date": "2023-09-10",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and bug fixing mechanisms to stabilize the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "I redownloaded this game again several years after deleting. It is much harder to hit the ball than I remember. Seems like the game can\u2019t register as well on newer iPhones, which have gotten larger.",
+                "date": "2023-09-04",
+                "value": 45,
+                "potential_idea": "Implement adaptive touch sensitivity or adjustable target hit zones for larger screen devices to compensate for the difficulty of hitting targets on modern iPhones.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Game keeps crashing. What a waste of money!",
+                "date": "2023-09-03",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to improve app stability and user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "This game constantly cuts out and you loose the current game you are playing.",
+                "date": "2023-09-01",
+                "value": 15,
+                "potential_idea": "Implement an auto-save feature that periodically saves game progress to prevent data loss from unexpected disconnections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "I deleted the app. Fun game but impossible to make progress and level up. Everytime I play it crashes in the middle of the round and loses all progress or rewards I have earned.",
+                "date": "2023-08-22",
+                "value": 15,
+                "potential_idea": "Implement a robust auto-save system to prevent progress loss due to crashes, coupled with a system to reward players for completed rounds even if a crash occurs just before the end.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 2,
+                "review": "The app will crash if you play long enough. Sometimes it\u2019ll crash quickly, sometimes it takes awhile, but it will eventually. I got to step 15 on major mode, the final step, and intentionally lost so the app wouldn\u2019t crash and lose my progress. Also, I can\u2019t seem to get paired with anyone on multiplayer, and there\u2019s a gold bat to be had on multiplayer, but since I can\u2019t get paired with anyone to play multiplayer, I can\u2019t get the gold bat. This is an older app so maybe no one else is playing to get paired up with. Maybe take the gold bat off of multiplayer. If those 2 things were addressed I\u2019d rate it 4 stars.",
+                "date": "2023-08-13",
+                "value": 85,
+                "potential_idea": "Implement a robust auto-save feature to prevent progress loss due to crashes, and consider reworking the multiplayer rewards system to be accessible even if player matchmaking is low.",
+                "tags": [
+                    "bug",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Flick Home Run !",
+                "rating": 1,
+                "review": "Who ever is in charge of running this app obviously shows no interest in improving the app. No changes since 7 years ago and the inability to keep your progress when transferring phones or re downloading the app is ridiculous.\n\nI have been playing for the past few months and got a good amount of hours into the game. There was a glitch that continuously would turn off the app and not save my progress. I finally got past major league (section to the game) and the app closed and none of the progress was saved.\n\nI deleted the app and redownloaded it to hopefully prevent this error / glitch where it takes me off the app from Happening again. All it did was erase all of my progress.\n\nI deleted it again  and won\u2019t download again unless changes happen. They should sell this app to someone who will fix these issues",
+                "date": "2023-08-13",
+                "value": 70,
+                "potential_idea": "Implement robust cloud-based progress syncing for mobile apps to prevent data loss across device transfers and app reinstalls.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1439262206",
+        "name": "Root Board Game",
+        "url": "https://apps.apple.com/us/app/root-board-game/id1439262206?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "This game is super fun with amazing mechanics, but the AI plays this game dumber than an oscillating fan. If you want to simulate playing against people with intelligence of at least a rock, don\u2019t download this game. Just to the board game instead.",
+                "date": "2025-09-13",
+                "value": 70,
+                "potential_idea": "Introduce an advanced AI difficulty level in the game that offers a significantly more challenging and intelligent opponent for players seeking to test their skills.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "I bought this on steam a few years ago, but the AI was so bad it was unplayable. I bought it again on iOS hoping things had improved and I would have a good game to play on my iPad. The AI is still unplayably bad. The AI will ignore a faction one turn from victory to attack the lowest scoring faction on the board (I get when Eyrie does it due to decree, this isn\u2019t that). How hard is it to program some priorities in to target leaders?",
+                "date": "2025-01-02",
+                "value": 70,
+                "potential_idea": "Enhance the AI's strategic decision-making by prioritizing targets based on their current victory progress and leadership proximity in strategy games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "Either this game is racked with bugs or it has lots of crazy unwritten rules. For example,  when you\u2019re playing woodland appliance who knows why any faction can move to any other space but woodland appliance can only move to assigned spaces that the game decides? Think I\u2019m done with this. Recently the game designer had to publish a two volume set on all the esoteric rules of this game. So it\u2019s simple but not really it\u2019s as completed as D&D ?!  Ok I feel manipulati joined a game I can do",
+                "date": "2024-12-31",
+                "value": 18,
+                "potential_idea": "Integrate a dynamic in-game tutorial that progressively explains complex game mechanics and rules as the player encounters them, addressing common confusion points like faction movement restrictions.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
