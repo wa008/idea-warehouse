@@ -122,5 +122,572 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "623592465",
+        "name": "Heads Up!",
+        "url": "https://apps.apple.com/us/app/heads-up/id623592465?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I purchased extra packs and they never uploaded to my game. I\u2019ve hit restore purchases and it doesn\u2019t show. I\u2019ve tried to buy the pack again but it says already purchased and brings me to my decks\u2026 which isn\u2019t there\u2026 I\u2019ve deleted the app to clear the cache- nope. I\u2019ve tried reaching out to app developers and get a 404 page not found error. I purchased several packs in the past and then switched to Android so understandly lost those packs.  But now that I\u2019m back to an iPhone my previously purchased and my new ones never show.",
+                "date": "2025-09-25",
+                "value": 73,
+                "potential_idea": "Develop a cross-platform account system that syncs in-app purchases across iOS and Android devices, ensuring seamless restoration regardless of OS switches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I love this game, but it does not work for kids. That\u2019s learning to read. I thought it would have pictures of animals. so for me it was a waste of money.",
+                "date": "2025-09-23",
+                "value": 72,
+                "potential_idea": "Develop an educational reading app for kids featuring interactive pictures of animals to teach phonics and vocabulary, tailored for early learners.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Horrible app, lures many into buying it thinking they\u2019ll be able to play instantly. Turns out you need to purchase endless pricey card decks to get any value. Feel downright cheated.",
+                "date": "2025-09-22",
+                "value": 85,
+                "potential_idea": "Create a card game app that provides a fully functional starter deck for free, enabling instant core gameplay without mandatory in-app purchases to unlock essential value.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "What happened to the bible deck? want to play it with my church",
+                "date": "2025-09-21",
+                "value": 75,
+                "potential_idea": "Reintroduce a Bible-themed deck with enhanced multiplayer features for group play in religious communities, integrating scripture-based cards for educational and fun church gatherings.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "While inside a Disney park, the pack labeled Disney parks is not free as listed in the app. This is false advertising and extremely frustrating. I\u2019ve downloaded the app thrice and restarted my phone as well as location services.",
+                "date": "2025-09-13",
+                "value": 20,
+                "potential_idea": "Develop a location-aware content unlocker that verifies user presence in Disney parks via GPS and automatically grants free access to the Disney parks pack without misleading listings.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I thought it was a one time purchase for a deck but I just got charged again a month later. I click  on the \u201cApp Support\u201d in the Apple Store to try and resolve this/stop the payment and web link is invalid. I even checked under subscriptions and it doesn\u2019t list it as reoccurring.",
+                "date": "2025-09-13",
+                "value": 70,
+                "potential_idea": "Implement an in-app billing dashboard that clearly displays purchase history, distinguishes between one-time and recurring charges with detailed explanations, and provides direct, functional links to manage or cancel subscriptions without relying on external store support.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "when we call out the answer, it doesn\u2019t recognize the correct answer.",
+                "date": "2025-09-06",
+                "value": 20,
+                "potential_idea": "Develop an improved voice recognition feature for quiz apps that enhances accuracy for spoken answers by incorporating accent adaptation and phonetic matching.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Even if you purchase the app, you barely have any \u2018decks\u2019 to play with. Only very specific decks, and only a couple. Game is blocked behind a paywall \u2014 and then has way more to buy. I wish I could get a refund",
+                "date": "2025-08-30",
+                "value": 70,
+                "potential_idea": "Create a card game app offering a one-time premium purchase that unlocks a wide variety of customizable decks and full content access, eliminating additional in-app paywalls to ensure complete value from the initial buy.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 2,
+                "review": "Bought the app, could not find how to create a custom deck; when I clicked the link for \u201cget help\u201d the page was \u201c404 not found\u201d\n\nUnless this gets fixed, do not buy.",
+                "date": "2025-08-28",
+                "value": 20,
+                "potential_idea": "Implement an interactive in-app tutorial with searchable help sections to guide users on creating custom decks, replacing broken external links.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "While at a Walt Disney World Park, i tried to download the free Disney Parks pack. The app verified my location but wouldn\u2019t let me download the pack. It would try to charge me the cost of the set of packs.",
+                "date": "2025-08-28",
+                "value": 20,
+                "potential_idea": "Add a pre-download eligibility confirmation feature that re-verifies location and pack status to prevent accidental charging prompts for free in-park content.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Hated this game, very stupid, would make your kids stupid just from playing..\ud83e\udd78",
+                "date": "2025-08-27",
+                "value": 60,
+                "potential_idea": "Create an AI-powered educational app for kids that gamifies learning critical thinking and problem-solving to counter mindless entertainment and boost cognitive development.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 2,
+                "review": "Why don\u2019t they let you buy a single deck? I don\u2019t want to spend $12.99 when I will only use 1/4 decks. So stupid. Also, bring back the Drag Race deck!",
+                "date": "2025-08-26",
+                "value": 80,
+                "potential_idea": "Introduce an \u00e0 la carte purchasing option for individual decks, allowing users to buy only the ones they need without requiring bundled packs, and reintroduce fan-favorite decks like Drag Race.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I bought a pack of decks for $13 and it is showing up in my purchases on my iPhone, but none of the content in the pack is showing up in the my decks section.. so I can\u2019t play them. I tried  selecting restore purchases, but that isn\u2019t working either..",
+                "date": "2025-08-26",
+                "value": 20,
+                "potential_idea": "Develop an enhanced automatic sync feature that verifies and immediately unlocks purchased content across devices upon login or purchase confirmation, reducing reliance on manual restore options.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "No free decks??? After paying for the app you have to spend $20+ to play at all?",
+                "date": "2025-08-25",
+                "value": 75,
+                "potential_idea": "Introduce free starter decks that allow users to play basic games immediately after purchasing the app, without requiring additional in-app purchases.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I like this game a lot when it works, but I\u2019ve recently tried playing it again and it will open to the \u201chold to forehead\u201d screen and then not work any further.",
+                "date": "2025-08-22",
+                "value": 15,
+                "potential_idea": "Implement an auto-retry or timeout mechanism for the 'hold to forehead' sensor initiation screen to prevent users from getting stuck and improve game accessibility.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I\u2019m in the paths but can\u2019t get Disney parks to download for Jess than $9.99 even though it\u2019s supposed to be free",
+                "date": "2025-08-22",
+                "value": 20,
+                "potential_idea": "Implement an automatic free content entitlement checker in the app to detect and apply promotional pricing, preventing users from being charged for supposed free downloads like Disney parks content.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I purchased this on my phone, thinking that my child, who is part of my iCloud Family, would be able to then install it for free on their phone. Turns out the app doesn\u2019t support family sharing, despite that being super common on the App Store. Greedy. Now I\u2019m stuck with an app on my phone I don\u2019t want and we\u2019ll have to pay for it again to put it on my kids phone. I guess we\u2019ll just go with one of the free rip off versions instead of trying to support the original developer of the game.",
+                "date": "2025-08-19",
+                "value": 75,
+                "potential_idea": "Add family sharing support to the app, enabling iCloud Family members to access purchased apps without additional payments.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "What happened to all the decks you can use for free? I just paid for the app to pay for decks??",
+                "date": "2025-08-19",
+                "value": 75,
+                "potential_idea": "Include a curated library of free, high-quality decks accessible to all paid app subscribers to provide immediate value and reduce perceived need for additional in-app purchases.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Pay for the app only to get access to more game categories where you then have to PAY AGAIN to be able to even play. \nSo when you pay for the app originally you literally get absolutely NO games to play.",
+                "date": "2025-08-17",
+                "value": 85,
+                "potential_idea": "Introduce a one-time premium purchase option that unlocks full access to all game categories and unlimited gameplay without requiring additional in-app payments.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "They removed the Make Your Own Deck feature and now this app is worthless. The decks I\u2019ve bought replay the same 4 or 5 cards over and over again, making it unplayable.",
+                "date": "2025-08-14",
+                "value": 80,
+                "potential_idea": "Reintroduce an enhanced 'Make Your Own Deck' feature with AI-assisted randomization to ensure diverse card selections and prevent repetition in gameplay.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Get limited number of categories. Have to pay for more which is crazy for a paid app. Then the categories repeat themselves over and over. So you can\u2019t play them multiple times",
+                "date": "2025-08-13",
+                "value": 75,
+                "potential_idea": "Introduce procedurally generated categories in the base paid app to provide unlimited variety without repetition or extra in-app purchases, enhancing replayability for users.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "the app cost $1.99 which comes with limited amount of categories.  you have to buy everything else in app. i want a refund honestly this is a scam.",
+                "date": "2025-08-11",
+                "value": 75,
+                "potential_idea": "Introduce a fully inclusive one-time purchase model for the app that unlocks all categories and features without any additional in-app purchases, providing transparent value from the outset.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Wants access to microphone and camera and also must pay to get additional decks.",
+                "date": "2025-08-10",
+                "value": 60,
+                "potential_idea": "Create a privacy-centric flashcard app offering unlimited free decks without mandating microphone or camera permissions, only requesting them for optional interactive features.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Got ride of the Bible deck our families favorite one to play",
+                "date": "2025-08-08",
+                "value": 45,
+                "potential_idea": "Implement a user restoration feature for removed card decks, allowing families to reinstate favorites like the Bible deck through a simple in-app request system.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Its fine. Kind of ridiculous to charge so much for other themes. Idk if others have issues but iv had issues with trying to start games or switching between the limited themes",
+                "date": "2025-08-08",
+                "value": 55,
+                "potential_idea": "Introduce a bundle of free basic themes and implement a bug-free theme switching feature that prevents interruptions when starting games.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "They don\u2019t share that your purchase only includes 9 lackluster decks, with all other decks being for purchase starting at $12 each. There are plenty of free charades apps that offer the same thing with easier interfaces. The app also annoyingly replays memories from the home page, with no option I can find to mute them. To turn off the videoing feature I had to go my phone settings, because if there are settings within the app, they are ridiculously hard to find.",
+                "date": "2025-07-31",
+                "value": 70,
+                "potential_idea": "Develop an intuitive in-app settings menu that prominently allows users to disable video recording features and mute home page memory replays, addressing hidden options and improving overall user control.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Such a bad game. Lousy choices of subject, even after buying a ridiculously expensive add on pack. But even if you do what I did and get the packs, the clues/cards it gives you are horrible and super off topic like half the time. AVOID AVOID AVOID.",
+                "date": "2025-07-30",
+                "value": 85,
+                "potential_idea": "Develop a trivia puzzle app with AI-powered clue generation that ensures 100% topic relevance by cross-referencing user-selected subjects in real-time.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 2,
+                "review": "Heads up is fun but it needs some updates like only 60 seconds???\nI think you should be able to get all the decks for free and just pay for the special decks and  needing to have voice and camera on for videos.\nSo if you really want to download it you should be a little bit careful",
+                "date": "2025-07-30",
+                "value": 75,
+                "potential_idea": "Introduce a privacy mode for the Heads Up game that allows gameplay without requiring camera or microphone access, combined with free basic decks and paid premium ones.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "User interface is terrible and the app keeps bricking all black. Requested refund immediately.",
+                "date": "2025-07-29",
+                "value": 15,
+                "potential_idea": "Develop a crash recovery feature that automatically restarts the app from the last safe state and displays a user-friendly error notification instead of a black screen.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Tried everything even refunding and rebuying the bundle and for whatever reason it refuses to work. Outdated app with no way of customer support other than asking apple for a refund.",
+                "date": "2025-07-22",
+                "value": 65,
+                "potential_idea": "Implement an in-app customer support system with live chat or ticketing to enable direct issue resolution for app functionality problems, reducing reliance on third-party refund processes.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Why must I pay for games when I just paid for the app.",
+                "date": "2025-07-21",
+                "value": 75,
+                "potential_idea": "Introduce a premium app version with a one-time purchase that unlocks all in-app games without additional fees, addressing user frustration with surprise purchases.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I bought this app, thinking it would come in handy, and would be a fun time I didn\u2019t need to think much about. However, upon purchase, I found there were only like three free sets and they were all such bummy themes. All the interesting stuff is locked, and you have to pay more money to own them or sign up for a subscription. Of course, none of this is properly disclosed in advertising. Do not download!\n\n\u201cIt is so bad i wanna give you a 0. But that's not possible so i give you a 1.\u201d",
+                "date": "2025-07-19",
+                "value": 80,
+                "potential_idea": "A mobile app with transparent pre-purchase disclosure of free versus paid content, offering a substantial library of engaging free themes to allow users to fully evaluate the app before any additional monetization.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "There should be an option to delete decks. Of all the decks that could be included for free, the content creators decide to put agenda decks in place to push sexuality agendas. ABSOLUTELY RIDICULOUS.",
+                "date": "2025-07-01",
+                "value": 20,
+                "potential_idea": "Add a user-controlled feature to delete or hide unwanted decks, allowing customization and removal of content perceived as agenda-driven.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "294934058",
+        "name": "HotSchedules",
+        "url": "https://apps.apple.com/us/app/hotschedules/id294934058?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "For sometime now, I will not get any pop-up notifications or text messages when my schedule has been posted, etc. I used to get them. I\u2019ve checked all the settings. Everything is checked properly. I just don\u2019t get notifications anymore.",
+                "date": "2025-09-25",
+                "value": 18,
+                "potential_idea": "Develop a built-in notification diagnostic tool that tests and verifies alert delivery in real-time, addressing reliability issues for schedule updates.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "It\u2019s annoying how as an employee I have to pay for an app for my job",
+                "date": "2025-09-16",
+                "value": 73,
+                "potential_idea": "Create a corporate licensing platform where employers can purchase and distribute free app subscriptions to employees for work-related tools.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "I don\u2019t know if it\u2019s just me? But probably like 3 months (I\u2019ve had it for 3 years now) after getting the app my push notifications for the app stopped working completely so I have to solely rely on my email every time I got notifications about work\u2026 yes I checked I have them on in my actual phone settings and my app settings I tried turning them off then on again still doesn\u2019t work. Now a couple days ago my email notifications stopped working now too. \n\nPlease fix this hot schedules starting to really get annoying",
+                "date": "2025-08-30",
+                "value": 15,
+                "potential_idea": "Implement an in-app notification diagnostic tool that automatically detects and troubleshoots push and email notification failures, guiding users to quick resolutions.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "My notifications for this app are on but one day my coworkers and I stopped receiving notifications.",
+                "date": "2025-08-26",
+                "value": 20,
+                "potential_idea": "Implement an in-app notification diagnostic tool that automatically detects and resolves delivery issues for users experiencing sudden notification failures.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "An ok scheduling app. Major problem is that it redundantly adds appointments to your calendar, as many as 10 to 12 a day and requires lots of calendar maintenance to keep its entries correct.",
+                "date": "2025-08-03",
+                "value": 20,
+                "potential_idea": "Develop a smart duplicate prevention feature that automatically detects and merges redundant calendar entries before adding new appointments.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I don\u2019t know when this update was but i opened the app the hideous website style of hot schedules, just as glitchy too. the old version we had a few days ago was so much better </3",
+                "date": "2025-07-15",
+                "value": 73,
+                "potential_idea": "Introduce a user toggle to switch between the new and legacy app interfaces, allowing users to revert to the smoother, preferred old design while fixing glitches in the update.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "0 out of 5 -As a business owner, I had high hopes for HotSchedules to streamline our employee scheduling, but it has been a complete letdown. The app\u2019s communication features are abysmal, making it nearly impossible for my team to stay on the same page. It\u2019s far from user-friendly\u2014my employees found the interface confusing and frustrating to navigate, leading to constant issues with scheduling.\n\nWhen we reached out to customer service and tech support for help, the experience was equally disappointing. The support team was unhelpful, and the issues persisted without resolution. After wasting time and energy, we switched to a much more user-friendly scheduling software that actually works for our team. I strongly recommend avoiding HotSchedules\u2014it\u2019s a headache not worth dealing with.",
+                "date": "2025-07-01",
+                "value": 85,
+                "potential_idea": "Create an AI-powered employee scheduling app with integrated real-time team chat and adaptive user interfaces that simplify navigation and auto-suggest resolutions for common scheduling conflicts, addressing communication and usability gaps in existing tools.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I spent the whatever $2 to download this app, because it was apparently very important to do that in order for me to work.  Not an ideal, or really morally acceptable, time to hit somebody up for money, but that\u2019s your decision.\nFrom that point, I worked for two weeks and no one in management was authorized or able to finish my set-up process, citing a lack of customer support from the app.\nI have since discovered that the job was not the best fit, and if I would have listened to my gut feeling I would\u2019ve avoided that wasted time, but que ser\u00e1.  The simple fact is this app is a way for businesses to pass the buck onto their hourly wage earners, and I will use my last dying breath to urge people to avoid using it.\nPower to the proletariat!",
+                "date": "2025-05-22",
+                "value": 75,
+                "potential_idea": "A free worker verification and job preview app that allows users to assess employer setup processes and support quality before paying for or committing to any work app.",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "have had this app for the last 3 yrs per company policy, not once has the app worked regularly. almost everyday in the morning both the paid app and website don\u2019t even load past the login screen; sometimes not even that. what\u2019s the point of making us pay for an app that doesn\u2019t work and still charging the company to use it too.",
+                "date": "2025-05-09",
+                "value": 20,
+                "potential_idea": "Implement an offline caching system for login sessions to allow users to access the app without server dependency during frequent morning loading failures.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I can\u2019t login or even load anything it just spins for ever.",
+                "date": "2025-05-08",
+                "value": 20,
+                "potential_idea": "Implement a login timeout feature with user-friendly error notifications to prevent infinite loading spinners and guide users on troubleshooting steps.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "doesn\u2019t work when I try to open the app",
+                "date": "2025-05-08",
+                "value": 20,
+                "potential_idea": "Implement an automatic app health check feature that detects and prompts fixes for launch failures before the main interface loads.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I paid for it n can\u2019t use ur. I want a refund",
+                "date": "2025-04-26",
+                "value": 20,
+                "potential_idea": "Implement an in-app refund request feature for users unable to access paid content, streamlining support without external processes.",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "It charged me 7.99. like what?!",
+                "date": "2025-03-07",
+                "value": 65,
+                "potential_idea": "Add a mandatory preview screen showing the exact charge amount and details before confirming any in-app purchase to avoid surprise billing.",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "If I paid for this app, I think it should come with the option to ignore ads. I can't open my schedule without having to view company message every single time I get on the app and it's very frustrating",
+                "date": "2025-01-12",
+                "value": 75,
+                "potential_idea": "Introduce an ad-free mode for paid subscribers that allows users to bypass company messages and directly access their schedule without interruptions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "Everytime there is a company notification it\u2019s continuously pops up every time you click on a different day or refresh that app. SO ANNOYING FIX IT",
+                "date": "2025-01-05",
+                "value": 18,
+                "potential_idea": "Implement a persistent notification dismissal feature that prevents company notifications from reappearing after the user has acknowledged them, even when navigating between days or refreshing the app.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "First of all I had to purchase this app for $1.99, which is absurd because the app doesn\u2019t even work half the time. It buffers at the loading screen. It seems they have tried to \u201cupdate\u201d this app so many times but, within the day they revert back to the original format. I despise this app and wish my job used a different platform.",
+                "date": "2024-12-16",
+                "value": 20,
+                "potential_idea": "Create a stable, free alternative mobile app for workplace tasks that prevents buffering issues and ensures permanent update implementations without reverting.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "Its really really hard to believe how a schedule app that you pay for could be soo bad..but thats reality. A scheduling app that constantly has problems loading your schedule even if you are connected to wifi with no problems. The team at Hotschedules refuse to fix these problems that have plagued the app for years. They do not care about their customers or whether they have a functioning app.",
+                "date": "2024-12-16",
+                "value": 75,
+                "potential_idea": "Develop a scheduling app with built-in offline caching and seamless syncing that ensures schedules load reliably even during connectivity issues, addressing chronic loading problems in existing apps.",
+                "tags": [
+                    "bug",
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
