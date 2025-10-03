@@ -80,5 +80,47 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1596736236",
+        "name": "Red's First Flight",
+        "url": "https://apps.apple.com/us/app/reds-first-flight/id1596736236?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Red's First Flight",
+                "rating": 1,
+                "review": "if you click on the privacy policy it will list about something I don't know 50 different companies they sell your ads to. It gives you the apparent option to opt out of all of them but when you click it nothing happens. I'll be damned if you're gonna sell my info. Deleted the app.",
+                "date": "2025-09-30",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Red's First Flight",
+                "rating": 1,
+                "review": "Don\u2019t agree with them removing levels. They should all be available to play.",
+                "date": "2025-09-16",
+                "value": 77,
+                "potential_idea": "Add a 'legacy levels' mode that unlocks all previously removed game levels for users to replay at any time.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Red's First Flight",
+                "rating": 2,
+                "review": "Im not I'm surprised that the game was removed again. The new engine does not convey the atmosphere of the old classics. And new pigs model is terrifying",
+                "date": "2025-08-28",
+                "value": 75,
+                "potential_idea": "Introduce a user toggle to switch between classic and modern graphics engines, allowing players to experience the nostalgic atmosphere of the original game while accessing new features.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
