@@ -43,9 +43,7 @@ jobs:
           git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/idea-warehouse.git
           git branch
           git add ./data/processed_apps.json
-          git add ./data/tagged_reviews.json
-          git add ./data/all_reviews.json
-          git add ./data/top_paid_apps.json
+          git add ./data/apps_data.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

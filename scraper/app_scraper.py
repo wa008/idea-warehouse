@@ -66,10 +66,7 @@ def get_reviews_for_app(app, model):
         result = subprocess.run(["node", "scraper/get_reviews.js", str(app['id'])], capture_output=True, text=True, check=True)
         scraped_reviews = json.loads(result.stdout)
         logging.info(f"Found {len(scraped_reviews)} reviews for {app['title']}")
-        review_count = 0
         for i, r in enumerate(scraped_reviews):
-            if review_count >= 5:
-                break
             logging.info(f"Processing review {i+1}/{len(scraped_reviews)} for {app['title']}")
             if r['score'] <= 2:
                 review = {
@@ -80,7 +77,6 @@ def get_reviews_for_app(app, model):
                 }
                 review["tags"] = generate_tags_for_review(review, model)
                 reviews.append(review)
-                review_count += 1
                 time.sleep(20) # Add a delay to avoid hitting the rate limit
     except (subprocess.CalledProcessError, json.JSONDecodeError) as e:
         logging.error("Could not get reviews for {}: {}".format(app['title'], e))
@@ -121,7 +117,7 @@ def main():
             apps_to_process = [app for app in apps if str(app['id']) == oldest_app_id]
 
     # Limit the number of apps to process in a single run
-    app_quota = 1
+    app_quota = 10
     apps_to_process = apps_to_process[:app_quota]
 
     for i, app in enumerate(apps_to_process):
