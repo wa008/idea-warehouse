@@ -81,7 +81,7 @@
     <script>
         let reviewsData = [];
 
-        fetch('../data/apps_data.json')
+        fetch('data/apps_data.json')
             .then(response => response.json())
             .then(data => {
                 reviewsData = data.flatMap(app => app.reviews.map(review => ({...review, appName: app.name})));
@@ -106,7 +106,7 @@
 
             data.forEach(review => {
                 const row = document.createElement('tr');
-                const tagsHtml = review.tags.map(tag => `<span class="tag ${tag.replace(/ /g, '-')}">${tag.replace(/_/g, ' ')}</span>`).join('');
+                const tagsHtml = review.tags.map(tag => `<span class="tag ${tag.replace(/ /g, '-').toLowerCase()}">${tag.replace(/_/g, ' ')}</span>`).join('');
 
                 row.innerHTML = `
                     <td>${review.appName}</td>

@@ -38,5 +38,5 @@ Tips:
     1. Ensure all Python dependencies are installed: `pip install -r requirements.txt`
     2. Run the Python scraper to get app data, reviews and tags (from the predefined list): `python3 scraper/app_scraper.py`
     3. Start the static web server from the project root: `nohup python3 -m http.server 8000 &`
-    4. Open your browser to `http://localhost:8000/website/index.html` to view the results.
+    4. Open your browser to `http://localhost:8000/index.html` to view the results.
     5. To stop the server, find its process ID (e.g., `lsof -i :8000`) and use `kill <PID>`.
