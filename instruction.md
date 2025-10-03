@@ -24,7 +24,7 @@ Other platforms except app store, we can cover them later.
 - Github repository
 
 Tips:
-- Please try don't modify content in READMD.md file as possible as you can
+- Please try don't modify content in current file as possible as you can
 - Set a small app amount quota (like 10) to validate the whole process and result of website, it's enought for generate the codes, I will modify quota and execute for all apps later.
 - You should test by youself as much as you can
 - You should test many time to evaluate the result of checkpoint parts.
