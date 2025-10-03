@@ -1861,5 +1861,598 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "497716362",
+        "name": "TonalEnergy Tuner & Metronome",
+        "url": "https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "TonalEnergy Tuner & Metronome",
+                "rating": 1,
+                "review": "Metronome sussy nogger",
+                "date": "2025-08-18",
+                "value": 5,
+                "potential_idea": "Develop a metronome app with a highly unusual and attention-grabbing name or visual theme.",
+                "tags": []
+            },
+            {
+                "app_name": "TonalEnergy Tuner & Metronome",
+                "rating": 1,
+                "review": "Never had a problem before - but now metronome will not play and stays in microphone mode.",
+                "date": "2025-03-28",
+                "value": 15,
+                "potential_idea": "A mode switch or toggle to manually exit microphone mode for the metronome feature.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "549105915",
+        "name": "True Skate",
+        "url": "https://apps.apple.com/us/app/true-skate/id549105915?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "I previously bought the Schoolyard for bolts, but am now unable to use it since you made every park available for purchase with bolts.",
+                "date": "2025-09-17",
+                "value": 75,
+                "potential_idea": "Allow users to convert in-app currency ('bolts') back into real money or offer a refund option when game mechanics change.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "I used to play this game all the time you could easily play some different maps and the controls were easy. I came back to this game after a couple years and lost all my progress even though i have the same i cloud and everything and everything costs so much money there is no possible way I can purchase new board stuff or new maps without having to pay money out of pocket so saddening. This game is not worth it anymore",
+                "date": "2025-08-23",
+                "value": 55,
+                "potential_idea": "Implement a cloud-based progress synchronization system that preserves player progress during account transitions and offers a progressive free tier for unlocking new maps or cosmetic items.",
+                "tags": [
+                    "bug",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "Lost everything because the devs decided to remove the option to log in with apple account. I have spent so much money on this game and am extremely disappointed as to why they\u2019d even do this.",
+                "date": "2025-08-03",
+                "value": 85,
+                "potential_idea": "Reintroduce or offer alternative secure login methods like Google or email, and implement a robust data backup system to prevent users from losing progress and purchases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "Horrible game u can\u2019t even feeble grind to rail slide cause the angle they put u at",
+                "date": "2025-08-02",
+                "value": 70,
+                "potential_idea": "Implement more forgiving physics for performing tricks like rail slides, allowing for a wider range of entry angles and slight imperfections in timing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "ts be tweaking half of the time",
+                "date": "2025-07-17",
+                "value": 10,
+                "potential_idea": "Implement a feature that allows users to fine-tune app settings for optimal performance and stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 2,
+                "review": "Game is solid, fun game, but it will not let me restore in game purchases the only way for me to get my things back is if I buy them all again \u2639\ufe0f\ud83d\udc94",
+                "date": "2025-07-06",
+                "value": 80,
+                "potential_idea": "Implement a robust in-app purchase restoration feature that allows users to recover previously purchased items across devices or after reinstalling the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "U first make the game cost money then make every map cost money yea no dont get this game just literally get a better free skate game.",
+                "date": "2025-06-16",
+                "value": 60,
+                "potential_idea": "Offer a portion of game content or maps for free to attract a wider user base before pushing for paid content.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 2,
+                "review": "Tl;dr\n\u2022 Played for years, even back when achieving skate points was significantly harder\n\u2022 Maps I bought never refunded when they wouldn\u2019t launch since 2022\n\u2022 Fast forward 2025 and the app won\u2019t even launch.\n\u2022 The developers gave up on this game",
+                "date": "2025-06-15",
+                "value": 18,
+                "potential_idea": "Implement a robust backend system that automatically verifies and refunds users for in-app purchases of content that becomes inaccessible due to technical issues or lack of app support.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "focus a little more on actually getting the game to work please",
+                "date": "2025-06-10",
+                "value": 15,
+                "potential_idea": "Improve the core stability and performance of the mobile game to reduce bugs and crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "My purchases are gone you thieves",
+                "date": "2025-06-03",
+                "value": 100,
+                "potential_idea": "Implement robust data backup and recovery for user purchase history to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "this app won\u2019t launch for me. also don\u2019t buy any skateparks or anything the purchases don\u2019t work for me on a new device",
+                "date": "2025-05-13",
+                "value": 15,
+                "potential_idea": "Implement a seamless in-app purchase redemption system that transfers bought items to a new device upon login.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 2,
+                "review": "First thing I wanna say is I really like the gameplay. I\u2019ve probably had this game since mid 2010s and the fact that I still come back to it sometimes says a lot. \n\nHOWEVER, like many others have already said, there\u2019s content I paid REAL MONEY for back in the day that I no longer have access to. Decks and grips I paid for back in the day are completely gone without a trace. A 3 pack of maps I bought show up but only 1 of the 3 will load. The others say \u201cinvalid lighting data\u201d. It gives the instructions to delete the content and redownload but nothing works.\n\nThe fact that they are asking you to pay a subscription for all features of the game when they don\u2019t even take care of the OGs who got them to where they are now is a disgrace. \n\nZERO BIG BOOMS \u274c\ud83d\udcaa",
+                "date": "2025-04-29",
+                "value": 85,
+                "potential_idea": "Implement a robust system for restoring previously purchased in-game content for longtime players, including a clear process for handling corrupted or inaccessible DLC like maps and cosmetic items.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 2,
+                "review": "Had this since about 2015-16. I have SLS 16 maps that are on my account on my iPod touch but for some reason not on on my phone(iPhone 15). I have many decks and grip tape bundles purchased with real money that are just gone. Support responds whenever they feel like it or they just don\u2019t. Connecting accounts is painstakingly hard for no reason at all. Always a problem trying to get Facebook or Apple to connect. The gameplay and idea is there. However I\u2019m afraid the developers are dull and money hungry. Stop pushing for buying all this paid content when it randomly disappears so there is no point. And stop adding new content and not fixing old bugs. \u201cMissing Light Data\u201d on a mobile game map? Seriously? Even small unity developers don\u2019t throw errors like that. Fix it!",
+                "date": "2025-04-21",
+                "value": 15,
+                "potential_idea": "Implement a robust account synchronization system that ensures in-app purchases and game progress are seamlessly transferable across devices and platforms.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "True Skate",
+                "rating": 1,
+                "review": "Ight bru I was finna ignore this but it\u2019s costs money to buy the game with ONE SKATEPARK. That alone is unacceptable btw, more skateparks are 5 DOLLARS. And bro. To unlock sandbox mode (just sandbox mode)\nIt is a MONTHLY SUBSCRIPTION NOTHING YOURE OFFERING IS WORTH ANY OF THAT. A MONTHLY SUBSCRIPTON IS CRAZY AND ABSURD",
+                "date": "2025-04-17",
+                "value": 85,
+                "potential_idea": "Offer a one-time purchase option for additional skatepark content and unlock sandbox mode, or structure existing subscription content into a more attractive one-time purchase bundle.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "1631859420",
+        "name": "After Inc.",
+        "url": "https://apps.apple.com/us/app/after-inc/id1631859420?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "After Inc.",
+                "rating": 2,
+                "review": "paid for game, but new missions behind DLC. lame",
+                "date": "2025-09-30",
+                "value": 18,
+                "potential_idea": "Offer DLC content as tiered unlockable content within the base game's progression system to avoid user frustration with hidden costs.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "After Inc.",
+                "rating": 2,
+                "review": "Be aware before you start that to get the full game, you\u2019ll need to buy this, then pay 5x as much to get the \u201cDLCs.\u201d I\u2019m sorry, but DLCs aren\u2019t bigger and more expensive than a base game. I get the strategy to milk a cash flow, but the creator has to expect bad reviews for yanking his customers around. \n\nIt\u2019s a good game that I would have gladly paid more for the full game of, but the approach completely turned me off. You\u2019re just buying a very bare-bones tutorial here.",
+                "date": "2025-09-29",
+                "value": 70,
+                "potential_idea": "Offer a comprehensive 'complete edition' or 'premium version' of the game at an upfront price that includes all current and future DLCs.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "After Inc.",
+                "rating": 2,
+                "review": "Don\u2019t like how the developers are coming for more and more cash in every new game released. But I do enjoy their games very much! You can\u2019t even unlock the extra content by completing the game on brutal\u2026",
+                "date": "2025-09-25",
+                "value": 55,
+                "potential_idea": "Implement an in-game rewards system that allows players to unlock extra content through gameplay achievements rather than solely relying on in-app purchases.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6743115658",
+        "name": "TABS Pocket Edition",
+        "url": "https://apps.apple.com/us/app/tabs-pocket-edition/id6743115658?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "I can only use my Apple ID or whatever it\u2019s called so I can\u2019t play and now I\u2019m sad because I don\u2019t have it on any other devices",
+                "date": "2025-09-26",
+                "value": 75,
+                "potential_idea": "Implement support for multiple login options, such as email/password or Google/Facebook accounts, to increase accessibility.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "A lot of people are facing this issue too best to wait until they fix it before you buy",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement a system to flag or clearly communicate known bugs preventing purchase or core functionality, potentially with a temporary 'unavailable' status or a clear message about the fix timeline.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "The game requires an account and internet to play what should be an offline game. This should be illegal.",
+                "date": "2025-09-23",
+                "value": 70,
+                "potential_idea": "Implement an offline mode for the game that does not require an account or internet connection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Would not let me make an account",
+                "date": "2025-09-17",
+                "value": 15,
+                "potential_idea": "Implement more robust account creation error handling and user feedback to guide users through the process.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 2,
+                "review": "So, my friend plays this game on there pc, so, naturally, I wanted to get it when I found out that there was a pocket edition. However, my device doesn\u2019t allow me to sign in on things, which makes me unable to play this game and I just wasted five dollars",
+                "date": "2025-09-13",
+                "value": 75,
+                "potential_idea": "Implement an offline mode or a guest login for the mobile app to allow game access even without user account sign-in functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 2,
+                "review": "Hello. For some reason, I can\u2019t sign in on my Apple account. Could you guys maybe add more ways to sign in? Like Google and other stuff..",
+                "date": "2025-09-13",
+                "value": 14,
+                "potential_idea": "Integrate additional sign-in options like Google, email, or other popular social media platforms to improve accessibility and user choice.",
+                "tags": [
+                    "bug",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "If you have a school Apple ID and can\u2019t play then you just wasted 4.99, make a non sign in option please.",
+                "date": "2025-09-12",
+                "value": 17,
+                "potential_idea": "Implement a guest or non-signing option for users who do not wish to link their Apple ID, especially for paid features, to accommodate users with restricted school accounts.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Could you please add more ways to sign in like with email or google",
+                "date": "2025-09-06",
+                "value": 60,
+                "potential_idea": "Implement alternative sign-in methods including email and Google accounts to improve user accessibility and convenience.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "My son can\u2019t load the game without an apple account and it will not let him use his account.  There is no help option either.",
+                "date": "2025-09-05",
+                "value": 18,
+                "potential_idea": "Implement an offline mode or a guest login for the game to allow users without Apple accounts to play.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "It didnt even let me sign in",
+                "date": "2025-09-03",
+                "value": 15,
+                "potential_idea": "Implement a robust and user-friendly sign-in/sign-up system with clear error messaging and support options.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "The game even says ages 12+ and yet I can\u2019t play it! Please add more sign in options for the game! A huge waste of money",
+                "date": "2025-08-30",
+                "value": 75,
+                "potential_idea": "Implement a wider range of sign-in/account creation options to accommodate users without access to standard methods.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "game just forever loads and i dont even know why, im probably gonna refund if it isnt patched soon",
+                "date": "2025-08-30",
+                "value": 80,
+                "potential_idea": "Implement robust background loading and error reporting for app performance issues to proactively address user frustration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 2,
+                "review": "I loved this game as a kid but when I got it on my phone  it said  Sign in with Apple so I press it  then a pop up said  your apple account cannot be used to  create a account  for other  apps so please help me or did I get scammed",
+                "date": "2025-08-30",
+                "value": 65,
+                "potential_idea": "Implement an alternative account creation method beyond 'Sign in with Apple' to accommodate users whose Apple accounts are restricted from creating new app accounts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Every time I enter the game the game crashes and I also need to sign in and there\u2019s no play as a guest button",
+                "date": "2025-08-30",
+                "value": 70,
+                "potential_idea": "Implement a 'Play as Guest' option to allow users to try the game without immediate sign-in, alongside fixing critical crashing bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "I\u2019ve played this game before and I was so excited to play it on mobile but then it\u2019s says it can\u2019t sign me in. Landfall please add more ways to sign in",
+                "date": "2025-08-26",
+                "value": 75,
+                "potential_idea": "Implement a 'forgot password' or account recovery feature for mobile sign-in.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "I can\u2019t play it.",
+                "date": "2025-08-20",
+                "value": 15,
+                "potential_idea": "Improve app launch speed and reliability to ensure users can access core functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Don\u2019t waist your money, the app doesn\u2019t work on IPADs or IPhones properly. You can\u2019t even enter the game at this time.",
+                "date": "2025-08-20",
+                "value": 15,
+                "potential_idea": "Enable the app to function correctly on iPads and iPhones, allowing users to enter and play the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Can't advance past title screen. Can't sign in with apple option not because of age but because it dont work. Wish there was a guest option to log in with. Big fan of tabs, would really like to play this.\nEdit: After dl, it takes 2 launch attempts to reach title scene. timeouts on the 1st. the process is duplicative.",
+                "date": "2025-08-19",
+                "value": 80,
+                "potential_idea": "Implement a guest login option that bypasses external authentication services and allows immediate access to the app, and improve initial app launch stability to prevent timeouts and duplicate launches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Can u please make it where you don\u2019t neeed apple to sign in",
+                "date": "2025-08-19",
+                "value": 45,
+                "potential_idea": "Allow users to sign up and log in using email/password or Google accounts in addition to (or instead of) Apple sign-in.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Why do I have to sign into online services every time to play this game?? This blocks child accounts from playing and from playing offline. Terrible implementation.",
+                "date": "2025-08-19",
+                "value": 70,
+                "potential_idea": "Implement offline mode for games that does not require recurring online service sign-ins, especially for child accounts.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "Please add more sign in options.",
+                "date": "2025-08-18",
+                "value": 15,
+                "potential_idea": "Integrate social media login and anonymous guest access to simplify user onboarding and increase sign-up flexibility.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 1,
+                "review": "i cant sign in with my apple account. add other ways",
+                "date": "2025-08-16",
+                "value": 65,
+                "potential_idea": "Integrate OAuth login options beyond Apple, such as Google and Facebook, to provide users with alternative sign-in methods.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TABS Pocket Edition",
+                "rating": 2,
+                "review": "Man I got this finally and then oh I gotta Sign in with Apple ok that\u2019s fine but only Apple Is bad what I realized I\u2019m under 13 so I can\u2019t use my Apple please give Google or something else I don\u2019t want Apple",
+                "date": "2025-08-16",
+                "value": 18,
+                "potential_idea": "Offer alternative sign-in methods beyond 'Sign in with Apple', such as Google or email/password, to accommodate users under 13 or those without Apple devices.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "891194610",
+        "name": "Earn to Die 2",
+        "url": "https://apps.apple.com/us/app/earn-to-die-2/id891194610?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "The only thing worse than P2W is P2W behind the guise of a quality game paid once. For shame.",
+                "date": "2025-09-25",
+                "value": 12,
+                "potential_idea": "Introduce a tiered subscription model for the mobile game, offering exclusive cosmetic items and non-P2W gameplay advantages that do not impact core progression.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "The first one is probably one of my favorite and most satisfying games to play. This has been since i was a little kid. In this game, progression takes way too long, they spam boxes everywhere, and there isn\u2019t really many fun places to waste all of your boost like in the first one. The variety is definitely cool but after a while this game gets really boring and repetitive. The first one had way better pacing.",
+                "date": "2025-08-26",
+                "value": 65,
+                "potential_idea": "Introduce a faster progression system or offer more engaging ways to use in-game boosts to combat boredom and repetitiveness, drawing inspiration from the pacing of the first game.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "This game wouldn\u2019t be worth downloading if it was free, let alone spending money on it. Very lazy and boring design, you play the same level over and over upgrading your car to get a few meters further each time until you are so bored of the level, then you beat it and have to start all over from scratch with a new car. Very repetitive and BORING",
+                "date": "2025-08-24",
+                "value": 15,
+                "potential_idea": "Introduce a more dynamic progression system with varied level objectives and unlockable abilities to break the monotony of repetitive gameplay.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "No meaningful upgrades or sense of progression",
+                "date": "2025-07-28",
+                "value": 70,
+                "potential_idea": "Implement a clear progression system or unlockable milestones to give users a sense of achievement and ongoing engagement in the app.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "The game itself is alright but not as good as the first. The game progression takes double the time and whoever the level editor was put way to many boxes and obstacles in the levels. Like why are there so many I\u2019ve gotten stuck on so many of the boxes and crates to where I burn more fuel trying to get over them and lose fuel to make it to the end.\n\nI\u2019m sure that\u2019s the point but it makes the levels harder then they need to be",
+                "date": "2025-07-23",
+                "value": 60,
+                "potential_idea": "Introduce an 'easy mode' difficulty setting that reduces the number of obstacles and fuel consumption to streamline gameplay progression.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "It\u2019s a big pay to win game. Don\u2019t waste your time",
+                "date": "2025-03-20",
+                "value": 15,
+                "potential_idea": "Develop an app that transparently analyzes and rates mobile games based on their 'pay-to-win' elements, helping players avoid predatory monetization schemes.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "Bad game",
+                "date": "2025-01-10",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "Skip this game, it\u2019s extremely repetitive and really not fun at all in my option. You\u2019re stuck using the same stupid car the entire level, no option at all to upgrade to the next one. You also have to upgrade things in perfect sequence, it use to be you could pick the engine you want out, which would involve saving money for a good one. This one you have to upgrade the original engine and it takes 10X as long but doesn\u2019t really improve each upgrade. 1 full run will give you MAYBE 1 bar of upgrades out of like 10. So 10 runs to upgrade one area of your vehicle. Which there is like 7. The first game was just dumb, easy, super fun, and simple. This one is over complicated to a whole new level when the first game was totally perfect.",
+                "date": "2025-01-02",
+                "value": 75,
+                "potential_idea": "Introduce a more flexible and rewarding upgrade system allowing players to choose their upgrade path and offering meaningful progression after each upgrade. Alternatively, a 'classic mode' that mirrors the simpler mechanics of the first game could be considered.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
