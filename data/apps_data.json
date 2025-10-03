@@ -10204,5 +10204,608 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1197552569",
+        "name": "Poly Bridge",
+        "url": "https://apps.apple.com/us/app/poly-bridge/id1197552569?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Poly Bridge",
+                "rating": 1,
+                "review": "it\u2019s way to hard and I ended up screaming at it because EVRYTHING has to break and I\u2019m tired of it thanks to this app existing my grandma just wasted 10 dollars on some game. Don\u2019t buy!",
+                "date": "2022-09-25",
+                "value": 15,
+                "potential_idea": "Implement a 'Grandparent Mode' with simplified navigation and spending controls for users who may be less tech-savvy or prone to accidental purchases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Poly Bridge",
+                "rating": 1,
+                "review": "Copied literally 100% from guide still cant pass. Too difficult for even a 4.0 GPA statistic major college junior.",
+                "date": "2022-09-09",
+                "value": 15,
+                "potential_idea": "In-app tutorial with adaptive difficulty that simplifies complex concepts and provides guided practice, especially for challenging sections.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Poly Bridge",
+                "rating": 1,
+                "review": "This game is so trash it is the worst graphics absolute garbage fire",
+                "date": "2022-06-19",
+                "value": 15,
+                "potential_idea": "Implement a graphical upgrade for the game, potentially offering different visual quality settings.",
+                "tags": []
+            },
+            {
+                "app_name": "Poly Bridge",
+                "rating": 2,
+                "review": "The free versions of this kind of bridge building games are better. This one is just crap, and intentionally made so. Wish I could sell the app back because it\u2019s a waste of money and time.",
+                "date": "2021-11-28",
+                "value": 15,
+                "potential_idea": "Implement a 'satisfaction guarantee' or a more generous refund policy for users who find the paid version significantly worse than free alternatives.",
+                "tags": []
+            },
+            {
+                "app_name": "Poly Bridge",
+                "rating": 1,
+                "review": "The iPhone controls are not fun to play and I deleted the game after playing only a few levels. I was hoping it would compare to the computer version but simply doesn\u2019t. I regret spending the money on the game\u2026",
+                "date": "2021-11-17",
+                "value": 70,
+                "potential_idea": "Develop a mobile game with adaptive touch controls that mimic desktop gameplay or offer customizable control layouts to cater to different player preferences.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Poly Bridge",
+                "rating": 2,
+                "review": "I just Would really like it if sandbox was more fun and the levels gave you more information on how to do it",
+                "date": "2021-09-17",
+                "value": 50,
+                "potential_idea": "Introduce interactive tutorials and guided challenges within the sandbox mode to make it more engaging and informative for users.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6449003064",
+        "name": "Goblin Tools",
+        "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Goblin Tools",
+                "rating": 2,
+                "review": "Cool concept. Bought it a year ago, used it a few times. Doesn\u2019t work with the latest iOS update (26). The app only works on half the screen, the bottom is a blank white background. Plus it hasn\u2019t been updated by devs in 2+ years. Skip this app\u2014save your money.",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Develop a mobile app that prioritizes regular developer updates and compatibility with the latest operating system versions, offering a stable and reliable user experience.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "GIGO. Laughably bad. Example: breaking down cleaning for someone with ADHD. You can break down each task but all it does is spit out the same comments over and over only slightly more detailed. It doesn't give you a plan, or timelines, or tell you how to schedule cleaning, or help tell you what cleaning supplies to use on what surfaces. It's typical AI GIGO. I deleted the app even though I paid for it that's how bad it was LOL!",
+                "date": "2025-08-26",
+                "value": 75,
+                "potential_idea": "Transform the app into a specialized AI cleaning assistant for neurodivergent individuals by providing task-specific guidance, supply recommendations, and flexible scheduling tools.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "Constantly crashes. I liked the idea of this app, but it\u2019s unusable on a iPhone 16 with the latest IOS",
+                "date": "2025-08-06",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and stability improvements for the app, specifically addressing issues on newer iPhone models and iOS versions to ensure core functionality is usable.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 2,
+                "review": "\ud83d\ude01",
+                "date": "2025-07-27",
+                "value": 5,
+                "potential_idea": "Implement an emoji-based rating system for app features, allowing users to quickly express satisfaction or dissatisfaction.",
+                "tags": []
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "The application frequently crashes and displays the message \"Error occurred while converting your text.\" Please address this bug at your earliest convenience. The desktop version functions without issues.",
+                "date": "2025-05-19",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and cross-platform synchronization to ensure consistent performance between mobile and desktop versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "I use the desktop version all the time but the app crashes any time I try to open it and go to anything like formalizer. I\u2019m very disappointed.",
+                "date": "2025-05-04",
+                "value": 18,
+                "potential_idea": "Implement robust crash reporting and error handling for the mobile app to ensure stability and prevent frequent crashes, especially when accessing specific features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "Love the app but it keeps crashing!!! Can't seem to get any support.",
+                "date": "2025-04-17",
+                "value": 15,
+                "potential_idea": "Implement more robust error handling and crash reporting for the app, coupled with a responsive in-app customer support channel.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6478639011",
+        "name": "Subnautica",
+        "url": "https://apps.apple.com/us/app/subnautica/id6478639011?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "Hello developers, please fix the bug with rendering after 2 hours of play the game becomes unplayable textures don't load and auto save breaks the whole game with an infinite save icon please fix these bugs",
+                "date": "2025-09-11",
+                "value": 15,
+                "potential_idea": "Implement a background data refresh and recovery mechanism for games that detects and resolves texture loading errors and auto-save corruption to maintain playability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "This game is super fun but difficult to play when 1. the graphics don't render\n2. Save game freezes so often it's almost unplayable. This is extremely disappointing for a paid game. Fix it or refund please",
+                "date": "2025-09-04",
+                "value": 60,
+                "potential_idea": "Implement robust automatic save functionality to prevent game progress loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "Would love to have backbone support",
+                "date": "2025-08-29",
+                "value": 10,
+                "potential_idea": "Integrate the app with services that leverage user data to provide personalized health and wellness insights, such as tracking and improving posture.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "When go near the place where ion cube is the game kick me out and I don\u2019t understand",
+                "date": "2025-08-08",
+                "value": 70,
+                "potential_idea": "Implement a notification system that alerts users when they are approaching an 'ion cube' zone where the game might crash, with an option to disable these notifications.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "927098908",
+        "name": "Pro Camera by Moment",
+        "url": "https://apps.apple.com/us/app/pro-camera-by-moment/id927098908?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I was really disappointed to find out that the Moment camera app doesn\u2019t support the 2x camera. On iOS, the native camera app includes the 2x option, and it\u2019s something I use all the time. Without it, I feel like I can\u2019t get the most out of my device\u2019s camera. I really enjoy the other features Moment offers, but not having access to the 2x lens makes the app feel incomplete and limits its usefulness for me.",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Integrate support for device-specific telephoto lenses (like the 2x optical zoom) into the Moment camera app to offer users more versatile shooting options.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I just bought this a couple months ago. Now I see the \u201cexciting news\u201d that they are building a new app instead that I\u2019ll have to buy again, and presumably they will forget about and cease to maintain this one. Feels scammy",
+                "date": "2025-09-24",
+                "value": 65,
+                "potential_idea": "Offer users a discounted or free upgrade path to the new app for existing customers of the previous version.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Overall a great app, but a camera app must be reliable, and this one bug keeps me from using it - when the app is out of memory (either automatically or by force-closing), the next time the physical camera is used to launch the app, I just see a black screen. It is still working invisibly, tapping the screen/hitting the physical buttons can take photos, but with no preview or controls available.\n\nOnce this gets fixed, this will be an easy app to recommend!",
+                "date": "2025-09-19",
+                "value": 18,
+                "potential_idea": "Implement robust error handling and memory management to prevent app crashes and black screen issues when launching the camera, ensuring a reliable user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Cancel my membership",
+                "date": "2025-08-11",
+                "value": 15,
+                "potential_idea": "Easily accessible and intuitive 'cancel membership' button within the app's settings.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Application is very buggy on iPhone 16 Pro. I haven\u2019t used it since my iPhone 15 Pro in over a year and a half when I decided to use and record a video is crashes freezes and close the application so many bugs needs to be fixed.",
+                "date": "2025-08-02",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to identify and fix application stability issues across all devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Why is there a green screen effect when I change focus",
+                "date": "2025-07-19",
+                "value": 15,
+                "potential_idea": "Implement an option to disable or adjust the intensity of the green screen effect when changing focus in the camera app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "How do I switch to macro lens",
+                "date": "2025-05-26",
+                "value": 75,
+                "potential_idea": "Provide a clear and easily accessible button or setting within the app to manually switch between different camera lenses, like the macro lens.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I bought this app because I thought it was a professional camera app that allowed me to shoot raw and in manual mode. Turns out that you can\u2019t use this app professionally without first purchasing additional add ons. This app should be called \u201cBarely Intermediate Camera by Moment\u201d. I wish this was steam because I would have immediately requested a refund and never buy from them again.",
+                "date": "2025-04-11",
+                "value": 70,
+                "potential_idea": "Develop a mobile camera app that offers full professional features, including RAW shooting and manual controls, natively without requiring additional in-app purchases for core functionalities.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I bought the app yesterday for $8.99, and it keeps crashing. Complete ripoff and a fast hustle. Complete ga\u2019bage!",
+                "date": "2025-03-24",
+                "value": 15,
+                "potential_idea": "Improve app stability to prevent crashes and ensure a positive user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "App is very slow, bought to improve small product photography, better off sticking with stock camera app. Video camera feature is also completely bricked and does not work at all, so definitely dont buy if you plan to use for that. Imagine buying one of the $80+ lenses just for the video part of the app to just not work lol",
+                "date": "2025-02-24",
+                "value": 18,
+                "potential_idea": "Fix and improve the performance of the app's video camera functionality, especially when paired with high-end accessories like expensive lenses.",
+                "tags": [
+                    "bug",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Useless app wont refund me. You cannot get the 48mp in anyway in this in app. Looks elsewhere",
+                "date": "2025-02-16",
+                "value": 15,
+                "potential_idea": "Develop a mobile app specifically for advanced camera controls and raw image capture, accessible without in-app purchases for core features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I bought this app to lock white balance white taking product for resale photos in my house.  It looks great when I open the app and it\u2019s on auto WB. But as soon as I touch the slider it introduces a crazy color cast that I can\u2019t override.   It\u2019s usually green. There is no tint option. My mirrorless camera works fine on locked WB in the same room.  This app is unusable for me.   I\u2019ve been trying to use it for weeks.",
+                "date": "2025-01-29",
+                "value": 85,
+                "potential_idea": "Implement a precise white balance slider with tint control to allow users to fine-tune color temperature accurately, in addition to a stable auto white balance.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Why are you debiting my card. I have not used this app for once. And you keep stealing my money",
+                "date": "2025-01-28",
+                "value": 85,
+                "potential_idea": "Implement a clear subscription management and cancellation flow within the app to prevent unexpected charges and build user trust.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 2,
+                "review": "I have had this app for awhile now and have really enjoyed it but all the manual controls are gone on my app.",
+                "date": "2025-01-17",
+                "value": 15,
+                "potential_idea": "Restore or improve the manual control options that users have come to rely on in the app.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I use this app all the time to record videos for YouTube. Recently I keep getting a capture error when I end recording. Come to find out a 20 minute video I filmed is only 3.5 minutes because there was yet another error I was not notified of until after stopping recording. I have to film the entire video over again, can\u2019t trust this app anymore. Will be switching to a new one.",
+                "date": "2024-12-11",
+                "value": 80,
+                "potential_idea": "Implement real-time in-app error detection and notification during video recording to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "UI is slow and not user friendly.",
+                "date": "2024-12-04",
+                "value": 15,
+                "potential_idea": "Redesign the app's user interface to be more intuitive and performant for a smoother user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Looking for the bundle can\u2019t find how.",
+                "date": "2024-12-03",
+                "value": 55,
+                "potential_idea": "Implement a prominent and easily discoverable 'Bundles' section within the app, possibly with a dedicated tab or a clearly labeled button on the main screen.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "All day I was recording videos for a trip to Hawaii and none have sound. Horrendous quality app. Do yourself a favor and download Final Cut camera or BlackMagic instead.",
+                "date": "2024-11-29",
+                "value": 17,
+                "potential_idea": "Develop a robust video recording feature with guaranteed audio capture to compete with professional camera apps.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Nothing seems to work with this piece of Junk.",
+                "date": "2024-11-27",
+                "value": 40,
+                "potential_idea": "Implement robust error handling and user feedback mechanisms to improve app stability and inform users about issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "\u7167\u7247\u6a21\u7cca\u4e0d\u6e05\u7121\u7acb\u9ad4\u611f\uff0c\u4e0d\u80fd\u7528\uff0c\u4e5f\u6c92\u6709\u5347\u7d1a\uff0c\u767d\u5316\u9322\u4e86\u3002",
+                "date": "2024-11-11",
+                "value": 75,
+                "potential_idea": "Integrate an AI-powered image enhancement feature to improve photo clarity, add depth, and fix visual defects in the app.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "301387274",
+        "name": "Pocket God",
+        "url": "https://apps.apple.com/us/app/pocket-god/id301387274?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Pocket God",
+                "rating": 1,
+                "review": "Playing Pocket God a decade or so ago was fun but, I ALWAYS felt like it was missing something. It turns out this new version solved the problem: Eliminate the sound! The music and the sound effects were just a HUGE distraction for me and I want to thank the developers for dropping them. Shigeru Miyamoto would be rolling in his grave but I don\u2019t mean in a bad way, I mean that he would be going \u201cAha! Wow, this is great! I should have made silent Mario\u201d. (Obviously  it would be in Japanese and it would be backwards because he is a ghost.).",
+                "date": "2025-07-24",
+                "value": 15,
+                "potential_idea": "Allow users to globally mute all in-app sound and music with a dedicated toggle.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pocket God",
+                "rating": 1,
+                "review": "Game says it is $.99 and I got charged $4.24 why??",
+                "date": "2024-05-09",
+                "value": 15,
+                "potential_idea": "Implement clearer upfront pricing display within the app, potentially with a confirmation step before purchase to prevent unexpected charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pocket God",
+                "rating": 2,
+                "review": "So I have pocket god on my moms phone right? That\u2019s good! But when I go to download it from my dads phone, IT JUST WONT EVEN DOWNLOAD? It shows the loading circle and shows the cloud back! (This was in the app store.) Please fix this! And I tried to download on my dads phone for my brother to play baffle of the gods.",
+                "date": "2023-11-24",
+                "value": 18,
+                "potential_idea": "Implement a feature that allows users to easily transfer or re-download previously purchased/installed apps across multiple devices linked to the same app store account, particularly for family accounts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pocket God",
+                "rating": 2,
+                "review": "I would rate it higher if the sound work, because it is otherwise the same classic game that we all know and love. There also seems to be no way for the image to be blown up to fit modern, bigger screens so be aware of that as well.",
+                "date": "2023-03-19",
+                "value": 60,
+                "potential_idea": "Implement adaptive scaling for game graphics to fit larger, modern screens and restore original game sound.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pocket God",
+                "rating": 1,
+                "review": "I guess that I was to naive to realize how incredibly racist the concept and gameplay is.",
+                "date": "2023-03-08",
+                "value": 15,
+                "potential_idea": "Implement a content moderation system to identify and flag potentially offensive or discriminatory content within the app to ensure a culturally sensitive and inclusive user experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pocket God",
+                "rating": 2,
+                "review": "Why have u got rid of the aging thing in the game when i used to play them this it was my favorite thing to do and i am very upset that it does not work please fix this thank u",
+                "date": "2023-01-30",
+                "value": 70,
+                "potential_idea": "Reintroduce the 'aging' feature in the game to allow players to progress characters or elements over time.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1462324486",
+        "name": "Papa's Donuteria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-donuteria-to-go/id1462324486?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 1,
+                "review": "I had to get a new phone and 3 years of progress gone there\u2019s no data saves this game is not a good game don\u2019t get it",
+                "date": "2025-07-09",
+                "value": 85,
+                "potential_idea": "Implement cloud-based data synchronization and backup for game progress.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 2,
+                "review": "Cuando intento poner las chispas, se me queda frisado sin poderle poner la que quiero, sino la que est\u00e1 en el medio.",
+                "date": "2025-03-23",
+                "value": 14,
+                "potential_idea": "Implement a more responsive and intuitive emote selection interface that allows users to easily pick their desired emote without freezing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 2,
+                "review": "The music and actions now lag so it ruins the gameplay",
+                "date": "2024-08-07",
+                "value": 15,
+                "potential_idea": "Introduce performance optimization tools and real-time lag monitoring within the app to improve gameplay responsiveness.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 1,
+                "review": "First of all, there is nothing you can do as a beginner, you hire a person that is useless. Second of all, When I have to restart a donut it just disappears. DO NOT WASTE YOUR MONEY ON THIS GAME!!!",
+                "date": "2023-11-22",
+                "value": 65,
+                "potential_idea": "Introduce a tutorial or onboarding system that guides beginners on how to effectively utilize in-game hires and prevents crucial assets from disappearing.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "435871950",
+        "name": "HappyCow - Vegan Food Near You",
+        "url": "https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "HappyCow - Vegan Food Near You",
+                "rating": 2,
+                "review": "This is a good basic resource but it\u2019s not updated and you can find more options just by a simple web search.",
+                "date": "2025-09-09",
+                "value": 55,
+                "potential_idea": "Implement a real-time content updating mechanism and a personalized discovery engine to surface unique or hard-to-find information.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "HappyCow - Vegan Food Near You",
+                "rating": 2,
+                "review": "^^^^^",
+                "date": "2025-09-04",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "HappyCow - Vegan Food Near You",
+                "rating": 1,
+                "review": "I use this app all the time and now it cost $4.99. That crazy",
+                "date": "2025-07-23",
+                "value": 15,
+                "potential_idea": "Implement a tiered subscription model with a free basic tier and a paid premium tier for advanced features to address user price sensitivity.",
+                "tags": []
+            }
+        ]
     }
 ]
