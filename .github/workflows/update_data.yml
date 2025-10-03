@@ -40,7 +40,7 @@ jobs:
         run: |
           python -u scraper/app_scraper.py --GEMINIAPIKEY "${{ secrets.GEMINIAPIKEY }}" \
              --OPENROUTERAPIKEY "${{ secrets.OPENROUTERAPIKEY }}" \
-             --max_reviews 3
+             --max_reviews 50
         timeout-minutes: 3600
 
       - name: Commit and Push changes
