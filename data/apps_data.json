@@ -3068,5 +3068,565 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1164801111",
+        "name": "AutoSleep Track Sleep on Watch",
+        "url": "https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Alarms no longer work in ios26 and the developer has not addressed the issue.",
+                "date": "2025-09-27",
+                "value": 15,
+                "potential_idea": "Implement a robust system for proactively monitoring and notifying users of critical bugs affecting core app functionality, such as alarms.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Even though I\u2019ve unsubscribed it still charges for the subscription. Beware that you will not be able to cancel.",
+                "date": "2025-09-27",
+                "value": 95,
+                "potential_idea": "Implement a clear and irrefutable in-app subscription cancellation confirmation flow with immediate effect, accompanied by a dedicated customer support channel for subscription-related disputes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Does not work since the latest update. Horrible timing since apple just buffed up the Health app and I\u2019m just going to switch to the native Health app.",
+                "date": "2025-09-25",
+                "value": 10,
+                "potential_idea": "Develop a robust and reliable app that deeply integrates with Apple Health, offering advanced features beyond native capabilities, ensuring seamless functionality after OS updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Used to be my favorite app to track sleep, now it never works. Constantly gives an error with zero info. Delete app and redownload, it\u2019ll work for a day. Then back to an error every day after that. Rinse and repeat. All the info shows up fine in the health app.",
+                "date": "2025-09-23",
+                "value": 10,
+                "potential_idea": "Implement a more robust error handling and diagnostic system for the sleep tracking feature, providing clear error codes and troubleshooting steps to users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Why is this app no longer available on Apple Watches?",
+                "date": "2025-09-22",
+                "value": 75,
+                "potential_idea": "Reintroduce the mobile app with full functionality on Apple Watches to cater to users who prefer smartwatch integration.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "After years of good syncing history, suddenly syncs about only 1/3 of days. iOS issue perhaps? Disturbing at best.",
+                "date": "2025-09-21",
+                "value": 55,
+                "potential_idea": "Proactive sync health monitoring and smart troubleshooting for mobile apps.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1581140954",
+        "name": "Noir - Dark Mode for Safari",
+        "url": "https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "When you enable this is says it can read and alter what\u2019s plinth screens including passwords and cards",
+                "date": "2025-09-30",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "Doesn\u2019t work on in-app versions of Safari and the \u201ccontact us\u201d section in the app doesn\u2019t even bother to load an email address when it opens the email app. Waste of money.",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Implement robust in-app browser compatibility and ensure the 'contact us' feature reliably loads contact information.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "\u62c5\u5fc3\u6570\u636e\u5b89\u5168\u95ee\u9898\uff0c\u7533\u8bf7\u9000\u6b3e\u4e0d\u901a\u8fc7\uff0c\u90a3\u5c31\u5dee\u8bc4\u55bd\uff5e",
+                "date": "2025-09-09",
+                "value": 50,
+                "potential_idea": "Allow users to request app removal and receive a refund if they have security concerns.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Noir works flawlessly on Safari proper. Unfortunately, it doesn\u2019t work when Safari is launched with an app. For example, clicking a link in an X post, Safari slides open, but no noir.",
+                "date": "2025-07-02",
+                "value": 65,
+                "potential_idea": "Enable Noir's functionality to work within Safari views embedded within other applications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "I've had noir for years and just realized how good it really is!!",
+                "date": "2025-06-13",
+                "value": 5,
+                "potential_idea": "Implement a 'discovery' feature that highlights underappreciated or advanced functionalities of the app to long-term users.",
+                "tags": []
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Appreciate the dark mode but don\u2019t trust the app. Understand it needs access to change darkness but it shouldn\u2019t be asking for access to a password manager. Didn\u2019t even visit that website. Was browsing the news when it asked. Very suspect. Feels like data mining/major invasion for a paid app. Deleting.",
+                "date": "2025-04-11",
+                "value": 95,
+                "potential_idea": "Implement robust privacy controls and transparent permission requests, clearly explaining *why* specific access is needed, especially for paid applications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Update 3/27/25: I really appreciate the devs responding and I also really really liked the app (as you can see from my crazy long review below), but I had to eventually un-install it a from my shortcuts a few days after DL.    \n\nWhen I had it installed (I have an iPhone 15 pro max, so not a old-ish iPhone btw. Also I use safari as my phone Internet browser) web pages would not load correctly. I would have to re-load the web pages pretty much all the time or sometimes re-loading wouldn\u2019t work and everything on the page would just look wonky. I really wanted this to work because like I said in my review, I have light sensitivity & I prefer my phone to be on dark mode (I can read everything better and it doesn\u2019t hurt my eyes so much) and some websites are now having options to be able to change to dark mode or will automatically change if that is your phones settings. But the majority don\u2019t have that yet so their background will be white. I have \u201cnight shift\u201d turned on for websites like that, but sometimes it\u2019s not enough and still will hurt my eyes/give me a headache. \n\nAnyways, it just didn\u2019t work for me. I had to un-install it because I was getting too frustrated with having to re-load sites, sites looking super weird and sites crashing all the time. I wasn\u2019t really sure what was going wrong but I thought maybe it had something to do with the noir extension and as soon as I turned it off safari started working fine. \nBummed!\n\u2014\u2014\u2014-\n\nJust purchased the app and I felt like I had to write a review to tell the devs thank you! I have really bad photophobia/light sensitivity, especially in the evening & at night, that causes super bad headaches and makes my eyes ache and hurt. I switch anything I can to dark mode, night shift etc. I even sometimes wear these goofy light sensitivity glasses (they block specific wavelengths of light). For a long time now I was so annoyed I couldn\u2019t change all of safari on dark mode (a few websites I could but that\u2019s it). I found this app randomly tonight and immediately bought and downloaded it. The instructions to install it on safari were very clear and I had it up and running in just a few minutes. The app also has other colors/themes you can choose besides just black which I thought was pretty cool if someone wants to change it to sepia instead or something. Also the app itself looks really nice and I thought for what it does I would have paid more than $3 for it so I appreciate the devs for keeping it at that price. Anyways, ty to the devs for making this!!",
+                "date": "2025-03-29",
+                "value": 85,
+                "potential_idea": "Develop an independent progressive web app (PWA) that enforces a dark mode or customizable color filters for all web content, irrespective of the website's native support, addressing user light sensitivity across different browsers and devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "Absolutely ridiculous I have to buy it once for my phone and s0end another $4 to have a Safari extension for my MacBook. I regret buying it.",
+                "date": "2025-01-09",
+                "value": 75,
+                "potential_idea": "Offer a cross-platform license that unlocks the app for iOS, macOS, and potentially other Apple devices for a single purchase.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1400579543",
+        "name": "imo video calls and chat HD",
+        "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Useless app, can\u2019t add anyone . Emailed support , no response ! It\u2019s a scam .",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement a reliable user onboarding and contact adding system with responsive customer support.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Now they are scamming even adds showing and country not changing",
+                "date": "2025-09-29",
+                "value": 60,
+                "potential_idea": "Implement a robust geo-tracking and region selection feature that clearly displays the selected region and prevents unauthorized ad serving or content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "There are tons on messenger app, why is this one limited to US and Canada numbers ?!?",
+                "date": "2025-09-27",
+                "value": 70,
+                "potential_idea": "Expand the mobile app's messaging capabilities to support international phone numbers beyond the US and Canada.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u041d\u0435 \u0441\u0442\u043e\u0438\u0442 \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u0434\u0435\u043d\u0435\u0433",
+                "date": "2025-09-27",
+                "value": 5,
+                "potential_idea": "Offer a free trial or a more transparent pricing model before users commit to purchasing.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Keeps telling me my phone number is invalid, but my phone number is valid and real",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Implement a more robust phone number validation system that accounts for various international formats and common input errors.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I can\u2019t see international contacts",
+                "date": "2025-09-20",
+                "value": 60,
+                "potential_idea": "Implement international contact support that automatically detects and displays contact information for users in different countries.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Everyone is using the free imo, but this paid version from the US can't connect with friends at all! You must change your Apple ID region to use it. This imo HD is fake!!",
+                "date": "2025-09-18",
+                "value": 10,
+                "potential_idea": "Develop an international version of the mobile app that bypasses regional restrictions for user accounts and connections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This app is a waste of money.",
+                "date": "2025-09-17",
+                "value": 10,
+                "potential_idea": "A premium version of the app that offers demonstrably unique and valuable features justifying the cost, or a clear refund policy for users who find the app lacking.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "IMO keeps banning accounts unfairly for no valid reason, even when users are just having normal conversations with friends. This is extremely frustrating and unprofessional.\n\nWhat makes the situation worse is that there is no phone number or direct support email to contact them. Users are left with no way to solve their issues properly.\n\nI do not recommend this app until they fix these problems and provide real customer support.",
+                "date": "2025-09-16",
+                "value": 85,
+                "potential_idea": "Implement a clear and accessible support system with a direct contact channel for users to appeal account bans and resolve issues.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Regret",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Implement an 'undo' or 'recover deleted item' feature for accidentally deleted content.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Attention overseas users! \nThis US version cannot make international calls. You must change your account region to use the official version. YouTube has tutorials.",
+                "date": "2025-09-11",
+                "value": 15,
+                "potential_idea": "Develop a multi-region version of the app that allows users to maintain their primary account region while accessing features and content relevant to other regions, without requiring account changes.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This app does not allow to call any number outside United States. So save your money.",
+                "date": "2025-09-09",
+                "value": 15,
+                "potential_idea": "Allow the app to make international calls to any number worldwide.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It doesn\u2019t see all contacts from my list. When I purchased the app it didn\u2019t say my phone version supposed to be 9 or later. It doesn\u2019t work for me. What should I do now?",
+                "date": "2025-09-08",
+                "value": 15,
+                "potential_idea": "Implement a robust contact syncing mechanism that proactively informs users about potential compatibility issues with their device's OS version before purchase.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Paid for nothing! I wish I would read other reviews.",
+                "date": "2025-09-08",
+                "value": 18,
+                "potential_idea": "Implement a free trial or a detailed demo to showcase app features and value before purchase, addressing user concerns about paying for an unproven product.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This is a scam. I paid $5 for it, and I can\u2019t talk to anyone outside US. Scam.",
+                "date": "2025-09-07",
+                "value": 75,
+                "potential_idea": "Expand international calling/communication options for users outside the US to address geographic restrictions perceived as a scam.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0421\u043a\u0430\u0447\u0430\u043b\u0430 \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0438\u0441\u043a\u0430\u043b\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u043f\u043e\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u043c\u0430\u043c\u043e\u0439. \u042f \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435, \u043e\u043d\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0441\u0441\u044b\u043b\u043a\u0438 \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0441 2\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432 \u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442. \u041e\u0447\u0435\u043d\u044c \u0436\u0430\u043b\u044c",
+                "date": "2025-09-06",
+                "value": 15,
+                "potential_idea": "Implement a more robust and reliable invitation system for connecting users across different regions, including direct contact syncing and troubleshooting for link issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It says free but why does it ask for $4.99 to download the app or is it scam?",
+                "date": "2025-09-06",
+                "value": 15,
+                "potential_idea": "Clarify app pricing and availability upfront to prevent user confusion and build trust.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "this is useless app and please don't purchase it if you are looking to connect with your family nd friends outside US",
+                "date": "2025-09-04",
+                "value": 55,
+                "potential_idea": "Develop a mobile app specifically designed for international communication, allowing users to easily connect with family and friends abroad, overcoming geographical barriers and potential network restrictions.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I want to use this imo app, but it is expensive and costs $4.99. I have to change my Apple ID country and region to download another imo app. Now it works.\nJas",
+                "date": "2025-09-03",
+                "value": 18,
+                "potential_idea": "Offer a subscription tier or a one-time purchase option for the IMO app that is accessible across all Apple ID regions, eliminating the need for users to change their region settings for purchase.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0421\u043a\u0430\u0447\u0430\u043b \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438 \u0437\u0430\u043f\u043b\u0430\u0442\u0438\u043b \u043e\u043a\u043e\u043b\u043e $5. \u041d\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c,\u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0438\u0448\u0435\u0442 \u0447\u0442\u043e \u043d\u0435 \u0432\u0435\u0440\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440.  \u041d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0437 \u043f\u0438\u0448\u0443 \u0442\u043e\u0447\u043d\u0435\u0435 \u043d\u043e\u043c\u0435\u0440 , \u043d\u043e \u043e\u0442\u0432\u0435\u0442\u0430 \u0442\u0430\u043a\u0436\u0435  \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430 \u043d\u0438\u0447\u0435\u0433\u043e \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e \u043d\u0435\u0442!!!",
+                "date": "2025-08-31",
+                "value": 15,
+                "potential_idea": "Implement a robust phone number validation and verification system with clear error messages for registration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Not working",
+                "date": "2025-08-31",
+                "value": 15,
+                "potential_idea": "Implement robust error reporting and logging to quickly identify and fix app malfunctions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u0639\u0644\u0642 \u0639 \u0627\u0644\u0628\u0644\u062f \u0627\u0645\u0631\u064a\u0643\u0627. \u0648\u0627\u0646\u0627 \u0645\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0648\u0631\u0642\u0645\u064a \u0633\u0639\u0648\u062f\u064a. \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u062b\u0628\u062a \u0639\u0644\u0649 \u0639\u0644\u0645 \u0627\u0645\u0631\u064a\u0643\u0627 \u0648\u0631\u0645\u0632 \u0627\u0644\u062f\u0648\u0644\u0647. \u0648\u0631\u0627\u0627\u0627\u0641\u0636 \u064a\u062a\u063a\u064a\u0631 \u0645\u0639\u0627\u064a",
+                "date": "2025-08-24",
+                "value": 15,
+                "potential_idea": "Allow users to manually select their country and country code, overriding any automatic detection, to resolve issues with incorrect country pre-selection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This paid version doesn't work at all! We need to switch the Apple ID region to another country to download the free official version",
+                "date": "2025-08-19",
+                "value": 18,
+                "potential_idea": "Allow users to access the paid version of the app without region restrictions by verifying their subscription with an in-app purchase or account login, bypassing the need to change Apple ID region.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Ya cambi\u00e9 de ubicaci\u00f3n pero no me dejan poner mi nuevo tel\u00e9fono de mi nueva regi\u00f3n",
+                "date": "2025-08-08",
+                "value": 90,
+                "potential_idea": "Allow users to update their phone number and region information easily within the app to reflect new locations and contact details.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Yes, the official imo is free for international calls. If it's not showing up, changing your Apple ID region (guides on YouTube can help) usually solves it.",
+                "date": "2025-08-06",
+                "value": 70,
+                "potential_idea": "Proactively guide users on how to resolve common regional restrictions for app features by providing in-app tutorials or troubleshooting links.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "If your App Store only shows paid versions, try changing your Apple ID's region to find and download the correct one.",
+                "date": "2025-07-29",
+                "value": 45,
+                "potential_idea": "Develop a feature within the app that guides users on how to change their Apple ID region to access different app versions or content, offering in-app instructions and troubleshooting.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "2. Comment content: (Please don't keep this when commenting)\n\nTitle:  The free imo app exists! \n\nContent:  Yes, the official imo is free for international calls. If it's not showing up, changing your Apple ID region (guides on YouTube can help) usually solves it.",
+                "date": "2025-07-28",
+                "value": 15,
+                "potential_idea": "Integrate a clear, in-app guide for users to understand and access the free international calling feature by adjusting region settings.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "The\u00a0official\u00a0imo app is free. If you only see paid versions, you likely need to switch your App Store region to find the correct one.",
+                "date": "2025-07-15",
+                "value": 35,
+                "potential_idea": "Implement a region detection and recommendation system within the app to guide users to the correct free version.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I can\u2019t use as like WhatsApp",
+                "date": "2025-07-13",
+                "value": 75,
+                "potential_idea": "Integrate a feature allowing users to send voice messages, similar to WhatsApp, within the current app.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 2,
+                "review": "IMO had",
+                "date": "2025-07-09",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "The US region setting on my Apple ID prevents this paid version from working. Change the country to download the free version.",
+                "date": "2025-07-08",
+                "value": 75,
+                "potential_idea": "Allow users to select their preferred region for app functionality, independent of their Apple ID region setting.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Because my Apple ID is set to the US, this paid version doesn't work. \r\nI found a guide on YouTube on how to change the Apple ID region to use the free version",
+                "date": "2025-07-03",
+                "value": 15,
+                "potential_idea": "Allow users to select their region during app setup to access relevant free or paid versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Free imo works globally; this paid US version fails completely. Find YouTube guides on changing your Apple ID region to use the free version.",
+                "date": "2025-06-29",
+                "value": 85,
+                "potential_idea": "Offer a global, unified version of the app that works seamlessly regardless of user region, eliminating the need for region-specific versions or workarounds.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0644\u0627 \u064a\u0639\u0645\u0644",
+                "date": "2025-06-25",
+                "value": 15,
+                "potential_idea": "A robust error reporting system that allows users to easily submit detailed bug information.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It only works if you have a number from us. I live in germany and I can not use my number to login! Say in your app that it is only for us users! You don\u2019t even get 1 star!",
+                "date": "2025-06-22",
+                "value": 18,
+                "potential_idea": "The app should clearly indicate its regional availability and allow users to select their country for account creation/login.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "My Apple ID defaults to the US region, making this paid version incompatible. To download the free version, you'll need to switch your Apple ID region to another country.",
+                "date": "2025-06-19",
+                "value": 75,
+                "potential_idea": "Allow users to select their preferred region for app purchases and downloads within the app, bypassing Apple ID region restrictions.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            }
+        ]
     }
 ]
