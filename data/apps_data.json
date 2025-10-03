@@ -11319,5 +11319,611 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "582584117",
+        "name": "Solocator - GPS Field Camera",
+        "url": "https://apps.apple.com/us/app/solocator-gps-field-camera/id582584117?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "Doesn\u2019t do videos.\nAlso very slow",
+                "date": "2025-09-07",
+                "value": 10,
+                "potential_idea": "Integrate video playback functionality into the app to support video content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 2,
+                "review": "Ok app. Wish that they would enable iPhone users to be able to use the camera control button to snap picture on the iPhone. It would be helpful. Reached out to support last October and still have yet to hear back.",
+                "date": "2025-08-19",
+                "value": 55,
+                "potential_idea": "Implement iPhone camera control button integration for taking photos within the app.",
+                "tags": {
+                    "tags": [
+                        "no update for long time",
+                        "valuable opinion"
+                    ]
+                }
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 2,
+                "review": "I\u2019ve been using this app since 2017 for taking work photos and had 32gb of past projects saved in the app. Last night my phone bugged out and had to be wiped. I made sure this app was selected for iCloud backup, did a full iCloud backup of my phone, wiped the phone, and restored. Photos from the app never came back, and either did the apps settings. I reached out to the developer, but was told that feature hasn\u2019t been implemented due to other features being prioritized. I now have 8 years of photos gone and can\u2019t come back. My work requires me to use this app or I\u2019d find another one because of this. App has been great otherwise, but I can\u2019t get over this glaring issue and thought you should all know.",
+                "date": "2025-05-07",
+                "value": 75,
+                "potential_idea": "Implement robust cloud backup and restore functionality for all app data, including photos and settings, to prevent data loss during device changes or wipes.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "Typical buy the app then they want you to buy more for basic functions that should have came with the purchase.",
+                "date": "2025-02-20",
+                "value": 45,
+                "potential_idea": "Develop a mobile app that offers a completely free, feature-rich experience without any in-app purchase requirements for core functionalities.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "I paid for the app via the App Store and was able to use it all of one time before I was being told by the app that an additional purchase of $5.99 was required to use it. My organization has locked in app purchases on our devices so I now have a useless app that I have paid for but can\u2019t use. Thanks for nothing.",
+                "date": "2025-01-27",
+                "value": 15,
+                "potential_idea": "Offer a one-time purchase option for the app that bypasses recurring or additional in-app purchases, or allow for a web-based version that circumvents app store restrictions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "Have the app on another device now it\u2019s asking me to pay again for the same feature an additional 6 dollars",
+                "date": "2024-12-18",
+                "value": 85,
+                "potential_idea": "Implement a cross-device purchase restoration feature to allow users to access previously purchased features on new devices without rebuying them.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "Great concept, but only if you can upload the photos to be used by other programs.",
+                "date": "2024-11-12",
+                "value": 65,
+                "potential_idea": "Implement direct image export functionality to allow users to share or import photos into other applications.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 2,
+                "review": "Doesn\u2019t work great with iPhone 16. Takes 15-30 seconds for the photo to capture. And when you hold it still it jumps between lenses",
+                "date": "2024-10-31",
+                "value": 12,
+                "potential_idea": "Optimize app performance for newer iPhone models, specifically addressing slow photo capture and lens switching issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 2,
+                "review": "The front facing camera will not open until you first open the rear facing camera.",
+                "date": "2024-10-18",
+                "value": 15,
+                "potential_idea": "Implement a direct toggle for the front-facing camera within the app's camera interface.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "I used to love this App but now it\u2019s only saving half of the photos I take. Now I have to repeat work I have already done.",
+                "date": "2022-08-11",
+                "value": 75,
+                "potential_idea": "Implement robust background photo saving and error reporting with user notifications to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "The app has a great potential but no matter what you want to do, it just wants extra money. For everything!!!!!\n\nYou are sticker with a 4:3 photo format and the quality is not the highest your phone can deliver. If you use it, resolution of that picture taken in the app is lower than all your other pictures resolution.",
+                "date": "2021-11-26",
+                "value": 55,
+                "potential_idea": "Offer a premium subscription for higher resolution photo capture and removal of aspect ratio restrictions within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "Out of several photos, only about half actually had the overlay placed on them. More than worthless, actually adds time as I now need to crop photos with the overlay. Waste of money.",
+                "date": "2021-08-27",
+                "value": 75,
+                "potential_idea": "Introduce an automatic overlay placement feature that intelligently detects suitable areas in an image to apply the overlay, or allows users to select specific anchor points.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "Burns me up when developers stop supporting apps with normal progression updates, then want to \u201ccharge\u201d for \u201cenhancements\u201d.\nI realize developers have to eat, but so do I. Why can\u2019t these people just develop their product - make it a GOOD product, and have its self sold on it\u2019s own developed enhanced merit?",
+                "date": "2021-04-20",
+                "value": 75,
+                "potential_idea": "Introduce a tiered subscription model where users can pay a one-time fee for core features and a smaller recurring fee for ongoing enhancements and new content.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 2,
+                "review": "I used to put in factional measurements, since (I\u2019m assuming update) then I can only use a decimal and write out what units. Basically the use of /\u2018\u201c,. Plus others is no longer possible. If you can make it so I can write 1/8\u201d instead of .125 inches. I\u2019ll change my rating to 5 star.",
+                "date": "2021-01-10",
+                "value": 75,
+                "potential_idea": "Allow users to input fractional measurements (e.g., 1/8\") directly, in addition to decimal inputs, for greater input flexibility.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Solocator - GPS Field Camera",
+                "rating": 1,
+                "review": "The camera shutter buttons are off the bottom of the screen so you are unable to take photos.",
+                "date": "2020-12-04",
+                "value": 15,
+                "potential_idea": "Ensure camera shutter buttons are fully visible and accessible on all screen sizes and orientations.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "430234732",
+        "name": "Site Audit Pro",
+        "url": "https://apps.apple.com/us/app/site-audit-pro/id430234732?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Site Audit Pro",
+                "rating": 1,
+                "review": "A lot of times I get an error message like draft was deleted by other user or email not set up. Then all of a sudden it starts to work again",
+                "date": "2025-05-28",
+                "value": 65,
+                "potential_idea": "Implement real-time conflict resolution and clear user notifications for collaborative editing to prevent accidental data loss and facilitate smoother multi-user workflows.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Site Audit Pro",
+                "rating": 1,
+                "review": "I\u2019m been having a lot issues sending the reports to my customers pretty bad",
+                "date": "2024-08-06",
+                "value": 65,
+                "potential_idea": "Implement a more robust and reliable report sending mechanism with clear error handling for users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Site Audit Pro",
+                "rating": 1,
+                "review": "The iPad version won\u2019t allow more than one pic per issue. Fine. It won\u2019t recognize my email, and therefore won\u2019t email my reports. I can\u2019t even email support, because it doesn\u2019t recognize my email,and I can\u2019t find it written anywhere in the app. It\u2019s almost like they don\u2019t want to hear from customers.",
+                "date": "2024-08-05",
+                "value": 70,
+                "potential_idea": "Implement a clear and accessible in-app support contact method that doesn't rely on email recognition to ensure users can report bugs and request help.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Site Audit Pro",
+                "rating": 1,
+                "review": "The app doesn\u2019t always work.  Causing  delays with project goals. Sometimes I have to send it out in multiple emails to different emails and pray that it gets to one of them on time will definitely be looking at different apps.",
+                "date": "2023-05-25",
+                "value": 70,
+                "potential_idea": "Implement real-time sync or cloud storage for seamless file sharing and access across devices to prevent data loss and delays.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Site Audit Pro",
+                "rating": 1,
+                "review": "Multi add doesn\u2019t work\u2026 it\u2019s awful can\u2019t add multiple pics to an issue\u2026 too basic and expensive",
+                "date": "2022-09-06",
+                "value": 65,
+                "potential_idea": "Implement a robust multi-image selection and upload feature to streamline the process of adding multiple photos to an issue.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6444400410",
+        "name": "Farming Simulator 23 Mobile",
+        "url": "https://apps.apple.com/us/app/farming-simulator-23-mobile/id6444400410?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "I was at the part where h get the header for the vehicle and then I finished that part and I\u2019m not getting told what to do and I\u2019m just driving around the field with the thing down and I don\u2019t see anything happening and nobody is telling me what to do.",
+                "date": "2025-07-17",
+                "value": 65,
+                "potential_idea": "Introduce clearer in-app directives and visual cues to guide users through multi-step objectives within game missions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "I was able to make millions using soy beans. And now I have a tractor for every container or plow (never have to disconnect)\n and I divide up my farm into four sections (upper left, upper right, lower left, and  lower right) which I farm during each month as I change sections that I am working on (while fertilizing the previous section also as I work clockwise) This is a casual and relaxing game highly recommended for low stress cozy gamers. Also, I store all my soy beans to sell in June in large containers with trucks attached and just park and sit them until June. I also have dedicated plows for each of the four sections with tractors attached and all small fertilizers have a mini tractor attached to it as do all of my transport container.\n\nI literally do not have to disconnect or connect anything every month. I just get in the tractor and work.\n\nI recommend doing the German farm into four sections as it is easier.",
+                "date": "2025-06-30",
+                "value": 75,
+                "potential_idea": "Implement an automated equipment management system allowing players to pre-assign tractors and tools to specific fields or tasks for seamless workflow.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "I love farm sim but why do I have to pay extra for other/ bigger tractors it\u2019s just stupid they Already make a lot of money off of the pc and console version?",
+                "date": "2025-05-22",
+                "value": 65,
+                "potential_idea": "Unlock or offer larger/ alternative tractors as free content or through in-game achievements, rather than paid DLC, in the mobile farm simulation game to increase player satisfaction and reduce monetization frustrations.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "It looks like you went backwards in time cause fs 18 is way better than this game u removed loader tractors hired workers sometimes hav a hangover cause they forget where they shod plant/cultivate etc in field 2 in particular they back up about 3/4 of the field then turn around and go back so part of the field doesn\u2019t get planted/cultivated\nAlso how the trees are cut way too high I want to like drive over the stumps without getting caught\nAlso when cutting the trees nt relistic in fs 18 it like cut it and we got to watch it all\nAgain fs 18 is way better",
+                "date": "2025-05-09",
+                "value": 70,
+                "potential_idea": "Reintroduce and enhance the realistic tree-cutting physics and hired worker AI, including more intuitive pathfinding and job completion, from a previous version (FS 18) into the current app.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1207867591",
+        "name": "Papa's Taco Mia To Go!",
+        "url": "https://apps.apple.com/us/app/papas-taco-mia-to-go/id1207867591?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "just downloaded and i really wish that i saw that this game hasn\u2019t been updated in years lol. in comparison to the new to go games the one looks horrible lol. if u can update the app that would be amazing. i mean for a games that cost  money (even though it\u2019s cheap) i feel like the quality should be up to date .",
+                "date": "2025-09-03",
+                "value": 65,
+                "potential_idea": "Update the mobile game with modern graphics and features to compete with newer titles.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I don\u2019t think I\u2019m the only one to say this the graphics on this game is worse then the other 1.99 ones it makes my eyes hurt trying to play it I bought it and seen the graphics and never liked them please fix the graphics",
+                "date": "2024-06-30",
+                "value": 50,
+                "potential_idea": "Implement a graphical overhaul or offer customizable graphics settings to improve visual appeal and reduce eye strain in the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "i\u2019ve bought most of the papas games and all of the $1.99 ones are high quality except this one. it\u2019s grainy and completely lacking the updated look and feel of all the rest of them. it\u2019s only $1.99 but feels like a ripoff tbh. disappointed :(",
+                "date": "2024-03-29",
+                "value": 75,
+                "potential_idea": "Implement a consistent, high-fidelity visual style update for older Papa's games that are currently in the catalog.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I didn\u2019t even play yet guys.. the game is $1.99 apple just charged me over 20 dollars just now\ud83d\ude41",
+                "date": "2024-02-29",
+                "value": 75,
+                "potential_idea": "Implement a clearer pre-purchase confirmation screen with a breakdown of all charges before a user authorizes a transaction, to prevent accidental overspending due to misinterpretations of pricing or bundled offers.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "The quality of this game is so low it\u2019s actually unplayable on top of that the game is super buggy and freezes constantly. waste of money.",
+                "date": "2024-02-12",
+                "value": 15,
+                "potential_idea": "Develop a mobile game with high-quality graphics and stable performance, addressing common user complaints about low quality and bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I remember playing this game since when I was a kid. But when i bought and downloaded the game it was blurry and the whole game was not clear. It was hard to concentrate on it and uncomfortable to the eyes. Please fix this problem.",
+                "date": "2023-12-22",
+                "value": 15,
+                "potential_idea": "Implement a resolution scaling or graphical detail option to improve image clarity for older games on modern devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "The quality of this game is poor. I play a few other papa games and their qualities are great. In this game I can\u2019t even read what is on the tickets. It\u2019s so bad.",
+                "date": "2023-08-12",
+                "value": 70,
+                "potential_idea": "Improve text legibility and overall graphical fidelity in the Papa game to match the quality of other Papa games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "i rarely ever review apps but i wish i checked the reviews of this before downloading. the quality is atrocious like 10 fps and blurry and grainy.",
+                "date": "2023-06-24",
+                "value": 10,
+                "potential_idea": "Implement performance optimization features to improve frame rate and visual clarity in the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I adored this game as a child and was jumping for joy to spend $2 on this game. But the graphics is probably the largest standout factor about the app. The quality is so bad, it\u2019s very fuzzy and pixelated. I feel really sad because I was looking forward to playing this game obsessively like old times, but it gives me a fat headache",
+                "date": "2023-01-20",
+                "value": 60,
+                "potential_idea": "Offer a 'classic' graphics mode alongside an improved HD graphics option for nostalgic players.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I bought it and was dissatisfied with the quality. I would like a refund .",
+                "date": "2022-05-01",
+                "value": 15,
+                "potential_idea": "Implement a clear and easily accessible refund policy and process within the app for dissatisfied users.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I bought this game because I love the Papas Games franchise. LOVE IT. I was so excited to play on the phone! But the quality/graphics for most of the Papa games are just not great. The Pancakeria and Donuteria are the only ones from the lot that I bought that has good game quality graphics. \nThe quality in the other games I bought (Tacomia, Burgeria, Cupcakeria, and Freezeria) are also just bad. Please try to get an update for the games for better quality! I love these games and would love to play them without the bad graphics. It gives me a headache to look at. :( \nLOVE the game, don\u2019t love the graphics.",
+                "date": "2021-12-15",
+                "value": 75,
+                "potential_idea": "Offer a graphics quality setting for older Papa's games to improve visual fidelity on modern devices.",
+                "tags": {
+                    "tags": [
+                        "bug",
+                        "valuable opinion"
+                    ]
+                }
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I downloaded because I\u2019m a big fan of the papa games and I was looking for some more games to get on my phone but when I bought it I realized it\u2019s a bit low quality and stuff. I remember seeing the game before and it looked way different from that. ( I was sort of upset there was not custom characters ) I then looked at the reviews and see them saying the same thing. I kept playing it though thinking I might get used to it. No , I did not . It\u2019s so low quality I had to get a refund. But anyways don\u2019t take my word for it . If you wanna play this game, play it but beware on the limited play and quality for iPhone / android users",
+                "date": "2021-12-13",
+                "value": 65,
+                "potential_idea": "Enhance mobile game visuals, character customization, and offer a premium version with higher quality graphics to address user disappointment with current low-quality mobile ports.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "The game looks old. I was disappointed when I finally paid for the game and opened the app lol.",
+                "date": "2021-06-22",
+                "value": 55,
+                "potential_idea": "Introduce a modern UI/UX refresh to enhance the app's visual appeal and perceived value, especially for paying users.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I used to play alll of these games and get really far in them.  and now everything has changed and it is WAY too easy to click the wrong things! I constantly have to remake everything and It is so difficult to navigate around .  Im annoyed I bought this game thinking itd be the original.",
+                "date": "2021-05-15",
+                "value": 75,
+                "potential_idea": "Implement a 'classic mode' or revert to previous UI/gameplay for users who preferred the original experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I was so exited to play and I open the app and the quality is so bad and in my opinion this was a big waste of my money and time please fix and update quality please and thank you",
+                "date": "2021-03-14",
+                "value": 15,
+                "potential_idea": "Improve the visual quality and fidelity of in-app graphics and assets.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1498550832",
+        "name": "ASCCP Management Guidelines",
+        "url": "https://apps.apple.com/us/app/asccp-management-guidelines/id1498550832?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "For multiple scenarios it just loops back to the beginning rather than providing a recommendation.",
+                "date": "2025-04-02",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and state management to prevent infinite loops and ensure consistent user progression through app scenarios.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "This is extreme frustrating - the recommendations in the application version no longer match the web-based version (ie have not been kept up to date)!! This has led to inadvertent mismanagement . And this is a paid application too!",
+                "date": "2025-01-21",
+                "value": 85,
+                "potential_idea": "Synchronize app recommendations with web recommendations in real-time to prevent data discrepancies and ensure consistent user experience.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "I updated the app now I am not able to see all of the options in the drop down menu. My last selection option is AGC\u2026 how can I get the full use of the app???",
+                "date": "2025-01-16",
+                "value": 15,
+                "potential_idea": "Implement a scrollable or expandable dropdown menu to ensure all options are visible and accessible to users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "New update is giving different result despite only supposedly adding dual staining info it now gives different recommendations than prior when no dual staining info is available.",
+                "date": "2025-01-02",
+                "value": 65,
+                "potential_idea": "Implement a rollback feature to revert to previous app versions, allowing users to access stable functionalities and historical recommendation data.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "This app is garbage. It doesn\u2019t allow you to advance through the screens when you enter in certain info (if someone is HPV other positive with NILM cytology.) the flow charts should also be more easy to access. It\u2019s definitely an insult to have to pay 10$ for this.",
+                "date": "2024-12-26",
+                "value": 80,
+                "potential_idea": "Enhance the app's branching logic for complex HPV/cytology scenarios and provide easily accessible flowcharts for improved navigation.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "The new app version is very difficult to navigate in complex patient situations, and is not as straightforward as the previous version. There are also technical difficulties where the app does not scroll appropriately",
+                "date": "2024-12-12",
+                "value": 60,
+                "potential_idea": "Implement a simplified navigation mode or a customizable dashboard for complex patient scenarios to improve usability and a dedicated bug-fixing sprint to address scrolling issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 2,
+                "review": "Most recent update in 2024 much more challenging to navigate- getting stuck in loops when entering information or having entered data under incorrect headings as you progress through the sequence.",
+                "date": "2024-11-27",
+                "value": 75,
+                "potential_idea": "Implement an undo or backtrack functionality within multi-step forms to allow users to easily correct errors or revisit previous steps without losing entered data.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "The new update is horribly confusing. The timeline makes no sense and my colleagues and I are getting frequent different app algorithm answers due to confusion on how to answer the questions.",
+                "date": "2024-11-12",
+                "value": 15,
+                "potential_idea": "Implement an in-app tutorial or guided walkthrough that explains the updated interface and answer submission process to ensure consistent and accurate results.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 2,
+                "review": "It is a more difficult. I was inputting info and was unable to put in the specific results for a patient. Unsure if the pt requires a colpo because inability to input exact results.",
+                "date": "2024-10-30",
+                "value": 75,
+                "potential_idea": "Enhance the patient data input form to include fields for specific diagnostic results, such as those requiring a colposcopy, to ensure accurate patient record keeping and decision-making.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "I have used this app for years. This latest update is terrible. It makes you start with the colpo and make your way backwards and it came to a point in which I had to choose if HPV was positive or negative. Problem was, there was no option for no HPV done. It would not let me proceed from there and was useless. This was on a patient under 30 years old, so co-testing was not done. Ugh",
+                "date": "2024-10-29",
+                "value": 70,
+                "potential_idea": "Introduce an option to clearly indicate when HPV testing was not performed in the app's patient data input flow.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "ASCCP Management Guidelines",
+                "rating": 1,
+                "review": "It doesn\u2019t give me management plans if I don\u2019t have prior history. I can\u2019t skip that part. This needs to be fixed",
+                "date": "2024-10-25",
+                "value": 75,
+                "potential_idea": "Allow users to generate management plans even without prior history by providing dummy or placeholder data options.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
