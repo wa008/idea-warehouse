@@ -6616,5 +6616,596 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1461751938",
+        "name": "Purple Place - Classic Games",
+        "url": "https://apps.apple.com/us/app/purple-place-classic-games/id1461751938?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "Lowkey i was so excited when i saw this but it ain\u2019t nothing like the original like lowkey i was expecting the same sound affects or At least close to the old characters but nope i use to play this game so much but i cant cause this ain\u2019t kinda a replica, can y\u2019all change the sound or characters specially for the cake game i beggggg.",
+                "date": "2025-09-29",
+                "value": 17,
+                "potential_idea": "Reintroduce or offer an option to revert to original sound effects and character designs in the game, particularly for the 'cake game'.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "I\u2019m looking for this game but as pc software so it would be better and more enjoyable I was chocked it\u2019s not",
+                "date": "2025-09-22",
+                "value": 75,
+                "potential_idea": "Develop a PC version of the mobile game, adapting its gameplay and interface for a desktop experience.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Ever so often the entire game board shrinks and the squares overlap each and the only way to get it back to normal is back out and get back in and (most of the time), this starts a new game. Annoying and useless. Definitely not like the original, which would be okay (sort of), if it didn\u2019t glitch.",
+                "date": "2025-07-13",
+                "value": 65,
+                "potential_idea": "Implement a 'resume game' feature to restore the game state after a glitch, preventing accidental game restarts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "i was looking for this game for the longest but it was only on the old pc software so i finally found it on the app store and it\u2019s not the same as before, completely different and not really anything to do anymore its boring and light work\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f, even though it\u2019s just $2 it\u2019s not worth those $2.",
+                "date": "2025-06-30",
+                "value": 75,
+                "potential_idea": "Develop a mobile version of a classic PC game that faithfully recreates the original gameplay to meet the demand of users nostalgic for that experience.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "The game is general is just buggy and.. idk even know.. its buggy, it glitches, the characters look freaky..",
+                "date": "2025-04-05",
+                "value": 15,
+                "potential_idea": "Implement robust bug fixing and character model improvements to enhance game stability and visual appeal.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "It\u2019s not nostalgic how it was back then I\u2019m a 06 baby and it just doesn\u2019t hit the same anymore",
+                "date": "2025-04-04",
+                "value": 75,
+                "potential_idea": "Implement customizable retro themes and personalized content curation to evoke a stronger sense of nostalgia for users.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This is a generic version of the game. Not the same creator. Wouldn\u2019t suggest spending the $1.99.",
+                "date": "2025-03-30",
+                "value": 75,
+                "potential_idea": "Develop a mobile game that is marketed and branded authentically by its original creator, to avoid confusion with similar, potentially lower-quality imitations.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "Nothing like the original game wish I could get a refund.",
+                "date": "2025-03-30",
+                "value": 15,
+                "potential_idea": "Develop a mobile app that accurately recreates the gameplay and experience of classic, beloved video games, focusing on faithful emulation and original mechanics to satisfy nostalgia and fan demand.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "It\u2019s not what you think but it is what you think it was, it\u2019s those games but they aren\u2019t the same and don\u2019t play out as they did when you played it before, the idea is there but the execution isn\u2019t the best.",
+                "date": "2025-03-20",
+                "value": 70,
+                "potential_idea": "Introduce more procedural generation or dynamic event systems to games within the app ensure replayability and a fresh experience each time.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "It's okay I guess... But not worth the $1.99 it's a bad replica of purble place with worse graphics and bad sound design. The original purble place is free and still available to play on computer so just get that instead",
+                "date": "2025-03-18",
+                "value": 60,
+                "potential_idea": "Develop a mobile game that offers a visually appealing and high-quality modern interpretation of classic mini-game collections, like Purble Place, with superior graphics and sound design.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This game has no purpose, no levels or anything. it was fun for 2 seconds. Don\u2019t waste your money.",
+                "date": "2025-02-23",
+                "value": 70,
+                "potential_idea": "Add a structured progression system with levels and objectives to the game to provide a sense of purpose and long-term engagement.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "The real game is called Purble place and has functioning game modes that are more difficult and entertaining than this copy.",
+                "date": "2025-02-23",
+                "value": 55,
+                "potential_idea": "Develop a game with multiple challenging and entertaining game modes inspired by classic games like Purble Place (e.g., memory, logic puzzles, pattern recognition).",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Boring game. Not the same waste of money smh.",
+                "date": "2025-02-10",
+                "value": 15,
+                "potential_idea": "Develop a more engaging and rewarding mobile game experience by incorporating novel gameplay mechanics and a fairer monetization strategy to avoid perceived 'waste of money'.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "I thought it was going to be like purble place. But I\u2019m so disappointed.",
+                "date": "2025-02-07",
+                "value": 15,
+                "potential_idea": "Develop a mobile version of the classic Windows game 'Purble Place' that includes its various mini-games.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "My game froze while making cakes\u2026\ud83e\udee4",
+                "date": "2025-01-29",
+                "value": 15,
+                "potential_idea": "Implement an autosave feature that periodically saves game progress, especially during critical actions like cake creation, to prevent data loss from freezes or unexpected interruptions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "Needs to be more challenging",
+                "date": "2025-01-17",
+                "value": 65,
+                "potential_idea": "Introduce customizable difficulty levels and challenge modes to increase user engagement.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Only one level",
+                "date": "2024-11-30",
+                "value": 12,
+                "potential_idea": "Expand the app with more levels or unlockable content to increase replayability and user engagement.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "I don\u2019t even know how to begin, but something feels so wrong about this. it plays nothing like the peeble place i played as a child. i don\u2019t understand why fully, but it\u2019s just not right. something is off about this game. i\u2019m sorry to the devs",
+                "date": "2024-11-26",
+                "value": 15,
+                "potential_idea": "Develop a mobile game that accurately recreates the nostalgic gameplay experience of 'Peeble Place' from the user's childhood.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Game said 1.99 but charged my card almost 6 dollars!!!",
+                "date": "2024-11-12",
+                "value": 85,
+                "potential_idea": "Implement clear in-app pricing displays and automatic transaction verification to prevent unexpected charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Is not the same as when I was a kid playing it. I payed two dollars for this and I kinda want my money back",
+                "date": "2024-09-09",
+                "value": 16,
+                "potential_idea": "Develop a 'Retro Mode' for the app that emulates the original gameplay experience and aesthetics of classic games it's based on.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Creepy",
+                "date": "2024-08-20",
+                "value": 30,
+                "potential_idea": "Implement enhanced privacy controls and transparent data usage policies to address user concerns about data exposure.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "I absolutely adored this game when it was one of the few game options of the time, among solitaire and minefield. For years I\u2019ve yearned for another chance to play the cake game, hear the sound effects and see the flying clovers\u2026 I was so excited to think I could finally relive those fond memories, however, this recreation hasn\u2019t met my expectations, whatsoever. At first I thought $1.99 was a modest price for the revival of the Purble Place I remember, but this game simply isn\u2019t it. Although most of the visuals are wonderful, I feel a lot more effort could have been put into the actual gameplay. I\u2019ve never purchased a game from the App Store before, but I really got my hopes up. I don\u2019t understand why or how this game could be worth the two dollars.",
+                "date": "2024-07-28",
+                "value": 18,
+                "potential_idea": "Develop a faithful, high-fidelity mobile remake of the classic 'Purble Place' game suite, capturing its original gameplay and aesthetics.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This is a soulless attempt at replicating something that was great. The updated graphics ruin it, the dolls don't register moves half the time. You only get to make one tier cakes on a belt that needs to be moved manually.\nIt's not even close to the original or even fun for that matter. It's just a soulless cash grab at nostalgia.",
+                "date": "2024-06-08",
+                "value": 15,
+                "potential_idea": "Revert the app to its original graphics and core mechanics, prioritizing responsive gameplay and more complex cake-building options.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "I remember playing this game as a kid and purchased it immediately after seeing it on the App Store. Imagine my disappointment when I realized the cake game, my absolute favorite, was made into a simple cake copying game without an ounce of difficulty.\nThe conveyor belt does not even move on its own anymore and at most you\u2019ll make a one tier cake. Don\u2019t waste your money and just reminisce through memories.",
+                "date": "2024-05-25",
+                "value": 75,
+                "potential_idea": "Reintroduce more complex and challenging cake-decorating gameplay mechanics with adjustable difficulty levels to satisfy nostalgic and new players.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This game is absolutely nothing like the OG one on the computer, Highly disappointed and a waste of my 2 dollars !!! \ud83d\ude21",
+                "date": "2024-05-01",
+                "value": 18,
+                "potential_idea": "Develop a mobile game that faithfully recreates the classic 'OG' computer game experience with modern mobile controls and interfaces.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "the original game got harder as you played. this ine just lets you replay the first level of each over and over.",
+                "date": "2024-04-27",
+                "value": 75,
+                "potential_idea": "Implement a dynamic difficulty scaling system that gradually increases game challenge based on player progression, rather than simply replaying early levels.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Not the original purple place, very disappointed.",
+                "date": "2024-04-19",
+                "value": 15,
+                "potential_idea": "Develop a nostalgic game mode or app that recreates the original 'Purple Place' experience for users seeking its specific gameplay.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Waste of money! Not like the original. Free games are better.",
+                "date": "2024-03-21",
+                "value": 15,
+                "potential_idea": "Offer a free tier with limited functionality or a trial period to attract users before they commit to a paid subscription.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "What if I didn\u2019t like it and want to delete it but I already paid for it\ud83d\ude2d",
+                "date": "2024-01-24",
+                "value": 75,
+                "potential_idea": "Implement a robust in-app refund system for dissatisfied paid users to allow for returns within a specified timeframe.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6740349855",
+        "name": "Backyard Football '99",
+        "url": "https://apps.apple.com/us/app/backyard-football-99/id6740349855?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Backyard Football '99",
+                "rating": 2,
+                "review": "Needs an analog stick for player movement. There is plenty of space since the game doesn\u2019t take up the whole screen. Also pretty laggy. When I click a play there is like a 2 sec delay",
+                "date": "2025-09-12",
+                "value": 65,
+                "potential_idea": "Implement a customizable on-screen analog joystick for player movement in games to improve control precision and responsiveness.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Football '99",
+                "rating": 1,
+                "review": "Without question this is the worst Iphone game I\u2019ve ever played let alone payed for.  Refund should be issued to me and everyone.",
+                "date": "2025-09-09",
+                "value": 15,
+                "potential_idea": "Implement a robust refund system for in-app purchases or paid apps that are demonstrably poor quality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Football '99",
+                "rating": 2,
+                "review": "Need to have a digital analog stick. Lot of times when you run the ball you\u2019ll try to tap to run but the running back will pass the ball. Game is to clunky",
+                "date": "2025-09-09",
+                "value": 70,
+                "potential_idea": "Implement a customizable on-screen digital analog stick for nuanced character control, allowing alternative input methods beyond simple taps.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "298206806",
+        "name": "iReal Pro",
+        "url": "https://apps.apple.com/us/app/ireal-pro/id298206806?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "iReal Pro",
+                "rating": 2,
+                "review": "This is basically an iPhone apps that was clumsily updated for iPad. If you\u2019re planning on using this on your iPad and are planning on creating your own backing tracks for practice sessions, I would look elsewhere. It is rarely updated. If you download pre-made charts for backing tracks it works pretty well, but I need to make practice material and attempting to input chords and formatting is clumsy. The assistance from the forums is outdated, all the tutorial demonstrations are screen recordings from an old iPhone. If you are a musician and you pay for this and you are expecting forScore or Andante, this isn\u2019t that.",
+                "date": "2025-08-15",
+                "value": 65,
+                "potential_idea": "Develop a dedicated iPad-optimized music practice app with an intuitive interface for creating custom backing tracks, chords, and formatted practice materials, offering up-to-date tutorials and active community support.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "iReal Pro",
+                "rating": 1,
+                "review": "Not at all what I was looking for.  Songs I imported sound pathetically amateurish.  Wanted something to play along with and every sample I\u2019ve listened too.  $20 wasted.",
+                "date": "2025-03-08",
+                "value": 75,
+                "potential_idea": "Develop a mobile app focused on providing high-quality, professional instrumental backing tracks or 'play-along' samples for amateur musicians, emphasizing a polished sound that complements user-imported audio.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "iReal Pro",
+                "rating": 2,
+                "review": "What is it now, 2005? Imagine an app that requires you to have a username and password. You have to come up with an original username so you are forced to try a bunch of things til you get one that nobody else has. Now a few years go by and you want to find more charts so you try to log in so you can access the forums. What was that username you made up on the fly when you first bought the app? Donn\u2019t know it? You are out of luck. There\u2019s a \u201cforgot password\u201d option, but no \u201cforgot username\u201d option. You spent 20-something dollars for the app, and it\u2019s pegged to your Apple ID. You are using the same device, same Apple ID you had when you bought the app. But no, you are locked out. You won\u2019t be getting in. Period.  So many things about this old, clunky app are just like this. Want to name a chart you just created? If a chart already exists for that song on any of the playlists you have previously downloaded, you will not be able to use that title. You\u2019ll have to call your chart All Of Me 2, or something like that. You\u2019ll find the whole app is riddled with nutty appendices on the names of common songs. It\u2019s so freaking cumbersome amd clunky. It\u2019s from a bygone era, but it\u2019s what everyone uses for the time being, so it\u2019s what you are stuck with.",
+                "date": "2024-11-26",
+                "value": 18,
+                "potential_idea": "Implement a 'forgot username' feature and allow chart title customization to prevent duplicate naming with unique identifiers.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "iReal Pro",
+                "rating": 1,
+                "review": "I wish I could tell what I think about what this app does. It might just be amazing. Certainly some people seem to think it is. However the needlessly complicated registration process had me fuming from the moment I started to register and after 45 minutes I never did get registered. I don't know whether I hate this app or not, but I certainly hate its registration process.",
+                "date": "2024-11-21",
+                "value": 85,
+                "potential_idea": "A simplified, streamlined registration process for new users, possibly with options for social login or a guest mode.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "iReal Pro",
+                "rating": 1,
+                "review": "I do not understand why everybody raves about this. I have no idea how to decipher these gobbledygook charts. No lyrics no nothing. Just a bunch of slashes and triangles and stuff. Get guitar tapp, it at least has the lyrics and where the changes are. This is terrible. I guess they just assume you magically already know \"chart-ese\" \nUpdate - there's no way like in the app it doesn't even show you what your username and password is. This is the most complicated load of garbage I ever saw in my life..",
+                "date": "2024-08-22",
+                "value": 85,
+                "potential_idea": "Integrate clear, human-readable explanations and tutorials for understanding complex musical notation charts within the app, including optional lyric overlays.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "iReal Pro",
+                "rating": 1,
+                "review": "You can\u2019t even reset your password. It sends you a link to reset your password that requires your password. Bizarre. No wonder I stopped using it a while back. I thought they might have made it easier to use. Nope\u2026.can\u2019t even get started.",
+                "date": "2023-07-16",
+                "value": 90,
+                "potential_idea": "Implement a secure and intuitive password reset flow that does not require the user's current password.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "iReal Pro",
+                "rating": 1,
+                "review": "Every time I open the app it immediately closes back out",
+                "date": "2023-05-23",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated app stability monitoring to proactively identify and resolve technical issues.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6450724928",
+        "name": "Luck be a Landlord",
+        "url": "https://apps.apple.com/us/app/luck-be-a-landlord/id6450724928?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 1,
+                "review": "Cool idea but not well executed",
+                "date": "2025-09-22",
+                "value": 5,
+                "potential_idea": "Refine core app functionality and user experience to align with the initial concept.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 2,
+                "review": "While I absolutely love this game on the phone, the iPad version needs a fix to the UI. Cuts off item descriptions and you need to scroll down to read what each symbol does. There\u2019s no practical need for this, since there is ample screen to use if it were resized properly.",
+                "date": "2025-03-10",
+                "value": 65,
+                "potential_idea": "Implement an adaptive UI layout for the iPad version that properly displays all item descriptions and symbol explanations without requiring scrolling.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 2,
+                "review": "I think the base game is great. It doesn\u2019t appear to be updated or balanced anymore but it\u2019s still good. The reason for the low review is that the UI is cutoff and on iPad. It makes it virtually unplayable on iPad. I\u2019ve tried contacting the dev and not heard back. Disappointing!",
+                "date": "2025-01-19",
+                "value": 70,
+                "potential_idea": "Optimize the mobile app's UI for tablet devices, specifically addressing cutoff elements and ensuring full usability on iPads.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 1,
+                "review": "This game is great, but the UI is terrible on my iPad Pro. The game used to display very well, but an update last year ruined it. Parts of the screen are unused and you need to scroll down to read item descriptions.",
+                "date": "2024-03-15",
+                "value": 15,
+                "potential_idea": "Implement responsive UI scaling for larger tablet screens, optimizing layout and eliminating unused space to improve readability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 1,
+                "review": "I played for a few hours while trying to decipher good strategies or synergies. I never once got a good synergy going as there are so many pieces. Not a bit of dopamine. And the touch screen buttons had to be hit many times to work?",
+                "date": "2024-03-02",
+                "value": 15,
+                "potential_idea": "Implement a visual synergy suggestion system that highlights compatible game pieces and their potential benefits to help players discover strategies more easily.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 2,
+                "review": "I know low res graphics are a style choice, but this game needs better resolution to differentiate between symbols.\nIt is very hard to decipher what each card does, and tapping inside the description is infuriatingly small.\nThere are some animation speed adjustments, but I want to see the money collected from each icon slowly, so I can figure out what is actually happening. It would be nice to tap to collect the money.\nIt is never clear when I can use the remove button.",
+                "date": "2023-09-17",
+                "value": 75,
+                "potential_idea": "Implement a 'slow-motion' mode for visually analyzing in-game money collection and a tap-to-collect feature. Additionally, improve visual clarity for card symbols and the 'remove' button functionality.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 1,
+                "review": "The only way to win the higher ascension levels is explicitly getting lucky. You can play it perfectly game after game and just get shafted for absolutely no reason. Was obscenely easy until ascension level 11, and now I\u2019ve been stuck there for 13 games (literally have only ever lost one other time, and that was on level 10)",
+                "date": "2023-08-24",
+                "value": 45,
+                "potential_idea": "Introduce a 'skill-based lottery' mechanic for higher ascension levels, allowing players to improve their odds based on in-game performance rather than pure chance.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Luck be a Landlord",
+                "rating": 1,
+                "review": "I don\u2019t want this game to seek too much or you might enjoy capitalism too much.",
+                "date": "2023-08-20",
+                "value": 15,
+                "potential_idea": "Implement a 'game pace' or 'session length' setting to allow users to customize the duration and intensity of gameplay.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "432850619",
+        "name": "FL Studio Mobile",
+        "url": "https://apps.apple.com/us/app/fl-studio-mobile/id432850619?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "FL Studio Mobile",
+                "rating": 2,
+                "review": "I\u2019ve had this app for about 5 years, hopping back on to tweak an old beat or trying something new. Every, single, time, I would open this app, there would be another glitch in my beats that needs updated. For example, the kicks won\u2019t work because I have to reinstall the input, or a certain effect doesn\u2019t work anymore. Now, after experiencing that same issue and attempting to troubleshoot it, I decided to delete the app and reinstall it to see if that would fix it. I\u2019ve done it in the past and it worked out so no problem. Except this time, ALL OF MY FILES WERE DELETED.\nEvery, single beat I\u2019ve made or worked on for the past 5 years is gone. Poof! Countless hours of effort to craft my own sounds, just for it to corrupt in a bad app and get lost somewhere. I tried recovering them, nothing works and they\u2019ve vanished. Now I don\u2019t even want to touch this app or the computer version. \n\nOverall, the experience was fun, but I would recommend investing your time in a different program that\u2019s more stable than this one. Otherwise, everything you\u2019ve worked on may be randomly deleted.\n\nP.S. I purchased half of all the add ons, after my initial purchase of the app, and this happened.",
+                "date": "2025-09-27",
+                "value": {
+                    "intensity": 25,
+                    "difference": 15,
+                    "scope": 25,
+                    "feasibility": 10,
+                    "total": 75
+                },
+                "potential_idea": "Implement robust cloud backup and sync functionality to automatically save user projects and prevent data loss.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "FL Studio Mobile",
+                "rating": 1,
+                "review": "This is a new program entirely, nothing at all related to or similar to FL Studio for PC. I spent over 10 mins just trying to make any sound and gave up then deleted. Learning curve is way too steep.",
+                "date": "2025-09-24",
+                "value": 18,
+                "potential_idea": "Implement an interactive, guided tutorial or beginner-friendly mode with simplified controls and pre-set sounds to ease the onboarding process for new users.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "FL Studio Mobile",
+                "rating": 2,
+                "review": "It's so cool",
+                "date": "2025-09-17",
+                "value": 0,
+                "potential_idea": "Not enough information to generate a new idea.",
+                "tags": []
+            }
+        ]
     }
 ]
