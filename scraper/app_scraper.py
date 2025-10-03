@@ -27,18 +27,23 @@ def get_top_paid_apps(num=200):
         logging.error(f"Could not get top paid apps: {e}")
         return []
 
-def get_reviews_for_app(app, model):
+def get_reviews_for_app(app, model, remaining_quota):
     """
     Get low-rated reviews for a given app.
     """
     logging.info(f"Getting reviews for {app['title']}...")
     reviews = []
+    processing_review_amount = 0 
     try:
         result = subprocess.run(["node", "scraper/get_reviews.js", str(app['id'])], capture_output=True, text=True, check=True)
         scraped_reviews = json.loads(result.stdout)
         logging.info(f"Found {len(scraped_reviews)} reviews for {app['title']}")
         for r in scraped_reviews:
             if r['score'] <= 3:
+                logging.info(f"Processing review: {processing_review_amount} / {remaining_quota} for curect app {app['title']}")
+                processing_review_amount += 1
+                if processing_review_amount > remaining_quota:
+                    break
                 analysis = model.get_review_analysis(r['text'])
                 review = {
                     "app_name": app["title"],
@@ -83,6 +88,7 @@ class AppScraper:
 
     def run(self, num_apps=200, max_reviews=30, from_scratch=False):
         logging.info("Starting scraper...")
+        logging.info(f"max_reviews: {max_reviews}")
         if from_scratch:
             self.apps_data = []
             self.processed_apps = {}
@@ -95,18 +101,19 @@ class AppScraper:
         total_reviews_processed = 0
 
         for app in apps_to_process:
+            logging.info(f"Totally processing reviews {total_reviews_processed} / {max_reviews}")
             if total_reviews_processed >= max_reviews:
                 logging.info(f"Review quota of {max_reviews} reached. Stopping.")
                 break
 
+            remaining_quota = max_reviews - total_reviews_processed
             logging.info(f"Processing app: {app['title']}")
-            reviews = get_reviews_for_app(app, self.llm_model)
+            reviews = get_reviews_for_app(app, self.llm_model, remaining_quota)
             
             if not reviews:
                 self.processed_apps[str(app['id'])] = datetime.now().isoformat()
                 continue
 
-            remaining_quota = max_reviews - total_reviews_processed
             if len(reviews) > remaining_quota:
                 reviews = reviews[:remaining_quota]
 
