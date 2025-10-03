@@ -9610,5 +9610,599 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "338893931",
+        "name": "Prepware Aviation Maintenance",
+        "url": "https://apps.apple.com/us/app/prepware-aviation-maintenance/id338893931?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "Will not grade after completing test on Mac mini M1 or MacBook M1. Cannot exit to save current session.",
+                "date": "2025-06-06",
+                "value": 15,
+                "potential_idea": "Implement an autosave feature for ongoing test sessions to prevent data loss on Mac M1 devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "As you can see in the comments, this app for Mac OS is extremely basic. I am currently using the app but it\u2019s frustrating when I am trying to study and there is no way to customize my study session. Most recently the app stopped working, not sure if others are having the same issue. I can take a practice test and it will not grade it anymore, the grade button does nothing. I have uninstalled and reinstalled the app but thing works so far and there is zero information that I can find online. The app feels like it was abandoned long ago but they are still making profit on downloads because students need it to prep for their exams. I hear windows has a better product than Mac users will ever get.",
+                "date": "2025-05-20",
+                "value": 75,
+                "potential_idea": "Develop a feature for the Mac OS app that allows users to customize their study sessions, addressing the user's frustration with the current basic functionality and lack of personalization.",
+                "tags": [
+                    "no update for long time",
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 2,
+                "review": "Around 40-50% of the questions in the exam will be here.",
+                "date": "2025-02-25",
+                "value": 15,
+                "potential_idea": "Develop a study mode within the app that specifically highlights or prioritizes questions based on their predicted exam relevance, as indicated by the user.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "This app is a good deal for studying but for no reason, in the practice test function, the grade and exit test buttons don\u2019t do anything. They stopped working randomly and now the only option is the study section which won\u2019t generate a practice test bank. I just want this fixed and have not seen anyone else with a similar issue.",
+                "date": "2025-01-21",
+                "value": 18,
+                "potential_idea": "Implement robust error handling and an automatic recovery mechanism for critical UI elements within the practice test function.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 2,
+                "review": "Was working fine about 4 months ago updated now it won\u2019t let me trade or exit I have to exit and restart app",
+                "date": "2025-01-02",
+                "value": 60,
+                "potential_idea": "Implement a background process for trading and exiting to prevent app restarts.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "Do not buy every questions from here are very different from the actual exam.",
+                "date": "2024-11-18",
+                "value": 18,
+                "potential_idea": "Develop a mobile app that provides updated and verified practice questions that accurately reflect actual exams in various fields.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 2,
+                "review": "After the recent update, it will not allow to grade the practice test.",
+                "date": "2024-10-17",
+                "value": 15,
+                "potential_idea": "Enable grading of practice tests in the mobile app, as it was previously possible before the recent update.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "yeah",
+                "date": "2024-06-02",
+                "value": 0,
+                "potential_idea": "This review is too vague to generate a meaningful idea.",
+                "tags": []
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "\u0628\u0631\u0646\u0627\u0645\u062c \u0643\u0631\u064a\u0647 \u0628\u0645\u0639\u0646\u0649 \u0627\u0644\u0643\u0644\u0645\u0629",
+                "date": "2024-03-23",
+                "value": 10,
+                "potential_idea": "Improve app usability and overall user experience.",
+                "tags": []
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 2,
+                "review": "This app is a great study tool but it lacks personalization features. Features like make your own quiz, separate missed questions, and saving missed questions. The pc version (1.57.2) will not grade when a quiz is finished. Some explanations lack content.",
+                "date": "2024-02-13",
+                "value": 75,
+                "potential_idea": "Implement robust personalization features for quizzes, including user-created quizzes, dedicated sections for missed questions with saving capabilities, and richer explanation content.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "Questions are old",
+                "date": "2023-12-22",
+                "value": 40,
+                "potential_idea": "Implement a feature to regularly update or refresh the app's question database to ensure users have access to current and relevant content.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 2,
+                "review": "Don\u2019t waste your time with this. Find the updated questions because it\u2019s certainly not the ones that will be on the test. This app for basic knowledge of the subjects.",
+                "date": "2023-10-07",
+                "value": 70,
+                "potential_idea": "Develop a mobile study app that guarantees up-to-date content for certification exams, ensuring users practice with the most relevant questions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Prepware Aviation Maintenance",
+                "rating": 1,
+                "review": "Should be updated",
+                "date": "2023-05-24",
+                "value": 5,
+                "potential_idea": "Regularly scheduled app updates with improved functionality and bug fixes.",
+                "tags": [
+                    "no update for long time"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1241909999",
+        "name": "WorkOutDoors",
+        "url": "https://apps.apple.com/us/app/workoutdoors/id1241909999?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "This has been my go to app for over 300 miles. Now, the metrics are way off \u2014 whether the treadmill speed is set at 4 or 6 mph, the watch app is not capturing the correct pace. The watch is calibrated. I ran 15 miles outside with GPS, as I\u2019ve done in the past, only now, when using the app for an indoor run, my pace is 1m 30 sec. off from my outdoor pace \u2014 no matter how fast or slow the treadmill belt speed\u2026 I will no longer use this app if this does not get fixed soon.",
+                "date": "2025-09-10",
+                "value": {
+                    "intensity": 23,
+                    "difference": 15,
+                    "scope": 20,
+                    "feasibility": 18,
+                    "total": 76
+                },
+                "potential_idea": "Implement an advanced treadmill calibration feature that can detect and compensate for discrepancies between reported treadmill speed and actual pace, particularly for indoor runs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 2,
+                "review": "Since the latest update (6.0.14) this app has consistently froze in the middle of workouts while tracking with Apple Watch.",
+                "date": "2025-09-07",
+                "value": 70,
+                "potential_idea": "Develop a robust bug reporting and crash analysis system within the app, allowing users to submit detailed logs directly to developers when issues like freezing occur.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "Installed the app read thru the instructions and followed all troubleshooting tips and the app just opens up and does nothing want a refund",
+                "date": "2025-09-06",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting and automated troubleshooting guide within the app to proactively address user installation and initiation issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "Update 6.0 erased all my personal settings. Worst of all the metric label fonts (I.e. bpm, %hr, etc.) are now TINY, UNREADABLE and the user can\u2019t change them. How many of your Customers asked you to erase their settings?  How many of your Customers can read the tiny little fonts while running or hiking?  Is this company arrogant or carelessly incompetent?",
+                "date": "2025-08-31",
+                "value": 70,
+                "potential_idea": "Implement a font size customization option for all in-app text, especially metric labels, to improve readability for users in various conditions.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "I purchased this app for my Apple Watch S9, the maps functionality is so far behind the ability of my $46 knock-off watch it\u2019s almost laughable \u2026 the folks at WorkOutDoors and their mapping functionality are sadly about 15 yrs behind..",
+                "date": "2025-07-22",
+                "value": 65,
+                "potential_idea": "Enhance the app's map functionality with advanced features similar to those found on dedicated GPS watches, including more detailed map layers and offline map support.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "Not intuitive at all. I would like a refund.",
+                "date": "2025-06-23",
+                "value": 10,
+                "potential_idea": "Redesign the app's user interface for improved intuitiveness and ease of use.",
+                "tags": []
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 2,
+                "review": "This app is good but it should have a button natively on both watch and app to communicate or recalibrate. Like a sync button between the two. I can\u2019t send or receive past workouts on the app to the watch (yes I tried uninstalling and rebooting app. Restarted app on both phone and watch) im on the latest version of iOS and watch OS and they can\u2019t seem to communicate I can\u2019t send a single workout, map, or running screen that I edited on my phone to the watch :/ other than that the potential for this app is really good",
+                "date": "2025-06-08",
+                "value": 70,
+                "potential_idea": "Implement a dedicated 'sync' or 'recalibrate' button within the mobile app and on the smartwatch companion app to ensure seamless data transfer and communication between devices.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "335709058",
+        "name": "Stylebook",
+        "url": "https://apps.apple.com/us/app/stylebook/id335709058?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "The app is ok. It\u2019s good to visualize what I own. \n\nI would like there to be easier import and export features via .csv so I can import items in mass or update meta data like brand, url and price if I already had it separately logged. I also don\u2019t see why there\u2019s a men\u2019s app sold separately with all the same features. I would like this app to just be able to toggle the app icon and in app theme. \n\nI\u2019d like a desktop companion app too.",
+                "date": "2025-08-17",
+                "value": 75,
+                "potential_idea": "Implement bulk import/export functionality via CSV, allowing users to manage item metadata like brand, URL, and price more efficiently, along with the ability to toggle the app icon and theme from within the app, and offer a desktop companion app.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "For some reason, items that I add keep getting erased. I save them and see them in the Closet, then a few days later they are gone. I contacted the developer but it has been two weeks and no response.",
+                "date": "2025-08-17",
+                "value": 15,
+                "potential_idea": "Implement a cloud-based backup and sync feature for user-added items to prevent data loss and ensure accessibility across devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "I've been using this app for years and the editing was always great. With the new update it has taken a step back. The advanced editing window is tiny (on my iPad anyway) and the zoom in and out feature for getting in close has completely disappeard.",
+                "date": "2025-08-06",
+                "value": 70,
+                "potential_idea": "Implement a resizable and more accessible advanced editing window, including a dedicated zoom function, for tablet users to improve the editing experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "Heard about this app from a recent news article and thought it would be a great way to organize. Read through the details and nowhere does it describe this as a woman\u2019s app. The company makes an app specifically for men, but this is not it. They should make that known in the product details. If I had known, I never would have purchased this. I have absolutely no use for it.",
+                "date": "2025-06-21",
+                "value": 15,
+                "potential_idea": "Clearly differentiate app target audiences (e.g., male, female, general) in app store descriptions and marketing materials.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "Every time i add a link to clip a product from a website the app crashes. This was my favorite feature for adding in new clothes since the image quality was typically better and now I can\u2019t use it",
+                "date": "2025-05-18",
+                "value": 15,
+                "potential_idea": "Implement a bug-free linking feature for clipping products, ensuring reliable image capture and app stability to restore user functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "I\u2019ve been using this app to organize my closet for years. It\u2019s been straightforward and intuitive. The new update puzzled me because it addresses things that have always worked. One of which adding new images of clothing pieces. I like to thrift and those images usually involve a mannequin. Instead of erasing it, I crop as much of it out and what\u2019s left unobtrusively remains in the picture. Post update, every time I add a new piece, the auto detect feature with erase a few spots in the picture. It\u2019s made adding thrifted pieces a pain. Please let me know how to revert the update.",
+                "date": "2025-05-02",
+                "value": 60,
+                "potential_idea": "Allow users to disable or configure the 'auto-detect and erase' feature for image uploads to prevent unwanted cropping of clothing items with mannequins.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "Syncing seemed like a great upgrade! But even though I first synced my main device, syncing duplicated items and added back items I had deleted. Now I have to go back through every category.  Ugh! I DID NOT SYNC THE DEVICES SIMULTANEOUSLY. IT WAS AT LEAST A WEEK APART.",
+                "date": "2025-05-02",
+                "value": 90,
+                "potential_idea": "Implement a robust conflict resolution system for syncing that automatically detects and resolves duplicate and deleted item conflicts, offering users clear options for manual intervention when automation is uncertain.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "Tried to input photo of a new pair of sandals and the auto editer took off the entire white platform sole making the shoe look flat and there doesn\u2019t seem to be a way for me to fix it.",
+                "date": "2025-04-23",
+                "value": 15,
+                "potential_idea": "Allow users to manually adjust or disable automatic photo editing features before saving to ensure accurate product representation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "I accidentally downloaded the app and it charged me for the subscription that I never intended to purchase. Now there is not contact info from this app, I am not sure who I can contact, this is annnoying",
+                "date": "2025-04-05",
+                "value": 75,
+                "potential_idea": "Implement prominent and readily accessible customer support contact information within the app to facilitate easy communication for billing and subscription inquiries.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "I\u2019ve been using this app for a while and was pretty disappointed to see the addition of generative AI in the most recent update. You can\u2019t even opt out of the AI auto cropping when you add an item.",
+                "date": "2025-04-03",
+                "value": 15,
+                "potential_idea": "Allow users to disable or customize AI features like auto-cropping to maintain manual control over content.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1505636751",
+        "name": "TeleGuard",
+        "url": "https://apps.apple.com/us/app/teleguard/id1505636751?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "download speeds are abysmal",
+                "date": "2025-09-15",
+                "value": 15,
+                "potential_idea": "Implement adaptive streaming that dynamically adjusts video quality based on current download speeds to provide a smoother viewing experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "For some reason out of nowhere none of the videos shared in the app have volume, even the ones sent from my device to the app. It\u2019s very bad and super annoying.",
+                "date": "2025-06-05",
+                "value": 15,
+                "potential_idea": "Implement a robust audio troubleshooting guide and automatic audio detection for shared videos within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "If you read the reviews looks like many users got banned for participating in illicit groups. TG banned them all, which means they can track, monitor, and see content of these groups, which contradicts its claim of being safe and private. \n\nI wish they could address this",
+                "date": "2025-03-10",
+                "value": 65,
+                "potential_idea": "Introduce an optional, end-to-end encrypted 'private mode' for groups that offers enhanced anonymity and privacy guarantees beyond Telegram's current offerings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "I don\u2019t mean the app (I didnt mind paying for the app but they CHARGE for every phone call",
+                "date": "2025-03-07",
+                "value": 12,
+                "potential_idea": "Offer a subscription tier with unlimited phone calls for loyal users or introduce bundled call credits.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "The app quits when trying to add phone credit.",
+                "date": "2025-03-01",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting for the phone credit addition feature.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "Paid for this app a few days ago and got device banned this morning when I woke up to check my messages. If I could give zero stars I would. I highly don\u2019t recommend buying this app.",
+                "date": "2025-02-27",
+                "value": 15,
+                "potential_idea": "Implement a clear and transparent policy outlining reasons for device bans and create a straightforward appeal process for users who believe they were banned in error.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "When I try to register it just says no connection to server over and over and over",
+                "date": "2025-01-20",
+                "value": 15,
+                "potential_idea": "Implement robust offline registration capabilities or at least provide clearer error messaging for connection issues during registration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "if i could give it a 0 i would. this app is for CRIMINALS. IT IS FOR CRIMINALS!!!!! THERE IS NO TRACE OF WHAT U DO ON HERE THAT LEADS BACK TO U! ITS DISGUSTING WHAT PEOPLE HAVE SENT ME WITHOUT CONSEQUENCES",
+                "date": "2025-01-19",
+                "value": 18,
+                "potential_idea": "Implement user identity verification and content flagging to prevent anonymous misuse and track down illicit content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "App stopped working weeks ago. I\u2019ve tried everything to address the \u201cno connection to server\u201d message, including  uninstalling and reinstalling. Nothing.",
+                "date": "2024-12-20",
+                "value": 15,
+                "potential_idea": "Implement robust offline functionality and clear error messaging for connection issues within the mobile app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "I accidentally logged out of my account which I\u2019m not mad about but I\u2019ve tired contacting customer service to help my cause every time for the past 2 weeks when I try to make a new account it repeatedly says \u201cNo connection to server\u201d plz help",
+                "date": "2024-12-16",
+                "value": 18,
+                "potential_idea": "Implement a robust offline mode or improved error handling for account creation to prevent \"No connection to server\" errors.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "Went to redownload the app but I cannot connect to the server has been about a month and it\u2019s still not accessible.",
+                "date": "2024-12-13",
+                "value": 70,
+                "potential_idea": "Implement robust server status monitoring and user-facing outage notifications within the app or on a dedicated status page.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "The app is definitely a work in progress. It lags ALOT. When trying to send media even if it\u2019s 19 secounds it takes for ever to upload and then even that the download speed is crazy long for something so short. Try to send family from overseas videos and they just take too long. Even a 10 second video I was trying to send saying hello takes for ever. Please update your stuff. There are literally so many apps that have faster download and upload speed than TeleGuard. It might not be working as good but others definitely have their media sending and downloading issue handled. Also if someone is sending media to someone why would they be required to download it manually. It should automatically be downloaded if someone send them something. \n\nOn another note. Why does media expire after a certain amount of time? I heard it was a TeleGuard thing where after two weeks the media will expire. Please remove that or fix it to keep media content on there. \n\nPlease work on that. Like REALLY work on it. Telegram puts yall to shame.",
+                "date": "2024-10-27",
+                "value": 18,
+                "potential_idea": "Implement automatic media downloading for incoming messages and remove the two-week media expiration to improve user experience for faster, more reliable media sharing.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "i received some videos & they won\u2019t load & play they keep loading to 100 the. starting back over",
+                "date": "2024-09-30",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and alternative playback mechanisms for videos that fail to load or play, providing clear user feedback on the issue.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "App performance is too poor for it to be native performance on my iPhone 14 Pro Max. Either a port or needs an update.",
+                "date": "2024-09-25",
+                "value": 10,
+                "potential_idea": "Optimize the app for native-level performance on high-end iOS devices to address user concerns about sluggishness.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "The messaging works but uploading pictures or videos doesn\u2019t. Devs should check in on this.",
+                "date": "2024-07-23",
+                "value": 10,
+                "potential_idea": "Implement robust media sharing functionality, including photo and video uploads, into the app.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "Why does this app need full access of my gallery?",
+                "date": "2024-07-14",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "This has been happening for days and happens too often.",
+                "date": "2024-05-28",
+                "value": 15,
+                "potential_idea": "Implement robust error reporting and immediate debugging for recurring technical issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "For sometime the app did work but now it keep saying \u201cno connection to server\u201d where new feeds are not showing up anymore.",
+                "date": "2024-05-25",
+                "value": 15,
+                "potential_idea": "Implement robust offline caching and synchronization for feed content to ensure uninterrupted access even with intermittent server connectivity.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "Very interesting and promising app but lets say for middle east countries specially iran very poor video and audio call it takes an age to be connected and once its connected be disconnected immediately and quality is so poor",
+                "date": "2023-01-06",
+                "value": 80,
+                "potential_idea": "Optimize video and audio call performance for users in regions with challenging network conditions by implementing adaptive bitrate streaming and advanced network error correction.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "The app looks nice and the security aspect of it sounds great. Unfortunately, it is impossible to link my US phone number with the app - I get a \u201cSend approve code error\u201d every time I try. Therefore, I am unable to see any friends which might use this app.\n\nUpdate: \nThe problem with my American cell phone is not due to adding additional 0s as suggested by the developer. The app shows the number correctly in the format +1-XXX-XXX-XXXX before it fails to send me the confirmation text message. Therefore I tried to contact customer support as instructed on their website directly via their Teleguard ID. However, I can\u2019t communicate with them as nobody accepts my \u201cinvitation\u201d. The contact for Teleguard Support shows since 2 weeks in broken English \u201cyou have send invite\u201d.\nI still think this app would be great if it worked, but as of now, it does not work for me at all.",
+                "date": "2022-01-26",
+                "value": 70,
+                "potential_idea": "Implement a robust and multilingual customer support system to assist users with account verification and technical issues, particularly for international phone number linking.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
     }
 ]
