@@ -8405,5 +8405,602 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "388857410",
+        "name": "Blackjack & Card Counting Pro",
+        "url": "https://apps.apple.com/us/app/blackjack-card-counting-pro/id388857410?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "This is terrible app I wish I could get my money back for it idk why I purchased it , i does not teach you anything at all you just play play jack and they call it training I need a refund somehow \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f",
+                "date": "2025-09-10",
+                "value": 75,
+                "potential_idea": "Develop an educational mobile app that focuses on structured learning modules and practical skill application rather than gamified exercises.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "I didn\u2019t know it was just some notification saying what they suggested on. I thought it was going to explain very play if what is statically accurate to split, hit, stand, and double.. I would see a refund would be nice",
+                "date": "2025-09-09",
+                "value": 68,
+                "potential_idea": "Provide detailed in-app explanations and examples for statistical concepts like split, hit, stand, and double, enhanced with visual aids, to improve user understanding beyond simple notifications.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 2,
+                "review": "The training is ok. No single deck. Dealer gets bj and 21 10x as many times as player. Just like Vegas. Don\u2019t buy.",
+                "date": "2025-08-04",
+                "value": 15,
+                "potential_idea": "Incorporate a 'training mode' that simulates realistic Blackjack card distributions, including the high frequency of dealer Blackjacks and 21s observed in actual casinos.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "Running count is wrong im playing 2 hands, i got 7,5 jack,2 and dealer is showing 5  but its saying running count is 0",
+                "date": "2025-05-23",
+                "value": 15,
+                "potential_idea": "Implement a more robust and visually accurate running count display for card counting games that dynamically updates with user inputs, potentially with error-checking or confirmation steps.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 2,
+                "review": "This is a good app don\u2019t get me wrong, helpful for beginners. It is simply just not worth $5. Once I bought the app, the most helpful feature was speed counting practice, but guess what? I HAD TO PAY FOR IT after paying to even download the app. Your $5 just lets you play fake blackjack and gives you a counter on the side, which yeah is helpful when trying to learn to count. But accessibility is poor (can\u2019t check count in between hands to double check if I am on track or not) and it is just overwhelmingly underdeveloped and in this day and age, $5 is such an overrated price for a simulation with like 3 features. $2 at best (Including ALL features).",
+                "date": "2025-05-14",
+                "value": 65,
+                "potential_idea": "Introduce a freemium model with a basic version of the speed counting practice available for free, and unlock advanced features or unlimited practice time with a one-time purchase.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "No sound, does not gamify the process of learning counting- boring, bland, not intuitive- even after you pay, one mode is still pay walled",
+                "date": "2025-05-05",
+                "value": 70,
+                "potential_idea": "Introduce gamified elements and an enhanced audio feedback system to make learning counting more engaging.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "App will not leave you alone until you give it a review. While I enjoy the app and I am having fun using it I don\u2019t like being forced. Don\u2019t RAPE me for reviews.",
+                "date": "2025-03-30",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "Do not waste your money. There are other apps way more effective and realistic",
+                "date": "2025-03-29",
+                "value": 15,
+                "potential_idea": "Develop a mobile app that focuses on demonstrably more effective and realistic features for its core functionality compared to competitors.",
+                "tags": []
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "My dealer is so lucky he currently hasn\u2019t busted in 21 hands",
+                "date": "2025-03-19",
+                "value": 15,
+                "potential_idea": "Add a 'streak' counter to track consecutive wins or losses of a specific type in a game.",
+                "tags": []
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "For a premium app, it has a lot of missing features and feels very bare bones. With only links to YouTube vids on how to count cards besides telling what to play on certain hands. I feel somewhat cheated by this app. It will only correct you on misplayed hands yet most of the time when I follow said \u201chelp\u201d I lose the hands more often than not. Very underwhelming experience.",
+                "date": "2025-01-31",
+                "value": 75,
+                "potential_idea": "Integrate interactive card counting training modules and real-time hand analysis with probability suggestions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "357421934",
+        "name": "PeakFinder",
+        "url": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "This app is utter nonsense and not worth the money.",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Develop a budgeting app that clearly demonstrates the tangible value and ROI of its premium features to justify its cost.",
+                "tags": []
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I\u2019m in Washington pointing my phone right at Mt Baker and the app is giving me the names of peaks in Canada.",
+                "date": "2025-07-13",
+                "value": 75,
+                "potential_idea": "Implement a more accurate and geographically precise peak identification feature that uses real-time GPS and heading data with higher resolution mapping.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Never seems to orient itself correctly without manual intervention.",
+                "date": "2025-06-19",
+                "value": 15,
+                "potential_idea": "Implement an automatic orientation recalibration feature that prompts users for manual correction only when necessary.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "\u65e0\u6cd5\u4f7f\u7528",
+                "date": "2025-06-16",
+                "value": 5,
+                "potential_idea": "Implement robust error handling and user-friendly error messages for core app functionalities.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I bought this app to identify mountains in the Denver metro area. I can\u2019t get it to work, wish there was a tutorial. I can\u2019t get the photo overlay to work. Very frustrating!",
+                "date": "2025-04-21",
+                "value": 65,
+                "potential_idea": "Develop an interactive tutorial within the app to guide users on how to use its core features, especially photo overlay and mountain identification.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Downloaded and tried to use in WV with lots of prominent peaks nearby and visible. It showed a couple of lesser peaks and not much else. Also the graphic indicating peaks was many, many degrees off. I\u2019m sorry I wasted five bucks on this worthless app.",
+                "date": "2025-02-23",
+                "value": 75,
+                "potential_idea": "Develop a mobile app that accurately identifies and displays prominent local mountain peaks with precise directional indicators, even in areas with significant elevation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "This app has not worked in the entire NW.",
+                "date": "2024-07-19",
+                "value": 15,
+                "potential_idea": "Implement location-based service improvements to ensure app functionality across all geographical regions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Got this because I live in central California right by the Sierra Nevada Mountain Range off of the 99 and 5 Freeways.  Where I am at, you can see the string of 14ers, starting with Mt. Langley.  The app does NOT detect any of them.  Also, was just on the 97 in NorCal with Mt. Shasta literally hulking right next to me on the Freeway.  No dice!!!  It did not detect it.  It has only ever picked up little mountains that you are close to.  I thought maybe I was too far away, but when I was right next to Shasta and the app didn\u2019t detect it, I was pretty much done with it.",
+                "date": "2024-06-24",
+                "value": 70,
+                "potential_idea": "Develop an augmented reality feature that identifies and labels prominent mountain peaks visible from a user's location, especially those in the distance or along major travel routes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Doesn\u2019t show me any mountains",
+                "date": "2024-06-11",
+                "value": 15,
+                "potential_idea": "Allow users to search for and discover mountains by name or location within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "It seems 30-70\u2019 off all the time",
+                "date": "2024-06-09",
+                "value": 85,
+                "potential_idea": "Introduce an auto-calibration feature to ensure consistent and accurate location tracking within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I know where certain peaks are and this app is off. That is terrible",
+                "date": "2024-05-25",
+                "value": 75,
+                "potential_idea": "Implement robust geolocation calibration and accuracy testing to ensure precise peak location data.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I would recommend not to update the app. It is not accurate anymore. And really hard to read any mountain now. \nThey should of never made any changes.",
+                "date": "2024-05-20",
+                "value": 15,
+                "potential_idea": "Revert the app to a previous, more accurate and readable version before recent detrimental changes were made.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I\u2019m here in the Himalayas bought this app and for an entire day have been trying to download the 248 require file. It won\u2019t progress pass 1%.\nMeanwhile I can watch YouTube, download this app, and rate obviously but the file will not download. \nI want a refund but can\u2019t request one.\n\nUnacceptable",
+                "date": "2024-04-23",
+                "value": 15,
+                "potential_idea": "Implement offline access or robust background download capabilities for essential app content, especially given unreliable network conditions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 2,
+                "review": "I live in the Green Mountains of Vermont and this app has not been accurate a single time.",
+                "date": "2024-04-19",
+                "value": 18,
+                "potential_idea": "Improve location accuracy in challenging terrain and remote areas by integrating with alternative mapping services and incorporating user-provided data.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Massive mountains right in front of me in Boulder Colorado. All the app shows is a flat line of no foothills - which is true , but no identification of the mountain peaks\nThen I try to add a photo to this comment and \u201cpaste\u201d is NOT an option\nMaybe my bad.  Maybe the apps bad",
+                "date": "2024-03-31",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Smaller peaks are labeled\u2026",
+                "date": "2024-03-19",
+                "value": 15,
+                "potential_idea": "Allow users to customize the labeling threshold for data peaks to automatically hide or display smaller, less significant peaks.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Bummed that I paid $5 for this app and it is completely useless.",
+                "date": "2024-02-27",
+                "value": 15,
+                "potential_idea": "A free trial or a more detailed demo of the app's functionality before purchase to prevent user disappointment.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "As with most other apps, they start out simple and easy to use. Then they develop them further and only the young people can understand them. You have three categories of people under 45, under 70, and older. This happens like all the others and a piece of crap. But used to be easy and be able to see amount and easy is now a complicated piece of nonsense. I tried today the hiking one and I can\u2019t even figure out how to stop the hike or turn it off what a piece of crap",
+                "date": "2023-11-23",
+                "value": 70,
+                "potential_idea": "Develop a mobile app with an 'intuitive legacy mode' that offers a simplified, high-contrast interface for older users, reverting to a more complex feature set with advanced controls for younger users.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 2,
+                "review": "App worked great when I first downloaded it. Lately it seem to not know where I am. Attempted to use it in the Beartooths recently and it\u2019s showing some hills that weren\u2019t at my location. Currently trying to use it in the Missions and it\u2019s not actually showing what I\u2019m looking at.",
+                "date": "2023-08-27",
+                "value": 65,
+                "potential_idea": "Implement an offline map mode with more accurate GPS anchoring for remote areas with poor signal.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "935216956",
+        "name": "Papers, Please",
+        "url": "https://apps.apple.com/us/app/papers-please/id935216956?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papers, Please",
+                "rating": 2,
+                "review": "Also, the fonts make text barely readable and the date format violations are not well understood",
+                "date": "2025-04-07",
+                "value": 65,
+                "potential_idea": "Implement customizable font size and style options, along with flexible date format settings for improved readability and user preference.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papers, Please",
+                "rating": 1,
+                "review": "It\u2019s very disappointing and frustrating that you can\u2019t play on the iPad on landscape mode. I am not able to use my iPad in portrait mode and thus I can\u2019t play this game.",
+                "date": "2025-02-09",
+                "value": 55,
+                "potential_idea": "Implement landscape mode support for iPad users to improve accessibility and playability.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papers, Please",
+                "rating": 1,
+                "review": "This game teaches bad values by rewarding you for not following the rules! This game is VERY devious. I do not recommend you buy it. PS: I\u2019d rate this 0 stars if I could.",
+                "date": "2024-04-21",
+                "value": 15,
+                "potential_idea": "Develop a mobile game that explicitly teaches players about the consequences of breaking rules, emphasizing ethical gameplay and fair competition.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papers, Please",
+                "rating": 1,
+                "review": "Tried system upgrade and reinstall the app, still can't hear a thing",
+                "date": "2024-04-06",
+                "value": 10,
+                "potential_idea": "Implement a robust audio troubleshooting guide and diagnostic tool within the app itself to help users resolve sound issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papers, Please",
+                "rating": 1,
+                "review": "I can say this game is very boring and I deeply regret this purchase",
+                "date": "2023-12-20",
+                "value": 15,
+                "potential_idea": "Develop a game with engaging core mechanics and varied challenges to combat boredom, appealing to players seeking more dynamic gameplay.",
+                "tags": []
+            },
+            {
+                "app_name": "Papers, Please",
+                "rating": 1,
+                "review": "Got an iPhone 15 pro max and the game will not work.  Tried restarting phone\u2026nothing. Uninstalled and reinstalled\u2026nada.  I paid for an app that will not work!",
+                "date": "2023-11-06",
+                "value": 15,
+                "potential_idea": "Implement robust troubleshooting guidance and clear device compatibility information for new hardware releases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papers, Please",
+                "rating": 1,
+                "review": "There\u2019s five bucks I\u2019ll never see again.",
+                "date": "2023-11-05",
+                "value": 15,
+                "potential_idea": "Implement a clear refund policy with an easy-to-access refund request process for accidental or regretted in-app purchases.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1591627945",
+        "name": "Papa's Cluckeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-cluckeria-to-go/id1591627945?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Cluckeria To Go!",
+                "rating": 2,
+                "review": "I would think that it\u2019s completely against App Store policy for a developer to have an app or game open the App Store when a customer closes their apps. But that\u2019s just what this game and many other Flipline games do. You quit playing their game and it opens the App Store to one of their other games. \n\nPlease update your games and stop this from happening. I have purchased pretty much every one of your titles and I even spend money in them outside of the initial purchase price. But, it\u2019s become very annoying that every time I\u2019m done playing one of them. That the App Store opens without my permission. That just seems like malware activity if I\u2019m honest. \n\nAgain, please would you update your games and stop them from doing this annoying behavior?\n\nOutside of this problem I really enjoy so many of the Papa Louie\u2019s video games a lot. I\u2019ve played quite a few of them to completion. I definitely would recommend their titles but I just wish they would get rid of this annoying tactic please. Thank you.",
+                "date": "2025-03-11",
+                "value": 18,
+                "potential_idea": "Introduce an in-app persistent opt-out mechanism for promotional prompts to prevent unwanted App Store redirects.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cluckeria To Go!",
+                "rating": 2,
+                "review": "I love papa games, and they are so addicting, but this one seems kinda irritating to me. The customers are impatient, even when I rush on their orders..",
+                "date": "2025-02-20",
+                "value": 35,
+                "potential_idea": "Introduce a 'patience meter' for customers in the game that visually indicates their growing impatience, allowing players to strategize accordingly.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cluckeria To Go!",
+                "rating": 1,
+                "review": "This game is so stupid.",
+                "date": "2025-01-22",
+                "value": 5,
+                "potential_idea": "Develop a 'game feedback assistant' that helps users articulate constructive criticism for apps.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cluckeria To Go!",
+                "rating": 1,
+                "review": "I downloaded this game and within a minute, I deleted it. It got very hard, very fast. I have never deleted a game so fast. I wish I hadn\u2019t paid for it!",
+                "date": "2024-12-22",
+                "value": 15,
+                "potential_idea": "Implement a gradual difficulty curve in mobile games to ease new players in and prevent rapid uninstalls.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cluckeria To Go!",
+                "rating": 1,
+                "review": "My game got deleted on accident and when I went to redownload to play the progress didn\u2019t save whatsoever. So the 50+ days I played on and decorated went all to waste. I\u2019m not happy because I feel this was a waste of my time and money.",
+                "date": "2024-08-05",
+                "value": 85,
+                "potential_idea": "Implement a cloud save feature to automatically back up game progress and allow restoration across devices or after reinstallation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cluckeria To Go!",
+                "rating": 1,
+                "review": "it's a good game don't get me wrong but it's just.. it's too overwhelming. trying to work two at once and you have to worry about either the food overcooking or the slush over mixing. constantly switching over one to one is just too much, then it takes away the waiting time from it.",
+                "date": "2024-02-19",
+                "value": 70,
+                "potential_idea": "Implement an 'auto-manage' feature that intelligently handles minor tasks like preventing food from overcooking or ensuring slush is mixed, freeing up the player to focus on more complex actions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "459313476",
+        "name": "Tenuto",
+        "url": "https://apps.apple.com/us/app/tenuto/id459313476?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Tenuto",
+                "rating": 1,
+                "review": "This app has no lessons or information on music. It\u2019s just bunch of lame quizzes that are completely uninspiring and boring. I can\u2019t get a refund. Geeeeeeeeeee. I wonder why!",
+                "date": "2024-01-16",
+                "value": 65,
+                "potential_idea": "Integrate educational music lessons and informative content into the app to complement the existing quiz feature and cater to users seeking a more comprehensive learning experience.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Tenuto",
+                "rating": 2,
+                "review": "The Ear Training apps don\u2019t provide ear training, they are just tests. They don\u2019t even work, after you apply a right answer it doesn\u2019t give you the next test note until you guess randomly. (This is true on their website too) There\u2019s absolutely no documentation.",
+                "date": "2022-05-16",
+                "value": 65,
+                "potential_idea": "Develop a mobile app that provides actual ear training exercises and feedback, rather than just tests, with clear documentation.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "317809458",
+        "name": "LiveATC Air Radio",
+        "url": "https://apps.apple.com/us/app/liveatc-air-radio/id317809458?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "LiveATC Air Radio",
+                "rating": 1,
+                "review": "Poor build quality, with no explanation provided for why certain channels are down or whether they will return.",
+                "date": "2025-09-03",
+                "value": 70,
+                "potential_idea": "Implement proactive outage notifications with estimated restoration times for streaming channels.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "LiveATC Air Radio",
+                "rating": 1,
+                "review": "Disappointing audio quality, hit and miss communications. Not what I expected.",
+                "date": "2025-08-03",
+                "value": 70,
+                "potential_idea": "Implement advanced audio processing and data streaming optimizations to ensure clear and reliable in-app communication.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "LiveATC Air Radio",
+                "rating": 1,
+                "review": "I suspect the app may no longer be maintained or supported. It\u2019s nicely featured and layed out, it just does not deliver the feeds. Worse, it stopped my device\u2019s ability to stream ANY video from any source such as Prime, Hulu, etc.  That\u2019s pretty serious. Had to uninstall. \n\nI read the critical reviews and gambled five bucks on this anyway. Duh!  Lost my money. Next time I\u2019m heeding the warnings.",
+                "date": "2025-08-01",
+                "value": 15,
+                "potential_idea": "Develop a mobile app that intelligently identifies and flags potential conflicts or performance issues caused by third-party app interactions, preventing device-wide disruptions.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "LiveATC Air Radio",
+                "rating": 1,
+                "review": "Not working on iPad",
+                "date": "2025-02-14",
+                "value": 15,
+                "potential_idea": "Develop an iPad-optimized version of the app to improve user experience on larger screens.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "LiveATC Air Radio",
+                "rating": 1,
+                "review": "This app was easily purchased but now will not download making the $5 purchase useless.",
+                "date": "2025-02-09",
+                "value": 15,
+                "potential_idea": "Implement a robust refund or credit system for app purchases that fail to download or activate successfully.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "LiveATC Air Radio",
+                "rating": 1,
+                "review": "Definitely could be a better layout especially that the app isn\u2019t free but the website is\u2026",
+                "date": "2025-02-01",
+                "value": 40,
+                "potential_idea": "Offer a tiered subscription model that unlocks advanced features or a premium experience for the mobile app, aligning the app's value proposition with its cost, or consider a freemium model where core functionality is free but premium features require a subscription.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
