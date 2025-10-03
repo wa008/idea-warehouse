@@ -6014,5 +6014,607 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1551207253",
+        "name": "Papa's Mocharia To Go!",
+        "url": "https://apps.apple.com/us/app/papas-mocharia-to-go/id1551207253?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Mocharia To Go!",
+                "rating": 1,
+                "review": "I bought this game thinking oooo im gonna like it, well after the training on it I can\u2019t get the coffees right or nothing, the customer just stands there and shrugs \nI\u2019m not happy at all. But it does run smoothly tho! I will say that much. Sorry developers im just not happy with this game",
+                "date": "2025-06-28",
+                "value": 75,
+                "potential_idea": "Implement an interactive tutorial or hint system that guides players through complex in-game mechanics, such as preparing specific orders in a cafe-themed game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Mocharia To Go!",
+                "rating": 2,
+                "review": "The game is buggy on iOS 17+, pls fix!!!",
+                "date": "2024-12-19",
+                "value": 15,
+                "potential_idea": "Implement robust QA testing on new iOS versions before release to ensure game stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Mocharia To Go!",
+                "rating": 1,
+                "review": "i paid for this app in august and it charged me for 2.17 when i bought it. its continuously charging me every other day even though when i bought it the payment went through. i\u2019ve deleted the app and i can\u2019t download anything else because of this bug. seems like a scam to me.",
+                "date": "2024-11-11",
+                "value": 15,
+                "potential_idea": "Implement a clear and easily accessible purchase confirmation and subscription management system to prevent erroneous recurring charges and build user trust.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Mocharia To Go!",
+                "rating": 2,
+                "review": "I grew up playing paperia games. They\u2019ve never been super easy but in this one you have to be able to tossed 4 different steps just to make the milk and coffee. Then customers are so grouchy. Being off center is so easy with the cannoli. The ticket is too crowded with so many things to read. Take off the cannoli and maybe it\u2019ll be easier and my 3/4 customers won\u2019t have 80% waiting time.",
+                "date": "2024-06-19",
+                "value": 45,
+                "potential_idea": "Simplify the 'milk and coffee' preparation process by reducing the number of steps and optionally integrating a tutorial or visual guide.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Mocharia To Go!",
+                "rating": 1,
+                "review": "Needs to be updated stuck on Halloween",
+                "date": "2024-06-19",
+                "value": 15,
+                "potential_idea": "Implement a flexible theming system that allows users to switch between seasonal or event-based visual styles.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6714479204",
+        "name": "Lowriders Comeback: Boulevard",
+        "url": "https://apps.apple.com/us/app/lowriders-comeback-boulevard/id6714479204?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "Do not recommend",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Develop an app that clearly outlines app features and benefits to manage user expectations and prevent disappointment.",
+                "tags": []
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "Man I\u2019ve spend loads of money on this game from the old one to this one I have two separate accounts this on is my phone other iPad more on iPad but I recently purchased the iroc Camaro etc  left it alone about a week ago today NOTHING IS HERE THAT TEN I SPENT VANISHED. Let me get my money back",
+                "date": "2025-09-19",
+                "value": 75,
+                "potential_idea": "Implement a robust cross-platform account syncing feature that ensures purchased items and progress are immediately reflected across all user devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "Game keeps crashing please fix",
+                "date": "2025-08-04",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated bug fixing mechanisms within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "This game is not good well it is but not you can\u2019t make an acount it will\nNot let me make one and you can only make a acount with Apple",
+                "date": "2025-07-30",
+                "value": 65,
+                "potential_idea": "Allow users to create accounts using methods other than Apple, such as email/password or Google.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "I want a refund on the game.",
+                "date": "2025-07-30",
+                "value": 15,
+                "potential_idea": "Implement a clear and accessible refund policy or offer in-app troubleshooting for game issues.",
+                "tags": []
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 2,
+                "review": "Only game that crashes on my phone",
+                "date": "2025-07-23",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated recovery mechanisms to improve app stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "It crashes every time I try to play",
+                "date": "2025-07-23",
+                "value": 5,
+                "potential_idea": "Implement robust error handling and crash reporting to proactively identify and fix bugs, improving app stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 2,
+                "review": "The game is great with the wide variety of customizations for the card and trucks but it\u2019s heavily pay to play. And some bugs that keep crashing my game and kicking me out while I am mid customization.",
+                "date": "2025-07-16",
+                "value": 70,
+                "potential_idea": "Introduce a skill-based progression system or alternative challenge modes to reduce the reliance on pay-to-win mechanics and offer more rewarding avenues for player advancement.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "The game was good until all the crashes started happening while trying to build vehicles.. it never fails been having this issue for over a week now.. I\u2019ve spent a lot of money purchasing good packs thats basically useless!! when you can\u2019t use it to build due to the continuous crashes mid build them you have to start all over again and pray it does crash all over.. but I must say I love the game it\u2019s a fun game to custom build cars and trucks but it\u2019s almost unplayable at this point.. pleeeeeeasee fix!!!",
+                "date": "2025-07-13",
+                "value": 18,
+                "potential_idea": "Implement an auto-save functionality that periodically saves user progress during vehicle building to prevent data loss from crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "You can get trailers on here if you build them yourself or give the truck to the guy that builds the trailer and get your truck and trailer back but if you do that you can\u2019t turn on it. The trailer doesn\u2019t turn gooseneck wise and it should be able to if anybody if the workers on Loretta comeback all of our could fix it. Please do so.",
+                "date": "2025-07-11",
+                "value": 18,
+                "potential_idea": "Implement a trailer attachment system for mobile vehicles that allows for gooseneck articulation, preventing loss of steering control.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "For me to spend 2$ dollars on a game that really don\u2019t get value is crazy",
+                "date": "2025-07-11",
+                "value": 65,
+                "potential_idea": "Implement a free trial or a more robust demo mode for users to experience the game's value before purchasing.",
+                "tags": []
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 2,
+                "review": "i logged into guest account but i wanted to play my real account",
+                "date": "2025-07-08",
+                "value": 75,
+                "potential_idea": "Allow users to easily switch between guest and registered accounts within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 1,
+                "review": "Literally unfinished full of crashes and full of bugs devs made this game under the influence its a shame this could be a good game but very horrific effort on development how do you expect to implement detailed customization if you can\u2019t even optimize the game effectively honestly one of the worst games performance wise please save your money.",
+                "date": "2025-07-06",
+                "value": 18,
+                "potential_idea": "Implement robust game optimization and bug fixing before releasing advanced customization features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Lowriders Comeback: Boulevard",
+                "rating": 2,
+                "review": "READ BEFORE YOU BUY\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\nIt is honestly dumb that I have to wait 15 days after spending money to buy a game just to buy a car from someone to ensure I ain\u2019t cheating? SMH stayed up playing this earning gold to buy something off the market texted a person back and forth half the day today telling them I was buying when I got home just to get told I have to wait over 2 weeks just to have fun??? Absolutely disgusted right now. And what\u2019s up with the not being able to buy cars off market with cash? Well I\u2019ll tell you why because game makers know kids will be playing this and will be asking their parents for money off a card to buy gold just to buy some vehicle that some 20+ year old spent 5 mins making to sell for 3k+ gold \ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f if I would of known this I would of never purchased.",
+                "date": "2025-06-19",
+                "value": 65,
+                "potential_idea": "Implement a tiered waiting period for in-game item purchases based on user account age or activity level, allowing for faster access to market purchases for established or active players.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6477835115",
+        "name": "Papa's Paleteria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-paleteria-to-go/id6477835115?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Paleteria To Go!",
+                "rating": 1,
+                "review": "I\u2019m leaving a 1 star review because I accidentally uninstalled it to remove it off one of my home pages and it literally deleted all my data\u2026",
+                "date": "2025-09-04",
+                "value": 15,
+                "potential_idea": "Implement a data backup and restore feature for the mobile app to prevent data loss upon uninstallation.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Paleteria To Go!",
+                "rating": 1,
+                "review": "It got frozen shot, real bad!",
+                "date": "2025-02-12",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and auto-recovery mechanisms to prevent app freezes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Paleteria To Go!",
+                "rating": 2,
+                "review": "I would be willing to bet a lot of money that it\u2019s against App Store policy for a developer to have the App Store open when a customer quits their game. I didn\u2019t initiate opening the App Store to your game\u2019s page, the game did that without my permission. That would absolutely be against Apple policy for developers. Please update all of your games and remove the malicious type function from these games or I\u2019ll report the action to Apple. Thank you. I do enjoy your games a lot and spend money in them even besides the initial purchase price. But I\u2019m growing very tired of this shady behavior. Please stop it and thank you.",
+                "date": "2025-02-11",
+                "value": 75,
+                "potential_idea": "Implement a user opt-in mechanism for opening the App Store from within the game, preventing unsolicited redirects.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Paleteria To Go!",
+                "rating": 2,
+                "review": "literally glitches everytime i play it and pisses me off.",
+                "date": "2024-12-04",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and bug reporting within the app to improve stability and user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Paleteria To Go!",
+                "rating": 2,
+                "review": "I am on a macbook and it freezes everytime you move and drop something. You have to pause and play it to work constantly. Once you get to the freezing station it doesn't let you put it on the conveyor whatsoever and you are just stuck there. I love Freezeria on my ipad and the other papas game but it just doesn't work on an apple computer.",
+                "date": "2024-10-01",
+                "value": 70,
+                "potential_idea": "Develop a desktop version of Freezeria optimized for Mac and Windows that addresses performance issues like freezing and unresponsiveness, ensuring a smooth gameplay experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Paleteria To Go!",
+                "rating": 1,
+                "review": "I downloaded this game on my old phone on Friday and all of a sudden my phone started lagging and glitching and then broke my phone never downloading a game from papa",
+                "date": "2024-09-09",
+                "value": 18,
+                "potential_idea": "Implement robust device performance testing and warnings for demanding games before download to prevent user hardware issues.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1438245901",
+        "name": "Papa's Pancakeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-pancakeria-to-go/id1438245901?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 2,
+                "review": "It glitches and messes up my order nearly every time. Waste of money.",
+                "date": "2025-09-07",
+                "value": 15,
+                "potential_idea": "Implement robust order validation and confirmation mechanisms to prevent glitches and ensure order accuracy.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "Can't make drinks at all on iPad. Clicking S or L does nothing so I can\u2019t even complete a single order\u2026",
+                "date": "2025-02-28",
+                "value": 15,
+                "potential_idea": "Implement proper touch functionality for drink customization options on iPad devices to ensure orders can be completed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "I\u2019ve downloaded this game and haven\u2019t been able to play because it keeps freezing.",
+                "date": "2025-01-03",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and a persistent data saving mechanism to prevent game freezing and data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 2,
+                "review": "I\u2019m not sure why, but every time I get to a certain level and the last customer it starts to freeze up",
+                "date": "2025-01-01",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and optimization for performance bottlenecks at specific game levels to prevent freezing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "I have been playing Pancakeria for years, very fun game. Noticed recently the app doesn\u2019t work at all, coincidentally there\u2019s a NEW version of Pancakeria. You want me to pay AGAIN? For literally not a big difference and a whole dollar more, lol broke developers or what?",
+                "date": "2024-12-01",
+                "value": 15,
+                "potential_idea": "Implement a loyalty program or upgrade path for existing players of 'Pancakeria' when a new version is released, potentially offering a discount or exclusive content instead of requiring a full repurchase with minimal perceived changes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "There\u2019s a significant glitch in this papa\u2019s game where you CANNOT control the toppings.  Every single time where once you start using a topping it doesn\u2019t let you have control of the movement of it and just starts going over the edge, and trying to redirect it causes it to start a new set of toppings.  It\u2019s an infinite loop of no control and then it resetting and adding more toppings even though you\u2019re trying to control where they go.  It\u2019s literally been impossible for me to get above a like 80 point serving score, and it happens every single time with every order \ud83d\ude2d",
+                "date": "2024-11-06",
+                "value": 18,
+                "potential_idea": "Implement a more robust and forgiving topping placement mechanic to prevent unintended topping duplication and off-screen drops.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 2,
+                "review": "I dislike how they didnt format this version of the game for the iPad but instead dropped another version of the game that i\u2019d also have to pay for",
+                "date": "2024-05-29",
+                "value": 65,
+                "potential_idea": "Develop an iPad-optimized version of the game and offer it as a free update or a unified purchase for existing users.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "Don\u2019t get this game if you plan on playing on tablet. The screen is small and graphics are buggy and weird.",
+                "date": "2023-11-20",
+                "value": 55,
+                "potential_idea": "Optimize mobile game for tablet screen sizes with improved graphics rendering.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "No because tell me why I spent a whole 2 dollars on this game for it to not even be full screen. When I play on my iPad it\u2019s really small and doesn\u2019t fill the whole screen. I have 3 other ones and they all work fine. If ima pay full price for a game I should be able to play it full screen. Make it make sense",
+                "date": "2023-08-13",
+                "value": 15,
+                "potential_idea": "Implement dynamic aspect ratio and screen scaling options for games to ensure they display correctly and fill the screen on various devices, especially tablets.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pancakeria To Go!",
+                "rating": 1,
+                "review": "So after a while. You buy all the furniture and clothes \u2026 and there is no new challenges or anything else to look forward to\u2026 except make pancakes. I would suggest maybe adding more furniture \ud83d\ude2b or customers",
+                "date": "2022-10-06",
+                "value": 65,
+                "potential_idea": "Introduce escalating challenges and unlockable content, such as new furniture sets and customer types, to provide long-term engagement for players who have completed initial progression.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "941143328",
+        "name": "Five Nights at Freddy's 2",
+        "url": "https://apps.apple.com/us/app/five-nights-at-freddys-2/id941143328?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "Great game! I\u2019ve bought the in app purchase, and the locator helps sooooo much! Usually, most of the animatronics are no problem. Foxy? No issue. Just wind up the music box to its maximum and then check for him. Withered freddy? No problem. Even on the last nights he isn\u2019t very active. If he moves, shine your light. However there IS a game breaking issue with withered Bonnie and sometimes withered chica. When I was on night 4, every time chica was in my office I would don my Freddy head. Guess what?  I\u2019m still killed regardless of what I\u2019m doing. I am currently on night 5 and I can\u2019t pass it because of withered Bonnie killing me no matter what. Pls fix this as I spent 10$. By update: THIS IS STUPID! AT 5:00 I WAS KILLED BY BONNIE BECAUSE OF THE GLITCH! STOP THIS AND IT WILL GO TO 5 STARS. Update #2: withered Freddy is doing this too. Also pls slow down the ai of everything due to me (who played fnaf 2 for 3 years) failing not even 5 minutes into the game. FIX THIS!!!!!!",
+                "date": "2025-08-26",
+                "value": 15,
+                "potential_idea": "Implement an adjustable AI difficulty slider for the game to cater to players of varying skill levels and experience.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "This is good",
+                "date": "2025-07-30",
+                "value": 10,
+                "potential_idea": "Implement a feedback mechanism within the app to allow users to express satisfaction with specific features, thereby helping developers identify popular elements.",
+                "tags": []
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "I only go for quick fingers cause the mask button is so hard but it will be hard",
+                "date": "2025-07-29",
+                "value": 15,
+                "potential_idea": "Implement a larger and more easily accessible 'mask button' for improved usability in the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "All other nights are skill based but night 6 sometimes it is literally impossible picture this: you flipped down the monitor to flash foxy but withered Bonnie attacks easy right? WRONG! then the music box is flashing red at you so you have to go wind it up immediately then you HAVE to flash foxy but withered chica attacks! Right when he finishes balloon boy or mangle attacks and you have to get rid of them then you either die of the Puppet or by foxy. It is completely luck based",
+                "date": "2025-07-24",
+                "value": 18,
+                "potential_idea": "Implement a 'difficulty adjustment' or 'assist mode' for the mobile game that allows players to reduce the intensity of enemy attacks or the frequency of simultaneous threats during challenging nights, particularly Night 6, to mitigate purely luck-based scenarios.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "On night one toy bonnie will jumpscare you even before coming out of the vents. It\u2019s unplayable past night one",
+                "date": "2025-07-22",
+                "value": 10,
+                "potential_idea": "Implement a 'difficulty slider' or 'AI aggression setting' to adjust the predictability and timing of enemy jumpscares, allowing players to tailor the challenge.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "Dude I used to love this game but theirs no audio like I can\u2019t hear anything, please fix your game before i crash out",
+                "date": "2025-07-19",
+                "value": 15,
+                "potential_idea": "Implement a comprehensive audio testing and debugging process to ensure all app sounds and music function correctly before release.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 2,
+                "review": "Custom night 10/20 mode or \u201cgolden Freddy\u201d is bugged. There is supposed to be a cooldown between blackouts after an animatronic comes into the room, but withered chica does not obey by this, because immediately after a Toy Bonnie blackout she appears, making me either die to her or the puppets music box running out. Please fix this",
+                "date": "2025-06-07",
+                "value": 15,
+                "potential_idea": "Implement a cooldown mechanic for animatronic appearances after blackouts in custom night modes to ensure fair gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "I bought the survival kit and then get a new phone then click restore purchase and don\u2019t get my purchases back I WANT MY MONEY BACK",
+                "date": "2025-06-04",
+                "value": 90,
+                "potential_idea": "Implement a robust and reliable purchase restoration system that includes manual recovery options and clear instructions for users experiencing issues.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6547834967",
+        "name": "Animal Crossing: Pocket Camp C",
+        "url": "https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "No more new cookies and I already have everything. Heart broken.\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+                "date": "2025-10-01",
+                "value": 75,
+                "potential_idea": "Implement a 'wishlist' or 'collection tracker' feature for items users want but don't currently have, with notifications for new drops or restocks.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "Played this game for 4 years and I lost ALL my data after I just paid 20 dollars? The old game would automatically back up why delete this feature???",
+                "date": "2025-09-09",
+                "value": 95,
+                "potential_idea": "Implement automatic cloud backup for user game data to prevent data loss.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "i have an absurd amount of bells and a very low amount of leaf tickets. youre able to trade bells for leafs but only a certain amount of times which is dumb because i run out very fast and then have zero leaf tickets left to get anything!!! on top of that certain items stay in shop for a limited amount of time so i cant even buy stuff before it leaves shop because i dont have enough leafs! fix this! you cant take out purchases and then make getting leaf tickets limited to a certain amount per month! very very dumb",
+                "date": "2025-08-28",
+                "value": 75,
+                "potential_idea": "An in-app currency exchange feature allowing users to convert excess bells to leaf tickets with fewer restrictions than the current system.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "so I played on the their app before I got shut down so I decided to waste 20 DOLLARS on this app which won\u2019t let me sign in. 20 dollars that I could have bought a lip gloss with, heck 2 lip glosses. worst app ever. i love animal crossing though",
+                "date": "2025-08-21",
+                "value": 15,
+                "potential_idea": "Implement a robust and user-friendly account recovery or sign-in troubleshooting system for users who have purchased in-app items.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "Nintendo thinks that in every situation where you change phones, you\u2019ll remember to go into this game and use their one-of-a-kind save transfer tool (that keeps your data for 3 days) instead of using the built-in iOS option for completely seamless data backup.\n\nThis means your save, which you\u2019ve worked on over the course of a year, likely multiple years, can be completely lost if your phone is stolen, broken, or lost. This is obviously stupid and they went out of their way to avoid using iCloud backup for reasons that I can\u2019t fathom.",
+                "date": "2025-08-12",
+                "value": 85,
+                "potential_idea": "Integrate cloud save functionality for game progress that automatically backs up to a user's preferred cloud service (e.g., iCloud, Google Drive) independent of the device.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "Highly disappointed to learn their was a time frame to be able to get your account with the old version. Not worth 20$ I already lost so much money with the old version. That when trying to play this says no data found. .",
+                "date": "2025-08-10",
+                "value": 60,
+                "potential_idea": "Implement a clear and accessible data recovery or migration service for users transitioning between app versions, especially for users who have made in-app purchases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "All my hard work down the drain. I don\u2019t even want the game anymore I spent 20 dollars !!!",
+                "date": "2025-08-01",
+                "value": 85,
+                "potential_idea": "Implement a robust cloud save system with progress recovery to prevent data loss and ensure user purchases are protected.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
     }
 ]
