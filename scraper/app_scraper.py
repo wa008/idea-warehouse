@@ -39,9 +39,9 @@ def get_reviews_for_app(app, model, remaining_quota):
         scraped_reviews = json.loads(result.stdout)
         logging.info(f"Found {len(scraped_reviews)} reviews for {app['title']}")
         for r in scraped_reviews:
-            if r['score'] <= 3:
-                logging.info(f"Processing review: {processing_review_amount} / {remaining_quota} for curect app {app['title']}")
+            if r['score'] <= 2:
                 processing_review_amount += 1
+                logging.info(f"Processing review: {processing_review_amount} / {remaining_quota} for curect app {app['title']}")
                 if processing_review_amount > remaining_quota:
                     logging.info(f"Review quota for current app of {remaining_quota} reached. Stopping.")
                     break
