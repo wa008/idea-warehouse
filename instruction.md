@@ -3,10 +3,22 @@ Search low ratings and reviews for app store's product, show all low rating revi
 The process of workflow
 - get the top paid app list by app-store-scraper, save them into local file. process them one by one
 - for each app, get latest update date and all low ratings & reviews, save into local file.
-- for each review, generate tags by instructions below, save into local file.
-    - no update: currect app don't update for over 6 months, the problem in currect review can be solve when it update.
-    - niche demand: problem in review is a niche demand, that's why owner don't want to implement it.
-    - valuable opinion: currect review provide a valuable opinion which can turn into valuable idea.
+- for each review, generate contents below, save into local file.
+    - tags:
+        - no update for long time: currect app don't update for over 6 months, the problem in currect review can be solve when it update.
+        - niche demand: problem in review is a niche demand, that's why owner don't want to implement it.
+        - valuable opinion: currect review provide a valuable opinion which can turn into valuable idea.
+        - bug: confirm that the problem in review is a bug or not.
+    - potential idea: You can pick the best idea based on the review, you should consider below aspect to make sure the idea is great
+        - demand: new idea can meet the requirement of problem in review, the idea is better if the demand is more common.
+        - difference: new idea should be have essential difference with current product, idea is better if new idea is more novel
+    - value of new idea: provide score of new idea based on four metrics below, range is 0-100, sum of sub dimentions' value below
+        - intensity: how much user want to solve this problem? is it a real demand, the range of intensity's value is 0-25
+        - difference: difference with the existing product in current field, current sub value is 0-25
+        - scope: how many user have the similar demand and will use the product from new idea, current sub value is 0-25
+        - feasibility: how many cost I need to pay to become the new idea into a real product, current sub value is 0-25
+        - other tips: 
+            value shouldn't more than 20 if current problem in review is obvious bug for current product.
 - checkpoint: we cannot get all reviews data in one executing, so, we should save the the checkpoint that we progress
     - for each app, we should get the latest N reviews
     - for each app, we should prioritize the app that have nerver processed in the past, if each one have been processed in the past, prioritize to process the oldest one that was processed in the past.

@@ -39,7 +39,8 @@ jobs:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           python -u scraper/app_scraper.py --GEMINIAPIKEY "${{ secrets.GEMINIAPIKEY }}" \
-             --OPENROUTERAPIKEY "${{ secrets.OPENROUTERAPIKEY }}"
+             --OPENROUTERAPIKEY "${{ secrets.OPENROUTERAPIKEY }}" \
+             --max_reviews 3
         timeout-minutes: 3600
 
       - name: Commit and Push changes

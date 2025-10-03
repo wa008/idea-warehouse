@@ -2,12 +2,16 @@
     {
         "id": "479516143",
         "name": "Minecraft: Dream it, Build it!",
+        "url": "https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143?uo=2",
+        "description": "",
         "reviews": [
             {
                 "app_name": "Minecraft: Dream it, Build it!",
                 "rating": 1,
                 "review": "notch this is stupid there is no copper golems or shelf\u2019s and no copper chains/lanterns/torch /copper bars/nautilus not all of that I\u2019ll give you 1 stars",
                 "date": "2025-10-01",
+                "value": 80,
+                "potential_idea": "Introduce a copper-themed expansion pack including copper golems, shelves, chains, lanterns, torches, bars, and nautilus shells to enhance building and decoration options in the Minecraft-inspired app.",
                 "tags": [
                     "niche demand",
                     "valuable opinion"
@@ -18,16 +22,19 @@
                 "rating": 1,
                 "review": "Minecraft mineCRAP",
                 "date": "2025-09-30",
-                "tags": [
-                    "untagged"
-                ]
+                "value": 60,
+                "potential_idea": "Develop a lightweight, optimized mobile version of Minecraft with simplified graphics and controls to appeal to users frustrated with the current app's performance and quality.",
+                "tags": []
             },
             {
                 "app_name": "Minecraft: Dream it, Build it!",
                 "rating": 1,
                 "review": "I was playing a server than bam it kicked me out and restarted all my progress and also add in\u2019s in this game tried to flirt with me and I\u2019m a minor",
                 "date": "2025-09-30",
+                "value": 80,
+                "potential_idea": "Introduce enhanced child safety features in multiplayer games, including automatic age verification, flirtation detection in chats, and instant blocking/reporting for inappropriate interactions with minors.",
                 "tags": [
+                    "bug",
                     "valuable opinion"
                 ]
             }

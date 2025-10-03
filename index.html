@@ -13,7 +13,7 @@
             color: #333;
         }
         .container {
-            max-width: 1200px;
+            max-width: 1600px;
             margin: 0 auto;
             padding: 20px;
         }
@@ -27,11 +27,13 @@
             border-collapse: collapse;
             background-color: #fff;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            table-layout: fixed; /* To respect column widths */
         }
         th, td {
             border-bottom: 1px solid #ddd;
             padding: 15px;
             text-align: left;
+            word-wrap: break-word;
         }
         th {
             background-color: #007bff;
@@ -40,23 +42,21 @@
         tr:nth-child(even) {
             background-color: #f2f2f2;
         }
-        .tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 5px;
-        }
-        .tag {
-            background-color: #007bff;
-            color: white;
-            padding: 5px 10px;
-            border-radius: 15px;
+
+        /* Column Widths */
+        .app-col { width: 20%; }
+        .date-col { width: 10%; }
+        .rating-col { width: 5%; }
+        .review-col { width: 30%; }
+        .value-col { width: 5%; }
+        .tags-col { width: 10%; }
+        .idea-col { width: 20%; }
+
+        .app-description {
             font-size: 12px;
-            text-transform: capitalize;
+            color: #6c757d;
+            margin-top: 5px;
         }
-        .tag.no-update { background-color: #ffc107; }
-        .tag.niche-demand { background-color: #28a745; }
-        .tag.valuable-opinion { background-color: #17a2b8; }
-        .tag.untagged { background-color: #6c757d; }
     </style>
 </head>
 <body>
@@ -65,11 +65,13 @@
         <table id="reviews-table">
             <thead>
                 <tr>
-                    <th>App</th>
-                    <th>Rating</th>
-                    <th>Date</th>
-                    <th>Review</th>
-                    <th>Tags</th>
+                    <th class="app-col">App</th>
+                    <th class="date-col">Date</th>
+                    <th class="rating-col">Rating</th>
+                    <th class="review-col">Review</th>
+                    <th class="value-col">Value (0-100)</th>
+                    <th class="tags-col">Tags</th>
+                    <th class="idea-col">Potential Idea</th>
                 </tr>
             </thead>
             <tbody>
@@ -79,41 +81,51 @@
     </div>
 
     <script>
-        let reviewsData = [];
-
         fetch('data/apps_data.json')
             .then(response => response.json())
             .then(data => {
-                reviewsData = data.flatMap(app => app.reviews.map(review => ({...review, appName: app.name})));
-                renderTable(reviewsData);
+                renderTable(data);
             })
             .catch(error => console.error('Error fetching data:', error));
 
-        function renderTable(data) {
+        function renderTable(apps) {
             const tableBody = document.querySelector('#reviews-table tbody');
             tableBody.innerHTML = ''; // Clear the table
 
-            if (!data || data.length === 0) {
+            if (!apps || apps.length === 0) {
                 const row = document.createElement('tr');
                 const cell = document.createElement('td');
-                cell.colSpan = 5;
-                cell.textContent = 'No reviews found.';
+                cell.colSpan = 7;
+                cell.textContent = 'No app data found.';
                 cell.style.textAlign = 'center';
                 row.appendChild(cell);
                 tableBody.appendChild(row);
                 return;
             }
 
-            data.forEach(review => {
+            // Flatten all reviews into a single array, preserving app info
+            const allReviews = apps.flatMap(app => 
+                (app.reviews || []).map(review => ({ ...review, appInfo: app }))
+            );
+
+            // Sort reviews by value in descending order
+            allReviews.sort((a, b) => (b.value || 0) - (a.value || 0));
+
+            allReviews.forEach(review => {
                 const row = document.createElement('tr');
-                const tagsHtml = review.tags.map(tag => `<span class="tag ${tag.replace(/ /g, '-').toLowerCase()}">${tag.replace(/_/g, ' ')}</span>`).join('');
+                const tagsText = (review.tags || []).join(', ');
 
                 row.innerHTML = `
-                    <td>${review.appName}</td>
-                    <td>${review.rating}</td>
-                    <td>${review.date || 'N/A'}</td>
-                    <td>${review.review}</td>
-                    <td class="tags">${tagsHtml}</td>
+                    <td class="app-col">
+                        <a href="${review.appInfo.url || '#'}" target="_blank">${review.appInfo.name || ''}</a>
+                        <div class="app-description">${review.appInfo.description || ''}</div>
+                    </td>
+                    <td class="date-col">${review.date || 'N/A'}</td>
+                    <td class="rating-col">${review.rating || ''}</td>
+                    <td class="review-col">${review.review || ''}</td>
+                    <td class="value-col">${review.value || ''}</td>
+                    <td class="tags-col">${tagsText}</td>
+                    <td class="idea-col">${review.potential_idea || ''}</td>
                 `;
                 tableBody.appendChild(row);
             });
