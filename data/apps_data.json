@@ -770,579 +770,6 @@
         ]
     },
     {
-        "id": "932747118",
-        "name": "Shadowrocket",
-        "url": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6b64\u6b21\u66f4\u65b0\u4e4b\u540e\uff0cxhttp \u534f\u8bae\u5b8c\u5168\u65e0\u6cd5\u4f7f\u7528\u3002\n\n[18:56:57.995] backend vless <1b88bc81-f4e-31d-6ce-950cd4384e3> send vless header\n[18:56:58.291] mux connection <1b88bc81-f4e-31d-6ce-950cd4384e3> close stream <24>\n[18:56:58.291] mux session <1b88bc81-f4e-31d-6ce-950cd4384e3> group count => <0> id <0> did disconnect reason => xhttp h2 session <1b88bc81-f4e-31d-6ce-950cd4384e3> lib_error_code => -536 error => Remote peer returned unexpected data while we expected SETTINGS frame.  Perhaps, peer does not support HTTP/2 properly.",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Investigate and fix the reported xhttp protocol issue in the latest update to ensure proper functioning of HTTP/2 connections.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u4e4b\u524d\u4e00\u76f4\u7528\u4e863\u5e74\u591a\uff0c\u4e00\u70b9\u95ee\u9898\u90fd\u6ca1\u6709\u3002\u66f4\u65b0\u52302.2.71\u4ee5\u540e\u5b8c\u5168\u7528\u4e0d\u4e86",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement a robust rollback or a phased rollout system for app updates to prevent widespread user disruption from bugs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "I use this app for many years,but it don\u2019t work after update yesterday.the same vpn account is works on my android phone.",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement robust cross-platform compatibility testing to prevent update-related issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "previous version works ,but the latest version on ios18.6 nNOT! WORK!",
-                "date": "2025-09-29",
-                "value": 5,
-                "potential_idea": "Enable offline functionality for the app, allowing users to access core features without an internet connection.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "The connection issue persists on my 15 pro max, ios 26 after the 2.2.71 update. Fix the problem! we don\u2019t pay for a nonfunctional app!",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Proactive connection stability monitoring and user notification system to alert users about potential connectivity issues before they impact app usability.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6253\u5f00\u540e\u4e00\u4f1a\u5c31\u65e0\u6cd5\u8fde\u63a5\u4e86\uff0c\u66f4\u65b0\u4e86\u7cfb\u7edf\u4e5f\u662f\uff0c\u5e0c\u671b\u5c3d\u5feb\u4fee\u590d\uff01",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Implement robust offline functionality or improved connection stability to ensure uninterrupted app usage.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "The new design with a huge blue banner on top is terrible, please don\u2019t ever use it again. My eyes hurt.",
-                "date": "2025-09-26",
-                "value": 12,
-                "potential_idea": "Allow users to customize the app's color scheme and UI elements to improve accessibility and user comfort.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u7b2c\u4e00\u6b21\u89c1\u5230\u4e00\u4e2aApp\u53d1\u5e03\u4e86\u90a3\u4e48\u591a\u5173\u4e8e\u66f4\u65b0\u7684\u6d4b\u8bd5build\u4e4b\u540e\uff0c\u6b63\u5f0f\u4e0a\u67b6\u7684\u7248\u672c\u5b8c\u5168\u4e0d\u53ef\u7528\uff01\u8fde\u63a5\u540e\u6ca1\u4e24\u5206\u949f\u5c31\u5168\u65ad\uff0c\u5e94\u8be5\u662f\u6574\u4e2a\u7f51\u7edc\u90e8\u5206\u88ab\u91cd\u6784\u8fc7\u4e86\uff0c\u53ef\u60dc\u5f00\u53d1\u548c\u6d4b\u8bd5\u6c34\u5e73\u592a\u4e1a\u4f59\uff01\u56e2\u961f\u4f60\u4eec\u7a76\u7adf\u5728\u5e72\u4ec0\u4e48\uff1f\u5b58\u5fc3\u7684\u5417\uff1f",
-                "date": "2025-09-26",
-                "value": 55,
-                "potential_idea": "Implement a robust network stability testing suite and a rollback mechanism for app updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "sb",
-                "date": "2025-09-23",
-                "value": 0,
-                "potential_idea": "No actionable feedback provided.",
-                "tags": []
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "Or new list showed and immediately disappear",
-                "date": "2025-09-12",
-                "value": 18,
-                "potential_idea": "Implement a robust error handling and retry mechanism to prevent data loss and ensure UI stability when lists fail to load.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6211\u89c9\u5f97\u4ea7\u54c1\u548c\u7528\u6237\uff0c\u81f3\u5c11\u5e94\u8be5\u6709\u6700\u57fa\u672c\u7684\u76f8\u4e92\u5c0a\u91cd\u5bf9\u5417\uff1f\n\u9ebb\u70e6\u7ed9\u6211\u4e00\u4e2a\u201c\u63d0\u4ea4\u9700\u6c42\uff0c\u8010\u5fc3\u89e3\u91ca\u9700\u6c42\u201d\u7136\u540e\u88ab\u6240\u8c13\u201c\u7ba1\u7406\u201d\u5c01\u7981\u7684\u7406\u7531\u597d\u5417\uff1f \u4ea7\u54c1\u9700\u6c42\uff1a \u5728\u4ee3\u7406\u5206\u7ec4\u8bbe\u7f6e\u4e00\u4e2a\u201c\u8282\u70b9\u4e0a\u9650\u201d\u9009\u9879\uff08\u975e\u8ba2\u9605\u65f6\u7684\u8bbe\u7f6e\uff09 \u67d0\u4f4d\u201c\u7ba1\u7406\u201d\u8bf4\u662f\u201c\u4f2a\u9700\u6c42\u201d\uff0c\u6211\u56de\u590d\u4ed6\u201c\u5982\u679c\u6309\u7167\u8fd9\u4e2a\u903b\u8f91\uff0c\u8ba2\u9605\u65f6\u8bbe\u7f6e\u8282\u70b9\u4e0a\u9650\u4e5f\u662f\u4f2a\u9700\u6c42\u4e86\uff0c\u4e3a\u4ec0\u4e48\u8981\u4e22\u5f03\u8282\u70b9\u5462\u201d\uff0c\u51ed\u4ec0\u4e48\u88ab\u5c01\u7981\uff1f \u4f5c\u4e3a\u6d88\u8d39\u8005\uff0c\u6211\u81f3\u5c11\u6709\u63d0\u5efa\u8bae\u7684\u6743\u5229\u5427\uff1f \u51ed\u4ec0\u4e48\uff1f\uff1f \u8fd9\u4e00\u5c0f\u64ae\u4eba\u5230\u5e95\u662f\u8981\u641e\u4ec0\u4e48\uff1f",
-                "date": "2025-08-21",
-                "value": 75,
-                "potential_idea": "Implement a user feedback system with transparent moderation and clear communication for feature requests and bug reports, allowing users to understand the reasoning behind decisions and provide constructive input.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6253\u5f00\u4e0d\u4e86",
-                "date": "2025-08-21",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and provide informative crash reports to users when the app fails to open.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "\u4e3a\u4ec0\u4e48ihone 5c\u4e0d\u80fd\u7528\u554a",
-                "date": "2025-08-15",
-                "value": 5,
-                "potential_idea": "Expand app compatibility to support older iPhone models like the iPhone 5c.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "need more effort to learn how to diy conf file",
-                "date": "2025-08-15",
-                "value": 60,
-                "potential_idea": "Develop an intuitive in-app wizard or guided tutorial to simplify the configuration file editing process for users.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "I really enjoy using Shadowrocket\u2014it\u2019s an excellent app! It would be fantastic if the developer could release an update that supports M2 macOS. This would make the app even more versatile and useful.",
-                "date": "2025-08-14",
-                "value": 75,
-                "potential_idea": "Develop a native M2 macOS version of Shadowrocket to enhance cross-platform compatibility and user experience.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "For days I complained to the connection support about my connection issues, until they finally suggested testing another software instead of Shadowrocket. Now I feel it\u2019s a shame that a completely free application can stay connected stably through this connection, while in this so-called premium paid software, it doesn\u2019t even return a single ping!",
-                "date": "2025-08-09",
-                "value": 75,
-                "potential_idea": "Develop a VPN service that focuses on exceptional connection stability and performance, challenging premium paid competitors with a free or freemium model.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6502453075",
-        "name": "Balatro",
-        "url": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Balatro",
-                "rating": 2,
-                "review": "Fun game but my progress doesn\u2019t save anymore.  Many players complain of the same issue for over a year now.",
-                "date": "2025-09-25",
-                "value": 10,
-                "potential_idea": "Implementing robust cloud backups and a reliable save system to prevent data loss and address widespread player complaints.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Ever since the new ios update the game is extremely slow and glitchy. It almost unplayable. Fix your game!",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Implement performance optimizations to ensure smooth gameplay after operating system updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Runs horrrrrendus",
-                "date": "2025-09-18",
-                "value": 10,
-                "potential_idea": "Implement robust performance optimization and bug fixing to ensure smooth app operation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 2,
-                "review": "I don\u2019t really understand all the 5 star reviews.   I have masters degrees in math and statistics (which sad;y you almost need in this game to play really well), and even I just couldn\u2019t find FUN at the heart of this game.   I find the graphics muddy and the level of wildcards overkill.   This is a game for people who deal a poker hand and say \u201cReds are wild, sevens can be converted to face cards unless there are an odd number of sevens on the board, and then they count as Aces\u2026..\u201d.  Not fun for me!!",
-                "date": "2025-09-17",
-                "value": 18,
-                "potential_idea": "Introduce 'beginner' or 'simplified' game modes with clearer rules and less complex wildcard mechanics.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Would be really nice if we could replay tutorial when coming back to game after awhile away.",
-                "date": "2025-09-15",
-                "value": 15,
-                "potential_idea": "Implement an in-app tutorial replay function for users who return to the app after a period of absence.",
-                "tags": [
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "I hope you like gambling because that\u2019s all it is",
-                "date": "2025-09-15",
-                "value": 15,
-                "potential_idea": "Develop a guided, educational module within the app to teach users about responsible gambling and provide resources for addiction support.",
-                "tags": []
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Bro this game is absolutely insane i cannot stop playing this game this was totally worth the payment i cannot stop tell u right now ur gonna enjoy it",
-                "date": "2025-09-07",
-                "value": 0,
-                "potential_idea": "None - The review is overwhelmingly positive feedback for the existing game, with no suggestions for new features or improvements.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "1406710800",
-        "name": "Stardew Valley",
-        "url": "https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Will make you waste countless hours on it and then break your heart by deleting everything you do. There is no way save it other than going to sleep which doesn\u2019t actually save it at all. My brand new iPad died ONCE and I lost more than a year of game play because there is no save option. Losing one or two days is one thing, an entire year in the game?!?! You lost me. It\u2019s almost 2026, a save option shouldn\u2019t need to be suggested. I\u2019m not playing 1970\u2019s pong for a reason.",
-                "date": "2025-09-27",
-                "value": 90,
-                "potential_idea": "Implement robust cloud-based save functionality and local backups to prevent data loss in the mobile app, especially for games and creative tools.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "I can\u2019t see the health bar properly on the iPhone 17 with even having the tool screen shortened. I never had that issue on android.",
-                "date": "2025-09-27",
-                "value": 12,
-                "potential_idea": "Develop an adaptive UI scaling feature that automatically adjusts element sizes and positions across different devices and screen resolutions to ensure critical information, like health bars, is always visible and legible.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "I bought this game 3 years ago. But I still waiting for version can play on Mac. I show it can download from Steam for MacOS but i can\u2019t download on AppStore.",
-                "date": "2025-09-21",
-                "value": 50,
-                "potential_idea": "Develop a macOS version of the mobile game, making it available on platforms like Steam or directly as a Mac App Store download.",
-                "tags": [
-                    "no update for long time",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Zero",
-                "date": "2025-09-20",
-                "value": 10,
-                "potential_idea": "This user is experiencing a critical failure, suggesting a need for robust error reporting and user assistance during onboarding or initial app use.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Please enable mouse and keyboard play!!! I\u2019m so sad that I can\u2019t play with my keyboard. I am a pc player and just downloaded SDV on my IPad thinking i could play while I\u2019m on the road. I\u2019m only giving one star to bring attention to this post, I really do love SDV and would give this game 100 out of 5 stars.",
-                "date": "2025-09-09",
-                "value": 75,
-                "potential_idea": "Implement gamepad and external keyboard support for mobile versions of games like Stardew Valley to cater to PC players transitioning to mobile.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 2,
-                "review": "Not surprised",
-                "date": "2025-09-09",
-                "value": 5,
-                "potential_idea": "The user is expressing a lack of surprise, which could indicate a situation where the app's performance or behavior is predictable but not necessarily satisfying or ideal. \n\nTherefore, a potential idea could be to develop an app that offers personalized insights and proactive suggestions to help users avoid predictable negative outcomes or optimize for better results.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Scam",
-                "date": "2025-09-08",
-                "value": 15,
-                "potential_idea": "Implement clear and transparent pricing models with no hidden fees, possibly with a \"cost calculator\" feature.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "The game gives you some options to adjust menu spacing and other UI, but it is extremely limited! No matter what some things get cut off or are extremely awkward on the screen. Love this game but not on mobile. It\u2019s practically unplayable.\n\nNot even able to refund while only playing for a couple minutes! Very upsetting.",
-                "date": "2025-09-01",
-                "value": 78,
-                "potential_idea": "Implement advanced, adaptive UI scaling and customizability options for mobile app interfaces to ensure optimal display and usability across various screen sizes and resolutions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "\u800c\u662f\u5b83\u548c\u6211\u6700\u8ba8\u538c\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u771f\u7684\u5f88\u559c\u6b22\u661f\u9732\u8c37\u7269\u8bed\uff0c\u521a\u5f00\u59cb\u5728iPhone\u4e0a\u73a9\u8fd9\u4e2a\u6e38\u620f\uff0c\u975e\u5e38\u559c\u6b22\u3002\u6574\u5929\u90fd\u518d\u73a9\u3002\u4e4b\u540e\u6211\u53c8\u5728steam\u4e0a\u4e70\u4e86\u5b83\uff0c\u5f00\u4e86\u65b0\u7684\u5b58\u6863\u3002\u8fd9\u4e2a\u6e38\u620f\u4e00\u76f4\u662f\u6211\u907f\u98ce\u7684\u6e2f\u6e7e\u3002\u7136\u800c\u5b83\u548c\u66fe\u7ecf\u7f51\u7206\u8fc7\u6211\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u518d\u4e5f\u65e0\u6cd5\u76f4\u89c6\u661f\u9732\u8c37\u7269\u8bed\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u6bcf\u5f53\u6211\u6253\u5f00\u8fd9\u4e2a\u6e38\u620f\u6211\u53ef\u80fd\u4f1a\u60f3\u5230\u66fe\u7ecf\u88ab\u7f51\u7206\u7684\u65f6\u523b\u3002\u6211\u77e5\u9053\u6211\u65e0\u6cd5\u6539\u53d8\u8fd9\u6b21\u8054\u52a8\u7684\u51b3\u5b9a\u3002\u6211\u53ea\u597d\u4e0d\u518d\u73a9\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u518d\u89c1\u3002",
-                "date": "2025-08-27",
-                "value": 16,
-                "potential_idea": "Allow users to disable or customize in-game collaborations with other specific games or media franchises.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 2,
-                "review": "As the title says there is barely a tutorial. The first night I couldn\u2019t get into my house so I passed out and then was charged 50 coins bc the medical team had to rescue me. Would have been nice to know ahead of time. Controlling where the avatar moves is clunky. There\u2019s no map, you just wander aimlessly around town and hope for the best. I\u2019m still not sure how to sell things in my inventory. All of this after 30 minutes of play\u2026for 5 dollars?! Lame",
-                "date": "2025-08-21",
-                "value": 85,
-                "potential_idea": "Integrate an interactive in-game tutorial that guides new players through core mechanics like house entry, selling inventory items, and resource management, while also providing a minimap for navigation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Couldn\u2019t move past creating my farmer",
-                "date": "2025-08-18",
-                "value": 10,
-                "potential_idea": "Implement a skip option for initial character creation in farming simulation games to quickly start gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 2,
-                "review": "The energy bar and health bar are too low on the screen and not fully visible on iPhone 16 pro max and there\u2019s no way I\u2019ve found to move them. This needs to be fixed it directly hurts gameplay.",
-                "date": "2025-08-18",
-                "value": 60,
-                "potential_idea": "Allow users to customize the position and size of in-game UI elements like health and energy bars for better visibility on different devices.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "\u624b\u673a\u7248\u6ca1\u6709mod\u6e38\u620f\u4f53\u9a8c\u592a\u5dee\u4e86 \u505a\u4e86\u624b\u67c4\u64cd\u4f5c\u4f46\u662f\u5b8c\u5168\u6ca1\u6709\u7528\u5fc3\uff0c\u660e\u660e\u53ef\u4ee5\u76f4\u63a5\u628apc\u7aef\u624b\u67c4\u64cd\u4f5c\u79fb\u690d\u8fc7\u6765\u5374\u975e\u8981\u5e9f\u9664\u53f3\u6447\u6746\u529f\u80fd\u5bfc\u81f4\u73b0\u5728\u624b\u67c4\u51e0\u4e4e\u662f\u4e2a\u5e9f\u7269",
-                "date": "2025-08-13",
-                "value": 18,
-                "potential_idea": "Implement robust gamepad support for the mobile version by directly porting PC gamepad controls, including restoring full functionality to the right analog stick.",
-                "tags": [
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "\u8bf7\u4f5c\u8005\u56de\u590d\u6211\uff0c\u4e3a\u4ec0\u4e48\u6211\u7684ipad\u4e0b\u8f7d\u4ee5\u540e\uff0c\u4e5f\u663e\u793a\u51fa\u6765\u4e86\u5408\u4f5c\u90a3\u4e2a\u6309\u94ae\uff0c\u4f46\u662f\u8fdb\u53bb\u4ee5\u540e\u53ea\u80fd\u52a0\u5165\u522b\u4eba\u7684\u4e3b\u673a\uff0c\u81ea\u5df1\u4e0d\u80fd\u5efa\u4e3b\u673a\uff1f",
-                "date": "2025-08-13",
-                "value": 18,
-                "potential_idea": "Enable users to host multiplayer sessions on iPad in addition to joining them, addressing the current inability to create their own game rooms.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "824305459",
-        "name": "Papa's Freezeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "I don\u2019t know hth this gone on my phone, but I am being charged and I cannot see how to cancel subscription!",
-                "date": "2025-08-29",
-                "value": 75,
-                "potential_idea": "Implement a clear and easily accessible subscription management and cancellation feature within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "It\u2019s a knockoff pirate version of the original game, horrible pixelated quality.",
-                "date": "2025-08-09",
-                "value": 75,
-                "potential_idea": "Develop a high-fidelity version of the original game with improved graphics and art assets.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "Hd version shows up better but you can play this for cheaper option",
-                "date": "2025-07-12",
-                "value": 50,
-                "potential_idea": "Offer a lower-resolution streaming option for users who prioritize cost savings over visual fidelity.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "day 1 of asking for my account back\ud83d\ude14",
-                "date": "2025-06-26",
-                "value": 75,
-                "potential_idea": "Implement an automated account recovery process with clear steps and progress tracking to assist users who have lost access to their accounts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "This game was one of my favorites when I was younger, I can\u2019t bring myself to continue playing it though, because the graphics are so bad. This game would be 5/5 if it were more updated like the newer papa\u2019s mobile games. Not worth 99\u00a2.",
-                "date": "2025-05-17",
-                "value": 70,
-                "potential_idea": "Revamp the graphics of a classic mobile game to align with modern visual standards, similar to updated versions of existing franchise titles.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "I just purchased this game and the gameplay screen is very small and such bad quality! I would like my .99 back, you can keep this game. I\u2019m very disappointed because I love papa games",
-                "date": "2025-05-12",
-                "value": 75,
-                "potential_idea": "Implement a graphical quality and screen size adjustment feature within the game settings to accommodate varying device capabilities and user preferences.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "this game is absolutely NOTHING like the computer version.. and it doesn\u2019t even let you drag toppings into the right place. what a waste of $1.06 \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
-                "date": "2025-05-02",
-                "value": {
-                    "intensity": 20,
-                    "difference": 10,
-                    "scope": 15,
-                    "feasibility": 15,
-                    "total": 60
-                },
-                "potential_idea": "Implement interactive drag-and-drop functionality for placing toppings in the mobile version of the game to mirror the computer version's gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "Quality was terrible and blurry.",
-                "date": "2025-04-30",
-                "value": 12,
-                "potential_idea": "Implement an image optimization feature to automatically enhance the clarity and reduce blurriness of user-uploaded media.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "I feel like the screen is small and pixelated and it doesn\u2019t even give us enough time to get someone\u2019s order done before another customer arrives, i would be making customer 1s, and Then they keep showing up, its very fast but the drinks take very slow and the speed up button is basically useless, it doesn\u2019t help.",
-                "date": "2025-04-07",
-                "value": 16,
-                "potential_idea": "Introduce a pacing mechanism or adjustable customer arrival rate to better balance drink preparation speed and customer flow in the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "I LITERALLY WORK 7 DAYS A WEEK!!! AND ONLY GOT 107 DOLLARS LIKE WHAT IS MINIMUM WAGE??????? HOW MANY HOURS AM I WORKING?? HOW DO YOU EXPECT ME TO PAY RENT??? BILLS??? HELLLOOO?????",
-                "date": "2025-03-26",
-                "value": 55,
-                "potential_idea": "An app feature that helps gig workers or hourly employees meticulously track their working hours and income, automatically calculating their effective hourly wage and highlighting potential underpayment based on minimum wage expectations.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "This says it works on IPad. It\u2019s a complete lie. I downloaded this game to play it and it does not want to work. The screen flips. Fix your game",
-                "date": "2025-03-23",
-                "value": 15,
-                "potential_idea": "Develop an iPad-optimized version of the game with proper screen orientation support.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "The game is trash I hate it",
-                "date": "2025-03-08",
-                "value": 5,
-                "potential_idea": "Develop a game that actively avoids frustrating or \"trash\" mechanics identified in competitive titles.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "It doesn\u2019t work on my end and they won\u2019t give me any refund for it. It just keeps freezing and lagging.",
-                "date": "2025-02-21",
-                "value": 18,
-                "potential_idea": "Implement robust error handling and provide a clear pathway for users to report bugs and request refunds for app malfunctions.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "625334537",
         "name": "Geometry Dash",
         "url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
@@ -12118,6 +11545,575 @@
                 "tags": [
                     "bug",
                     "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "932747118",
+        "name": "Shadowrocket",
+        "url": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u6b64\u6b21\u66f4\u65b0\u4e4b\u540e\uff0cxhttp \u534f\u8bae\u5b8c\u5168\u65e0\u6cd5\u4f7f\u7528\u3002\n\n[18:56:57.995] backend vless <1b88bc81-f4e-31d-6ce-950cd4384e3> send vless header\n[18:56:58.291] mux connection <1b88bc81-f4e-31d-6ce-950cd4384e3> close stream <24>\n[18:56:58.291] mux session <1b88bc81-f4e-31d-6ce-950cd4384e3> group count => <0> id <0> did disconnect reason => xhttp h2 session <1b88bc81-f4e-31d-6ce-950cd4384e3> lib_error_code => -536 error => Remote peer returned unexpected data while we expected SETTINGS frame.  Perhaps, peer does not support HTTP/2 properly.",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and fallback mechanisms for XHTTP protocol compatibility issues to ensure uninterrupted service.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u4e4b\u524d\u4e00\u76f4\u7528\u4e863\u5e74\u591a\uff0c\u4e00\u70b9\u95ee\u9898\u90fd\u6ca1\u6709\u3002\u66f4\u65b0\u52302.2.71\u4ee5\u540e\u5b8c\u5168\u7528\u4e0d\u4e86",
+                "date": "2025-09-29",
+                "value": 10,
+                "potential_idea": "Implement a rollback mechanism or a robust testing pipeline to prevent critical bugs in future app updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 2,
+                "review": "I use this app for many years,but it don\u2019t work after update yesterday.the same vpn account is works on my android phone.",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement robust cross-platform compatibility testing to ensure updates do not break functionality on specific operating systems, or offer a rollback option for critical bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "previous version works ,but the latest version on ios18.6 nNOT! WORK!",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement robust backward compatibility testing before releasing new app versions to ensure functionality across all supported iOS versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "The connection issue persists on my 15 pro max, ios 26 after the 2.2.71 update. Fix the problem! we don\u2019t pay for a nonfunctional app!",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Proactive network connection monitoring and automatic reconnection attempts with user notifications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u6253\u5f00\u540e\u4e00\u4f1a\u5c31\u65e0\u6cd5\u8fde\u63a5\u4e86\uff0c\u66f4\u65b0\u4e86\u7cfb\u7edf\u4e5f\u662f\uff0c\u5e0c\u671b\u5c3d\u5feb\u4fee\u590d\uff01",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Improve the app's network stability and reconnection reliability, especially after system updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 2,
+                "review": "The new design with a huge blue banner on top is terrible, please don\u2019t ever use it again. My eyes hurt.",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Allow users to customize banner colors and sizes within the app to improve visual comfort.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u7b2c\u4e00\u6b21\u89c1\u5230\u4e00\u4e2aApp\u53d1\u5e03\u4e86\u90a3\u4e48\u591a\u5173\u4e8e\u66f4\u65b0\u7684\u6d4b\u8bd5build\u4e4b\u540e\uff0c\u6b63\u5f0f\u4e0a\u67b6\u7684\u7248\u672c\u5b8c\u5168\u4e0d\u53ef\u7528\uff01\u8fde\u63a5\u540e\u6ca1\u4e24\u5206\u949f\u5c31\u5168\u65ad\uff0c\u5e94\u8be5\u662f\u6574\u4e2a\u7f51\u7edc\u90e8\u5206\u88ab\u91cd\u6784\u8fc7\u4e86\uff0c\u53ef\u60dc\u5f00\u53d1\u548c\u6d4b\u8bd5\u6c34\u5e73\u592a\u4e1a\u4f59\uff01\u56e2\u961f\u4f60\u4eec\u7a76\u7adf\u5728\u5e72\u4ec0\u4e48\uff1f\u5b58\u5fc3\u7684\u5417\uff1f",
+                "date": "2025-09-26",
+                "value": 60,
+                "potential_idea": "Implement a robust beta testing program with clear channels for feedback to prevent major usability issues in release versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "sb",
+                "date": "2025-09-23",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 2,
+                "review": "Or new list showed and immediately disappear",
+                "date": "2025-09-12",
+                "value": 15,
+                "potential_idea": "Implement a system to prevent accidental deletion or disappearance of user-created lists.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u6211\u89c9\u5f97\u4ea7\u54c1\u548c\u7528\u6237\uff0c\u81f3\u5c11\u5e94\u8be5\u6709\u6700\u57fa\u672c\u7684\u76f8\u4e92\u5c0a\u91cd\u5bf9\u5417\uff1f\n\u9ebb\u70e6\u7ed9\u6211\u4e00\u4e2a\u201c\u63d0\u4ea4\u9700\u6c42\uff0c\u8010\u5fc3\u89e3\u91ca\u9700\u6c42\u201d\u7136\u540e\u88ab\u6240\u8c13\u201c\u7ba1\u7406\u201d\u5c01\u7981\u7684\u7406\u7531\u597d\u5417\uff1f \u4ea7\u54c1\u9700\u6c42\uff1a \u5728\u4ee3\u7406\u5206\u7ec4\u8bbe\u7f6e\u4e00\u4e2a\u201c\u8282\u70b9\u4e0a\u9650\u201d\u9009\u9879\uff08\u975e\u8ba2\u9605\u65f6\u7684\u8bbe\u7f6e\uff09 \u67d0\u4f4d\u201c\u7ba1\u7406\u201d\u8bf4\u662f\u201c\u4f2a\u9700\u6c42\u201d\uff0c\u6211\u56de\u590d\u4ed6\u201c\u5982\u679c\u6309\u7167\u8fd9\u4e2a\u903b\u8f91\uff0c\u8ba2\u9605\u65f6\u8bbe\u7f6e\u8282\u70b9\u4e0a\u9650\u4e5f\u662f\u4f2a\u9700\u6c42\u4e86\uff0c\u4e3a\u4ec0\u4e48\u8981\u4e22\u5f03\u8282\u70b9\u5462\u201d\uff0c\u51ed\u4ec0\u4e48\u88ab\u5c01\u7981\uff1f \u4f5c\u4e3a\u6d88\u8d39\u8005\uff0c\u6211\u81f3\u5c11\u6709\u63d0\u5efa\u8bae\u7684\u6743\u5229\u5427\uff1f \u51ed\u4ec0\u4e48\uff1f\uff1f \u8fd9\u4e00\u5c0f\u64ae\u4eba\u5230\u5e95\u662f\u8981\u641e\u4ec0\u4e48\uff1f",
+                "date": "2025-08-21",
+                "value": 15,
+                "potential_idea": "Implement user-facing moderation logs and clear appeal processes for account restrictions to foster transparency and trust.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u6253\u5f00\u4e0d\u4e86",
+                "date": "2025-08-21",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and a user-friendly crash reporting mechanism to diagnose and resolve app opening issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 2,
+                "review": "\u4e3a\u4ec0\u4e48ihone 5c\u4e0d\u80fd\u7528\u554a",
+                "date": "2025-08-15",
+                "value": 10,
+                "potential_idea": "Ensure app compatibility with older iPhone models like the 5c.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "need more effort to learn how to diy conf file",
+                "date": "2025-08-15",
+                "value": 70,
+                "potential_idea": "Build an AI-powered, interactive guide to help users understand and configure app settings, simplifying complex DIY configuration files.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "I really enjoy using Shadowrocket\u2014it\u2019s an excellent app! It would be fantastic if the developer could release an update that supports M2 macOS. This would make the app even more versatile and useful.",
+                "date": "2025-08-14",
+                "value": 65,
+                "potential_idea": "Develop a native macOS version of Shadowrocket optimized for M2 chips to enhance its versatility and usefulness on desktop platforms.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "For days I complained to the connection support about my connection issues, until they finally suggested testing another software instead of Shadowrocket. Now I feel it\u2019s a shame that a completely free application can stay connected stably through this connection, while in this so-called premium paid software, it doesn\u2019t even return a single ping!",
+                "date": "2025-08-09",
+                "value": 75,
+                "potential_idea": "Develop a premium VPN service that prioritizes stable and reliable connections, even on challenging networks, distinguishing itself from free alternatives that may offer less consistent performance.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6502453075",
+        "name": "Balatro",
+        "url": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Balatro",
+                "rating": 2,
+                "review": "Fun game but my progress doesn\u2019t save anymore.  Many players complain of the same issue for over a year now.",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement a cloud-based save system for game progress to prevent data loss and address persistent user complaints.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Ever since the new ios update the game is extremely slow and glitchy. It almost unplayable. Fix your game!",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Optimize app performance to ensure smooth gameplay after operating system updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Runs horrrrrendus",
+                "date": "2025-09-18",
+                "value": 15,
+                "potential_idea": "Improve app performance and stability to address widespread user-reported issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 2,
+                "review": "I don\u2019t really understand all the 5 star reviews.   I have masters degrees in math and statistics (which sad;y you almost need in this game to play really well), and even I just couldn\u2019t find FUN at the heart of this game.   I find the graphics muddy and the level of wildcards overkill.   This is a game for people who deal a poker hand and say \u201cReds are wild, sevens can be converted to face cards unless there are an odd number of sevens on the board, and then they count as Aces\u2026..\u201d.  Not fun for me!!",
+                "date": "2025-09-17",
+                "value": 70,
+                "potential_idea": "Develop a mobile game with a more intuitive and accessible ruleset, focusing on core gameplay loops that are easy to grasp and offer strategic depth without overwhelming complexity.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Would be really nice if we could replay tutorial when coming back to game after awhile away.",
+                "date": "2025-09-15",
+                "value": 50,
+                "potential_idea": "Implement a 'replay tutorial' feature for users who return to the app after a break.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "I hope you like gambling because that\u2019s all it is",
+                "date": "2025-09-15",
+                "value": 15,
+                "potential_idea": "Incorporate a 'safe mode' or 'responsible gambling' features to help users limit their spending and play time.",
+                "tags": []
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Bro this game is absolutely insane i cannot stop playing this game this was totally worth the payment i cannot stop tell u right now ur gonna enjoy it",
+                "date": "2025-09-07",
+                "value": 12,
+                "potential_idea": "Implement a 'recommended challenges' feature based on player progression and engagement to further incentivize continued play.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "1406710800",
+        "name": "Stardew Valley",
+        "url": "https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Will make you waste countless hours on it and then break your heart by deleting everything you do. There is no way save it other than going to sleep which doesn\u2019t actually save it at all. My brand new iPad died ONCE and I lost more than a year of game play because there is no save option. Losing one or two days is one thing, an entire year in the game?!?! You lost me. It\u2019s almost 2026, a save option shouldn\u2019t need to be suggested. I\u2019m not playing 1970\u2019s pong for a reason.",
+                "date": "2025-09-27",
+                "value": 95,
+                "potential_idea": "Implement an automatic cloud save feature for app progress, allowing users to restore their data even after app deletion or device failure.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "I can\u2019t see the health bar properly on the iPhone 17 with even having the tool screen shortened. I never had that issue on android.",
+                "date": "2025-09-27",
+                "value": 75,
+                "potential_idea": "Implement adaptive UI scaling for health bars and tool screens across different devices, specifically addressing display issues on newer iPhones.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "I bought this game 3 years ago. But I still waiting for version can play on Mac. I show it can download from Steam for MacOS but i can\u2019t download on AppStore.",
+                "date": "2025-09-21",
+                "value": 18,
+                "potential_idea": "Develop and release a macOS version of the mobile game, allowing existing App Store purchasers to access it.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Zero",
+                "date": "2025-09-20",
+                "value": 10,
+                "potential_idea": "Improve overall app performance and stability to prevent crashes and freezes.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Please enable mouse and keyboard play!!! I\u2019m so sad that I can\u2019t play with my keyboard. I am a pc player and just downloaded SDV on my IPad thinking i could play while I\u2019m on the road. I\u2019m only giving one star to bring attention to this post, I really do love SDV and would give this game 100 out of 5 stars.",
+                "date": "2025-09-09",
+                "value": 80,
+                "potential_idea": "Integrate support for external keyboard and mouse input for mobile versions of Stardew Valley.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 2,
+                "review": "Not surprised",
+                "date": "2025-09-09",
+                "value": 0,
+                "potential_idea": "None",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Scam",
+                "date": "2025-09-08",
+                "value": 15,
+                "potential_idea": "Implement stronger fraud detection and reporting mechanisms to combat scams within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "The game gives you some options to adjust menu spacing and other UI, but it is extremely limited! No matter what some things get cut off or are extremely awkward on the screen. Love this game but not on mobile. It\u2019s practically unplayable.\n\nNot even able to refund while only playing for a couple minutes! Very upsetting.",
+                "date": "2025-09-01",
+                "value": 75,
+                "potential_idea": "Implement advanced, customizable UI scaling and layout options for mobile versions of games to ensure all elements are properly displayed and accessible on various screen sizes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "\u800c\u662f\u5b83\u548c\u6211\u6700\u8ba8\u538c\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u771f\u7684\u5f88\u559c\u6b22\u661f\u9732\u8c37\u7269\u8bed\uff0c\u521a\u5f00\u59cb\u5728iPhone\u4e0a\u73a9\u8fd9\u4e2a\u6e38\u620f\uff0c\u975e\u5e38\u559c\u6b22\u3002\u6574\u5929\u90fd\u518d\u73a9\u3002\u4e4b\u540e\u6211\u53c8\u5728steam\u4e0a\u4e70\u4e86\u5b83\uff0c\u5f00\u4e86\u65b0\u7684\u5b58\u6863\u3002\u8fd9\u4e2a\u6e38\u620f\u4e00\u76f4\u662f\u6211\u907f\u98ce\u7684\u6e2f\u6e7e\u3002\u7136\u800c\u5b83\u548c\u66fe\u7ecf\u7f51\u7206\u8fc7\u6211\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u518d\u4e5f\u65e0\u6cd5\u76f4\u89c6\u661f\u9732\u8c37\u7269\u8bed\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u6bcf\u5f53\u6211\u6253\u5f00\u8fd9\u4e2a\u6e38\u620f\u6211\u53ef\u80fd\u4f1a\u60f3\u5230\u66fe\u7ecf\u88ab\u7f51\u7206\u7684\u65f6\u523b\u3002\u6211\u77e5\u9053\u6211\u65e0\u6cd5\u6539\u53d8\u8fd9\u6b21\u8054\u52a8\u7684\u51b3\u5b9a\u3002\u6211\u53ea\u597d\u4e0d\u518d\u73a9\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u518d\u89c1\u3002",
+                "date": "2025-08-27",
+                "value": 75,
+                "potential_idea": "Allow users to customize in-game content to exclude specific unwanted collaborations or themes.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 2,
+                "review": "As the title says there is barely a tutorial. The first night I couldn\u2019t get into my house so I passed out and then was charged 50 coins bc the medical team had to rescue me. Would have been nice to know ahead of time. Controlling where the avatar moves is clunky. There\u2019s no map, you just wander aimlessly around town and hope for the best. I\u2019m still not sure how to sell things in my inventory. All of this after 30 minutes of play\u2026for 5 dollars?! Lame",
+                "date": "2025-08-21",
+                "value": 80,
+                "potential_idea": "Implement an interactive in-game tutorial and a mini-map system to guide new players and explain core mechanics.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Couldn\u2019t move past creating my farmer",
+                "date": "2025-08-18",
+                "value": 15,
+                "potential_idea": "Implement a tutorial or guided onboarding process that explicitly shows users how to create a farmer profile.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 2,
+                "review": "The energy bar and health bar are too low on the screen and not fully visible on iPhone 16 pro max and there\u2019s no way I\u2019ve found to move them. This needs to be fixed it directly hurts gameplay.",
+                "date": "2025-08-18",
+                "value": 75,
+                "potential_idea": "Allow users to reposition or resize UI elements, such as health and energy bars, on mobile screens to improve visibility and gameplay experience, particularly on newer devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "\u624b\u673a\u7248\u6ca1\u6709mod\u6e38\u620f\u4f53\u9a8c\u592a\u5dee\u4e86 \u505a\u4e86\u624b\u67c4\u64cd\u4f5c\u4f46\u662f\u5b8c\u5168\u6ca1\u6709\u7528\u5fc3\uff0c\u660e\u660e\u53ef\u4ee5\u76f4\u63a5\u628apc\u7aef\u624b\u67c4\u64cd\u4f5c\u79fb\u690d\u8fc7\u6765\u5374\u975e\u8981\u5e9f\u9664\u53f3\u6447\u6746\u529f\u80fd\u5bfc\u81f4\u73b0\u5728\u624b\u67c4\u51e0\u4e4e\u662f\u4e2a\u5e9f\u7269",
+                "date": "2025-08-13",
+                "value": 75,
+                "potential_idea": "Implement full PC-level controller support for the mobile app, including restoring the right analog stick functionality and optimizing existing controls.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "\u8bf7\u4f5c\u8005\u56de\u590d\u6211\uff0c\u4e3a\u4ec0\u4e48\u6211\u7684ipad\u4e0b\u8f7d\u4ee5\u540e\uff0c\u4e5f\u663e\u793a\u51fa\u6765\u4e86\u5408\u4f5c\u90a3\u4e2a\u6309\u94ae\uff0c\u4f46\u662f\u8fdb\u53bb\u4ee5\u540e\u53ea\u80fd\u52a0\u5165\u522b\u4eba\u7684\u4e3b\u673a\uff0c\u81ea\u5df1\u4e0d\u80fd\u5efa\u4e3b\u673a\uff1f",
+                "date": "2025-08-13",
+                "value": 15,
+                "potential_idea": "Allow users to host their own game sessions on iPad, not just join others.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "824305459",
+        "name": "Papa's Freezeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "I don\u2019t know hth this gone on my phone, but I am being charged and I cannot see how to cancel subscription!",
+                "date": "2025-08-29",
+                "value": 18,
+                "potential_idea": "Implement a clear and accessible 'Manage Subscription' section within the app, allowing users to easily view, modify, or cancel their subscriptions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "It\u2019s a knockoff pirate version of the original game, horrible pixelated quality.",
+                "date": "2025-08-09",
+                "value": 15,
+                "potential_idea": "Develop a mobile game with high-fidelity graphics and an original theme to stand out from copycat titles.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "Hd version shows up better but you can play this for cheaper option",
+                "date": "2025-07-12",
+                "value": 65,
+                "potential_idea": "Offer a tiered pricing model with a 'lite' or 'basic' version that provides core functionality at a lower cost, alongside the premium HD version.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "day 1 of asking for my account back\ud83d\ude14",
+                "date": "2025-06-26",
+                "value": 75,
+                "potential_idea": "Implement a multi-step account recovery process with clear communication and progress tracking for users who have lost access to their accounts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "This game was one of my favorites when I was younger, I can\u2019t bring myself to continue playing it though, because the graphics are so bad. This game would be 5/5 if it were more updated like the newer papa\u2019s mobile games. Not worth 99\u00a2.",
+                "date": "2025-05-17",
+                "value": 75,
+                "potential_idea": "Implement a significant graphics overhaul for older mobile games to modernize their visual appeal, similar to how newer titles in the series have been updated.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "I just purchased this game and the gameplay screen is very small and such bad quality! I would like my .99 back, you can keep this game. I\u2019m very disappointed because I love papa games",
+                "date": "2025-05-12",
+                "value": 18,
+                "potential_idea": "Implement a 'full screen' or 'high quality' graphics mode option within the game for users who desire a better visual experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "this game is absolutely NOTHING like the computer version.. and it doesn\u2019t even let you drag toppings into the right place. what a waste of $1.06 \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+                "date": "2025-05-02",
+                "value": 70,
+                "potential_idea": "Implement a drag-and-drop interface for placing toppings in the mobile game, mirroring the functionality of its computer counterpart.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "Quality was terrible and blurry.",
+                "date": "2025-04-30",
+                "value": 10,
+                "potential_idea": "Implement an image quality enhancement feature to automatically sharpen and de-blur photos within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "I feel like the screen is small and pixelated and it doesn\u2019t even give us enough time to get someone\u2019s order done before another customer arrives, i would be making customer 1s, and Then they keep showing up, its very fast but the drinks take very slow and the speed up button is basically useless, it doesn\u2019t help.",
+                "date": "2025-04-07",
+                "value": 18,
+                "potential_idea": "Introduce a 'rush mode' or a visual queue management system to better control customer arrival pacing and allocate staff resources efficiently.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "I LITERALLY WORK 7 DAYS A WEEK!!! AND ONLY GOT 107 DOLLARS LIKE WHAT IS MINIMUM WAGE??????? HOW MANY HOURS AM I WORKING?? HOW DO YOU EXPECT ME TO PAY RENT??? BILLS??? HELLLOOO?????",
+                "date": "2025-03-26",
+                "value": 75,
+                "potential_idea": "A feature that automatically tracks estimated hours worked based on app usage and calculates potential earnings against a user-defined minimum wage or target income.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "This says it works on IPad. It\u2019s a complete lie. I downloaded this game to play it and it does not want to work. The screen flips. Fix your game",
+                "date": "2025-03-23",
+                "value": 15,
+                "potential_idea": "Develop a version of the app specifically optimized for iPad compatibility with a stable screen orientation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "The game is trash I hate it",
+                "date": "2025-03-08",
+                "value": 5,
+                "potential_idea": "Rebuilding the game from scratch with a focus on core gameplay mechanics and user experience.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "It doesn\u2019t work on my end and they won\u2019t give me any refund for it. It just keeps freezing and lagging.",
+                "date": "2025-02-21",
+                "value": 15,
+                "potential_idea": "Implement a robust debugging and reporting tool within the app to help users submit detailed error logs and request refunds more effectively when performance issues arise.",
+                "tags": [
+                    "bug"
                 ]
             }
         ]
