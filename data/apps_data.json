@@ -1,619 +1,5 @@
 [
     {
-        "id": "1093131935",
-        "name": "Incredibox",
-        "url": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Incredibox",
-                "rating": 1,
-                "review": "The user interface is clunky, no way to actually make your own sounds. Everything is a canned noise that all you do is turn on or off. Maybe this is music making for today\u2019s kids, but if you\u2019re looking for truly creative music making, I recommend the Figure app by reasons.",
-                "date": "2025-09-25",
-                "value": 85,
-                "potential_idea": "Introduce a custom sound design or sample import feature allowing users to create unique audio elements beyond pre-set loops and effects.",
-                "tags": [
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1491530147",
-        "name": "Slay the Spire",
-        "url": "https://apps.apple.com/us/app/slay-the-spire/id1491530147?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "Sadly I recommend against purchasing StS for iPhone.  The touch controls are highly unreliable.  I have fairly slender fingers and I\u2019m dextrous, using iPhone 13 Pro Max, and even when being very careful selecting cards, I still miss fairly often.  The 2nd to left-most card is super difficult to select to discard.  Selecting a card to discard will often result in the wrong card being thrown away, regardless of how careful you are to touch it directly.  Also, after touching a card, it remains weirdly \u201csticky\u201d \u2014 i.e. it often won\u2019t go back into your hand, and you have to carefully click around your other cards, hoping to deselect it, lest it be played.  The issues are fairly constant; definitely recommend not spending $10 on this.  Just play on PC.",
-                "date": "2025-09-12",
-                "value": 15,
-                "potential_idea": "Implement an adjustable 'tap target' size for cards to improve touch control accuracy on mobile devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 1,
-                "review": "Terrible controls, unplayable.",
-                "date": "2025-08-29",
-                "value": 15,
-                "potential_idea": "Implement customizable control schemes to allow users to remap buttons and adjust sensitivity for a more personalized and comfortable gameplay experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "I adore this game, have sunk a ridiculous amount of hours into it but wanted to come leave some feedback for the devs that the latest update has added a lot of frustration to my experience on iOS (iPhone XS if it matters). Cards in my hand have gotten super sticky - very often when I tap to select they don\u2019t rise high enough up to be able to read the text and I\u2019ll have to tap them up and down 3 or 4 times, often have to tap a different card and go back to it before it\u2019ll pop up properly. \n\nI\u2019m methodical enough that it hasn\u2019t led to too many misplays, and I\u2019m never too proud to scum save when it does\u2026but it does make my turns take a lot longer and adds a lot of extra tapping and frustration. \n\nIt was running fine for years so I was surprised to see anything change this late into the game. So while on one hand I\u2019m happy to see this game is still getting some dev love on mobile, on the other all it\u2019s caused me is grief lol so hopefully they\u2019re still up for some more tweaking! It\u2019ll be an easy 5 stars with this one gripe fixed. Thanks!",
-                "date": "2025-08-28",
-                "value": 15,
-                "potential_idea": "Implement a card selection refinement to ensure consistent and immediate card text visibility upon tapping.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "huge fan of slay the spire, but the low framerate in this version makes it really difficult to do precise card interactions and makes playing much more of a chore than it needs to be. even on the newest iphone 16s,\nframerate still lags, so seems like a developer update is badly needed.",
-                "date": "2025-07-22",
-                "value": 75,
-                "potential_idea": "Optimize the mobile app for higher frame rates and smoother gameplay to improve precise card interactions and overall user experience.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "Have played this on PC & Android with no issues & loved it. Just got an IPhone & the experience is notably worse. Incredible game, just a bad experience on IOS.",
-                "date": "2025-07-19",
-                "value": 15,
-                "potential_idea": "Optimize the mobile app's performance and user experience specifically for iOS devices to match or exceed the PC and Android experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 1,
-                "review": "The writing size is too small.",
-                "date": "2025-05-06",
-                "value": 10,
-                "potential_idea": "Allow users to adjust the text font size within the app to improve readability.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 1,
-                "review": "Can't proceed because the finish turn button not working",
-                "date": "2025-03-17",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and user feedback mechanisms to clearly indicate when critical app functions, like the 'finish turn' button, are unresponsive, and provide alternative actions or clear error messages.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "I just found out that crucial cards are not being unlocked. This app is abandoned and broken.",
-                "date": "2025-02-04",
-                "value": 17,
-                "potential_idea": "Implement robust background synchronization or real-time updates for crucial game progression elements to prevent data loss and unlocked content issues.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "I see why so many people swear by this game, but the number of times I\u2019ve \u2018accidentally\u2019 played a card I didn\u2019t intend to due to the faulty user interface is just inexcusable. I doubt this game will receive updates to fix any of its issues with the sequel just around the corner, so I\u2019d recommend folks just wait for that.",
-                "date": "2025-01-06",
-                "value": 60,
-                "potential_idea": "Implement a confirmation step before playing a card in the game to prevent accidental plays caused by UI issues.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "404990064",
-        "name": "SkyView\u00ae",
-        "url": "https://apps.apple.com/us/app/skyview/id404990064?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I\u2019ve tried deleting and reinstalling several times. I\u2019ve restarted my phone. I\u2019ve played with the calibration. The app just refuses to work. I\u2019ve had this app forever and it\u2019s always been one of my favorites. My kids and I love finding the planets. Please fix this app so I can update my review!",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "Develop an offline mode with cached astronomical data for stargazing apps to function without a reliable internet connection.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "I really wanted to see where the JWST is floating in space but was disappointed to find that it is no yet integrated into the app. Other than that I enjoy anything space related and this app gives me the opportunity to see where the heavenly bodies are!",
-                "date": "2025-08-28",
-                "value": 70,
-                "potential_idea": "Integrate real-time tracking of space missions, such as the James Webb Space Telescope, into the app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "I really like this app for its clear, uncluttered view of the night sky. Unfortunately, the real stars are rarely where SkyView says they are. Tonight, it showed the Big Dipper at due north. If someone knows how to accurately calibrate this app, please let me know. Waving it in a figure 8 doesn\u2019t seem to work.",
-                "date": "2025-07-30",
-                "value": 65,
-                "potential_idea": "Implement an advanced, guided calibration feature that utilizes device sensors and a quick sky alignment process to ensure accurate real-time sky mapping.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "Love this app. But it\u2019s not locating correctly on my phone. Help!",
-                "date": "2025-04-27",
-                "value": 18,
-                "potential_idea": "Implement a robust location accuracy diagnostic tool within the app to help users troubleshoot and improve GPS performance.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I\u2019ve paid for the upgraded version and it will not be in the correct orientation.",
-                "date": "2025-03-05",
-                "value": 15,
-                "potential_idea": "Implement robust orientation locking and troubleshooting for users experiencing display issues in the upgraded version.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "You used to label the planets. What happened? I paid to use the app. I am extremely disappointed.",
-                "date": "2025-02-28",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 15,
-                    "feasibility": 15,
-                    "total": 65
-                },
-                "potential_idea": "Reintroduce or enhance planet labeling features for astronomical observation apps, especially for paying users.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I bought this because it boasted that it could take augmented pictures of the sky. No matter what I do the camera stays shaded out.",
-                "date": "2025-02-26",
-                "value": 60,
-                "potential_idea": "Implement a robust image processing pipeline for the augmented reality sky feature that handles varying lighting conditions and prevents camera shading.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "Paid to upgrade and nothing appears like the screenshots. Literally the same as the basic, free version. Don\u2019t waste your money. They won\u2019t approve a refund.",
-                "date": "2025-02-01",
-                "value": 75,
-                "potential_idea": "Implement a clear and transparent system for showcasing premium features to prevent user disappointment and enable seamless refunds for unmet expectations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "This app did not work. The app also says it will not refund the $2.99 I paid for it. Scam beware.",
-                "date": "2025-02-01",
-                "value": 15,
-                "potential_idea": "Implement a clear and accessible refund policy and process within the app to address user concerns about refunds.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I tried both auto and manual calibration, neither of which was effective. But either way, it couldn\u2019t find the moon, even when I had the camera view enabled and was pointing right at it. This used to be a more reliable app.",
-                "date": "2025-02-01",
-                "value": 15,
-                "potential_idea": "Improve the moon-finding algorithm in the astrophotography app to restore its previous reliability.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "Manually calibrating every time open app",
-                "date": "2025-01-21",
-                "value": 18,
-                "potential_idea": "Implement automatic calibration upon app launch to save users time and frustration.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "Was charged for this app I never wanted and being refused a refund which is insane .",
-                "date": "2025-01-14",
-                "value": 15,
-                "potential_idea": "Implement a clear and easy-to-access option for users to cancel subscriptions or recurring charges directly within the app, along with a streamlined refund request process.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "912536422",
-        "name": "Five Nights at Freddy's",
-        "url": "https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Five Nights at Freddy's",
-                "rating": 1,
-                "review": "It didn\u2019t let me move. All I could do is turn to the left and right I couldn\u2019t even look behind me",
-                "date": "2025-08-21",
-                "value": 75,
-                "potential_idea": "Implement robust 360-degree camera control and free movement for a more immersive virtual experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's",
-                "rating": 1,
-                "review": "Do not like this game at all. The jump scares are not very good. You can\u2019t move around I do not recommend it if you\u2019re someone who likes to be scared and it cost money which I believe is a total scam and it\u2019s not that fun.",
-                "date": "2025-08-01",
-                "value": 15,
-                "potential_idea": "Develop a mobile horror game with dynamic and unpredictable jump scares, player agency in movement and exploration, and a free-to-play model with optional cosmetic purchases.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "575154654",
-        "name": "Pou",
-        "url": "https://apps.apple.com/us/app/pou/id575154654?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "It took 3.23 cents off my card then a 1.99 . Why did it take a total of 5 dollars when it was only suppose to take 1.99 ?",
-                "date": "2025-09-25",
-                "value": 18,
-                "potential_idea": "Implement a clear in-app breakdown of all charges and fees before a transaction is finalized to prevent surprise charges.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 2,
-                "review": "I started playing Pou a while ago.But my complaints start at where everything is so expensive!! And I have to do level ups to unlock stuff but it\u2019s sooooo hard to level up!!! I hate this game sometimes",
-                "date": "2025-08-05",
-                "value": 65,
-                "potential_idea": "Implement a tiered in-game currency system or a 'starter pack' for new players to ease the initial progression and reduce the perceived expense in Pou.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "If i payed for this app why am i getting adds ols let me know why i amm i will not tolerate it i  paid",
-                "date": "2025-06-07",
-                "value": 90,
-                "potential_idea": "Implement a clear verification system for premium users to ensure no ads are displayed.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "there\u2019s literally no sound at all",
-                "date": "2025-05-24",
-                "value": 10,
-                "potential_idea": "Implement robust audio debugging tools for developers to quickly identify and fix sound issues within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "I tried to play Pou with sis on my phone and my sis went on her iPad and we were so close that both of our pous were talking to each other we got so scared that I deleted this game and forgot I had to pay to play I have waisted all of my money now my broke",
-                "date": "2025-04-19",
-                "value": 12,
-                "potential_idea": "Introduce a local multiplayer mode for Pou that allows two devices to play together wirelessly within close proximity, preventing accidental cross-talk and shared screen experiences.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "i bought this game with my first paycheck and this is horrible. i want a refund. why do i have to pay for money? i should have infinite money since i already payed once. not to mention it always crashes on me. and has ad?? like hello that\u2019s so stupid. i want a refund. NOW!",
-                "date": "2025-03-23",
-                "value": 18,
-                "potential_idea": "Implement a 'one-time purchase, all-inclusive' monetization model for casual games to eliminate in-app purchases and ads.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "POU IS A YIT YIT",
-                "date": "2025-02-17",
-                "value": 10,
-                "potential_idea": "Develop an AI-powered sentiment analysis tool that can identify and interpret vague or nonsensical user inputs in mobile app reviews.",
-                "tags": []
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "I really love this app but when you pay for an app you expect it to work. On my brothers page and mine Pou doesn\u2019t gain energy when you put him to sleep like they used to. So now we\u2019re stuck having to waste coins every time to increase energy.",
-                "date": "2025-01-24",
-                "value": 75,
-                "potential_idea": "Ensure game mechanics like energy regeneration during sleep are functional for paid users, or offer compensation for lost functionality.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "This game have a camera a can locate you address!!! Be safe",
-                "date": "2024-12-22",
-                "value": 75,
-                "potential_idea": "Implement a privacy feature that allows users to disable or mask location services for specific in-game actions or globally within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "No funciona el micr\u00f3fono",
-                "date": "2024-12-19",
-                "value": 10,
-                "potential_idea": "Implement robust microphone testing and troubleshooting guides within the app to ensure proper functionality for all users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "Charges your card fraudelently and does nothing to help you or refund you and is condescending. Do not download!",
-                "date": "2024-10-28",
-                "value": 17,
-                "potential_idea": "Implement a robust and empathetic customer support system with clear refund policies and fraud detection alerts.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "640364616",
-        "name": "Terraria",
-        "url": "https://apps.apple.com/us/app/terraria/id640364616?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "I can\u2019t even load into this game when I click on the app. My screen goes pitch black",
-                "date": "2025-09-27",
-                "value": 10,
-                "potential_idea": "Implement robust error handling and loading state indicators to prevent app crashes and inform users of issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "The game has become completely unplayable on iPad with Magic Keyboard, might be a OS issue but super unfortunate. 5 star game, just leaving this hopping for an update.",
-                "date": "2025-09-24",
-                "value": 60,
-                "potential_idea": "Implement game optimizations specifically for iPad with Magic Keyboard compatibility.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Game plays horrible compared to how it did 10 years ago. Mines the wrong blocks and places blocks in random places that you aren\u2019t aiming for no reason and is just overall horrible compared to how it was. Why did you have to ruin it? Because this version is cheaper than the Xbox or pc version?",
-                "date": "2025-09-23",
-                "value": 75,
-                "potential_idea": "Restore the mobile game to its original 10-year-old gameplay mechanics and control precision.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "Why are the controls different! I don\u2019t understand these new controls. I played like 10 years ago and I could just hold down the attack button and it would auto attack. I had an inventory on the bottom and now it\u2019s a bag at the top. Not sure if there\u2019s a way to layout it all out so it\u2019s like the old controls but idk if I care enough to watch a yt vid to figure it out. I was hoping it\u2019d be the same feeling",
-                "date": "2025-09-21",
-                "value": 70,
-                "potential_idea": "Allow users to customize in-game controls and UI layout to match previous versions or personal preferences.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "Its been 3 years since 1.4.5 was announced and literally nothing has happened. i quit dont get this game if you want to wait 10 years for the next update.",
-                "date": "2025-09-13",
-                "value": 15,
-                "potential_idea": "Develop a mobile game with a transparent and consistent update schedule, clearly communicating development progress to players.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "The controls are so bad I could only play for about 30min. Probably a lot better on PC.",
-                "date": "2025-08-21",
-                "value": 55,
-                "potential_idea": "Implement customizable touch controls for mobile users to improve gameplay experience.",
-                "tags": []
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Super clunky experience for new players. maybe if better for experienced players. can\u2019t imagine its great",
-                "date": "2025-07-31",
-                "value": 65,
-                "potential_idea": "Develop an adaptive onboarding experience that tailors its complexity and guidance based on the user's prior experience with similar apps.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Was almost endgame and working on beating the moon lord with a master character but now all my progress is gone",
-                "date": "2025-07-14",
-                "value": 85,
-                "potential_idea": "Implement robust cloud save functionality with automatic backups to prevent data loss in mobile games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "\u0421\u0430\u043c\u043e\u0435 \u043d\u0435\u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u043d\u0441\u043e\u0440\u0435 \u044d\u0432\u0435\u0440)",
-                "date": "2025-07-13",
-                "value": 10,
-                "potential_idea": "Implement customizable gesture controls for in-app actions to improve user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Terrible controls bring back old ones!",
-                "date": "2025-07-13",
-                "value": 15,
-                "potential_idea": "Allow users to revert to a previous control scheme for the app.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "763692274",
-        "name": "Grand Theft Auto: San Andreas",
-        "url": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 2,
-                "review": "Al manejar tiende a irse a la derecha el volante\nYo juego con los botones tactiles, no es por una palanca vieja de control \ud83c\udfae pagu\u00e9 7 d\u00f3lares para que??? Para que al subirme a los carros y hacer las misiones solo tenga que estar corrigiendo el volante",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement an automatic steering assist feature for smoother in-game vehicle control, especially during missions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "i love this game without a doubt in my mind but i dont appreciate buying it when i closed the app and opened it back up it wouldn\u2019t load me in, it would keep closing the app entirely!",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement robust session management to prevent app crashes and ensure seamless reopening after closure.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "It has a glitch in it! \nOn spray Tags",
-                "date": "2025-09-19",
-                "value": 10,
-                "potential_idea": "Implement a 'Spray Tags' bug reporting and resolution system to track and fix issues with this specific feature.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "\u0627\u0644\u0644\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u062a\u062e\u0631\u062c \u0644\u0645\u0627 \u0627\u062f\u062e\u0644 \u0641\u064a\u0647\u0627",
-                "date": "2025-09-14",
-                "value": 15,
-                "potential_idea": "Implement robust crash reporting and error logging to proactively identify and fix game crashes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Tuve que borrar el proceso y comenzar desde cero, el juego est\u00e1 teniendo problema se congela mucho",
-                "date": "2025-09-11",
-                "value": 75,
-                "potential_idea": "Implement real-time cloud saving and auto-backup for game progress to prevent data loss due to freezes or crashes.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1164801111",
         "name": "AutoSleep Track Sleep on Watch",
         "url": "https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=2",
@@ -11928,6 +11314,625 @@
                 "potential_idea": "Analysis failed.",
                 "tags": [
                     "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1093131935",
+        "name": "Incredibox",
+        "url": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Incredibox",
+                "rating": 1,
+                "review": "The user interface is clunky, no way to actually make your own sounds. Everything is a canned noise that all you do is turn on or off. Maybe this is music making for today\u2019s kids, but if you\u2019re looking for truly creative music making, I recommend the Figure app by reasons.",
+                "date": "2025-09-25",
+                "value": 65,
+                "potential_idea": "Implement a feature allowing users to create and customize their own sounds and musical elements within the app, moving beyond pre-set options.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1491530147",
+        "name": "Slay the Spire",
+        "url": "https://apps.apple.com/us/app/slay-the-spire/id1491530147?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "Sadly I recommend against purchasing StS for iPhone.  The touch controls are highly unreliable.  I have fairly slender fingers and I\u2019m dextrous, using iPhone 13 Pro Max, and even when being very careful selecting cards, I still miss fairly often.  The 2nd to left-most card is super difficult to select to discard.  Selecting a card to discard will often result in the wrong card being thrown away, regardless of how careful you are to touch it directly.  Also, after touching a card, it remains weirdly \u201csticky\u201d \u2014 i.e. it often won\u2019t go back into your hand, and you have to carefully click around your other cards, hoping to deselect it, lest it be played.  The issues are fairly constant; definitely recommend not spending $10 on this.  Just play on PC.",
+                "date": "2025-09-12",
+                "value": 70,
+                "potential_idea": "Introduce a 'tap-and-hold' or 'delayed select' option for card actions to improve touch precision and reduce accidental selections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 1,
+                "review": "Terrible controls, unplayable.",
+                "date": "2025-08-29",
+                "value": 75,
+                "potential_idea": "Implement an alternative control scheme with customizable button layouts and sensitivity settings for enhanced playability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "I adore this game, have sunk a ridiculous amount of hours into it but wanted to come leave some feedback for the devs that the latest update has added a lot of frustration to my experience on iOS (iPhone XS if it matters). Cards in my hand have gotten super sticky - very often when I tap to select they don\u2019t rise high enough up to be able to read the text and I\u2019ll have to tap them up and down 3 or 4 times, often have to tap a different card and go back to it before it\u2019ll pop up properly. \n\nI\u2019m methodical enough that it hasn\u2019t led to too many misplays, and I\u2019m never too proud to scum save when it does\u2026but it does make my turns take a lot longer and adds a lot of extra tapping and frustration. \n\nIt was running fine for years so I was surprised to see anything change this late into the game. So while on one hand I\u2019m happy to see this game is still getting some dev love on mobile, on the other all it\u2019s caused me is grief lol so hopefully they\u2019re still up for some more tweaking! It\u2019ll be an easy 5 stars with this one gripe fixed. Thanks!",
+                "date": "2025-08-28",
+                "value": 60,
+                "potential_idea": "Implement a more responsive and robust card selection mechanism in the game to prevent 'sticky card' issues on iOS devices.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "huge fan of slay the spire, but the low framerate in this version makes it really difficult to do precise card interactions and makes playing much more of a chore than it needs to be. even on the newest iphone 16s,\nframerate still lags, so seems like a developer update is badly needed.",
+                "date": "2025-07-22",
+                "value": 55,
+                "potential_idea": "Optimize mobile app performance for smoother animations and responsive controls, particularly for demanding games.",
+                "tags": [
+                    "bug",
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "Have played this on PC & Android with no issues & loved it. Just got an IPhone & the experience is notably worse. Incredible game, just a bad experience on IOS.",
+                "date": "2025-07-19",
+                "value": 70,
+                "potential_idea": "Optimize the mobile app's performance and user experience on iOS to match the quality of the PC and Android versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 1,
+                "review": "The writing size is too small.",
+                "date": "2025-05-06",
+                "value": 10,
+                "potential_idea": "Implement adjustable font size settings within the app to accommodate user preferences for readability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 1,
+                "review": "Can't proceed because the finish turn button not working",
+                "date": "2025-03-17",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and in-app reporting tools for critical bugs like unresponsive buttons.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "I just found out that crucial cards are not being unlocked. This app is abandoned and broken.",
+                "date": "2025-02-04",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "I see why so many people swear by this game, but the number of times I\u2019ve \u2018accidentally\u2019 played a card I didn\u2019t intend to due to the faulty user interface is just inexcusable. I doubt this game will receive updates to fix any of its issues with the sequel just around the corner, so I\u2019d recommend folks just wait for that.",
+                "date": "2025-01-06",
+                "value": 65,
+                "potential_idea": "Implement a 'confirm play' action for played cards to prevent accidental inputs, especially in fast-paced games.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "404990064",
+        "name": "SkyView\u00ae",
+        "url": "https://apps.apple.com/us/app/skyview/id404990064?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I\u2019ve tried deleting and reinstalling several times. I\u2019ve restarted my phone. I\u2019ve played with the calibration. The app just refuses to work. I\u2019ve had this app forever and it\u2019s always been one of my favorites. My kids and I love finding the planets. Please fix this app so I can update my review!",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement a robust in-app troubleshooting guide and support system to help users resolve technical issues without needing to delete and reinstall the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "I really wanted to see where the JWST is floating in space but was disappointed to find that it is no yet integrated into the app. Other than that I enjoy anything space related and this app gives me the opportunity to see where the heavenly bodies are!",
+                "date": "2025-08-28",
+                "value": 15,
+                "potential_idea": "Integrate real-time JWST location tracking into the space exploration app.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "I really like this app for its clear, uncluttered view of the night sky. Unfortunately, the real stars are rarely where SkyView says they are. Tonight, it showed the Big Dipper at due north. If someone knows how to accurately calibrate this app, please let me know. Waving it in a figure 8 doesn\u2019t seem to work.",
+                "date": "2025-07-30",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 70
+                },
+                "potential_idea": "Implement an automated, user-guided system calibration tool within the app to ensure accurate star positioning.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "Love this app. But it\u2019s not locating correctly on my phone. Help!",
+                "date": "2025-04-27",
+                "value": 15,
+                "potential_idea": "Implement a more robust location tracking system with manual correction options to address inaccuracies reported by users.",
+                "tags": []
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I\u2019ve paid for the upgraded version and it will not be in the correct orientation.",
+                "date": "2025-03-05",
+                "value": 15,
+                "potential_idea": "Develop a robust orientation lock feature that persists across app sessions and device rotations.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "You used to label the planets. What happened? I paid to use the app. I am extremely disappointed.",
+                "date": "2025-02-28",
+                "value": 65,
+                "potential_idea": "Reintroduce and enhance planet labeling functionality within the app, potentially with more detailed information layers for paid users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I bought this because it boasted that it could take augmented pictures of the sky. No matter what I do the camera stays shaded out.",
+                "date": "2025-02-26",
+                "value": 15,
+                "potential_idea": "Implement a robust error-handling and user guidance system for AR camera features, particularly when initial setup or environmental conditions hinder functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "Paid to upgrade and nothing appears like the screenshots. Literally the same as the basic, free version. Don\u2019t waste your money. They won\u2019t approve a refund.",
+                "date": "2025-02-01",
+                "value": 15,
+                "potential_idea": "Implement a clear and transparent feature gating system for paid upgrades, ensuring users can easily identify and access the promised premium functionalities.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "This app did not work. The app also says it will not refund the $2.99 I paid for it. Scam beware.",
+                "date": "2025-02-01",
+                "value": 18,
+                "potential_idea": "Implement a clear and accessible refund policy and process within the app, or provide explicit customer support channels for refund requests, to build user trust and avoid accusations of scams.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I tried both auto and manual calibration, neither of which was effective. But either way, it couldn\u2019t find the moon, even when I had the camera view enabled and was pointing right at it. This used to be a more reliable app.",
+                "date": "2025-02-01",
+                "value": 12,
+                "potential_idea": "Improve stargazing/celestial object tracking algorithm accuracy, with enhanced manual targeting assistance.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "Manually calibrating every time open app",
+                "date": "2025-01-21",
+                "value": 85,
+                "potential_idea": "Implement an automatic calibration feature that runs upon app launch, remembering previous settings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "Was charged for this app I never wanted and being refused a refund which is insane .",
+                "date": "2025-01-14",
+                "value": 15,
+                "potential_idea": "Implement a clear and accessible in-app refund request system for accidental or unwanted purchases.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "912536422",
+        "name": "Five Nights at Freddy's",
+        "url": "https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Five Nights at Freddy's",
+                "rating": 1,
+                "review": "It didn\u2019t let me move. All I could do is turn to the left and right I couldn\u2019t even look behind me",
+                "date": "2025-08-21",
+                "value": 70,
+                "potential_idea": "Implement a 360-degree free-look camera system with full player movement controls.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's",
+                "rating": 1,
+                "review": "Do not like this game at all. The jump scares are not very good. You can\u2019t move around I do not recommend it if you\u2019re someone who likes to be scared and it cost money which I believe is a total scam and it\u2019s not that fun.",
+                "date": "2025-08-01",
+                "value": 15,
+                "potential_idea": "Develop a mobile game that focuses on psychological horror and atmosphere over cheap jump scares, offering more player agency and a free-to-play model.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "575154654",
+        "name": "Pou",
+        "url": "https://apps.apple.com/us/app/pou/id575154654?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "It took 3.23 cents off my card then a 1.99 . Why did it take a total of 5 dollars when it was only suppose to take 1.99 ?",
+                "date": "2025-09-25",
+                "value": 65,
+                "potential_idea": "Implement a transparent, itemized breakdown of all charges and fees within the app's transaction history to clarify discrepancies.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 2,
+                "review": "I started playing Pou a while ago.But my complaints start at where everything is so expensive!! And I have to do level ups to unlock stuff but it\u2019s sooooo hard to level up!!! I hate this game sometimes",
+                "date": "2025-08-05",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "If i payed for this app why am i getting adds ols let me know why i amm i will not tolerate it i  paid",
+                "date": "2025-06-07",
+                "value": 15,
+                "potential_idea": "Implement tiered subscription models with an ad-free option clearly communicated upon purchase.",
+                "tags": []
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "there\u2019s literally no sound at all",
+                "date": "2025-05-24",
+                "value": 15,
+                "potential_idea": "Implement a robust in-app sound control and troubleshooting guide to help users resolve audio issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "I tried to play Pou with sis on my phone and my sis went on her iPad and we were so close that both of our pous were talking to each other we got so scared that I deleted this game and forgot I had to pay to play I have waisted all of my money now my broke",
+                "date": "2025-04-19",
+                "value": 40,
+                "potential_idea": "Implement a local multiplayer mode in Pou that allows two players on separate devices to interact with each other's Pou characters in a shared virtual space.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "i bought this game with my first paycheck and this is horrible. i want a refund. why do i have to pay for money? i should have infinite money since i already payed once. not to mention it always crashes on me. and has ad?? like hello that\u2019s so stupid. i want a refund. NOW!",
+                "date": "2025-03-23",
+                "value": 15,
+                "potential_idea": "Offer a premium, ad-free version of the game with in-game currency unlocks or a one-time purchase for unlimited resources to address user frustration with aggressive monetization and ads.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "POU IS A YIT YIT",
+                "date": "2025-02-17",
+                "value": 0,
+                "potential_idea": "N/A - The review is unintelligible and does not provide enough information to generate a potential idea.",
+                "tags": []
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "I really love this app but when you pay for an app you expect it to work. On my brothers page and mine Pou doesn\u2019t gain energy when you put him to sleep like they used to. So now we\u2019re stuck having to waste coins every time to increase energy.",
+                "date": "2025-01-24",
+                "value": 15,
+                "potential_idea": "Implement a fix to restore the energy gain from Pou sleeping, ensuring core game mechanics function as expected for paying users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "This game have a camera a can locate you address!!! Be safe",
+                "date": "2024-12-22",
+                "value": 15,
+                "potential_idea": "Implement an opt-in feature that allows users to share their approximate location with trusted family or friends during gameplay for enhanced safety.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "No funciona el micr\u00f3fono",
+                "date": "2024-12-19",
+                "value": 10,
+                "potential_idea": "Implement a microphone accessibility checker to ensure the app functions correctly with various microphone inputs and permissions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "Charges your card fraudelently and does nothing to help you or refund you and is condescending. Do not download!",
+                "date": "2024-10-28",
+                "value": 18,
+                "potential_idea": "Implement a clear and accessible customer support and refund process to address fraudulent charges and user complaints.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "640364616",
+        "name": "Terraria",
+        "url": "https://apps.apple.com/us/app/terraria/id640364616?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "I can\u2019t even load into this game when I click on the app. My screen goes pitch black",
+                "date": "2025-09-27",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and loading state indicators to provide feedback to users when the app fails to load.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "The game has become completely unplayable on iPad with Magic Keyboard, might be a OS issue but super unfortunate. 5 star game, just leaving this hopping for an update.",
+                "date": "2025-09-24",
+                "value": 50,
+                "potential_idea": "Develop optimized game controls for external keyboard and trackpad peripherals on iPad.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Game plays horrible compared to how it did 10 years ago. Mines the wrong blocks and places blocks in random places that you aren\u2019t aiming for no reason and is just overall horrible compared to how it was. Why did you have to ruin it? Because this version is cheaper than the Xbox or pc version?",
+                "date": "2025-09-23",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 15,
+                    "feasibility": 10,
+                    "total": 60
+                },
+                "potential_idea": "Restore the classic gameplay mechanics and controls to the mobile version to revert to the original 10-year-old experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "Why are the controls different! I don\u2019t understand these new controls. I played like 10 years ago and I could just hold down the attack button and it would auto attack. I had an inventory on the bottom and now it\u2019s a bag at the top. Not sure if there\u2019s a way to layout it all out so it\u2019s like the old controls but idk if I care enough to watch a yt vid to figure it out. I was hoping it\u2019d be the same feeling",
+                "date": "2025-09-21",
+                "value": 65,
+                "potential_idea": "Implement an option to customize mobile game controls to mimic older control schemes and UI layouts, such as a persistent bottom inventory bar and auto-attack functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "Its been 3 years since 1.4.5 was announced and literally nothing has happened. i quit dont get this game if you want to wait 10 years for the next update.",
+                "date": "2025-09-13",
+                "value": 65,
+                "potential_idea": "Implement a clear and regular update schedule with community communication for app development.",
+                "tags": {
+                    "tags": [
+                        "no update for long time"
+                    ]
+                }
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "The controls are so bad I could only play for about 30min. Probably a lot better on PC.",
+                "date": "2025-08-21",
+                "value": 12,
+                "potential_idea": "Implement adaptive control sensitivity and button mapping options for mobile users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Super clunky experience for new players. maybe if better for experienced players. can\u2019t imagine its great",
+                "date": "2025-07-31",
+                "value": 50,
+                "potential_idea": "Introduce a guided onboarding tutorial for new users to simplify initial app navigation and understanding.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Was almost endgame and working on beating the moon lord with a master character but now all my progress is gone",
+                "date": "2025-07-14",
+                "value": 90,
+                "potential_idea": "Implement cloud save or incremental auto-save functionality for mobile games to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "\u0421\u0430\u043c\u043e\u0435 \u043d\u0435\u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u043d\u0441\u043e\u0440\u0435 \u044d\u0432\u0435\u0440)",
+                "date": "2025-07-13",
+                "value": 55,
+                "potential_idea": "Introduce customizable on-screen controls or gesture-based navigation to improve touch control usability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Terrible controls bring back old ones!",
+                "date": "2025-07-13",
+                "value": 55,
+                "potential_idea": "Offer users the option to revert to a previous control scheme if they dislike the current one.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "763692274",
+        "name": "Grand Theft Auto: San Andreas",
+        "url": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "Al manejar tiende a irse a la derecha el volante\nYo juego con los botones tactiles, no es por una palanca vieja de control \ud83c\udfae pagu\u00e9 7 d\u00f3lares para que??? Para que al subirme a los carros y hacer las misiones solo tenga que estar corrigiendo el volante",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement an assist steering feature that automatically corrects the vehicle's direction when driving, particularly helpful for users relying on touch controls.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "i love this game without a doubt in my mind but i dont appreciate buying it when i closed the app and opened it back up it wouldn\u2019t load me in, it would keep closing the app entirely!",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement robust session management to ensure seamless reloading of the game state after app closures, preventing data loss or repeated purchases prompts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "It has a glitch in it! \nOn spray Tags",
+                "date": "2025-09-19",
+                "value": 10,
+                "potential_idea": "Implement a robust solution to prevent or automatically fix glitches specifically related to 'spray tags' within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "\u0627\u0644\u0644\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u062a\u062e\u0631\u062c \u0644\u0645\u0627 \u0627\u062f\u062e\u0644 \u0641\u064a\u0647\u0627",
+                "date": "2025-09-14",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash detection to prevent the app from crashing when users launch it.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Tuve que borrar el proceso y comenzar desde cero, el juego est\u00e1 teniendo problema se congela mucho",
+                "date": "2025-09-11",
+                "value": 85,
+                "potential_idea": "Implement a robust autosave or checkpoint system to prevent progress loss due to game freezes and crashes.",
+                "tags": [
+                    "bug"
                 ]
             }
         ]
