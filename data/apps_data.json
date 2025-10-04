@@ -1381,750 +1381,6 @@
         ]
     },
     {
-        "id": "6508165149",
-        "name": "Dungeon Clawler",
-        "url": "https://apps.apple.com/us/app/dungeon-clawler/id6508165149?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 1,
-                "review": "Just launched the game and all my progress is gone. Not starting over from scratch. Going to request a refund.",
-                "date": "2025-09-16",
-                "value": 90,
-                "potential_idea": "Implement robust automatic cloud saving and regular data backups to prevent progress loss in the game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 2,
-                "review": "I can\u2019t get enough of this game, taking my love for claw games and making it into a dungeon crawler has me hooked!  Endless gameplay, lots of options lots of different paths worth the five dollars and more.  Considering how much I\u2019ve spent on claw games in the past this game feeds that addiction. Feeds my gaming addiction, it keeps me coming back for more.   This game is amazing. People should spend the five dollars for it. I\u2019m looking forward to more content so I\u2019m spreading the word.",
-                "date": "2025-09-15",
-                "value": 65,
-                "potential_idea": "Integrate a system that allows players to customize their avatar or in-game character with cosmetic items earned or purchased, inspired by the user's 'addiction' to earning/buying items in claw games.",
-                "tags": []
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 2,
-                "review": "The title says it all. My first complaint is the game takes far too long to show variance in runs making it feel stale fast.\nSecond, the game is far too RNG dependent, the mechanic to increase chances of receiving certain synergistic items doesn\u2019t seem to be effective, you have practically no good choices even with heavy RNG manipulation and dozens of re rolls. Back to Peglin I guess \ud83e\udd37\u200d\u2640\ufe0f",
-                "date": "2025-07-29",
-                "value": 70,
-                "potential_idea": "Implement a more nuanced item acquisition system in roguelike games that provides players with a greater sense of control over synergistic item builds, beyond simple RNG manipulation.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 1,
-                "review": "I continued to play this game even with my issues below. I finished a run and probably started a few other ones. It's been idk how many days that I have not even thought about this game at all. On one of my runs I watch the claw go down and grab a bunch of items and right when it started to come up one of the items I was going for immediately disappeared. When it's the games mechanic I can't get past it. I will never play this game again and wasted the money I spent on it. I hate free to play but this game makes me want to just play free to play so I am not wasting money like this. I am very disappointed. I like this game. It's pretty entertaining. I just bought it today and I am on my first run. I am on floor 16 and just started to notice stuff disappearing. So 2 turns I watched the magnet drop in the machine and immediately disappear. Third turn it drops lands on the other stuff and when I went to grab it, it disappeared. Next stage same floor I watched stuff fall and immediately disappear. The reason such a low rating is grabbing stuff is the whole point of the game. Can't grab stuff if it doesn't drop or show up like it should. Please fix.",
-                "date": "2025-02-07",
-                "value": 65,
-                "potential_idea": "Implement a visual replay system that shows exactly what happened to items during the claw/magnet grab to clarify item disappearance and build player trust.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 2,
-                "review": "This game requires precision in aligning the claw exactly over the objects you need to collect yet it makes it very difficult to do so.  If you try to drag the claw a millimeter it goes a centimeter and sometimes nowhere at all.  Maybe that\u2019s by design but it creates a bad experience.  The player needs a left and right arrow he can tap to move the claw in finer increments.  Not going to play this game as it is right now unless these features are added",
-                "date": "2024-11-29",
-                "value": 80,
-                "potential_idea": "Implement precise directional arrow controls for finer claw movement in dexterity-based mobile games.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6738784092",
-        "name": "A Little to the Left: Drawers",
-        "url": "https://apps.apple.com/us/app/a-little-to-the-left-drawers/id6738784092?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "They need to update the app with more games frequently. There\u2019s no reason I can complete the game the same day I buy it.",
-                "date": "2025-09-23",
-                "value": 80,
-                "potential_idea": "Introduce a tiered content release model for games, offering initial content upon purchase with subsequent levels or expansions released periodically to extend replayability.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "This happened on level 2. You cannot place the items without them leaning in a certain direction. Also, it is impossible to know where to put them without using hints.",
-                "date": "2025-06-28",
-                "value": 15,
-                "potential_idea": "Implement visual guides or snapping mechanics within the app to aid in precise item placement during gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "Paid 3 bucks just to finish the game in two hours. Not worth the money .",
-                "date": "2025-06-05",
-                "value": 15,
-                "potential_idea": "Offer tiered pricing or a demo version of the game to allow users to experience more of the game before committing to a purchase.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 2,
-                "review": "Theres only a few levels and it ends fairly quickly. I finished it with in a day and now if I want to continue playing I have to download the other app and pay $5.99. Just get the other app at that point and save money if you really want to play.",
-                "date": "2025-06-03",
-                "value": 18,
-                "potential_idea": "Integrate a freemium model or offer a content pack purchase within the existing app to extend gameplay, rather than requiring users to download a separate, paid app.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "Y\u2019all charged me $1.99 for a game that was completely finished in 20 minutes???? Nah, what rip off. Get a cup of coffee with the $2 you saved by NOT PAYING for this game",
-                "date": "2025-05-06",
-                "value": 15,
-                "potential_idea": "Implement a demo or free-to-play version for games to allow users to experience gameplay before purchasing the full game.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 2,
-                "review": "Fun game, but why did i pay $3 for there to be like 20 levels.",
-                "date": "2025-04-04",
-                "value": 15,
-                "potential_idea": "Introduce a content expansion pack or a free-to-play model with optional in-app purchases for new levels to address user perception of value.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 2,
-                "review": "32 total levels, and a handful of them are just busy work/filler levels (i.e. tapping the cat to pet it, then finish). I wouldn\u2019t say this app is worth the $3 to purchase.",
-                "date": "2025-03-28",
-                "value": 12,
-                "potential_idea": "Introduce 'challenge' or 'skill-based' levels that offer more engaging gameplay experiences, reducing filler content for a more rewarding progression.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1392608717",
-        "name": "Papa's Scooperia To Go!",
-        "url": "https://apps.apple.com/us/app/papas-scooperia-to-go/id1392608717?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "The controls are terrible",
-                "date": "2025-05-23",
-                "value": 15,
-                "potential_idea": "Implement customizable joystick and button placement for improved in-app control accessibility.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "The game seems fun but when I tried playing on my iPad the game is minimized because it doesn\u2019t fit my screen.",
-                "date": "2024-09-24",
-                "value": {
-                    "intensity": 15,
-                    "difference": 5,
-                    "scope": 20,
-                    "feasibility": 15,
-                    "total": 55
-                },
-                "potential_idea": "Implement adaptive screen resizing and scaling for different device aspect ratios to ensure optimal game fit on larger tablet screens.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 2,
-                "review": "This one is boring and difficult. I love playing these games but OMG the build station is what catches me off guard. All I get is 98% on the build even though it looked perfectly done well. Pastaria is the same way (but I don\u2019t mind that one cause it\u2019s more fun than this one.) I mean I don't mind getting 98% on build in these games but this one is strict about it, like you have to have it perfect perfect in order to get a 100%. But honestly, I deleted this game mainly because it\u2019s super boring, not the grading. I don\u2019t really mind getting high scores not 100% in these games but what I\u2019m saying is this is how strict the building is in this game. I deleted it because it was boring not really my taste (I have all the other ones though that are much rather entertaining and easier.) \ud83d\ude43\ud83e\udd14",
-                "date": "2024-05-18",
-                "value": 45,
-                "potential_idea": "Introduce a 'practice mode' for the build station with adjustable strictness levels to accommodate varying player skill and preference.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "This is the worst game that I ever played so thanks a lot enjoy my stupid money flip line",
-                "date": "2024-03-29",
-                "value": 12,
-                "potential_idea": "Implement an in-game tutorial or onboarding process to guide new players and prevent them from feeling overwhelmed or that their purchases were wasted.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "I accidentally bought this game. I WANT A REFUND!! \ud83d\udcaf",
-                "date": "2023-06-14",
-                "value": 15,
-                "potential_idea": "Implement a clear and accessible refund request feature within the app for accidental purchases.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "ITS TOO SMALL FOR MY APPLE TABLET, It doesn\u2019t fit the screen. The other to go papa game fits my screen but not scooperia.",
-                "date": "2022-06-11",
-                "value": 15,
-                "potential_idea": "Develop an adaptive layout that automatically scales and adjusts app elements to fit various tablet screen sizes, ensuring optimal display across different devices.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "405835358",
-        "name": "MilGPS",
-        "url": "https://apps.apple.com/us/app/milgps/id405835358?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "MilGPS",
-                "rating": 1,
-                "review": "Love this app. Been using it for years. BUT it no longer lets me plot points and make overlays, which is a critical function. No customer service to contact either.",
-                "date": "2025-04-27",
-                "value": 95,
-                "potential_idea": "Reintroduce plotting and overlay functionality to the mobile app, accompanied by responsive customer support.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "MilGPS",
-                "rating": 1,
-                "review": "Won\u2019t run on iPad",
-                "date": "2025-02-17",
-                "value": 5,
-                "potential_idea": "Develop an iPad-optimized version of the app to ensure full functionality and a tailored user experience on larger screens.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "MilGPS",
-                "rating": 2,
-                "review": "Does not pin point",
-                "date": "2025-01-14",
-                "value": 15,
-                "potential_idea": "Implement a precise location pinning feature that allows users to manually set an exact point on a map.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1451873044",
-        "name": "Papa's Wingeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-wingeria-to-go/id1451873044?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 2,
-                "review": "I love and have bought EVERY  Papa's games all the HD versions & To Go\u2019s! I keep having issues with this game though.. it\u2019s constantly freezing and it won't let me use my tickets for any mini games. l have to close out the app after every round if I want to continue playing \ud83d\ude14 I do have the HD version of Papas Wingeria but I personally prefer Wingeria To Go \u2026 unfortunately it\u2019s not working .. Please fix the issues with Papas Wingeria To Go ..flipline studios fix it  \ud83e\udef5\ud83e\udd72",
-                "date": "2025-09-28",
-                "value": 18,
-                "potential_idea": "Implement robust bug fixing and performance optimization for existing Papa's Wingeria To Go to ensure stable gameplay and functional mini-game ticket redemption.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 1,
-                "review": "please fix the issue where it freezes..sometimes happens during the middle of a game. 100% of the time will freeze after i finish a game.",
-                "date": "2025-08-15",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and crash reporting to identify and resolve freezing issues, particularly after game completion.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 1,
-                "review": "The scream keeps pausing whenever I\u2019m cycling through the causes or playing the orders and I don\u2019t have enough time to even finish one order\u2026by the time I\u2019m nearly done someone walks in and by the time I take their order the food in the dryers are overcooked because the customer took to long to order at the register",
-                "date": "2025-04-25",
-                "value": 85,
-                "potential_idea": "Implement an 'auto-pause' feature that automatically pauses the game timer when the player is in a menu or interacting with order details, resuming only when the player returns to active gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 1,
-                "review": "I can literally have all the holiday lobby items and still get a low waiting score like wth",
-                "date": "2025-02-23",
-                "value": 15,
-                "potential_idea": "Implement a more granular scoring system for lobby wait times, providing users with specific reasons for a low score even when they have holiday lobby items.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 2,
-                "review": "I love any type of papas food games. And I tried to play this game on my iPad but it doesn\u2019t fit. The only option is to play the game a bit minimized which just gets in the way. I would of loved to be able to play this on my iPad.",
-                "date": "2024-09-24",
-                "value": 10,
-                "potential_idea": "Adapt mobile game to properly fit and function on larger tablet screen sizes, offering an optimized gameplay experience.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 1,
-                "review": "No stars because I have the plate helper guide 1 and 2 and I still do not get a 100% on build station",
-                "date": "2024-04-26",
-                "value": 15,
-                "potential_idea": "Provide interactive, step-by-step visual tutorials within the app for difficult or commonly failed build station tasks.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 1,
-                "review": "not as fun as it is on pc-- not worth spending the money.",
-                "date": "2020-11-07",
-                "value": 10,
-                "potential_idea": "Develop a mobile version of the PC app that offers comparable gameplay depth and features for a more satisfying mobile experience.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Wingeria To Go!",
-                "rating": 2,
-                "review": "I\u2019ve had this game for a while & I recently started to play it more often. I don\u2019t understand why when I go to a certain area in the game ( sauces ) it won\u2019t move. I have tried restarting the app, restarting my phone & nothing changes. Everything else works fine but just that one part. Can you guys fix this ? Thanks.",
-                "date": "2020-04-09",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and debugging tools to identify and resolve persistent in-game glitches that prevent user progression.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1479608271",
-        "name": "Arcadia - Watch Games",
-        "url": "https://apps.apple.com/us/app/arcadia-watch-games/id1479608271?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Arcadia - Watch Games",
-                "rating": 1,
-                "review": "J\u2019habitt",
-                "date": "2025-05-30",
-                "value": 15,
-                "potential_idea": "Develop an app that allows users to virtually 'habit' or attach digital items/notes to physical locations, accessible only when at that location.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "904237743",
-        "name": "Things 3",
-        "url": "https://apps.apple.com/us/app/things-3/id904237743?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "For some reason, when setting reminders, the developers decided to change the \u201cdone\u201d button to a \u201cclear\u201d (cancel) button. So now I set a bunch of reminders that I\u2019ll never get notifications about because my usual pattern (setting the reminder) is now the opposite (clearing the reminder). Idiotic stuff.",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Revert the 'done' button to its original functionality for setting reminders and clarify its purpose to avoid confusion.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "I have engaged the Cultured Code team about an issue where the keyboard will randomly lose connection for specific buttons (return, CMD, etc). They stated that it is an apple problem but this is the only app this occurs in. If this issue is resolved. I will update to 5 stars because the app is great otherwise.",
-                "date": "2025-09-19",
-                "value": 18,
-                "potential_idea": "Develop a workaround or internal keyboard handling mechanism for the app to prevent specific button disconnections, addressing a reported app-specific bug.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 2,
-                "review": "Really not a fan of the new Glass UI update they made. To me, it doesn't really make any sense. Things was always an app that was distinctive in its approach to its user interface, acting like virtual paper that separated and expanded. To be honest, the user interface follows principles more similar to Google's Material Design in that fashion. They kind of just shoehorned all of this new rounded shiny UI into the app, and it breaks the magic that they had. It looks tacky.",
-                "date": "2025-09-17",
-                "value": 15,
-                "potential_idea": "Restore a 'classic' UI mode option that reverts the app's interface to its original 'virtual paper' aesthetic, allowing users to choose between the new 'Glass UI' and the previous design.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "TLDR: find another app. I was a power user with things, but it no longer fits my needs. \n\nI never thought I\u2019d write this. Things has always been the best. Always the sharpest looking. Always ready for productivity. Always in Apple\u2019s spotlight. But Things has been slowing down\u2026\n\nToday, iOS 26 launched. I woke up hopeful that Things would surprise us by giving us a new feature. Maybe a new UI refresh. Nope. Their update was a barebones update to stay \u201ccurrent\u201d. A glass icon and a glassy like plus button. Wooo thanks! \n\nI have bought every version of things. The visionOS release was strike one. A full price for a multi year app that just has translucent sidebars? Come on. I messaged the devs many times asking what most of us are asking and needing: attachment support, better markdown (the current setup is insanely stupid), collaboration, or even a refreshed coat of paint to not look like an older app. The responses we get? Thanks for the feedback, we aren\u2019t doing it. \n\nToday, I\u2019m uninstalling things. This big update from them is a joke. To the other devs who listen and keep the magic of Apple software release day still magical, thank you. To Cultured Code, thanks for the great years ranging all the way back to Things 1. You\u2019ve lost your touch, your magic. I hope you find it again and find joy in your work.",
-                "date": "2025-09-15",
-                "value": 17,
-                "potential_idea": "Develop a task management app that offers robust attachment support, advanced Markdown integration, and collaborative features, while maintaining a modern and visually appealing UI.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "I need REPEATED daily tasks. Pointless app if it doesn\u2019t do that. It\u2019s also ATROCIOUS to find out that if I want it on my laptop I have to pay another $50????? I would really like a refund. I\u2019ll stick to notion.",
-                "date": "2025-09-08",
-                "value": 70,
-                "potential_idea": "Implement a recurring task feature for daily tasks and a cross-platform pricing model with a single purchase for desktop access.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "Disgusting implementation of Markdown, need to hide links and other formatting",
-                "date": "2025-08-11",
-                "value": 12,
-                "potential_idea": "Implement a rich text editor with a toggle to switch between WYSIWYG and Markdown view, offering better control over formatting.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "There is no way to refund this app, somebody described this as a frustrating experience and couldn\u2019t find more accurate words. This app doesn\u2019t integrate well with any enterprise grade ecosystem. It could potentially work for you if you lived in a remote island by yourself but even then you couldn\u2019t install it and get a refund! Keep your money in your pocket and try other alternatives before dropping 60 bucks on this app (mac + iPhone)",
-                "date": "2025-07-29",
-                "value": 75,
-                "potential_idea": "Integrate a clear and accessible in-app refund process to address user frustration and improve trust regarding purchases and value proposition.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "You should give a preview or a free trial, because I would not have bought the app if I had been able to try it beforehand and that it wouldn\u2019t work for me.",
-                "date": "2025-07-06",
-                "value": 75,
-                "potential_idea": "Implement a free trial or demo mode for the app to allow users to test functionality before purchasing.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "I am no longer able to have the list feature on the front screen(the most beneficial feature) of my apple watch ultra 2",
-                "date": "2025-06-20",
-                "value": 18,
-                "potential_idea": "Restore the list feature to the primary watch face for immediate access on Apple Watch Ultra 2.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 2,
-                "review": "Have been using Things for years and liked it. However, just had the worst experience trying to move away from it due to switching to an android phone. While platforms like todoist give you the option to export tasks, Things doesn\u2019t and makes it as hard as possible to move your data out of their system. They give you a database file where half of information is missing such as projects, recurring reminders, etc. In the end I spent days getting a spreadsheet of my information and had to manually go through hundreds of records to update them. \nUnfortunately, I can no longer recommend them.",
-                "date": "2025-06-20",
-                "value": 70,
-                "potential_idea": "Implement robust data export functionality for all task attributes, including recurrence and project structure, enabling seamless migration between platforms and devices.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "I literally can\u2019t even open the app because the second I do, it completely crashes. \n\nThis issue started on my iPad and now on my iPhone. \n\nThing is that there is NO way to access on a browser. This is not a good back up option. Especially when the app goes down. \n\nThis is devastating. I\u2019m in the middle of so many projects and everything is in this app. \n\nI am trying to figure out how to move everything to a more reliable app. \n\nReally disappointing. \n\nIf you can\u2019t be without your to-do list, I\u2019d highly suggest a platform with a back up web browser.",
-                "date": "2025-06-19",
-                "value": 18,
-                "potential_idea": "Develop a web browser version of the mobile app to provide users with a reliable backup and alternative access point, especially during mobile app outages.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Things 3",
-                "rating": 1,
-                "review": "The developers refuse to add a simple \u201cselect all\u201d feature to help you move your tasks. It\u2019s ridiculous, and so annoying to select all tasks one by one. I have asked the developers for this simple feature, and years later they still have not added it.",
-                "date": "2025-05-04",
-                "value": 15,
-                "potential_idea": "Implement a 'select all' functionality within the mobile app to enable batch task management for improved user efficiency.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1622869542",
-        "name": "Kingdom Rush 5: Alliance TD",
-        "url": "https://apps.apple.com/us/app/kingdom-rush-5-alliance-td/id1622869542?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "The game itself is absolutely fine, a great TD game just like the rest in the series. For me it is a 1 out 5 for the simple fact that they have turned this into the greediest of cash grabs where something like 50% of all towers and 85% of all heroes are locked behind further paywalls, and not cheap ones either. Paying for all of these, event at their \u201cdiscounts price\u201d will cost you a further $50 on top of the price of the game itself. In other words, they want you to pay the price of a AAA console/PC game to play their mobile game. To add further insult to injury, most of the paid extras towers ar just towers from previous games, so you\u2019re paying an entire games worth of blackmail money for the privilege of using them in this game, even if you bought those previous games. The same is true of the DLC heroes except it\u2019s even worse - even if you ALREADY PAID for a DLC hero in a previous entry it isn\u2019t credited to you in this game. I\u2019m sure the actual designers didn\u2019t make these decisions but the game is a shameful cash grab that\u2019s unworthy of its own legacy.",
-                "date": "2025-09-10",
-                "value": 85,
-                "potential_idea": "Implement a loyalty program or cross-game unlock system for players who have purchased previous titles in the series, offering discounts or free access to previously owned content in the new game.",
-                "tags": []
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "I happily paid the up front cost of this game, hoping for a full experience, perhaps with a $10 expansion or two. \n\nNo\u2026 the full game is an additional $58. I\u2019ll be seeing if I can reverse this purchase.",
-                "date": "2025-08-27",
-                "value": 65,
-                "potential_idea": "Develop a mobile game monetization model that clearly defines the 'full experience' upfront, avoiding surprise in-app purchases that significantly exceed the initial cost.",
-                "tags": []
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "I understand the point of in app purchases but when ur game is not free u should not have in app purchases. Loved the game since I played in on armor games way back when I was a kid, but the money hungry industry has ruined this masterpiece tower defense game. Sad to see spineless developers letting such a good game be ran into the mud",
-                "date": "2025-08-25",
-                "value": 70,
-                "potential_idea": "Implement a subscription model or a one-time purchase option for the full game experience to eliminate in-app purchases in paid games.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Been a hot second since any dlc has dropped",
-                "date": "2025-08-18",
-                "value": 65,
-                "potential_idea": "Develop a mobile app that tracks and notifies users about new downloadable content (DLC) releases for their favorite video games across various platforms.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Games good until you get into it. There\u2019s almost no content for a game behind a paywall and on top of that there\u2019s dlcs that you have to pay the same amount as the game for and it\u2019s about 15 minutes of gameplay. To make it worse your shown all of these cool heroes that cost 10 dollars and your only given about 4 out of 20 to play everything\u2019s behind a dlc.",
-                "date": "2025-08-07",
-                "value": 70,
-                "potential_idea": "Introduce a more generous free-to-play model with unlockable content or offer more affordable microtransactions for heroes and starter content to reduce reliance on expensive DLCs.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Game is filled with OP pay to win towers, hero's and most of the content is locked behind a paywall so overly monetized it\u2019s disgusting and very disappointing.",
-                "date": "2025-08-01",
-                "value": 80,
-                "potential_idea": "Introduce a 'balanced play' mode with no pay-to-win elements and access to all content for a fair gaming experience.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Why would i buy a game for 7$ and then pay another 7$ for extra levels in the same game , also i have to pay for towers and heroes, this is ridiculous if i knew from the start I wouldn\u2019t have bought it .",
-                "date": "2025-07-27",
-                "value": 75,
-                "potential_idea": "Bundle premium game content or offer more comprehensive 'complete edition' versions at a higher upfront price to avoid nickel-and-diming players with in-app purchases for core content.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "You pay $5 and then you have to pay to unlock each item in the game to have the full game would cost $100 or more. The strategy is part more money to unlock items to progress.",
-                "date": "2025-07-04",
-                "value": 75,
-                "potential_idea": "Offer a single, one-time purchase option for full game access instead of a piecemeal unlock system.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 2,
-                "review": "I\u2019ve played all the Kingdom Rushes and so far this is the hardest\u2026 Not in a good way hard though.  I\u2019d say this is the least entertaining of the bunch.  You have to buy the game and then rely on micro transactions to beat levels.  Not gonna do that\u2026",
-                "date": "2025-07-04",
-                "value": 75,
-                "potential_idea": "Introduce a 'no microtransactions' mode or bundle that allows players to experience the full game without reliance on in-app purchases.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 2,
-                "review": "I have been a huge fan of the kingdom rush games since the first one came out, and these are the only mobile games I\u2019ve ever actually paid for. Kingdom rush 5 upholds the graphics, creativity, and humor of the series but is unfortunately the weakest game out of all of them in my opinion.\n\nI was disappointed to see the mechanism from the last game continue where you\u2019re only allotted 5 tower types that you preselect before starting a level. This was my main criticism of the last game and why the last game was the first one that I didn\u2019t enjoy as much. I miss the older mechanic where you could have up to 8 tower types available during gameplay, because it made it so much more interesting to strategize and it was more fun to see more variety on the map. I found myself never using a handful of towers through the whole play through because I was forced to prioritize which ones made it into gameplay. \n\nThe levels themselves were not very challenging and they didn\u2019t last long enough. I found myself barely getting any towers to be fully upgraded before I already beat the level, so I didn\u2019t even get to fully utilize a lot of the tower skills. I beat the main campaign fairly quickly. There also weren\u2019t any standout enemies, which made them all kind of meld together and made all the levels feel the same. There are still enemy types that I remember from the past games but none from this game really stuck with me. \n\nI don\u2019t mind the extra towers and heroes behind the extra paywall. I didn\u2019t purchase any of them and didn\u2019t feel like I was missing out that much. I think this developer definitely deserves to find ways to make more revenue as long as the base game stays at a reasonable price, which I think it does at the moment. Despite the criticisms, the game still upholds a high caliber with its creativity, style, and mechanics. I might take pause at buying into another installment if it comes, but this series still remains to be one of the best made for mobile games, and I\u2019ll likely continue to revisit some of the early installments for repeat play throughs.",
-                "date": "2025-07-01",
-                "value": 90,
-                "potential_idea": "Allow players to select a larger number of pre-determined tower types for gameplay, similar to older installments of the series, to enhance strategic depth and variety.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "The desktop version: $19.99 for everything The mobile: $6.99 for the game, $14.99 for all towers, $19.99 for all heroes. New two heroes + one tower: Desktop: free Mobile: $13.99 Updates: the new hero and tower are free on steam, but $6.99 each here.",
-                "date": "2025-06-21",
-                "value": 75,
-                "potential_idea": "Implement a unified, one-time purchase option for the mobile version that unlocks all current and future content, mirroring the desktop version's pricing model.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Yes I did read the app page beforehand, it\u2019s so unattractive when half your screen is behind paywalls",
-                "date": "2025-06-04",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "You\u2019re paying for a game and not getting the full game. I kept thinking if I continued unlocking levels or getting stars that I could unlock the whole game. Nope, gotta pay. I\u2019ve seen less dishonesty from gacha games.",
-                "date": "2025-06-04",
-                "value": 70,
-                "potential_idea": "Offer a 'full game' purchase option that unlocks all content upfront or clarify monetization clearly in the app description.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 2,
-                "review": "Great game but the fact that a mobile game is $7 and then you find out that most of the content is also paid DLC is just wrong",
-                "date": "2025-05-27",
-                "value": 65,
-                "potential_idea": "Introduce a tiered pricing model with a free-to-play base game and optional, transparent in-app purchases for specific content packs.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Game does not save changes to tower lineup or hero abilities, gameplay is obscenely difficult, not in ways that make strategically placing towers worthwhile but in ways that just make enemies go through while you can do nothing but watch as you already used your worthless reinforcements and your heroes are all dead. Do not recommend.",
-                "date": "2025-05-26",
-                "value": 15,
-                "potential_idea": "Implement a 'replay' feature that allows users to analyze failed gameplay attempts, highlighting strategic placement and decision-making moments to improve player skill and understanding of game difficulty.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Keep buying items and they disappear. Making me lose out on a bunch of items. Then they go away when I enter into the game. This needs to be fixed as it is very frustrating. Otherwise, love the game.",
-                "date": "2025-05-26",
-                "value": 75,
-                "potential_idea": "Implement a robust in-game inventory system that prevents purchased items from disappearing and ensures they are accessible upon entering the game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 2,
-                "review": "Go play balloon tower defense. They are much more fun",
-                "date": "2025-05-24",
-                "value": 5,
-                "potential_idea": "Enhance the app with strategic defense gameplay elements similar to popular tower defense titles.",
-                "tags": []
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Did I just buy a game only to find out that there is still content behind more pay walls? I sure did. Not a fan of that. Either make it free and put as much as you want behind a pay wall. Or charge me up front for a complete game please and thank you. This is the 5th game in the series, did they add something that justifies a $7 price tag? Not that I\u2019m aware of. While I am a fan of the KR series from a gameplay standpoint. The $$$ is getting worse as the game remains for the most part. It\u2019s a shame. But if you got money to burn and love the KR TD style this game is fine. Just don\u2019t expect the game to come with all of the content available without additional spending. RIP the App Store game industry",
-                "date": "2025-05-21",
-                "value": 75,
-                "potential_idea": "Offer a 'complete edition' purchase upfront that unlocks all current and future content for a premium price, appealing to fans who dislike repeated paywalls.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "The developer should contact appstore to accept my refund because apple dont accept the refund",
-                "date": "2025-05-02",
-                "value": 15,
-                "potential_idea": "Implement a direct in-app refund request system that bypasses external app store processes.",
-                "tags": []
-            },
-            {
-                "app_name": "Kingdom Rush 5: Alliance TD",
-                "rating": 1,
-                "review": "Same old gameplay and cash grab greed. If you pay for a game you should have the ability to unlock all content. Add ons for more money show your greed. Disgusting how people can\u2019t be happy with a decent amount of profit. Almost impossible for rich people to make it to heaven, not my opinion it\u2019s in the Bible LOL\n\nEdit- sure you don\u2019t need all the cool stuff to beat the game. Thanks, you\u2019re totally disconnected.",
-                "date": "2025-04-30",
-                "value": 75,
-                "potential_idea": "Implement a 'Fair Play' mode that removes all in-app purchases and microtransactions, offering a complete, ad-free experience for a single upfront purchase.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1662217862",
         "name": "Wipr 2",
         "url": "https://apps.apple.com/us/app/wipr-2/id1662217862?uo=2",
@@ -13148,6 +12404,637 @@
                 "potential_idea": "Implement a free-to-play mode or a more generous free progression system that doesn't gate content behind IAPs.",
                 "tags": [
                     "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6508165149",
+        "name": "Dungeon Clawler",
+        "url": "https://apps.apple.com/us/app/dungeon-clawler/id6508165149?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 1,
+                "review": "Just launched the game and all my progress is gone. Not starting over from scratch. Going to request a refund.",
+                "date": "2025-09-16",
+                "value": 15,
+                "potential_idea": "Implement robust cloud-based progress saving and synchronization for game saves to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 2,
+                "review": "I can\u2019t get enough of this game, taking my love for claw games and making it into a dungeon crawler has me hooked!  Endless gameplay, lots of options lots of different paths worth the five dollars and more.  Considering how much I\u2019ve spent on claw games in the past this game feeds that addiction. Feeds my gaming addiction, it keeps me coming back for more.   This game is amazing. People should spend the five dollars for it. I\u2019m looking forward to more content so I\u2019m spreading the word.",
+                "date": "2025-09-15",
+                "value": 85,
+                "potential_idea": "Develop a mobile game that combines the mechanics of claw machines with a roguelike dungeon crawler, offering diverse playstyles and replayability.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 2,
+                "review": "The title says it all. My first complaint is the game takes far too long to show variance in runs making it feel stale fast.\nSecond, the game is far too RNG dependent, the mechanic to increase chances of receiving certain synergistic items doesn\u2019t seem to be effective, you have practically no good choices even with heavy RNG manipulation and dozens of re rolls. Back to Peglin I guess \ud83e\udd37\u200d\u2640\ufe0f",
+                "date": "2025-07-29",
+                "value": 78,
+                "potential_idea": "Introduce a mechanic that allows players to meaningfully influence or guarantee synergistic item drops to mitigate excessive RNG dependence and increase run variety.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 1,
+                "review": "I continued to play this game even with my issues below. I finished a run and probably started a few other ones. It's been idk how many days that I have not even thought about this game at all. On one of my runs I watch the claw go down and grab a bunch of items and right when it started to come up one of the items I was going for immediately disappeared. When it's the games mechanic I can't get past it. I will never play this game again and wasted the money I spent on it. I hate free to play but this game makes me want to just play free to play so I am not wasting money like this. I am very disappointed. I like this game. It's pretty entertaining. I just bought it today and I am on my first run. I am on floor 16 and just started to notice stuff disappearing. So 2 turns I watched the magnet drop in the machine and immediately disappear. Third turn it drops lands on the other stuff and when I went to grab it, it disappeared. Next stage same floor I watched stuff fall and immediately disappear. The reason such a low rating is grabbing stuff is the whole point of the game. Can't grab stuff if it doesn't drop or show up like it should. Please fix.",
+                "date": "2025-02-07",
+                "value": 18,
+                "potential_idea": "Implement a visual feedback mechanism or a clearer game mechanic explanation for item disappearance in the claw machine, ensuring players understand why items vanish before they can be grabbed.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 2,
+                "review": "This game requires precision in aligning the claw exactly over the objects you need to collect yet it makes it very difficult to do so.  If you try to drag the claw a millimeter it goes a centimeter and sometimes nowhere at all.  Maybe that\u2019s by design but it creates a bad experience.  The player needs a left and right arrow he can tap to move the claw in finer increments.  Not going to play this game as it is right now unless these features are added",
+                "date": "2024-11-29",
+                "value": 75,
+                "potential_idea": "Implement fine-tuned directional arrow controls for precise claw movement in a claw machine game.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6738784092",
+        "name": "A Little to the Left: Drawers",
+        "url": "https://apps.apple.com/us/app/a-little-to-the-left-drawers/id6738784092?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "They need to update the app with more games frequently. There\u2019s no reason I can complete the game the same day I buy it.",
+                "date": "2025-09-23",
+                "value": 60,
+                "potential_idea": "Introduce a subscription model for the mobile game app that offers access to a regularly updated library of new games and challenges.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "This happened on level 2. You cannot place the items without them leaning in a certain direction. Also, it is impossible to know where to put them without using hints.",
+                "date": "2025-06-28",
+                "value": 12,
+                "potential_idea": "Introduce a visual guide or grid system within the game to assist players in optimally placing items, especially in levels with precise placement requirements.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "Paid 3 bucks just to finish the game in two hours. Not worth the money .",
+                "date": "2025-06-05",
+                "value": 60,
+                "potential_idea": "Introduce a free-to-play mode or offer a more balanced progression system to improve perceived value for money.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 2,
+                "review": "Theres only a few levels and it ends fairly quickly. I finished it with in a day and now if I want to continue playing I have to download the other app and pay $5.99. Just get the other app at that point and save money if you really want to play.",
+                "date": "2025-06-03",
+                "value": 15,
+                "potential_idea": "Integrate the premium content of the paid app into the free app with a one-time unlock option or a more accessible subscription model.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "Y\u2019all charged me $1.99 for a game that was completely finished in 20 minutes???? Nah, what rip off. Get a cup of coffee with the $2 you saved by NOT PAYING for this game",
+                "date": "2025-05-06",
+                "value": 15,
+                "potential_idea": "Develop a mobile game genre that emphasizes short, engaging experiences with clear playtime expectations and fair pricing models to combat 'nickel and diming' perceptions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 2,
+                "review": "Fun game, but why did i pay $3 for there to be like 20 levels.",
+                "date": "2025-04-04",
+                "value": 15,
+                "potential_idea": "Introduce more levels or a level pack system to the game to extend playtime for paying users.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 2,
+                "review": "32 total levels, and a handful of them are just busy work/filler levels (i.e. tapping the cat to pet it, then finish). I wouldn\u2019t say this app is worth the $3 to purchase.",
+                "date": "2025-03-28",
+                "value": 15,
+                "potential_idea": "Introduce more engaging and varied mini-games or interactive elements within the app to replace repetitive 'filler' levels.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1392608717",
+        "name": "Papa's Scooperia To Go!",
+        "url": "https://apps.apple.com/us/app/papas-scooperia-to-go/id1392608717?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "The controls are terrible",
+                "date": "2025-05-23",
+                "value": 15,
+                "potential_idea": "Implement intuitive and customizable gesture-based controls for improved app navigation and interaction.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "The game seems fun but when I tried playing on my iPad the game is minimized because it doesn\u2019t fit my screen.",
+                "date": "2024-09-24",
+                "value": 15,
+                "potential_idea": "Implement adaptive screen scaling for different device resolutions to prevent game minimization.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 2,
+                "review": "This one is boring and difficult. I love playing these games but OMG the build station is what catches me off guard. All I get is 98% on the build even though it looked perfectly done well. Pastaria is the same way (but I don\u2019t mind that one cause it\u2019s more fun than this one.) I mean I don't mind getting 98% on build in these games but this one is strict about it, like you have to have it perfect perfect in order to get a 100%. But honestly, I deleted this game mainly because it\u2019s super boring, not the grading. I don\u2019t really mind getting high scores not 100% in these games but what I\u2019m saying is this is how strict the building is in this game. I deleted it because it was boring not really my taste (I have all the other ones though that are much rather entertaining and easier.) \ud83d\ude43\ud83e\udd14",
+                "date": "2024-05-18",
+                "value": 45,
+                "potential_idea": "Introduce a 'practice mode' or adjustable difficulty for the build station to allow users to refine their skills without penalty, especially for users who find the current strictness frustrating but enjoy the core gameplay.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "This is the worst game that I ever played so thanks a lot enjoy my stupid money flip line",
+                "date": "2024-03-29",
+                "value": 12,
+                "potential_idea": "Implement a clear refund or cancellation policy for in-app purchases and subscriptions.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "I accidentally bought this game. I WANT A REFUND!! \ud83d\udcaf",
+                "date": "2023-06-14",
+                "value": 15,
+                "potential_idea": "Implement a clear, in-app refund request system for accidental purchases with a quick resolution.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "ITS TOO SMALL FOR MY APPLE TABLET, It doesn\u2019t fit the screen. The other to go papa game fits my screen but not scooperia.",
+                "date": "2022-06-11",
+                "value": 15,
+                "potential_idea": "Implement adaptive screen scaling for tablet devices to ensure all app content fits the display without distortion.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "405835358",
+        "name": "MilGPS",
+        "url": "https://apps.apple.com/us/app/milgps/id405835358?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "MilGPS",
+                "rating": 1,
+                "review": "Love this app. Been using it for years. BUT it no longer lets me plot points and make overlays, which is a critical function. No customer service to contact either.",
+                "date": "2025-04-27",
+                "value": 80,
+                "potential_idea": "Reintroduce the ability to plot points and create overlays, and establish a customer support channel for user assistance.",
+                "tags": [
+                    "bug",
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "MilGPS",
+                "rating": 1,
+                "review": "Won\u2019t run on iPad",
+                "date": "2025-02-17",
+                "value": 15,
+                "potential_idea": "Optimize the app for iPad screen sizes and functionalities to provide a native iPad experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MilGPS",
+                "rating": 2,
+                "review": "Does not pin point",
+                "date": "2025-01-14",
+                "value": 15,
+                "potential_idea": "Implement a precise location pinning feature for users unable to pinpoint their exact location.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MilGPS",
+                "rating": 2,
+                "review": "\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u062c\u064a\u062f \u0648\u0644\u0643\u0646 \u0644\u0627 \u0627\u0639\u062a\u0645\u062f\u0647 \u0643\u062b\u064a\u0631\u0627\u064b \u0644\u0623\u0646 \u064a\u0648\u062c\u062f \u0644\u062f\u064a \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0645\u0645\u062b\u0627\u0644\u0629 \u062a\u062f\u0639\u0645 \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                "date": "2024-12-23",
+                "value": 15,
+                "potential_idea": "Enhance the app's Arabic language support to be on par with or surpass existing competitor apps.",
+                "tags": [
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1451873044",
+        "name": "Papa's Wingeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-wingeria-to-go/id1451873044?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 2,
+                "review": "I love and have bought EVERY  Papa's games all the HD versions & To Go\u2019s! I keep having issues with this game though.. it\u2019s constantly freezing and it won't let me use my tickets for any mini games. l have to close out the app after every round if I want to continue playing \ud83d\ude14 I do have the HD version of Papas Wingeria but I personally prefer Wingeria To Go \u2026 unfortunately it\u2019s not working .. Please fix the issues with Papas Wingeria To Go ..flipline studios fix it  \ud83e\udef5\ud83e\udd72",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Implement a robust bug-fixing and performance optimization update for Papa's Wingeria To Go, ensuring seamless gameplay and proper ticket functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 1,
+                "review": "please fix the issue where it freezes..sometimes happens during the middle of a game. 100% of the time will freeze after i finish a game.",
+                "date": "2025-08-15",
+                "value": 60,
+                "potential_idea": "Implement a more robust crash reporting and automatic recovery mechanism to prevent the app from freezing and losing game progress.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 1,
+                "review": "The scream keeps pausing whenever I\u2019m cycling through the causes or playing the orders and I don\u2019t have enough time to even finish one order\u2026by the time I\u2019m nearly done someone walks in and by the time I take their order the food in the dryers are overcooked because the customer took to long to order at the register",
+                "date": "2025-04-25",
+                "value": 65,
+                "potential_idea": "Implement a 'pause' or 'snooze' function for incoming orders in the cycling/ordering phase to allow players sufficient time to manage current tasks without penalty.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 1,
+                "review": "I can literally have all the holiday lobby items and still get a low waiting score like wth",
+                "date": "2025-02-23",
+                "value": 55,
+                "potential_idea": "Implement a more transparent and granular scoring system for holiday lobby items that clearly explains how each item contributes to the waiting score.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 2,
+                "review": "I love any type of papas food games. And I tried to play this game on my iPad but it doesn\u2019t fit. The only option is to play the game a bit minimized which just gets in the way. I would of loved to be able to play this on my iPad.",
+                "date": "2024-09-24",
+                "value": 70,
+                "potential_idea": "Optimize the mobile app for tablet screen sizes, allowing for a full, un-minimized experience on devices like the iPad.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 1,
+                "review": "No stars because I have the plate helper guide 1 and 2 and I still do not get a 100% on build station",
+                "date": "2024-04-26",
+                "value": 15,
+                "potential_idea": "Integrate advanced analytics and visualization tools within the app to pinpoint specific areas of failure in the 'build station' process, complementing existing guides.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 1,
+                "review": "not as fun as it is on pc-- not worth spending the money.",
+                "date": "2020-11-07",
+                "value": 12,
+                "potential_idea": "Develop a mobile version of the PC game that offers a more engaging and fun experience comparable to its desktop counterpart.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Wingeria To Go!",
+                "rating": 2,
+                "review": "I\u2019ve had this game for a while & I recently started to play it more often. I don\u2019t understand why when I go to a certain area in the game ( sauces ) it won\u2019t move. I have tried restarting the app, restarting my phone & nothing changes. Everything else works fine but just that one part. Can you guys fix this ? Thanks.",
+                "date": "2020-04-09",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting and debugging tool within the app to allow users to easily report and developers to diagnose specific in-game glitches.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1479608271",
+        "name": "Arcadia - Watch Games",
+        "url": "https://apps.apple.com/us/app/arcadia-watch-games/id1479608271?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Arcadia - Watch Games",
+                "rating": 1,
+                "review": "J\u2019habitt",
+                "date": "2025-05-30",
+                "value": 15,
+                "potential_idea": "Add support for French language localization and French-speaking customer support.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "904237743",
+        "name": "Things 3",
+        "url": "https://apps.apple.com/us/app/things-3/id904237743?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "For some reason, when setting reminders, the developers decided to change the \u201cdone\u201d button to a \u201cclear\u201d (cancel) button. So now I set a bunch of reminders that I\u2019ll never get notifications about because my usual pattern (setting the reminder) is now the opposite (clearing the reminder). Idiotic stuff.",
+                "date": "2025-09-22",
+                "value": 10,
+                "potential_idea": "Revert the 'done' button to its original functionality for setting reminders, or clearly label the 'clear' button to avoid accidental cancellation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "I have engaged the Cultured Code team about an issue where the keyboard will randomly lose connection for specific buttons (return, CMD, etc). They stated that it is an apple problem but this is the only app this occurs in. If this issue is resolved. I will update to 5 stars because the app is great otherwise.",
+                "date": "2025-09-19",
+                "value": 15,
+                "potential_idea": "Develop a workaround or alternative input method for specific keyboard buttons that are experiencing intermittent connection issues within the app, addressing user frustration with a critical input bug.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 2,
+                "review": "Really not a fan of the new Glass UI update they made. To me, it doesn't really make any sense. Things was always an app that was distinctive in its approach to its user interface, acting like virtual paper that separated and expanded. To be honest, the user interface follows principles more similar to Google's Material Design in that fashion. They kind of just shoehorned all of this new rounded shiny UI into the app, and it breaks the magic that they had. It looks tacky.",
+                "date": "2025-09-17",
+                "value": {
+                    "intensity": 18,
+                    "difference": 15,
+                    "scope": 12,
+                    "feasibility": 14,
+                    "total": 59
+                },
+                "potential_idea": "Offer users an option to revert to or customize the app's UI to a 'virtual paper' aesthetic, preserving its original distinctive feel.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "TLDR: find another app. I was a power user with things, but it no longer fits my needs. \n\nI never thought I\u2019d write this. Things has always been the best. Always the sharpest looking. Always ready for productivity. Always in Apple\u2019s spotlight. But Things has been slowing down\u2026\n\nToday, iOS 26 launched. I woke up hopeful that Things would surprise us by giving us a new feature. Maybe a new UI refresh. Nope. Their update was a barebones update to stay \u201ccurrent\u201d. A glass icon and a glassy like plus button. Wooo thanks! \n\nI have bought every version of things. The visionOS release was strike one. A full price for a multi year app that just has translucent sidebars? Come on. I messaged the devs many times asking what most of us are asking and needing: attachment support, better markdown (the current setup is insanely stupid), collaboration, or even a refreshed coat of paint to not look like an older app. The responses we get? Thanks for the feedback, we aren\u2019t doing it. \n\nToday, I\u2019m uninstalling things. This big update from them is a joke. To the other devs who listen and keep the magic of Apple software release day still magical, thank you. To Cultured Code, thanks for the great years ranging all the way back to Things 1. You\u2019ve lost your touch, your magic. I hope you find it again and find joy in your work.",
+                "date": "2025-09-15",
+                "value": 85,
+                "potential_idea": "Implement robust file attachment support and enhanced Markdown capabilities with a modern UI refresh to meet power user demands for a feature-rich task management app.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "I need REPEATED daily tasks. Pointless app if it doesn\u2019t do that. It\u2019s also ATROCIOUS to find out that if I want it on my laptop I have to pay another $50????? I would really like a refund. I\u2019ll stick to notion.",
+                "date": "2025-09-08",
+                "value": 75,
+                "potential_idea": "Implement a feature for recurring daily tasks and offer a unified subscription model for mobile and desktop access.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "Disgusting implementation of Markdown, need to hide links and other formatting",
+                "date": "2025-08-11",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 70
+                },
+                "potential_idea": "Implement a WYSIWYG (What You See Is What You Get) editor with optional Markdown preview for the app, allowing users to easily format text without seeing raw Markdown code.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "There is no way to refund this app, somebody described this as a frustrating experience and couldn\u2019t find more accurate words. This app doesn\u2019t integrate well with any enterprise grade ecosystem. It could potentially work for you if you lived in a remote island by yourself but even then you couldn\u2019t install it and get a refund! Keep your money in your pocket and try other alternatives before dropping 60 bucks on this app (mac + iPhone)",
+                "date": "2025-07-29",
+                "value": 15,
+                "potential_idea": "Integrate a clear and accessible in-app refund process for both mac and iPhone versions of the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "You should give a preview or a free trial, because I would not have bought the app if I had been able to try it beforehand and that it wouldn\u2019t work for me.",
+                "date": "2025-07-06",
+                "value": 75,
+                "potential_idea": "Offer a free trial or a limited preview version of the app to allow users to test functionality before purchasing.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "I am no longer able to have the list feature on the front screen(the most beneficial feature) of my apple watch ultra 2",
+                "date": "2025-06-20",
+                "value": 70,
+                "potential_idea": "Restore the list feature as a primary, easily accessible function on the Apple Watch Ultra 2 home screen.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 2,
+                "review": "Have been using Things for years and liked it. However, just had the worst experience trying to move away from it due to switching to an android phone. While platforms like todoist give you the option to export tasks, Things doesn\u2019t and makes it as hard as possible to move your data out of their system. They give you a database file where half of information is missing such as projects, recurring reminders, etc. In the end I spent days getting a spreadsheet of my information and had to manually go through hundreds of records to update them. \nUnfortunately, I can no longer recommend them.",
+                "date": "2025-06-20",
+                "value": 95,
+                "potential_idea": "Implement robust data export functionality for task management apps, allowing users to seamlessly migrate their data to other platforms or formats, including all task details, projects, and recurring reminders.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "I literally can\u2019t even open the app because the second I do, it completely crashes. \n\nThis issue started on my iPad and now on my iPhone. \n\nThing is that there is NO way to access on a browser. This is not a good back up option. Especially when the app goes down. \n\nThis is devastating. I\u2019m in the middle of so many projects and everything is in this app. \n\nI am trying to figure out how to move everything to a more reliable app. \n\nReally disappointing. \n\nIf you can\u2019t be without your to-do list, I\u2019d highly suggest a platform with a back up web browser.",
+                "date": "2025-06-19",
+                "value": 95,
+                "potential_idea": "Implement a web-based version of the mobile app to allow users to access their projects and data even if the mobile app is unavailable.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Things 3",
+                "rating": 1,
+                "review": "The developers refuse to add a simple \u201cselect all\u201d feature to help you move your tasks. It\u2019s ridiculous, and so annoying to select all tasks one by one. I have asked the developers for this simple feature, and years later they still have not added it.",
+                "date": "2025-05-04",
+                "value": 85,
+                "potential_idea": "Implement a 'select all' functionality for task management within the app to streamline bulk operations.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1622869542",
+        "name": "Kingdom Rush 5: Alliance TD",
+        "url": "https://apps.apple.com/us/app/kingdom-rush-5-alliance-td/id1622869542?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "The game itself is absolutely fine, a great TD game just like the rest in the series. For me it is a 1 out 5 for the simple fact that they have turned this into the greediest of cash grabs where something like 50% of all towers and 85% of all heroes are locked behind further paywalls, and not cheap ones either. Paying for all of these, event at their \u201cdiscounts price\u201d will cost you a further $50 on top of the price of the game itself. In other words, they want you to pay the price of a AAA console/PC game to play their mobile game. To add further insult to injury, most of the paid extras towers ar just towers from previous games, so you\u2019re paying an entire games worth of blackmail money for the privilege of using them in this game, even if you bought those previous games. The same is true of the DLC heroes except it\u2019s even worse - even if you ALREADY PAID for a DLC hero in a previous entry it isn\u2019t credited to you in this game. I\u2019m sure the actual designers didn\u2019t make these decisions but the game is a shameful cash grab that\u2019s unworthy of its own legacy.",
+                "date": "2025-09-10",
+                "value": 85,
+                "potential_idea": "Integrate a system that acknowledges and provides discounts or unlocks for content previously purchased in earlier game entries to reward loyal players.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "I happily paid the up front cost of this game, hoping for a full experience, perhaps with a $10 expansion or two. \n\nNo\u2026 the full game is an additional $58. I\u2019ll be seeing if I can reverse this purchase.",
+                "date": "2025-08-27",
+                "value": 75,
+                "potential_idea": "Offer tiered pricing models that clearly delineate the full game experience from DLC or expansions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "I understand the point of in app purchases but when ur game is not free u should not have in app purchases. Loved the game since I played in on armor games way back when I was a kid, but the money hungry industry has ruined this masterpiece tower defense game. Sad to see spineless developers letting such a good game be ran into the mud",
+                "date": "2025-08-25",
+                "value": 70,
+                "potential_idea": "Implement a one-time purchase option for the full game experience, removing all in-app purchases for players who prefer it.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "Been a hot second since any dlc has dropped",
+                "date": "2025-08-18",
+                "value": 15,
+                "potential_idea": "Implement a regular content update schedule or a notification system for new DLC releases to keep users engaged and informed.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "Games good until you get into it. There\u2019s almost no content for a game behind a paywall and on top of that there\u2019s dlcs that you have to pay the same amount as the game for and it\u2019s about 15 minutes of gameplay. To make it worse your shown all of these cool heroes that cost 10 dollars and your only given about 4 out of 20 to play everything\u2019s behind a dlc.",
+                "date": "2025-08-07",
+                "value": 80,
+                "potential_idea": "Implement a more generous free-to-play model with more accessible in-game content and heroes, and offer more substantial DLCs at a fairer price point.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "Game is filled with OP pay to win towers, hero's and most of the content is locked behind a paywall so overly monetized it\u2019s disgusting and very disappointing.",
+                "date": "2025-08-01",
+                "value": 80,
+                "potential_idea": "Implement a more balanced progression system with fairer monetization options to reduce 'pay-to-win' perceptions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Kingdom Rush 5: Alliance TD",
+                "rating": 1,
+                "review": "Why would i buy a game for 7$ and then pay another 7$ for extra levels in the same game , also i have to pay for towers and heroes, this is ridiculous if i knew from the start I wouldn\u2019t have bought it .",
+                "date": "2025-07-27",
+                "value": 65,
+                "potential_idea": "Offer 'complete edition' bundles of games at a fixed price, including all DLC and in-game purchases like extra levels, towers, and heroes.",
+                "tags": [
+                    "valuable opinion"
                 ]
             }
         ]
