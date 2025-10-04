@@ -624,760 +624,6 @@
         ]
     },
     {
-        "id": "640364616",
-        "name": "Terraria",
-        "url": "https://apps.apple.com/us/app/terraria/id640364616?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "I can\u2019t even load into this game when I click on the app. My screen goes pitch black",
-                "date": "2025-09-27",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and loading state indicators to provide feedback to users when the app fails to load.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "The game has become completely unplayable on iPad with Magic Keyboard, might be a OS issue but super unfortunate. 5 star game, just leaving this hopping for an update.",
-                "date": "2025-09-24",
-                "value": 50,
-                "potential_idea": "Develop optimized game controls for external keyboard and trackpad peripherals on iPad.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Game plays horrible compared to how it did 10 years ago. Mines the wrong blocks and places blocks in random places that you aren\u2019t aiming for no reason and is just overall horrible compared to how it was. Why did you have to ruin it? Because this version is cheaper than the Xbox or pc version?",
-                "date": "2025-09-23",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 15,
-                    "feasibility": 10,
-                    "total": 60
-                },
-                "potential_idea": "Restore the classic gameplay mechanics and controls to the mobile version to revert to the original 10-year-old experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "Why are the controls different! I don\u2019t understand these new controls. I played like 10 years ago and I could just hold down the attack button and it would auto attack. I had an inventory on the bottom and now it\u2019s a bag at the top. Not sure if there\u2019s a way to layout it all out so it\u2019s like the old controls but idk if I care enough to watch a yt vid to figure it out. I was hoping it\u2019d be the same feeling",
-                "date": "2025-09-21",
-                "value": 65,
-                "potential_idea": "Implement an option to customize mobile game controls to mimic older control schemes and UI layouts, such as a persistent bottom inventory bar and auto-attack functionality.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "Its been 3 years since 1.4.5 was announced and literally nothing has happened. i quit dont get this game if you want to wait 10 years for the next update.",
-                "date": "2025-09-13",
-                "value": 65,
-                "potential_idea": "Implement a clear and regular update schedule with community communication for app development.",
-                "tags": {
-                    "tags": [
-                        "no update for long time"
-                    ]
-                }
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "The controls are so bad I could only play for about 30min. Probably a lot better on PC.",
-                "date": "2025-08-21",
-                "value": 12,
-                "potential_idea": "Implement adaptive control sensitivity and button mapping options for mobile users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Super clunky experience for new players. maybe if better for experienced players. can\u2019t imagine its great",
-                "date": "2025-07-31",
-                "value": 50,
-                "potential_idea": "Introduce a guided onboarding tutorial for new users to simplify initial app navigation and understanding.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Was almost endgame and working on beating the moon lord with a master character but now all my progress is gone",
-                "date": "2025-07-14",
-                "value": 90,
-                "potential_idea": "Implement cloud save or incremental auto-save functionality for mobile games to prevent data loss.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "\u0421\u0430\u043c\u043e\u0435 \u043d\u0435\u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u043d\u0441\u043e\u0440\u0435 \u044d\u0432\u0435\u0440)",
-                "date": "2025-07-13",
-                "value": 55,
-                "potential_idea": "Introduce customizable on-screen controls or gesture-based navigation to improve touch control usability.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Terrible controls bring back old ones!",
-                "date": "2025-07-13",
-                "value": 55,
-                "potential_idea": "Offer users the option to revert to a previous control scheme if they dislike the current one.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "763692274",
-        "name": "Grand Theft Auto: San Andreas",
-        "url": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 2,
-                "review": "Al manejar tiende a irse a la derecha el volante\nYo juego con los botones tactiles, no es por una palanca vieja de control \ud83c\udfae pagu\u00e9 7 d\u00f3lares para que??? Para que al subirme a los carros y hacer las misiones solo tenga que estar corrigiendo el volante",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement an assist steering feature that automatically corrects the vehicle's direction when driving, particularly helpful for users relying on touch controls.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "i love this game without a doubt in my mind but i dont appreciate buying it when i closed the app and opened it back up it wouldn\u2019t load me in, it would keep closing the app entirely!",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement robust session management to ensure seamless reloading of the game state after app closures, preventing data loss or repeated purchases prompts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "It has a glitch in it! \nOn spray Tags",
-                "date": "2025-09-19",
-                "value": 10,
-                "potential_idea": "Implement a robust solution to prevent or automatically fix glitches specifically related to 'spray tags' within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "\u0627\u0644\u0644\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u062a\u062e\u0631\u062c \u0644\u0645\u0627 \u0627\u062f\u062e\u0644 \u0641\u064a\u0647\u0627",
-                "date": "2025-09-14",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and crash detection to prevent the app from crashing when users launch it.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Tuve que borrar el proceso y comenzar desde cero, el juego est\u00e1 teniendo problema se congela mucho",
-                "date": "2025-09-11",
-                "value": 85,
-                "potential_idea": "Implement a robust autosave or checkpoint system to prevent progress loss due to game freezes and crashes.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1164801111",
-        "name": "AutoSleep Track Sleep on Watch",
-        "url": "https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Alarms no longer work in ios26 and the developer has not addressed the issue.",
-                "date": "2025-09-27",
-                "value": 15,
-                "potential_idea": "Implement a robust push notification and background refresh system for alarms to ensure reliability across iOS versions.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Even though I\u2019ve unsubscribed it still charges for the subscription. Beware that you will not be able to cancel.",
-                "date": "2025-09-27",
-                "value": 18,
-                "potential_idea": "Implement a clear and easily accessible 'unsubscribe' or 'cancel subscription' button with immediate confirmation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Does not work since the latest update. Horrible timing since apple just buffed up the Health app and I\u2019m just going to switch to the native Health app.",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "Develop an app or feature that seamlessly integrates with Apple Health, offering enhanced functionality or unique insights not found in the native app, to retain users who might otherwise switch.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Used to be my favorite app to track sleep, now it never works. Constantly gives an error with zero info. Delete app and redownload, it\u2019ll work for a day. Then back to an error every day after that. Rinse and repeat. All the info shows up fine in the health app.",
-                "date": "2025-09-23",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and logging for the sleep tracking feature to provide users with actionable insights when issues arise, ensuring consistent functionality.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Why is this app no longer available on Apple Watches?",
-                "date": "2025-09-22",
-                "value": 60,
-                "potential_idea": "Develop a companion mobile app with integrated Apple Watch support for users who miss the convenience of wearable notifications and interactions.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "After years of good syncing history, suddenly syncs about only 1/3 of days. iOS issue perhaps? Disturbing at best.",
-                "date": "2025-09-21",
-                "value": 10,
-                "potential_idea": "Implement an advanced sync diagnostic tool that helps users identify and resolve syncing issues within the app.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1581140954",
-        "name": "Noir - Dark Mode for Safari",
-        "url": "https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "When you enable this is says it can read and alter what\u2019s plinth screens including passwords and cards",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement a transparent and easily accessible privacy dashboard explaining exactly what app permissions mean and what data is accessed.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "Doesn\u2019t work on in-app versions of Safari and the \u201ccontact us\u201d section in the app doesn\u2019t even bother to load an email address when it opens the email app. Waste of money.",
-                "date": "2025-09-26",
-                "value": 15,
-                "potential_idea": "Implement robust compatibility for in-app browser usage and ensure the 'Contact Us' feature reliably opens the email client with pre-filled information.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "\u62c5\u5fc3\u6570\u636e\u5b89\u5168\u95ee\u9898\uff0c\u7533\u8bf7\u9000\u6b3e\u4e0d\u901a\u8fc7\uff0c\u90a3\u5c31\u5dee\u8bc4\u55bd\uff5e",
-                "date": "2025-09-09",
-                "value": 65,
-                "potential_idea": "Implement a clear and straightforward refund process with an upfront explanation of eligibility criteria to address user concerns about data security and refund denial.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 2,
-                "review": "Noir works flawlessly on Safari proper. Unfortunately, it doesn\u2019t work when Safari is launched with an app. For example, clicking a link in an X post, Safari slides open, but no noir.",
-                "date": "2025-07-02",
-                "value": 45,
-                "potential_idea": "Enable Noir functionality within Safari views launched from within other applications to ensure consistent ad-blocking across all contexts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "I've had noir for years and just realized how good it really is!!",
-                "date": "2025-06-13",
-                "value": 5,
-                "potential_idea": "Implement an 'onboarding tips' section for new users in the Noir app to highlight its underappreciated features.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 2,
-                "review": "Appreciate the dark mode but don\u2019t trust the app. Understand it needs access to change darkness but it shouldn\u2019t be asking for access to a password manager. Didn\u2019t even visit that website. Was browsing the news when it asked. Very suspect. Feels like data mining/major invasion for a paid app. Deleting.",
-                "date": "2025-04-11",
-                "value": 75,
-                "potential_idea": "Implement robust permission request explanations and contextualize access requirements within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 2,
-                "review": "Update 3/27/25: I really appreciate the devs responding and I also really really liked the app (as you can see from my crazy long review below), but I had to eventually un-install it a from my shortcuts a few days after DL.    \n\nWhen I had it installed (I have an iPhone 15 pro max, so not a old-ish iPhone btw. Also I use safari as my phone Internet browser) web pages would not load correctly. I would have to re-load the web pages pretty much all the time or sometimes re-loading wouldn\u2019t work and everything on the page would just look wonky. I really wanted this to work because like I said in my review, I have light sensitivity & I prefer my phone to be on dark mode (I can read everything better and it doesn\u2019t hurt my eyes so much) and some websites are now having options to be able to change to dark mode or will automatically change if that is your phones settings. But the majority don\u2019t have that yet so their background will be white. I have \u201cnight shift\u201d turned on for websites like that, but sometimes it\u2019s not enough and still will hurt my eyes/give me a headache. \n\nAnyways, it just didn\u2019t work for me. I had to un-install it because I was getting too frustrated with having to re-load sites, sites looking super weird and sites crashing all the time. I wasn\u2019t really sure what was going wrong but I thought maybe it had something to do with the noir extension and as soon as I turned it off safari started working fine. \nBummed!\n\u2014\u2014\u2014-\n\nJust purchased the app and I felt like I had to write a review to tell the devs thank you! I have really bad photophobia/light sensitivity, especially in the evening & at night, that causes super bad headaches and makes my eyes ache and hurt. I switch anything I can to dark mode, night shift etc. I even sometimes wear these goofy light sensitivity glasses (they block specific wavelengths of light). For a long time now I was so annoyed I couldn\u2019t change all of safari on dark mode (a few websites I could but that\u2019s it). I found this app randomly tonight and immediately bought and downloaded it. The instructions to install it on safari were very clear and I had it up and running in just a few minutes. The app also has other colors/themes you can choose besides just black which I thought was pretty cool if someone wants to change it to sepia instead or something. Also the app itself looks really nice and I thought for what it does I would have paid more than $3 for it so I appreciate the devs for keeping it at that price. Anyways, ty to the devs for making this!!",
-                "date": "2025-03-29",
-                "value": 75,
-                "potential_idea": "Develop an integrated dark mode feature for Safari that automatically applies a dark theme to all websites, even those without native dark mode support, and offers customizable color options.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "Absolutely ridiculous I have to buy it once for my phone and s0end another $4 to have a Safari extension for my MacBook. I regret buying it.",
-                "date": "2025-01-09",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1400579543",
-        "name": "imo video calls and chat HD",
-        "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Useless app, can\u2019t add anyone . Emailed support , no response ! It\u2019s a scam .",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement a robust user profile and connection system with reliable support channels to foster community building within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Now they are scamming even adds showing and country not changing",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement a robust mechanism to verify app functionality across different regions and prevent deceptive ad practices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "There are tons on messenger app, why is this one limited to US and Canada numbers ?!?",
-                "date": "2025-09-27",
-                "value": 55,
-                "potential_idea": "Expand the mobile app's functionality to support international phone numbers beyond the US and Canada.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "\u041d\u0435 \u0441\u0442\u043e\u0438\u0442 \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u0434\u0435\u043d\u0435\u0433",
-                "date": "2025-09-27",
-                "value": 15,
-                "potential_idea": "Offer a free tier or a more generous trial period to demonstrate the app's value before users commit to a purchase.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Keeps telling me my phone number is invalid, but my phone number is valid and real",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Implement robust phone number validation that provides specific error messages for common formatting issues, rather than a generic 'invalid' message.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "I can\u2019t see international contacts",
-                "date": "2025-09-20",
-                "value": 12,
-                "potential_idea": "Add functionality to an app that allows users to view and manage international contacts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Everyone is using the free imo, but this paid version from the US can't connect with friends at all! You must change your Apple ID region to use it. This imo HD is fake!!",
-                "date": "2025-09-18",
-                "value": 15,
-                "potential_idea": "Develop a cross-region, authenticated version of imo HD that allows users to connect with friends regardless of their Apple ID region.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "This app is a waste of money.",
-                "date": "2025-09-17",
-                "value": 10,
-                "potential_idea": "The app needs a clear value proposition and demonstrable benefits to justify its cost.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "IMO keeps banning accounts unfairly for no valid reason, even when users are just having normal conversations with friends. This is extremely frustrating and unprofessional.\n\nWhat makes the situation worse is that there is no phone number or direct support email to contact them. Users are left with no way to solve their issues properly.\n\nI do not recommend this app until they fix these problems and provide real customer support.",
-                "date": "2025-09-16",
-                "value": 75,
-                "potential_idea": "Implement a clear and accessible user appeal process for account bans, coupled with direct customer support channels (phone or email) to resolve user issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Regret",
-                "date": "2025-09-13",
-                "value": 10,
-                "potential_idea": "Implement a 'undo last action' feature to allow users to revert unintended changes.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Attention overseas users! \nThis US version cannot make international calls. You must change your account region to use the official version. YouTube has tutorials.",
-                "date": "2025-09-11",
-                "value": 75,
-                "potential_idea": "Enable international calling capabilities within the US version of the app for overseas users without requiring an account region change.",
-                "tags": [
-                    "bug",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "This app does not allow to call any number outside United States. So save your money.",
-                "date": "2025-09-09",
-                "value": 15,
-                "potential_idea": "Enable international calling functionality within the app.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "It doesn\u2019t see all contacts from my list. When I purchased the app it didn\u2019t say my phone version supposed to be 9 or later. It doesn\u2019t work for me. What should I do now?",
-                "date": "2025-09-08",
-                "value": 15,
-                "potential_idea": "The app should clearly display its minimum version requirements before purchase and offer a clear support pathway for users whose devices do not meet these requirements, including potential refunds or troubleshooting.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Paid for nothing! I wish I would read other reviews.",
-                "date": "2025-09-08",
-                "value": 15,
-                "potential_idea": "Implement a free trial period for premium features to allow users to evaluate value before purchasing.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "This is a scam. I paid $5 for it, and I can\u2019t talk to anyone outside US. Scam.",
-                "date": "2025-09-07",
-                "value": 18,
-                "potential_idea": "Implement international calling plans or unlock the app for global users to address user frustration with regional restrictions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "\u0421\u043a\u0430\u0447\u0430\u043b\u0430 \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0438\u0441\u043a\u0430\u043b\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u043f\u043e\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u043c\u0430\u043c\u043e\u0439. \u042f \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435, \u043e\u043d\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0441\u0441\u044b\u043b\u043a\u0438 \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0441 2\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432 \u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442. \u041e\u0447\u0435\u043d\u044c \u0436\u0430\u043b\u044c",
-                "date": "2025-09-06",
-                "value": 65,
-                "potential_idea": "Implement a robust international contact discovery and invitation system to facilitate cross-border communication for expatriates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "It says free but why does it ask for $4.99 to download the app or is it scam?",
-                "date": "2025-09-06",
-                "value": 15,
-                "potential_idea": "Clearly label in-app purchases or download costs to avoid user confusion and perceived scams.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "this is useless app and please don't purchase it if you are looking to connect with your family nd friends outside US",
-                "date": "2025-09-04",
-                "value": 65,
-                "potential_idea": "Develop a mobile app specifically designed for seamless and cost-effective international communication, allowing users outside the US to easily connect with family and friends.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "I want to use this imo app, but it is expensive and costs $4.99. I have to change my Apple ID country and region to download another imo app. Now it works.\nJas",
-                "date": "2025-09-03",
-                "value": 15,
-                "potential_idea": "Offer a subscription-based option for premium features within the IMO app to avoid high upfront costs or regional restrictions.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "\u0421\u043a\u0430\u0447\u0430\u043b \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438 \u0437\u0430\u043f\u043b\u0430\u0442\u0438\u043b \u043e\u043a\u043e\u043b\u043e $5. \u041d\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c,\u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0438\u0448\u0435\u0442 \u0447\u0442\u043e \u043d\u0435 \u0432\u0435\u0440\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440.  \u041d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0437 \u043f\u0438\u0448\u0443 \u0442\u043e\u0447\u043d\u0435\u0435 \u043d\u043e\u043c\u0435\u0440 , \u043d\u043e \u043e\u0442\u0432\u0435\u0442\u0430 \u0442\u0430\u043a\u0436\u0435  \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430 \u043d\u0438\u0447\u0435\u0433\u043e \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e \u043d\u0435\u0442!!!",
-                "date": "2025-08-31",
-                "value": 15,
-                "potential_idea": "Implement robust phone number validation and error handling for user registration to prevent users from being blocked due to incorrect input.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Not working",
-                "date": "2025-08-31",
-                "value": 10,
-                "potential_idea": "Create a robust bug reporting and debugging tool within the app to allow users to easily report issues and provide debugging information.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u0639\u0644\u0642 \u0639 \u0627\u0644\u0628\u0644\u062f \u0627\u0645\u0631\u064a\u0643\u0627. \u0648\u0627\u0646\u0627 \u0645\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0648\u0631\u0642\u0645\u064a \u0633\u0639\u0648\u062f\u064a. \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u062b\u0628\u062a \u0639\u0644\u0649 \u0639\u0644\u0645 \u0627\u0645\u0631\u064a\u0643\u0627 \u0648\u0631\u0645\u0632 \u0627\u0644\u062f\u0648\u0644\u0647. \u0648\u0631\u0627\u0627\u0627\u0641\u0636 \u064a\u062a\u063a\u064a\u0631 \u0645\u0639\u0627\u064a",
-                "date": "2025-08-24",
-                "value": 15,
-                "potential_idea": "Allow users to manually select their country code and flag, overriding any automatic detection, to resolve regional display issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "This paid version doesn't work at all! We need to switch the Apple ID region to another country to download the free official version",
-                "date": "2025-08-19",
-                "value": 18,
-                "potential_idea": "Allow users to access paid features or a premium version without being restricted by Apple ID region settings.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Ya cambi\u00e9 de ubicaci\u00f3n pero no me dejan poner mi nuevo tel\u00e9fono de mi nueva regi\u00f3n",
-                "date": "2025-08-08",
-                "value": 70,
-                "potential_idea": "Allow users to update their phone number and region even after a geographical relocation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Yes, the official imo is free for international calls. If it's not showing up, changing your Apple ID region (guides on YouTube can help) usually solves it.",
-                "date": "2025-08-06",
-                "value": 45,
-                "potential_idea": "Integrate an in-app guide or direct system setting adjustment for users experiencing region-specific feature limitations in imo.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "If your App Store only shows paid versions, try changing your Apple ID's region to find and download the correct one.",
-                "date": "2025-07-29",
-                "value": 5,
-                "potential_idea": "Implement an in-app region selector that automatically guides users to the correct app store listing based on their current region.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "2. Comment content: (Please don't keep this when commenting)\n\nTitle:  The free imo app exists! \n\nContent:  Yes, the official imo is free for international calls. If it's not showing up, changing your Apple ID region (guides on YouTube can help) usually solves it.",
-                "date": "2025-07-28",
-                "value": 12,
-                "potential_idea": "Develop an in-app guide or tutorial to help users locate and enable free international calling features for apps like imo, specifically addressing region-related issues.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "The\u00a0official\u00a0imo app is free. If you only see paid versions, you likely need to switch your App Store region to find the correct one.",
-                "date": "2025-07-15",
-                "value": 15,
-                "potential_idea": "Implement a region selection or country code input within the app to help users find the correct free version based on their location.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "I can\u2019t use as like WhatsApp",
-                "date": "2025-07-13",
-                "value": 18,
-                "potential_idea": "Implement a chat feature similar to WhatsApp with real-time messaging, media sharing, and group functionality.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 2,
-                "review": "IMO had",
-                "date": "2025-07-09",
-                "value": 0,
-                "potential_idea": "This review is too short and lacks enough information to generate a meaningful potential idea or value assessment.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "The US region setting on my Apple ID prevents this paid version from working. Change the country to download the free version.",
-                "date": "2025-07-08",
-                "value": 15,
-                "potential_idea": "Allow users to override their Apple ID region settings to access app versions or features restricted by their current region.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Because my Apple ID is set to the US, this paid version doesn't work. \r\nI found a guide on YouTube on how to change the Apple ID region to use the free version",
-                "date": "2025-07-03",
-                "value": 35,
-                "potential_idea": "Allow users to switch app regions or access region-specific content without requiring a full Apple ID region change.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Free imo works globally; this paid US version fails completely. Find YouTube guides on changing your Apple ID region to use the free version.",
-                "date": "2025-06-29",
-                "value": 12,
-                "potential_idea": "Implement a premium tier for the app that offers enhanced features or support, distinct from a regional restriction model.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "\u0644\u0627 \u064a\u0639\u0645\u0644",
-                "date": "2025-06-25",
-                "value": 5,
-                "potential_idea": "Improve app stability and performance to ensure core functionality works reliably.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "It only works if you have a number from us. I live in germany and I can not use my number to login! Say in your app that it is only for us users! You don\u2019t even get 1 star!",
-                "date": "2025-06-22",
-                "value": 55,
-                "potential_idea": "Clearly state app's regional limitations upfront to avoid user frustration. For example, display supported countries or regions prominently on the app store page and during onboarding.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "My Apple ID defaults to the US region, making this paid version incompatible. To download the free version, you'll need to switch your Apple ID region to another country.",
-                "date": "2025-06-19",
-                "value": 75,
-                "potential_idea": "Allow users to select their preferred region for in-app purchases, irrespective of their Apple ID region.",
-                "tags": [
-                    "niche demand"
-                ]
-            }
-        ]
-    },
-    {
         "id": "586149216",
         "name": "Monash FODMAP Diet",
         "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=2",
@@ -12380,6 +11626,594 @@
                 "date": "2025-02-17",
                 "value": 0,
                 "potential_idea": "Analysis failed.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "640364616",
+        "name": "Terraria",
+        "url": "https://apps.apple.com/us/app/terraria/id640364616?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "I can\u2019t even load into this game when I click on the app. My screen goes pitch black",
+                "date": "2025-09-27",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and load time optimization to prevent app crashes and black screen issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "The game has become completely unplayable on iPad with Magic Keyboard, might be a OS issue but super unfortunate. 5 star game, just leaving this hopping for an update.",
+                "date": "2025-09-24",
+                "value": 18,
+                "potential_idea": "Develop an optimized game mode or specific control scheme for tablet users with external keyboards to ensure seamless gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Game plays horrible compared to how it did 10 years ago. Mines the wrong blocks and places blocks in random places that you aren\u2019t aiming for no reason and is just overall horrible compared to how it was. Why did you have to ruin it? Because this version is cheaper than the Xbox or pc version?",
+                "date": "2025-09-23",
+                "value": 75,
+                "potential_idea": "Revert the mobile game mechanics to their original, more accurate state from 10 years ago, or offer an option to switch between the old and new control schemes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "Why are the controls different! I don\u2019t understand these new controls. I played like 10 years ago and I could just hold down the attack button and it would auto attack. I had an inventory on the bottom and now it\u2019s a bag at the top. Not sure if there\u2019s a way to layout it all out so it\u2019s like the old controls but idk if I care enough to watch a yt vid to figure it out. I was hoping it\u2019d be the same feeling",
+                "date": "2025-09-21",
+                "value": 78,
+                "potential_idea": "Offer an option to revert to classic game controls and UI layout for returning players.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "Its been 3 years since 1.4.5 was announced and literally nothing has happened. i quit dont get this game if you want to wait 10 years for the next update.",
+                "date": "2025-09-13",
+                "value": 55,
+                "potential_idea": "Implement a transparent roadmap for app development and regular update announcements to manage user expectations.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "The controls are so bad I could only play for about 30min. Probably a lot better on PC.",
+                "date": "2025-08-21",
+                "value": 70,
+                "potential_idea": "Implement a customizable virtual joystick and button layout for mobile gaming to improve touch controls.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Super clunky experience for new players. maybe if better for experienced players. can\u2019t imagine its great",
+                "date": "2025-07-31",
+                "value": 70,
+                "potential_idea": "Implement a guided onboarding tutorial for new users to navigate complex features and improve the initial user experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Was almost endgame and working on beating the moon lord with a master character but now all my progress is gone",
+                "date": "2025-07-14",
+                "value": 90,
+                "potential_idea": "Implement robust cloud save/backup functionality for mobile games to prevent data loss, especially for challenging game modes or long-term progress.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "\u0421\u0430\u043c\u043e\u0435 \u043d\u0435\u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u043d\u0441\u043e\u0440\u0435 \u044d\u0432\u0435\u0440)",
+                "date": "2025-07-13",
+                "value": 65,
+                "potential_idea": "Introduce customizable gesture controls for improved in-app navigation and interaction.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Terrible controls bring back old ones!",
+                "date": "2025-07-13",
+                "value": 75,
+                "potential_idea": "Allow users to switch between old and new control schemes in the app.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "763692274",
+        "name": "Grand Theft Auto: San Andreas",
+        "url": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Cuando me uno el juego no me carga y me saca y tengo que instalar y desinstalar",
+                "date": "2025-10-02",
+                "value": 75,
+                "potential_idea": "Implement robust error handling and recovery mechanisms to prevent game crashes and persistent installation/uninstallation loops for users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "Al manejar tiende a irse a la derecha el volante\nYo juego con los botones tactiles, no es por una palanca vieja de control \ud83c\udfae pagu\u00e9 7 d\u00f3lares para que??? Para que al subirme a los carros y hacer las misiones solo tenga que estar corrigiendo el volante",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement an auto-correction or auto-steering assistance feature for mobile racing games that compensates for persistent steering drift when using touch controls.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "i love this game without a doubt in my mind but i dont appreciate buying it when i closed the app and opened it back up it wouldn\u2019t load me in, it would keep closing the app entirely!",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement robust session management and error handling to prevent app crashes upon reopening, ensuring a seamless return to the user's game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "It has a glitch in it! \nOn spray Tags",
+                "date": "2025-09-19",
+                "value": 10,
+                "potential_idea": "Implement a robust error handling and reporting system for specific in-app features like 'spray tags' to automatically log and potentially resolve glitches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "\u0627\u0644\u0644\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u062a\u062e\u0631\u062c \u0644\u0645\u0627 \u0627\u062f\u062e\u0644 \u0641\u064a\u0647\u0627",
+                "date": "2025-09-14",
+                "value": 5,
+                "potential_idea": "Implement robust error handling and crash reporting to prevent the app from crashing when users try to launch it.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Tuve que borrar el proceso y comenzar desde cero, el juego est\u00e1 teniendo problema se congela mucho",
+                "date": "2025-09-11",
+                "value": 70,
+                "potential_idea": "Implement a robust system for saving game progress automatically and frequently to prevent data loss due to game freezes.",
+                "tags": []
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "I loved playing this game around 2020 it was my favorite but now there are no more pedestrians roaming around and I really loved the mixtape feature which was also sadly removed.  Hopefully this game will fix this issues.  I know the mixtape one is pretty minor and doesn\u2019t affect gameplay but it was still a nice feature.",
+                "date": "2025-09-07",
+                "value": 60,
+                "potential_idea": "Reintroduce and enhance the 'mixtape' feature for users to create and share custom audio playlists within the game, and optionally bring back dynamic pedestrian populations.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "IT CRASHES WHEN I TAP ON THE RESUME BUTTON",
+                "date": "2025-09-07",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to identify and fix critical bugs like the one experienced with the resume button.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Rockstar if you see this, please fix this game, every time I drive cars go super fast and it blows up my car, you also need to fix the problem of not having any ambulances or firetrucks spawn, and one more thing when gang wars are active after Doberman or Homecoming the dialogue is disabled. Please fix these issues",
+                "date": "2025-08-21",
+                "value": 18,
+                "potential_idea": "Implement a car handling adjustment for driving mechanics that prevents vehicles from accelerating uncontrollably and exploding, and ensure emergency vehicles and gang war dialogue function correctly to improve gameplay immersion and stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Tons of glitches, was fine before last update. FIX IT for goodness sake.",
+                "date": "2025-08-19",
+                "value": 15,
+                "potential_idea": "Implement a robust rollback feature to revert to a previous stable version after problematic updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "Been playing for a while now managed to accumulate millions and just gambling, but once I did that the game itself started bugging out, have been unable to play it",
+                "date": "2025-08-17",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and debugging tools within the app to prevent game-breaking bugs, especially after users accumulate significant in-game progress.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Absolutely furious. I have been playing and enjoying the game for some time. Just the other day, when I tried to launch my saved game, the app abruptly quit during the loading screen. Thinking it was a fluke, I tried again. And again. Days later, it\u2019s still crashing during load. I\u2019m furious. I didn\u2019t create a rockstar account, so nothing was backed up to the cloud. What a disappointment.",
+                "date": "2025-08-13",
+                "value": 18,
+                "potential_idea": "Implement robust cloud saving and backup options for game progress to prevent data loss and ensure seamless game continuation across devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Great emulation of the original, but now the app has stoped working on my iPhone 16. I see it\u2019s not \u201cofficially\u201d supported\u2026 but wth bro you\u2019ve gotta update so it runs on newer phones!!",
+                "date": "2025-08-10",
+                "value": 70,
+                "potential_idea": "Ensure app compatibility and functionality on the latest iPhone models to prevent user disruption.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1164801111",
+        "name": "AutoSleep Track Sleep on Watch",
+        "url": "https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "This hasn\u2019t kept my nightly sleep record in months",
+                "date": "2025-10-02",
+                "value": 55,
+                "potential_idea": "Implement robust data synchronization and backup for sleep tracking data to prevent loss.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Alarms no longer work in ios26 and the developer has not addressed the issue.",
+                "date": "2025-09-27",
+                "value": 15,
+                "potential_idea": "Implement robust background alarm functionality that is resilient to OS updates and remains reliable across different iOS versions.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Even though I\u2019ve unsubscribed it still charges for the subscription. Beware that you will not be able to cancel.",
+                "date": "2025-09-27",
+                "value": 95,
+                "potential_idea": "Implement a clear, multi-step confirmation process for subscription cancellations, including an immediate confirmation email and an easy way to verify cancellation status within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Does not work since the latest update. Horrible timing since apple just buffed up the Health app and I\u2019m just going to switch to the native Health app.",
+                "date": "2025-09-25",
+                "value": 45,
+                "potential_idea": "Implement robust background syncing and data backup for offline access, ensuring continued functionality even after app updates or device issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Used to be my favorite app to track sleep, now it never works. Constantly gives an error with zero info. Delete app and redownload, it\u2019ll work for a day. Then back to an error every day after that. Rinse and repeat. All the info shows up fine in the health app.",
+                "date": "2025-09-23",
+                "value": 15,
+                "potential_idea": "Implement a robust error reporting and automated troubleshooting system that proactively identifies and resolves recurring technical issues within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Why is this app no longer available on Apple Watches?",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Restore and enhance the mobile app's functionality on Apple Watches.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "After years of good syncing history, suddenly syncs about only 1/3 of days. iOS issue perhaps? Disturbing at best.",
+                "date": "2025-09-21",
+                "value": 70,
+                "potential_idea": "Implement a robust, real-time synchronization status indicator and troubleshooting guide within the app to clearly communicate sync success/failure and offer self-help solutions.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1581140954",
+        "name": "Noir - Dark Mode for Safari",
+        "url": "https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "When you enable this is says it can read and alter what\u2019s plinth screens including passwords and cards",
+                "date": "2025-09-30",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 25,
+                    "feasibility": 20,
+                    "total": 80
+                },
+                "potential_idea": "Implement a clear, accessible privacy dashboard that details exactly what data the app accesses and its purpose, with explicit user consent options for each permission.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "Doesn\u2019t work on in-app versions of Safari and the \u201ccontact us\u201d section in the app doesn\u2019t even bother to load an email address when it opens the email app. Waste of money.",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Implement a robust in-app browser compatibility check and a functional 'contact us' feature that automatically populates the email client.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "\u62c5\u5fc3\u6570\u636e\u5b89\u5168\u95ee\u9898\uff0c\u7533\u8bf7\u9000\u6b3e\u4e0d\u901a\u8fc7\uff0c\u90a3\u5c31\u5dee\u8bc4\u55bd\uff5e",
+                "date": "2025-09-09",
+                "value": 15,
+                "potential_idea": "Implement a clear and customer-friendly refund policy with an easily accessible refund request process for users concerned about data security.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Noir works flawlessly on Safari proper. Unfortunately, it doesn\u2019t work when Safari is launched with an app. For example, clicking a link in an X post, Safari slides open, but no noir.",
+                "date": "2025-07-02",
+                "value": 75,
+                "potential_idea": "Extend Noir's dark mode functionality to function within in-app browsers launched from other applications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "I've had noir for years and just realized how good it really is!!",
+                "date": "2025-06-13",
+                "value": 15,
+                "potential_idea": "Introduce a 'hidden gems' feature to highlight underappreciated functionalities or aspects of the app that long-time users might not be aware of.",
+                "tags": []
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Appreciate the dark mode but don\u2019t trust the app. Understand it needs access to change darkness but it shouldn\u2019t be asking for access to a password manager. Didn\u2019t even visit that website. Was browsing the news when it asked. Very suspect. Feels like data mining/major invasion for a paid app. Deleting.",
+                "date": "2025-04-11",
+                "value": 70,
+                "potential_idea": "Implement granular permission controls for the app, allowing users to explicitly deny access to sensitive data like password managers and providing clear explanations for requested permissions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Update 3/27/25: I really appreciate the devs responding and I also really really liked the app (as you can see from my crazy long review below), but I had to eventually un-install it a from my shortcuts a few days after DL.    \n\nWhen I had it installed (I have an iPhone 15 pro max, so not a old-ish iPhone btw. Also I use safari as my phone Internet browser) web pages would not load correctly. I would have to re-load the web pages pretty much all the time or sometimes re-loading wouldn\u2019t work and everything on the page would just look wonky. I really wanted this to work because like I said in my review, I have light sensitivity & I prefer my phone to be on dark mode (I can read everything better and it doesn\u2019t hurt my eyes so much) and some websites are now having options to be able to change to dark mode or will automatically change if that is your phones settings. But the majority don\u2019t have that yet so their background will be white. I have \u201cnight shift\u201d turned on for websites like that, but sometimes it\u2019s not enough and still will hurt my eyes/give me a headache. \n\nAnyways, it just didn\u2019t work for me. I had to un-install it because I was getting too frustrated with having to re-load sites, sites looking super weird and sites crashing all the time. I wasn\u2019t really sure what was going wrong but I thought maybe it had something to do with the noir extension and as soon as I turned it off safari started working fine. \nBummed!\n\u2014\u2014\u2014-\n\nJust purchased the app and I felt like I had to write a review to tell the devs thank you! I have really bad photophobia/light sensitivity, especially in the evening & at night, that causes super bad headaches and makes my eyes ache and hurt. I switch anything I can to dark mode, night shift etc. I even sometimes wear these goofy light sensitivity glasses (they block specific wavelengths of light). For a long time now I was so annoyed I couldn\u2019t change all of safari on dark mode (a few websites I could but that\u2019s it). I found this app randomly tonight and immediately bought and downloaded it. The instructions to install it on safari were very clear and I had it up and running in just a few minutes. The app also has other colors/themes you can choose besides just black which I thought was pretty cool if someone wants to change it to sepia instead or something. Also the app itself looks really nice and I thought for what it does I would have paid more than $3 for it so I appreciate the devs for keeping it at that price. Anyways, ty to the devs for making this!!",
+                "date": "2025-03-29",
+                "value": 70,
+                "potential_idea": "Develop an advanced dark mode browser extension that prioritizes seamless website rendering and offers customizable color themes beyond simple black inversion.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1400579543",
+        "name": "imo video calls and chat HD",
+        "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This is the scam.",
+                "date": "2025-10-02",
+                "value": 10,
+                "potential_idea": "Implement robust security measures and transparency features to build user trust and prevent perceptions of fraudulent activity.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It doesn\u2019t work for int contacts, it\u2019s not allowing to add contacts, nothing!",
+                "date": "2025-10-01",
+                "value": 15,
+                "potential_idea": "Implement robust contact integration that supports various contact types and allows seamless addition of new contacts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Useless app, can\u2019t add anyone . Emailed support , no response ! It\u2019s a scam .",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement a robust user invitation/connection system with responsive customer support to address core app functionality and user trust issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Now they are scamming even adds showing and country not changing",
+                "date": "2025-09-29",
+                "value": 10,
+                "potential_idea": "Implement a robust region/country selection feature with clear visual indicators and verification to prevent perceived 'scamming' related to ad content or pricing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "There are tons on messenger app, why is this one limited to US and Canada numbers ?!?",
+                "date": "2025-09-27",
+                "value": 70,
+                "potential_idea": "Expand the app's support to include international phone numbers beyond the US and Canada.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u041d\u0435 \u0441\u0442\u043e\u0438\u0442 \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u0434\u0435\u043d\u0435\u0433",
+                "date": "2025-09-27",
+                "value": 10,
+                "potential_idea": "Offer a free trial period for the app to allow users to evaluate its value before purchasing.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Keeps telling me my phone number is invalid, but my phone number is valid and real",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Implement a robust phone number verification system that provides clear error messages and potential solutions for invalid input.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I can\u2019t see international contacts",
+                "date": "2025-09-20",
+                "value": 12,
+                "potential_idea": "Implement a feature to display and manage international contacts within the app, including country code handling and search.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Everyone is using the free imo, but this paid version from the US can't connect with friends at all! You must change your Apple ID region to use it. This imo HD is fake!!",
+                "date": "2025-09-18",
+                "value": 15,
+                "potential_idea": "Develop a secure and region-agnostic paid version of the imo app that allows seamless global connections without requiring users to change their Apple ID region.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This app is a waste of money.",
+                "date": "2025-09-17",
+                "value": 15,
+                "potential_idea": "Develop a freemium version of the app with core features to attract a wider user base and demonstrate value before purchase.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "IMO keeps banning accounts unfairly for no valid reason, even when users are just having normal conversations with friends. This is extremely frustrating and unprofessional.\n\nWhat makes the situation worse is that there is no phone number or direct support email to contact them. Users are left with no way to solve their issues properly.\n\nI do not recommend this app until they fix these problems and provide real customer support.",
+                "date": "2025-09-16",
+                "value": 95,
+                "potential_idea": "Implement a clear, multi-channel customer support system with a dedicated appeals process for account bans.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Regret",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "An in-app feature that allows users to reverse or undo recent irreversible actions.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Attention overseas users! \nThis US version cannot make international calls. You must change your account region to use the official version. YouTube has tutorials.",
+                "date": "2025-09-11",
+                "value": 75,
+                "potential_idea": "Develop an international version of the app that supports users outside of the US for features like international calls.",
                 "tags": []
             }
         ]
