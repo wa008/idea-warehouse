@@ -581,49 +581,6 @@
         ]
     },
     {
-        "id": "1439262206",
-        "name": "Root Board Game",
-        "url": "https://apps.apple.com/us/app/root-board-game/id1439262206?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Root Board Game",
-                "rating": 2,
-                "review": "This game is super fun with amazing mechanics, but the AI plays this game dumber than an oscillating fan. If you want to simulate playing against people with intelligence of at least a rock, don\u2019t download this game. Just to the board game instead.",
-                "date": "2025-09-13",
-                "value": 70,
-                "potential_idea": "Introduce an advanced AI difficulty level in the game that offers a significantly more challenging and intelligent opponent for players seeking to test their skills.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Root Board Game",
-                "rating": 2,
-                "review": "I bought this on steam a few years ago, but the AI was so bad it was unplayable. I bought it again on iOS hoping things had improved and I would have a good game to play on my iPad. The AI is still unplayably bad. The AI will ignore a faction one turn from victory to attack the lowest scoring faction on the board (I get when Eyrie does it due to decree, this isn\u2019t that). How hard is it to program some priorities in to target leaders?",
-                "date": "2025-01-02",
-                "value": 70,
-                "potential_idea": "Enhance the AI's strategic decision-making by prioritizing targets based on their current victory progress and leadership proximity in strategy games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Root Board Game",
-                "rating": 2,
-                "review": "Either this game is racked with bugs or it has lots of crazy unwritten rules. For example,  when you\u2019re playing woodland appliance who knows why any faction can move to any other space but woodland appliance can only move to assigned spaces that the game decides? Think I\u2019m done with this. Recently the game designer had to publish a two volume set on all the esoteric rules of this game. So it\u2019s simple but not really it\u2019s as completed as D&D ?!  Ok I feel manipulati joined a game I can do",
-                "date": "2024-12-31",
-                "value": 18,
-                "potential_idea": "Integrate a dynamic in-game tutorial that progressively explains complex game mechanics and rules as the player encounters them, addressing common confusion points like faction movement restrictions.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
         "id": "6447262835",
         "name": "Super Farming Boy",
         "url": "https://apps.apple.com/us/app/super-farming-boy/id6447262835?uo=2",
@@ -671,552 +628,6 @@
                 "potential_idea": "Implement robust screen refresh and UI re-rendering logic to fix black screen issues when resuming from sleep.",
                 "tags": [
                     "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "578665578",
-        "name": "Threema. The Secure Messenger",
-        "url": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Add: search by email or phone number",
-                "date": "2025-08-15",
-                "value": 75,
-                "potential_idea": "Implement a contact search functionality within the app that allows users to find contacts by their email address or phone number.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "The best",
-                "date": "2025-07-07",
-                "value": 0,
-                "potential_idea": "N/A",
-                "tags": []
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Newer versions no longer allow to transfer data to another phone. I had \u2018ID EXPORT\u2019 enabled from previous phone switch which was a few years back. Obviously, the password is forgotten. After synching the phone to new iPhone I cannot remember the password. Exporting the ID into iCloud backup means, I need to restore it again (a couple hours of work). Super sad and bad usability.",
-                "date": "2025-06-01",
-                "value": 75,
-                "potential_idea": "Implement a secure and user-friendly password recovery or reset mechanism for account data transfers, allowing users to regain access without full data restoration.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Mesaj g\u00f6nderemiyorum kar\u015f\u0131 taraf mesajlar\u0131m\u0131 g\u00f6r\u00fcyor ama ben g\u00f6remiyorum",
-                "date": "2025-06-01",
-                "value": 75,
-                "potential_idea": "Implement robust real-time message sync and error handling to ensure users can both send and receive messages reliably.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "I love how I can record messages with my airpods and put my phone in my pocket while continuing to record. But it does happen from time to time thst rhe recording stops suddenly. Or it doesn\u2019t remember the recording and gives an error message and then it disappears. This is so frustrating, especially when you do longer messages. Please finally fix this!",
-                "date": "2025-01-03",
-                "value": 75,
-                "potential_idea": "Implement robust background recording with reliable auto-save and error recovery for longer messages to prevent data loss.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 2,
-                "review": "I\u2019ve had the new IPhone 16 pro max for weeks now, and I have never been able to send a video on it. Worked fine on my IPhone 13. Now whenever I try to send a video whether I take the video in Threema, or on my phones camera app, I get an error saying \u201ccould not load the video, please restart the app and try again\u201d. I have closed it and reopened, restarted my phone, even deleted Threema and re-installed it.",
-                "date": "2024-10-16",
-                "value": 18,
-                "potential_idea": "Implement robust error handling and logging for video sending failures on newer iPhone models to diagnose and resolve the issue.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 2,
-                "review": "Can\u2019t respond to individual messages with emoji reactions. Doesn\u2019t support a .gif keyboard. Can\u2019t pin individual messages that are important to the top in group messages.",
-                "date": "2024-10-08",
-                "value": 60,
-                "potential_idea": "Enable users to pin important messages and use GIF keyboards within group chats.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "There should be an option for auto deletions within days not week or month!!!",
-                "date": "2024-10-04",
-                "value": 75,
-                "potential_idea": "Implement a daily auto-deletion option for app content, alongside existing weekly and monthly options.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Haven\u2019t seen much good things added in terms of features or bugfixes in a looooong time. \n\n- sending media from Photos app requires you to wait for the media to be encoded before you can add captions. You need to keep the send dialogue open until everything is sent, otherwise you loose your captions and you have to share from pictures again\n- when sending multiple images/videos and one fails (eg network timeout), all media \u201cafter\u201d that are lost and you have to share again from Photos app. \n- randomly people can\u2019t receive/send messages for non-obvious reasons. No error messages whatsoever. We found out by accident when speaking IRL. Trusting the other\u2019s Threema IDs resolved it\n- extremely limited set of reaction emojis. Why can\u2019t I use the full emoji pallet to express my emotions\n- can\u2019t port data backups from android to iOS???\n- when you are offline for some time and get online again you are spammed by notifications, instead of Threema batching them in a single notification/one per chat\n\nThreema for Desktop is the only good addition that I\u2019ve seen in 5+ years. \n\nI don\u2019t see a reason to pay for Threema when there are better alternatives (Signal being the obvious one)",
-                "date": "2024-05-10",
-                "value": 17,
-                "potential_idea": "Implement background media encoding and resumable multi-file uploads to prevent data loss and improve user experience for sending media.",
-                "tags": [
-                    "no update for long time",
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 2,
-                "review": "Its been over two months now that Threema has stopped working with the notifications! I have turned off/on my phone multiple times, and the app is up to date on the app store\ud83d\ude21. This is very annoying given that i paid money for this app",
-                "date": "2023-12-30",
-                "value": 18,
-                "potential_idea": "Implement a robust in-app troubleshooting guide for common issues like notification failures to guide users through self-resolution before seeking support.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1029932207",
-        "name": "Papa's Cupcakeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-cupcakeria-to-go/id1029932207?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "Graphics are Very blurry",
-                "date": "2025-03-16",
-                "value": 15,
-                "potential_idea": "Improve graphics rendering quality to reduce blurriness and enhance visual clarity for all users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "I hate the quality it\u2019s horrible and so blurry! Fix this nowww",
-                "date": "2024-10-11",
-                "value": 15,
-                "potential_idea": "Implement an image quality enhancement feature that automatically sharpens and clarifies blurry photos within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I guess I should\u2019ve seen when it was last updated and assumed, but I really want a refund on this app so if anyone knows how I can do that pls lmk. It\u2019s just not worth it. So much better on computer and kind of infuriating and less quality on phone. Makes me sad\u2026 I want my money back\u2026.. even though I\u2019m a devout papas cupcakeria fan",
-                "date": "2024-10-07",
-                "value": 16,
-                "potential_idea": "Implement a user-friendly in-app refund request feature for users who find the mobile experience unsatisfactory.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "As soon as I opened the app it was all fuzzy and low quality. I have six other Papa's games on this same device and none of them look bad at all.",
-                "date": "2024-08-17",
-                "value": 15,
-                "potential_idea": "Implement an automatic graphics quality check and optimization feature to ensure consistent visual fidelity across devices and Papa's games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "Why is it blurry",
-                "date": "2024-08-17",
-                "value": 15,
-                "potential_idea": "Implement an image quality setting or troubleshooting guide to address user concerns about blurriness.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "The quality goes crazy for it costing 2.13 \ud83d\ude2d Especially when I don\u2019t get the options I get with the other games.",
-                "date": "2024-05-06",
-                "value": 75,
-                "potential_idea": "Implement a feature that synchronizes unlocked options and content across all games within the app's ecosystem, especially for premium users.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "Hey flipline Studios so it has come to my attention that u didn\u2019t fulfill my request to put me as a pro? That has made alpha very angry 2 v 1 \ud83d\udc7f",
-                "date": "2024-05-04",
-                "value": 15,
-                "potential_idea": "Implement a 'verified pro' status or a clear hierarchy system for users within the app to acknowledge and differentiate advanced players or community contributors.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "Low quality, bad app, i need a refund",
-                "date": "2024-04-16",
-                "value": 15,
-                "potential_idea": "Develop a transparent refund process for dissatisfied app users, clearly outlining eligibility and steps.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I don\u2019t  know if I got the old version but it won\u2019t let my custom\nMy own avatar",
-                "date": "2024-03-06",
-                "value": 65,
-                "potential_idea": "Allow users to create and upload custom avatars to personalize their profiles within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "As a child I absolutely adored this papa\u2019s game it was my absolute favorite and it was actually the only one I would play. And I was so exited to see I could download the game and play now that I\u2019m older, nevertheless I am sad to say that I am disappointed with the game I received. The mobile game is very outdated and seems to be like one of the older files. I would really like to see this game be updated to a more recent file because unlike the computer game you can\u2019t customize your own character and the graphics are very underwhelming. This is no hate to the game just an attempt to see a more developed version. Thank you for your time and I hope this can be taken into consideration.",
-                "date": "2024-02-10",
-                "value": 75,
-                "potential_idea": "Update the mobile game with character customization options and enhanced graphics to match modern standards, preserving the nostalgic appeal.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "i hated it give me my money back",
-                "date": "2023-12-11",
-                "value": 15,
-                "potential_idea": "Implement a more transparent and user-friendly refund process with clear eligibility criteria.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I\u2019ve been playing this game on my computer on some free website and let me tell you IM IN LOVE. I was so excited to get the app so i could play it on my phone/iPad. I was a little surprised that it cost money since the version I played on the computer was free but since I loved the game so much I decided to buy it. Very much regretting it. It\u2019s rlly nothing like the website. Same concept but overall quality is horrible. I do not recommend as it\u2019s not worth the money.",
-                "date": "2023-11-30",
-                "value": 75,
-                "potential_idea": "Develop a high-quality mobile port of popular free web-based games, prioritizing feature parity and user experience to justify a premium price point.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "THE QUALITY IS HORRIBLE AND THE SOUND/MUSIC SOUNDS DISTORTED",
-                "date": "2023-11-18",
-                "value": 75,
-                "potential_idea": "Implement audio quality controls and advanced audio processing to mitigate distortion.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "Can the game at least get an update?? It needs more mini games and prizes , everytime you win a prize , you get the same prize over and over and it has the same mini games, it\u2019s not fun like it used to be and it be cool if we can create your  own character like the HD one",
-                "date": "2023-11-15",
-                "value": 75,
-                "potential_idea": "Introduce a system for generating more diverse and unique prizes, along with character customization options, to enhance replayability and player engagement.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "I played the computer version a lot so I thought  let me download it on my phone.When you first open the app everything\u2019s blurry. Then you can\u2019t customize your character. And the mechanics aren\u2019t the same either it\u2019s just a worse quality version of the game and I wish I didn\u2019t spend 2 dollars on it.",
-                "date": "2023-09-30",
-                "value": 55,
-                "potential_idea": "Improve graphical fidelity and add character customization options to the mobile version of the game to better match the computer version.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "1 - The game hasn\u2019t been updated in 4 years. I really doubt it will ever receive a update from the developers. It\u2019s abandoned quite literally.\n2 - The Quality is so bad. The game audio sounds terrible, the graphics is very low quality and slow. Gameplay is buggy too. \n3 - Not advanced. Does not allow you to customize your own character. \n\nI requested a refund. But please save your little cents and do not purchase this game. It is so bad!",
-                "date": "2023-09-10",
-                "value": 65,
-                "potential_idea": "Develop a mobile game with high-quality graphics, immersive audio, and robust character customization options, addressing common user complaints of outdated and low-fidelity mobile games.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "the quality is really bad and so pixelated",
-                "date": "2023-09-10",
-                "value": 15,
-                "potential_idea": "Implement image upscaling or resolution enhancement features to improve visual quality within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "It doesn\u2019t work when u pour the chocolate flavor I deleted it n downloaded it again n still doesn\u2019t work",
-                "date": "2023-07-30",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and specific troubleshooting guides for users encountering issues with particular flavor profiles or ingredient combinations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "I was hoping to play this game to be updated but it\u2019s quality is so pixelated and old school to not have a assistant. Customers movement is so low quality too. Gameplay works fine but I wouldn\u2019t like playing a game so blurry.",
-                "date": "2023-06-08",
-                "value": 15,
-                "potential_idea": "Implement a graphical enhancement option to improve visual quality and reduce pixelation, along with optional in-game visual assistance for movement.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "The app is not what I thought it was I need a refund because the quality is horrible",
-                "date": "2023-05-07",
-                "value": 18,
-                "potential_idea": "Implement a clear onboarding process with previews or a trial period to manage user expectations.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I loved this game as a kid and wanted to play it on my iPad. I already have the donut one and play it all the time. For some reason the cupcake one has such bad graphics and it makes it a lot less fun to play. I\u2019m disappointed.",
-                "date": "2023-03-15",
-                "value": 65,
-                "potential_idea": "Improve the graphics quality for the 'cupcake one' game, potentially by using updated rendering techniques or higher-resolution assets.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "634158738",
-        "name": "e-Sword LT: Bible Study to Go",
-        "url": "https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 1,
-                "review": "Ok at best.  I bought but have at least three free as good and one free better.  I may keep or remove when I don\u2019t use as much.  After using one day, I suspect I will remove and go on.  \n\nI have used some for a couple of weeks.  I deleted.  I regret buying.",
-                "date": "2025-04-01",
-                "value": 12,
-                "potential_idea": "Develop a free tier or robust trial period for the app to better showcase its value against competitors and encourage longer-term retention.",
-                "tags": []
-            },
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 1,
-                "review": "Highlight does not work.",
-                "date": "2025-02-23",
-                "value": 5,
-                "potential_idea": "Implement a reliable highlighting feature that allows users to mark and save important text sections within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 2,
-                "review": "I\u2019m disappointed because I was looking for a parallel Bible to see the difference between the King James Jewish Bible.  When I try to download it that I do not understand and it looks like it will cost me get more money, but I how much",
-                "date": "2025-01-12",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 1,
-                "review": "I want to compare bibles side by side and the feature doesn\u2019t work when I click on \u201cBible compare\u201d it just shows a random Bible translation it doesn\u2019t compare one Bible verse with another one like it\u2019s supposed to.",
-                "date": "2024-12-23",
-                "value": 75,
-                "potential_idea": "Implement a functional 'Bible Compare' feature that allows users to select and view multiple Bible translations side-by-side for verse-by-verse comparison.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 2,
-                "review": "Here are my three main groups with this app\u2026\n\n1. This is not a KJV with Apocrypha because it\u2019s missing books. It\u2019s missing history of Susanna, Bel Of The dragon and the Prayer of Mannesah.\n2. Unlike other Bible apps, it does not sink across your different devices. He wants you to pay a fee for each device like your desktop, iPad and iPhone. Why not charge one flat fee and they sync across all devices? \n3. And this last one could be just a personal preference. Why do I have to hold down the scripture every time to add adjustments to a note already established. I should be able to click on that note one time to add or delete commentary or precepts.\n\nLastly, I want to say that I don\u2019t have a problem paying for this app and it services. It has potential. But the fact that I\u2019m paying for a app that\u2019s incomplete in my opinion because it\u2019s missing books is unfair. Hopefully there will be some updates that can get this fixed.",
-                "date": "2024-09-11",
-                "value": 83,
-                "potential_idea": "A universal subscription model for Bible apps that allows seamless syncing of notes, bookmarks, and reading progress across all a user's devices (phone, tablet, desktop) for a single flat fee.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 1,
-                "review": "PLEASE fix this",
-                "date": "2024-08-14",
-                "value": 15,
-                "potential_idea": "Implement immediate bug fixes based on user complaints.",
-                "tags": []
-            },
-            {
-                "app_name": "e-Sword LT: Bible Study to Go",
-                "rating": 1,
-                "review": "The memory verses were impossible for me to figure out. This App isn\u2019t user friendly. I tried google and still was left disappointed.",
-                "date": "2024-03-20",
-                "value": 65,
-                "potential_idea": "Improve the user interface of the memory verse feature with clearer instructions and visual aids to enhance user-friendliness and comprehension.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1023146677",
-        "name": "Five Nights at Freddy's 4",
-        "url": "https://apps.apple.com/us/app/five-nights-at-freddys-4/id1023146677?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Five Nights at Freddy's 4",
-                "rating": 1,
-                "review": "The game is really good I like the designs and jump scares it\u2019s a really good game but there\u2019s just thing that really makes me mad, Im on night 8, sometimes CANT even get to 3 am but somehow did, move on to nightmare right, I close the doors, he runs back and forth, this time I close the doors, he kills me, and I DID IT ON TIME TO, he kills me through the door for no reason, I can\u2019t even beat it with cheats cus of how bugged it is, and you always wanted to update everything but never fix this bug, and just because of it, Im rating this a 1 star, PLEASE FIX THIS",
-                "date": "2025-07-22",
-                "value": 80,
-                "potential_idea": "Implement a robust bug-reporting system within the app to allow users to easily submit detailed bug information, including timestamps and scenarios, for developers to promptly address.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 4",
-                "rating": 1,
-                "review": "Baaaad",
-                "date": "2025-03-29",
-                "value": 10,
-                "potential_idea": "Improve app stability and reliability.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "1239299402",
-        "name": "Street Fighter IV CE",
-        "url": "https://apps.apple.com/us/app/street-fighter-iv-ce/id1239299402?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Street Fighter IV CE",
-                "rating": 1,
-                "review": "iPad Pro 12.9 M1 iOS26. Can\u2019t get past the Terms of Service screen. The confirmation button is off-screen. Refund. Maybe next time.",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Implement adaptive UI elements that automatically adjust to different screen sizes and resolutions on iOS devices to ensure all interactive elements are always visible and accessible.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Street Fighter IV CE",
-                "rating": 1,
-                "review": "this literally takes *less than one minute* of gameplay to spot the problem. several months ago an update broke the game and it\u2019s still not fixed. at round start & end of round, the virtual control glitches out and it\u2019s impossible to keep holding any button, meaning any charge character cannot start charging before the timer begins. it had always worked fine since the very first version of mobile sf4 back in like 2011, and it\u2019s now broken and kept unfixed for no reason. just what 3rd rated team did capcom hire to manage their games",
-                "date": "2025-09-21",
-                "value": 15,
-                "potential_idea": "Implement a robust automated QA testing system to detect and alert developers to critical gameplay-breaking bugs before app updates are released.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Street Fighter IV CE",
-                "rating": 1,
-                "review": "I really paid $5 for unacceptable lag\u2026",
-                "date": "2025-07-18",
-                "value": 12,
-                "potential_idea": "Offer a premium version of the app with optimized performance or a refund for users experiencing significant lag.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Street Fighter IV CE",
-                "rating": 1,
-                "review": "As an old time player ever since the Volt version. I can say this is the worst \u201cupdate\u201d ever. The bugs are frustrating and game wrecking. Charge moves characters cannot even charge their moves before the round begins because the directions pad won\u2019t stick in place until the match starts. The app launching time takes forever. And the WORST of all. You cannot even play this game without an internet connection anymore. It keeps demanding you to sign in to Game Center in order to proceed. I have completely stopped playing this game since the update. An absolute garbage DOWNGRADE. Fix this ASAP please.",
-                "date": "2025-07-11",
-                "value": 85,
-                "potential_idea": "Implement an offline mode for the mobile game that allows players to access core gameplay features without an internet connection.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Street Fighter IV CE",
-                "rating": 1,
-                "review": "i cant get passed the games that arent full controller supported. took a chance on this game since i had an excellent time with the resident evil ports. but the ui on this app is bugged to s* it keeps asking me to put in my nickname everytime i open the app and the text stays on the screen with the blue cursor on edit. the red text boxes that keep coming up on screen reek of \"the very first apps ever\" garbage. asking for my money back. whats the point of needing to \"tap\" anything if you are offering an option for controller? i could use the controller to play but i need to tap the screen in between options? cant believe they have the balls to charge for this. NOPE.",
-                "date": "2025-06-20",
-                "value": 75,
-                "potential_idea": "Implement a native controller-first UI that avoids touch-based interactions where a controller option is available in games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Street Fighter IV CE",
-                "rating": 1,
-                "review": "Why do we need internet connection for solo gaming?",
-                "date": "2025-06-06",
-                "value": 80,
-                "potential_idea": "An offline mode that allows users to play core game features without an internet connection, with optional online features for enhanced gameplay.",
-                "tags": [
-                    "niche demand"
                 ]
             }
         ]
@@ -12915,6 +12326,606 @@
                 "date": "2023-05-06",
                 "value": 15,
                 "potential_idea": "Integrate Spotify playback and library management directly within the app.",
+                "tags": [
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1439262206",
+        "name": "Root Board Game",
+        "url": "https://apps.apple.com/us/app/root-board-game/id1439262206?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "This game is super fun with amazing mechanics, but the AI plays this game dumber than an oscillating fan. If you want to simulate playing against people with intelligence of at least a rock, don\u2019t download this game. Just to the board game instead.",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Implement an adjustable AI difficulty setting for the game, allowing players to choose between various levels of opponent intelligence.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "I bought this on steam a few years ago, but the AI was so bad it was unplayable. I bought it again on iOS hoping things had improved and I would have a good game to play on my iPad. The AI is still unplayably bad. The AI will ignore a faction one turn from victory to attack the lowest scoring faction on the board (I get when Eyrie does it due to decree, this isn\u2019t that). How hard is it to program some priorities in to target leaders?",
+                "date": "2025-01-02",
+                "value": 75,
+                "potential_idea": "Implement a more intelligent AI in the mobile game that prioritizes targeting enemy leaders and factions nearing victory.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "Either this game is racked with bugs or it has lots of crazy unwritten rules. For example,  when you\u2019re playing woodland appliance who knows why any faction can move to any other space but woodland appliance can only move to assigned spaces that the game decides? Think I\u2019m done with this. Recently the game designer had to publish a two volume set on all the esoteric rules of this game. So it\u2019s simple but not really it\u2019s as completed as D&D ?!  Ok I feel manipulati joined a game I can do",
+                "date": "2024-12-31",
+                "value": 85,
+                "potential_idea": "Integrate an in-app, context-aware rulebook and tutorial system for complex board games to explain hidden mechanics and reduce player frustration.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "578665578",
+        "name": "Threema. The Secure Messenger",
+        "url": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Add: search by email or phone number",
+                "date": "2025-08-15",
+                "value": 75,
+                "potential_idea": "Implement a contact search feature allowing users to find contacts easily by their email or phone number within the app.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "The best",
+                "date": "2025-07-07",
+                "value": 0,
+                "potential_idea": "No specific feature request or pain point is mentioned, making it impossible to generate a concrete feature idea. The review lacks actionable information.",
+                "tags": []
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Newer versions no longer allow to transfer data to another phone. I had \u2018ID EXPORT\u2019 enabled from previous phone switch which was a few years back. Obviously, the password is forgotten. After synching the phone to new iPhone I cannot remember the password. Exporting the ID into iCloud backup means, I need to restore it again (a couple hours of work). Super sad and bad usability.",
+                "date": "2025-06-01",
+                "value": 75,
+                "potential_idea": "Implement a password recovery or reset option for 'ID EXPORT' to allow users to regain access to their data or generate a new export without requiring a full backup restore.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Mesaj g\u00f6nderemiyorum kar\u015f\u0131 taraf mesajlar\u0131m\u0131 g\u00f6r\u00fcyor ama ben g\u00f6remiyorum",
+                "date": "2025-06-01",
+                "value": 55,
+                "potential_idea": "Implement a real-time sync status indicator for messages and delivery receipts to ensure users are aware of message visibility status.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "I love how I can record messages with my airpods and put my phone in my pocket while continuing to record. But it does happen from time to time thst rhe recording stops suddenly. Or it doesn\u2019t remember the recording and gives an error message and then it disappears. This is so frustrating, especially when you do longer messages. Please finally fix this!",
+                "date": "2025-01-03",
+                "value": {
+                    "intensity": 20,
+                    "difference": 5,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 60
+                },
+                "potential_idea": "Implement robust background recording with automatic saving and error recovery to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 2,
+                "review": "I\u2019ve had the new IPhone 16 pro max for weeks now, and I have never been able to send a video on it. Worked fine on my IPhone 13. Now whenever I try to send a video whether I take the video in Threema, or on my phones camera app, I get an error saying \u201ccould not load the video, please restart the app and try again\u201d. I have closed it and reopened, restarted my phone, even deleted Threema and re-installed it.",
+                "date": "2024-10-16",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and diagnostic tools for video sending issues, especially on newer iPhone models, to help users troubleshoot common problems.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 2,
+                "review": "Can\u2019t respond to individual messages with emoji reactions. Doesn\u2019t support a .gif keyboard. Can\u2019t pin individual messages that are important to the top in group messages.",
+                "date": "2024-10-08",
+                "value": 65,
+                "potential_idea": "Enhance group chat functionality with emoji reactions, GIF keyboard support, and the ability to pin important messages for better organization and engagement.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "There should be an option for auto deletions within days not week or month!!!",
+                "date": "2024-10-04",
+                "value": 75,
+                "potential_idea": "Implement granular auto-deletion options for content, allowing users to select deletion intervals in days.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Haven\u2019t seen much good things added in terms of features or bugfixes in a looooong time. \n\n- sending media from Photos app requires you to wait for the media to be encoded before you can add captions. You need to keep the send dialogue open until everything is sent, otherwise you loose your captions and you have to share from pictures again\n- when sending multiple images/videos and one fails (eg network timeout), all media \u201cafter\u201d that are lost and you have to share again from Photos app. \n- randomly people can\u2019t receive/send messages for non-obvious reasons. No error messages whatsoever. We found out by accident when speaking IRL. Trusting the other\u2019s Threema IDs resolved it\n- extremely limited set of reaction emojis. Why can\u2019t I use the full emoji pallet to express my emotions\n- can\u2019t port data backups from android to iOS???\n- when you are offline for some time and get online again you are spammed by notifications, instead of Threema batching them in a single notification/one per chat\n\nThreema for Desktop is the only good addition that I\u2019ve seen in 5+ years. \n\nI don\u2019t see a reason to pay for Threema when there are better alternatives (Signal being the obvious one)",
+                "date": "2024-05-10",
+                "value": 18,
+                "potential_idea": "Implement intelligent batching of notifications for offline users to consolidate them into single, actionable alerts per chat, preventing overwhelming spam upon reconnection.",
+                "tags": [
+                    "no update for long time",
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 2,
+                "review": "Its been over two months now that Threema has stopped working with the notifications! I have turned off/on my phone multiple times, and the app is up to date on the app store\ud83d\ude21. This is very annoying given that i paid money for this app",
+                "date": "2023-12-30",
+                "value": 18,
+                "potential_idea": "Implement a proactive notification troubleshooting assistant within the app to guide users through common notification issues.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1029932207",
+        "name": "Papa's Cupcakeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-cupcakeria-to-go/id1029932207?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "Graphics are Very blurry",
+                "date": "2025-03-16",
+                "value": 15,
+                "potential_idea": "Implement an option for users to select graphic quality settings (e.g., low, medium, high) to optimize performance and visual clarity.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "I hate the quality it\u2019s horrible and so blurry! Fix this nowww",
+                "date": "2024-10-11",
+                "value": 15,
+                "potential_idea": "Implement a 'high-quality' or 'HD' mode for content viewing that prioritizes resolution over data usage.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "I guess I should\u2019ve seen when it was last updated and assumed, but I really want a refund on this app so if anyone knows how I can do that pls lmk. It\u2019s just not worth it. So much better on computer and kind of infuriating and less quality on phone. Makes me sad\u2026 I want my money back\u2026.. even though I\u2019m a devout papas cupcakeria fan",
+                "date": "2024-10-07",
+                "value": 12,
+                "potential_idea": "Implement a clear \"last updated\" indicator and a straightforward in-app refund request process for users who are dissatisfied with the mobile experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "As soon as I opened the app it was all fuzzy and low quality. I have six other Papa's games on this same device and none of them look bad at all.",
+                "date": "2024-08-17",
+                "value": 15,
+                "potential_idea": "Optimize app rendering for improved visual quality on a wider range of devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "Why is it blurry",
+                "date": "2024-08-17",
+                "value": 15,
+                "potential_idea": "Improve image clarity and propose sharpening filters within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "The quality goes crazy for it costing 2.13 \ud83d\ude2d Especially when I don\u2019t get the options I get with the other games.",
+                "date": "2024-05-06",
+                "value": 65,
+                "potential_idea": "Introduce tiered subscription options or unlockable game modes that offer more advanced features and gameplay for users seeking premium experiences.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "Hey flipline Studios so it has come to my attention that u didn\u2019t fulfill my request to put me as a pro? That has made alpha very angry 2 v 1 \ud83d\udc7f",
+                "date": "2024-05-04",
+                "value": 10,
+                "potential_idea": "Implement tiers of premium user status or in-app recognition to acknowledge and reward loyal or high-contributing users, potentially with special in-app badges or titles.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "Low quality, bad app, i need a refund",
+                "date": "2024-04-16",
+                "value": 18,
+                "potential_idea": "Develop a simplified, user-friendly version of the app focused on core functionality, with clear expectations and a user-friendly refund process for dissatisfied customers.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "I don\u2019t  know if I got the old version but it won\u2019t let my custom\nMy own avatar",
+                "date": "2024-03-06",
+                "value": 60,
+                "potential_idea": "Allow users to create and use custom avatars within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "As a child I absolutely adored this papa\u2019s game it was my absolute favorite and it was actually the only one I would play. And I was so exited to see I could download the game and play now that I\u2019m older, nevertheless I am sad to say that I am disappointed with the game I received. The mobile game is very outdated and seems to be like one of the older files. I would really like to see this game be updated to a more recent file because unlike the computer game you can\u2019t customize your own character and the graphics are very underwhelming. This is no hate to the game just an attempt to see a more developed version. Thank you for your time and I hope this can be taken into consideration.",
+                "date": "2024-02-10",
+                "value": 90,
+                "potential_idea": "Update the mobile game with modern graphics, character customization options, and performance improvements to match its former glory and appeal to adult nostalgia.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "i hated it give me my money back",
+                "date": "2023-12-11",
+                "value": 20,
+                "potential_idea": "Implement a clear and accessible refund process for dissatisfied users.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "I\u2019ve been playing this game on my computer on some free website and let me tell you IM IN LOVE. I was so excited to get the app so i could play it on my phone/iPad. I was a little surprised that it cost money since the version I played on the computer was free but since I loved the game so much I decided to buy it. Very much regretting it. It\u2019s rlly nothing like the website. Same concept but overall quality is horrible. I do not recommend as it\u2019s not worth the money.",
+                "date": "2023-11-30",
+                "value": 15,
+                "potential_idea": "Develop a mobile version of popular free web-based games with comparable quality and features to their desktop counterparts.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "THE QUALITY IS HORRIBLE AND THE SOUND/MUSIC SOUNDS DISTORTED",
+                "date": "2023-11-18",
+                "value": 15,
+                "potential_idea": "Improve audio processing to eliminate distortion and enhance sound quality within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "Can the game at least get an update?? It needs more mini games and prizes , everytime you win a prize , you get the same prize over and over and it has the same mini games, it\u2019s not fun like it used to be and it be cool if we can create your  own character like the HD one",
+                "date": "2023-11-15",
+                "value": 75,
+                "potential_idea": "Introduce a character customization system with a wide array of customizable avatar options and new, diverse mini-games and prize pools to enhance player engagement and replayability.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "I played the computer version a lot so I thought  let me download it on my phone.When you first open the app everything\u2019s blurry. Then you can\u2019t customize your character. And the mechanics aren\u2019t the same either it\u2019s just a worse quality version of the game and I wish I didn\u2019t spend 2 dollars on it.",
+                "date": "2023-09-30",
+                "value": 65,
+                "potential_idea": "Develop a mobile version of the game that faithfully replicates the character customization and mechanics of its computer counterpart, ensuring a high-quality user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "1 - The game hasn\u2019t been updated in 4 years. I really doubt it will ever receive a update from the developers. It\u2019s abandoned quite literally.\n2 - The Quality is so bad. The game audio sounds terrible, the graphics is very low quality and slow. Gameplay is buggy too. \n3 - Not advanced. Does not allow you to customize your own character. \n\nI requested a refund. But please save your little cents and do not purchase this game. It is so bad!",
+                "date": "2023-09-10",
+                "value": 60,
+                "potential_idea": "Develop a mobile game with polished audio, sharp graphics, and smooth gameplay, featuring robust character customization options, for users who are frustrated with abandoned and low-quality games.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "the quality is really bad and so pixelated",
+                "date": "2023-09-10",
+                "value": 15,
+                "potential_idea": "Implement an imager cleaner or upscaler feature within the app to automatically improve the quality of pixelated images.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "It doesn\u2019t work when u pour the chocolate flavor I deleted it n downloaded it again n still doesn\u2019t work",
+                "date": "2023-07-30",
+                "value": 5,
+                "potential_idea": "Implement robust error handling and user feedback for specific flavor-related issues to prevent app crashes or malfunctions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "I was hoping to play this game to be updated but it\u2019s quality is so pixelated and old school to not have a assistant. Customers movement is so low quality too. Gameplay works fine but I wouldn\u2019t like playing a game so blurry.",
+                "date": "2023-06-08",
+                "value": 65,
+                "potential_idea": "Implement an in-game graphical enhancement tool or filter to improve visual quality and reduce pixelation in the mobile game.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "The app is not what I thought it was I need a refund because the quality is horrible",
+                "date": "2023-05-07",
+                "value": 10,
+                "potential_idea": "Implement a 'feature snapshot' or more detailed preview within the app store listing to accurately showcase app functionality before download.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "I loved this game as a kid and wanted to play it on my iPad. I already have the donut one and play it all the time. For some reason the cupcake one has such bad graphics and it makes it a lot less fun to play. I\u2019m disappointed.",
+                "date": "2023-03-15",
+                "value": 15,
+                "potential_idea": "Improve the graphics quality of the 'cupcake' version of the game to match the 'donut' version.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "634158738",
+        "name": "e-Sword LT: Bible Study to Go",
+        "url": "https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 1,
+                "review": "Ok at best.  I bought but have at least three free as good and one free better.  I may keep or remove when I don\u2019t use as much.  After using one day, I suspect I will remove and go on.  \n\nI have used some for a couple of weeks.  I deleted.  I regret buying.",
+                "date": "2025-04-01",
+                "value": 18,
+                "potential_idea": "Offer a freemium version of the app with core features to demonstrate value before purchase, or implement a more robust trial period with clear benefits.",
+                "tags": []
+            },
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 1,
+                "review": "Highlight does not work.",
+                "date": "2025-02-23",
+                "value": 10,
+                "potential_idea": "Implement a robust and reliable highlighting feature for text within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 2,
+                "review": "I\u2019m disappointed because I was looking for a parallel Bible to see the difference between the King James Jewish Bible.  When I try to download it that I do not understand and it looks like it will cost me get more money, but I how much",
+                "date": "2025-01-12",
+                "value": 12,
+                "potential_idea": "Implement a clear and upfront pricing model for Bible versions, explicitly stating costs and offering a free parallel view to compare different translations.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 1,
+                "review": "I want to compare bibles side by side and the feature doesn\u2019t work when I click on \u201cBible compare\u201d it just shows a random Bible translation it doesn\u2019t compare one Bible verse with another one like it\u2019s supposed to.",
+                "date": "2024-12-23",
+                "value": 70,
+                "potential_idea": "Implement a functional side-by-side Bible comparison tool that accurately displays corresponding verses from different translations.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 2,
+                "review": "Here are my three main groups with this app\u2026\n\n1. This is not a KJV with Apocrypha because it\u2019s missing books. It\u2019s missing history of Susanna, Bel Of The dragon and the Prayer of Mannesah.\n2. Unlike other Bible apps, it does not sink across your different devices. He wants you to pay a fee for each device like your desktop, iPad and iPhone. Why not charge one flat fee and they sync across all devices? \n3. And this last one could be just a personal preference. Why do I have to hold down the scripture every time to add adjustments to a note already established. I should be able to click on that note one time to add or delete commentary or precepts.\n\nLastly, I want to say that I don\u2019t have a problem paying for this app and it services. It has potential. But the fact that I\u2019m paying for a app that\u2019s incomplete in my opinion because it\u2019s missing books is unfair. Hopefully there will be some updates that can get this fixed.",
+                "date": "2024-09-11",
+                "value": 75,
+                "potential_idea": "Implement a flexible subscription model that allows users to pay a one-time fee for app synchronization across all their devices, and offer a KJV Bible version with Apocrypha including the books of Susanna, Bel Of The Dragon, and the Prayer of Manasseh.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 1,
+                "review": "PLEASE fix this",
+                "date": "2024-08-14",
+                "value": 10,
+                "potential_idea": "Implement a robust bug reporting and resolution tracking system within the app to address critical user issues.",
+                "tags": []
+            },
+            {
+                "app_name": "e-Sword LT: Bible Study to Go",
+                "rating": 1,
+                "review": "The memory verses were impossible for me to figure out. This App isn\u2019t user friendly. I tried google and still was left disappointed.",
+                "date": "2024-03-20",
+                "value": 70,
+                "potential_idea": "Develop a mobile app that simplifies tracking and memorizing Bible verses with an intuitive, user-friendly interface and clear instructions.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1023146677",
+        "name": "Five Nights at Freddy's 4",
+        "url": "https://apps.apple.com/us/app/five-nights-at-freddys-4/id1023146677?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Five Nights at Freddy's 4",
+                "rating": 2,
+                "review": "So as of right now, this fnaf game has been by far the scariest I\u2019ve ever played. However, I cannot even get past night 2. I have had way too much of a struggle to know when there is breathing sounds or when the footsteps even occur. There have been a couple times where I came close to beating it, and there have been a couple nights where I got jumpscared exactly at the start of the game. I really want to enjoy playing this game, but night 2 just feels endless and I feel as though it has gotten much much harder to beat. I honestly have no clue how people think it\u2019s the easiest, and I find that very hard to believe.",
+                "date": "2025-10-01",
+                "value": 65,
+                "potential_idea": "Implement an audio visualizer or sound indicator to help players better pinpoint the direction and timing of in-game audio cues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 4",
+                "rating": 1,
+                "review": "The game is really good I like the designs and jump scares it\u2019s a really good game but there\u2019s just thing that really makes me mad, Im on night 8, sometimes CANT even get to 3 am but somehow did, move on to nightmare right, I close the doors, he runs back and forth, this time I close the doors, he kills me, and I DID IT ON TIME TO, he kills me through the door for no reason, I can\u2019t even beat it with cheats cus of how bugged it is, and you always wanted to update everything but never fix this bug, and just because of it, Im rating this a 1 star, PLEASE FIX THIS",
+                "date": "2025-07-22",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting and in-game feedback system for players to report game-breaking issues like the described AI behavior in night 8.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 4",
+                "rating": 1,
+                "review": "Baaaad",
+                "date": "2025-03-29",
+                "value": 10,
+                "potential_idea": "The app needs to undergo a complete redesign and rebuild to address fundamental quality issues.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "1239299402",
+        "name": "Street Fighter IV CE",
+        "url": "https://apps.apple.com/us/app/street-fighter-iv-ce/id1239299402?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Street Fighter IV CE",
+                "rating": 1,
+                "review": "iPad Pro 12.9 M1 iOS26. Can\u2019t get past the Terms of Service screen. The confirmation button is off-screen. Refund. Maybe next time.",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Implement adaptive UI elements in the app that automatically adjust to different screen sizes and resolutions, ensuring all interactive components are visible and accessible on various devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Street Fighter IV CE",
+                "rating": 1,
+                "review": "this literally takes *less than one minute* of gameplay to spot the problem. several months ago an update broke the game and it\u2019s still not fixed. at round start & end of round, the virtual control glitches out and it\u2019s impossible to keep holding any button, meaning any charge character cannot start charging before the timer begins. it had always worked fine since the very first version of mobile sf4 back in like 2011, and it\u2019s now broken and kept unfixed for no reason. just what 3rd rated team did capcom hire to manage their games",
+                "date": "2025-09-21",
+                "value": 15,
+                "potential_idea": "Implement a robust rollback system for mobile game updates to detect and revert critical bugs that impact core gameplay mechanics, ensuring a stable user experience.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Street Fighter IV CE",
+                "rating": 1,
+                "review": "I really paid $5 for unacceptable lag\u2026",
+                "date": "2025-07-18",
+                "value": 15,
+                "potential_idea": "Optimize app performance to eliminate lag, especially for paid users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Street Fighter IV CE",
+                "rating": 1,
+                "review": "As an old time player ever since the Volt version. I can say this is the worst \u201cupdate\u201d ever. The bugs are frustrating and game wrecking. Charge moves characters cannot even charge their moves before the round begins because the directions pad won\u2019t stick in place until the match starts. The app launching time takes forever. And the WORST of all. You cannot even play this game without an internet connection anymore. It keeps demanding you to sign in to Game Center in order to proceed. I have completely stopped playing this game since the update. An absolute garbage DOWNGRADE. Fix this ASAP please.",
+                "date": "2025-07-11",
+                "value": 85,
+                "potential_idea": "Implement an offline mode that allows players to access core gameplay features without an internet connection, and address input lag and character charging bugs.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Street Fighter IV CE",
+                "rating": 1,
+                "review": "i cant get passed the games that arent full controller supported. took a chance on this game since i had an excellent time with the resident evil ports. but the ui on this app is bugged to s* it keeps asking me to put in my nickname everytime i open the app and the text stays on the screen with the blue cursor on edit. the red text boxes that keep coming up on screen reek of \"the very first apps ever\" garbage. asking for my money back. whats the point of needing to \"tap\" anything if you are offering an option for controller? i could use the controller to play but i need to tap the screen in between options? cant believe they have the balls to charge for this. NOPE.",
+                "date": "2025-06-20",
+                "value": 75,
+                "potential_idea": "Implement robust controller support throughout the app, including seamless navigation between controller and touch inputs, and fix UI bugs like persistent nickname prompts and text overlay.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Street Fighter IV CE",
+                "rating": 1,
+                "review": "Why do we need internet connection for solo gaming?",
+                "date": "2025-06-06",
+                "value": 85,
+                "potential_idea": "Introduce an offline mode for solo gameplay to enjoy the app without an internet connection.",
                 "tags": [
                     "niche demand"
                 ]
