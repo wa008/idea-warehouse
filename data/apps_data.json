@@ -624,597 +624,6 @@
         ]
     },
     {
-        "id": "586149216",
-        "name": "Monash FODMAP Diet",
-        "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "While at first this app may have been one of the few around, there are far better resources. Being able to utilize Googles AI allows you to quickly search for specific foods. \n\nSEARCH: horrible search. I often get nothing related to my search, even as simple as a banana gets mixed results. \n\nRECIPES: there are maybe 20 recipes. They all stem from white American cuisine. Also, it mixes a lot with being healthy. Having minimal recipes that do not display diverse flavors really cuts your results.",
-                "date": "2025-09-30",
-                "value": 85,
-                "potential_idea": "Expand recipe database with diverse global cuisines and offer a customizable dietary/cuisine filter.",
-                "tags": [
-                    "no update for long time",
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Doesn\u2019t allow refunds? What a scam. This is supposed to be a database of foods with fodmap scores but they don\u2019t have any foods that a normal person would eat, just a bunch of expensive foods that are already labeled as low fodmap. Good luck finding any items from a regular grocery store. I wasted $8 on a useless app when I have to Google the fodmap content of any foods i actually plan to eat.",
-                "date": "2025-09-28",
-                "value": 80,
-                "potential_idea": "Expand the app's food database to include common grocery store items and offer a refund option or a more robust free trial.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "There are free app that give more details with regards to serving size and max serving size. It\u2019s very surprising that Monash doesn\u2019t do the same. Potatoes for example. My Dre app shows the percentage of each fod map it also says how many potatoes ( and size i.e medium potatoes) you can it and it still remain low fod map. MoNash on the other hand says 1/4 cup but up 500g. In my opinion it\u2019s not informative enough and comes across as lazy.",
-                "date": "2025-09-28",
-                "value": 70,
-                "potential_idea": "Enhance the Monash app with detailed serving size information, including percentage breakdown of FODMAPs per serving and clear guidance on allowable quantities for low-FODMAP consumption, similar to competitor apps.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "This app is constantly contacting Facebook, Google, etc. just look at the privacy report.",
-                "date": "2025-09-15",
-                "value": 60,
-                "potential_idea": "Provide users with a clear and easily accessible privacy dashboard showing all third-party data sharing, with options to disable specific integrations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "First of all, there\u2019s no search option. Under the Food Guide, most of the suggested foods are not available in the U.S., at least not at my neighborhood Kroger. I\u2019d love to have help from a dietitian, but I\u2019m not paying out of pocket. I\u2019ll ask my NP to refer me to a nutritionist in my area, one whom my Medicare will cover.",
-                "date": "2025-09-05",
-                "value": 75,
-                "potential_idea": "An in-app tool that suggests locally available food alternatives based on user location and dietary guidelines, including options covered by Medicare/Medicaid.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "a useless app that only promotes licensed products, offers little helpful information that isn\u2019t easily accessible or complete and can be found elsewhere for free",
-                "date": "2025-08-17",
-                "value": 75,
-                "potential_idea": "Develop a community-driven, crowdsourced app for finding and sharing free or low-cost alternatives to promoted licensed products, including complete information and user reviews.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "$8 most of it looks \"foreign\".  No oats/oatmeal? Hmm",
-                "date": "2025-08-16",
-                "value": 15,
-                "potential_idea": "Expand breakfast options in nutritional tracking apps to include a wider variety of common breakfast foods like oatmeal.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I found this app very useful until the latest update. Not only are my previous reintroductions gone, but the text is cut off in the reintroductions window so you can only guess what food you are supposed to be reintroducing. The text is there but only IF you are using the smallest possible font on your phone. I'm an older adult and can't read small fonts anymore. \u2639\ufe0f  This update does not consider the accessibility of those with poor eyesight. It's very disappointing and honestly, not very professional either. It's sad to see this happen to what used to be such a good resource.",
-                "date": "2025-08-14",
-                "value": 75,
-                "potential_idea": "Implement robust text scaling and dynamic layout adjustments for improved readability and accessibility, ensuring all content is visible across various font sizes and screen configurations.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I was hoping for a features similar to the Carb Manager App where you can scan and track the foods you are eating and then see the FODMAP score.  This app doesn\u2019t have specific foods I am looking for and is hard to use if you are trying to discover which products in the store are or are not FODMAP.  I am disappointed that I purchased this app, even for only $8.",
-                "date": "2025-08-08",
-                "value": 75,
-                "potential_idea": "Integrate a barcode scanner with a comprehensive, community-updated FODMAP food database, allowing users to quickly identify FODMAP-friendly products in real-time while shopping.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Rather a waste of money if you are looking up foods. Many basic food are not included in the search which is what I expected. Not much for the USA. Nothing under oils for Lard, Tallow or other meat fats for example. Most brands are not USA brands so not recommended for use for the USA.  No contact for help with using the app is readily found. Very disappointing.",
-                "date": "2025-07-14",
-                "value": 75,
-                "potential_idea": "Expand the app's food database to include more common American foods, meat fats like lard and tallow, and user-submitted brand information.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "With the latest update, I can no longer save a PDF of my report, nor can I email it to myself as a copy. What have you done? I have no idea where I can get some help so I decided to leave a bad review. Maybe somebody will see it and help. I use the iPhone version. I don\u2019t understand why developers can\u2019t leave well enough alone. I run into these problems all the time with software.",
-                "date": "2025-07-08",
-                "value": 12,
-                "potential_idea": "Implement a clear and easily accessible in-app help or support section with FAQs and troubleshooting guides for common issues like export and sharing functionality.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I have made sure the app is in US mode.  I can\u2019t foods that maybe canned vs. fresh/frozen. \n\nMissing USA titled foods or products. \n\nMost times not helpful because of this.",
-                "date": "2025-06-23",
-                "value": 17,
-                "potential_idea": "Implement a filter or search option to categorize food items by their preservation method (canned, fresh, frozen, etc.) and include country-specific titles for regional relevance.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I\u2019ve been using this app for my low FODMAP diet and am now using the diary for reintroduction of foods. Today I noticed all of my entries disappeared. Luckily I exported recently and only lost 2 days, so I did my best to reenter those. Just went on again and everything is gone again! I will need to track elsewhere because this can\u2019t keep happening. Please fix this issue.",
-                "date": "2025-06-03",
-                "value": 75,
-                "potential_idea": "Implement robust data backup and automatic synchronization to prevent data loss for users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "This would be great if you lived in Australia. I am USA based and there is so far only one product on the  list that I can purchase in the USA. I wanted to make sure everyone knows it\u2019s USELESS. Don\u2019t buy it if you are American.",
-                "date": "2025-06-03",
-                "value": 65,
-                "potential_idea": "Geographically localized product catalog for the mobile app that adapts based on user location.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "If you are going to charge for an app at least try. This is no more than a list. They have a total of 8 breakfast recipes. Most include cheese or milk. One is just \u201cjam\u201d which is strawberries and sugar.",
-                "date": "2025-05-27",
-                "value": 15,
-                "potential_idea": "Expand recipe selection with more diverse breakfast options, including dairy-free and low-ingredient choices.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I installed the latest update and now all data from my diary is gone. I cannot recommend this app when it is built that poorly, and when the developers in charge don\u2019t do any verification that the update they\u2019re about to apply won\u2019t break existing features. Bad software design.\nThe design changes to the app aren\u2019t good either, the latest updates have been a downgrade in every way.",
-                "date": "2025-05-06",
-                "value": 15,
-                "potential_idea": "Implement a robust data backup and recovery system for the diary to prevent data loss during updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Not nearly enough recipes, hard to navigate, and the recipes that they do have were still quite problematic. Definitely do not waste your money, a massive disappointment of an app",
-                "date": "2025-05-04",
-                "value": 15,
-                "potential_idea": "Expand recipe library with user-submitted and curated recipes, improve navigation with clearer categories and search filters.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I just updated the app and found that it erased ALL of my diary entries. I\u2019ve been tracking for a long time so this is a big loss of data for me. I\u2019ll no longer use this app for tracking as it\u2019s no longer reliable and I\u2019m very disappointed considering this is a paid app. Just wow\u2026",
-                "date": "2025-05-03",
-                "value": 90,
-                "potential_idea": "Implement robust data backup and recovery features to prevent accidental data loss during app updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "What was the goal of changing the Diary add record / create report AND the save / cancel buttons? That change has reversed the positions of both functions, which means anyone who had been using the app and has muscle memory for making entries is now automatically touching the wrong buttons every single time they want to add to the diary. Was the point to frustrate existing users? Well, you\u2019ve succeeded.",
-                "date": "2025-05-03",
-                "value": 15,
-                "potential_idea": "Implement customizable button layouts and location options for frequently used actions to accommodate user muscle memory and preferences.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I have been diligently recording my diet and symptoms for 2 months. This morning, I decided to update the app and now ALL of that data is gone! So much work vanished in an instant.  Up until today, I would have given the app a 4 star rating. I have appreciated the food guide, recipes, and ease with which to track everything. It wasn\u2019t perfect\u2014but it was a great resource. However losing 2 months worth of valuable data is unpardonable.",
-                "date": "2025-05-03",
-                "value": 90,
-                "potential_idea": "Implement robust cloud backup and synchronization to prevent data loss during app updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The changes make the app useless for me. Was able to see whole day\u2019s activity and look at other days easily. Now having to scroll to see day\u2019s data.  Boo.",
-                "date": "2025-05-02",
-                "value": 75,
-                "potential_idea": "Reintroduce a calendar or timeline view for easily navigating past daily activity data.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "This app is great and makes it easy to track and find food. However, the new update is not good. The diary is too small and the reintroduction items are cut off and hard to use. The previous diary format was way better. Disappointed",
-                "date": "2025-05-02",
-                "value": 65,
-                "potential_idea": "Restore the previous diary format or offer users an option to revert to it.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The food list isn\u2019t very well organized, the red/yellow/green lights aren\u2019t in order, so it will show you the values randomly. Has really strange ranges too, for something like cornichons it will tell you 1.76oz is fine, then 17.07oz is in the yellow zone. I could see someone eating like 3oz of them, but who is eating almost a pound? Why not represent this in a more simplistic way. \n\nFinally, when you click \u201cstart the diet\u201d, it just tells you what the diet is like, no more information than what you could find on Google, it doesn\u2019t actually start anything for you. No calendar, nothing, you need to go find a dietitian to do it for you.",
-                "date": "2025-04-27",
-                "value": 75,
-                "potential_idea": "Implement a feature that allows users to set personalized portion size ranges for food items and provides a more intuitive visual representation of their diet compliance.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The food lists include packaged processed foods (from other countries despite using the country filter). It\u2019s cumbersome to have to weed through all this just to try to find something like steel cut oats which are not listed.",
-                "date": "2025-04-26",
-                "value": 70,
-                "potential_idea": "Implement an advanced filtering system for food lists that allows users to explicitly exclude packaged/processed foods and prioritize whole/unprocessed ingredients, while also improving the accuracy of country-specific filters.",
-                "tags": [
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "While looking through the list of all the low fodmap certified food, I have my country selected in the filter, yet I\u2019m still seeing all the foods listed even if they are not in my country. Please fix!!!",
-                "date": "2025-04-01",
-                "value": 18,
-                "potential_idea": "Implement a precise location-based filtering of low FODMAP certified foods to ensure users only see products available in their region.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Half the things I look up are not on here.",
-                "date": "2025-03-26",
-                "value": 15,
-                "potential_idea": "Expand the app's database to include a wider range of information, allowing users to find more of the content they search for.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "You know that I can\u2019t get a refund from Apple, the way you set up the App doesn\u2019t make it eligible. And I still canceled and deleted the app with in 3 hours. \nYou can keep the eight dollars or whatever. \nI hope this information is helpful to you, please DO NOT contact me if you have any other questions.\n\nBest regards  \nBS\ud83e\udd2c",
-                "date": "2025-03-15",
-                "value": 15,
-                "potential_idea": "Implement a clear and easily accessible in-app refund request system for frustrated users who cancel within a short period, bypassing platform-specific limitations where possible.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Just bought this app and right off the top, the first two categories of foods are \u201cLow FODMAP Certified Foods\u201d and \u201cLow FODMAP Certified Meals\u201d which are nothing more than a list of PROCESSED GARBAGE.\u201d very disappointed. Total waste of money.",
-                "date": "2025-02-28",
-                "value": 75,
-                "potential_idea": "Develop a 'Low FODMAP Real Food' category that exclusively lists unprocessed, whole foods suitable for a Low FODMAP diet, distinct from certified processed products.",
-                "tags": []
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I can\u2019t look up food while I\u2019m grocery shopping. Anything I type I. It says it doesn\u2019t exist. Very few recipes. I expected more from an app that costs $8.00. I wouldn\u2019t purchase this. I\u2019d like my money back. Not only is my gi tract irritated now.",
-                "date": "2025-02-16",
-                "value": 15,
-                "potential_idea": "Integrate a robust food lookup and recipe suggestion feature that works offline or with spotty in-store Wi-Fi. \n",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I bought this app because someone mentioned scanning products but I see no where to scan products. The app feels pretty generic and you can just google stuff instead.",
-                "date": "2025-02-16",
-                "value": 75,
-                "potential_idea": "Integrate a product barcode scanning feature directly into the app to enable users to quickly access product information.",
-                "tags": [
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Not helpful.",
-                "date": "2025-02-05",
-                "value": 5,
-                "potential_idea": "Develop a proactive tutorial or onboarding system that guides users through the app's core functionalities.",
-                "tags": []
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The diary should be integrated with the food database to do personalised analysis of the effects and outcomes. The food database should be more sophisticated; i.e., deeper and broader in order to provide information about food and beverages available and consumed, and capable of gathering these data by UPC scans.",
-                "date": "2025-01-18",
-                "value": 85,
-                "potential_idea": "Integrate the diary with a sophisticated, UPC-scanning food database for personalized effect and outcome analysis.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "866450515",
-        "name": "Forest: Focus for Productivity",
-        "url": "https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 2,
-                "review": "That i spent money to buy the game but the items are still charged anh i can\u2019t even fram these items",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Implement a 'premium player' status that grants owners of purchased in-game items the ability to farm them without further cost or limitations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 2,
-                "review": "After getting the new update my phone died while I had a tree growing.  After I charged my phone I tried to get back on the app and it logged me out of my account and I can\u2019t log back in.  Now I\u2019m trying to make a new account and the app won\u2019t send me a confirmation email.  I\u2019ve had the app for two months now and I was loving it up until now\u2026",
-                "date": "2025-09-26",
-                "value": 75,
-                "potential_idea": "Implement robust data saving and automatic syncing features to prevent data loss during unexpected app closures or phone issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 1,
-                "review": "I paid for this app so that I can easily use and navigate it from my apple watch without touching my phone!  If I have to use my phone to start tree planting and end it then what's the point?  Also no pausing option? no sycing option within other devices?  okay bye",
-                "date": "2025-09-23",
-                "value": 75,
-                "potential_idea": "Enable full tree planting session management, including starting, pausing, and ending, directly from the Apple Watch app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 1,
-                "review": "Too often during sessions it say \u201cthe host has removed you\u201d and I get \u201ckick out\u201d the session and then once the session finished somehow I\u2019m \u201cback in\u201d and I get the coins. This happens wayyy too often, this app has become so buggy during sessions, idk what happen to forest :\\",
-                "date": "2025-09-22",
-                "value": 70,
-                "potential_idea": "Implement robust session stability and reconnection mechanisms to prevent users from being unexpectedly kicked out of live sessions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 1,
-                "review": "The app doesn\u2019t pop up when I open apps I\u2019ve blocked. I think you have a bug. I\u2019ve tried uninstalling and installing.",
-                "date": "2025-09-17",
-                "value": 65,
-                "potential_idea": "Implement robust background blocking to ensure the app reliably activates when blocked apps are opened.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 2,
-                "review": "My forest stopped blocking apps, both on default and the allow list I created. I can still go on social media without any restrictions. I deleted the app and redownloaded, but I\u2019m still having the same issue. Any way I can fix this?",
-                "date": "2025-09-16",
-                "value": 15,
-                "potential_idea": "Implement a robust app-blocking health check and automated repair mechanism for users experiencing persistent blocking failures.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 2,
-                "review": "Been using this app on and off for years. No way to edit or manually adjust time. On to other options.",
-                "date": "2025-09-16",
-                "value": 65,
-                "potential_idea": "Implement an editable time log feature to allow users to manually adjust or correct entries within the app.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 2,
-                "review": "I\u2019ve used this app for years and it is cute, but it doesn\u2019t function anymore. It used to block other apps being opened and the plant would die if you were on focus mode (a big motivator), but it doesn\u2019t work anymore. I need a consequence for when I get out of focus mode.",
-                "date": "2025-09-12",
-                "value": 85,
-                "potential_idea": "Reinstate and enhance the 'focus mode' with a tangible consequence system for distractions, like app blocking or virtual pet death, to increase user motivation and accountability.",
-                "tags": [
-                    "no update for long time",
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 2,
-                "review": "Got the app earlier this summer and it\u2019s awesome but just this morning I lost the majority of my progress after some app malfunctions. It\u2019s showing that I\u2019m essentially back at the first couple of days worth of use after unlocking a couple monthly challenges, had over 2K in coins saved with various trees/plants unlocked including several of the 2,000 coin. Bummer about losing the progress but looking forward to restarting a new garden I guess. Please add more achievements for those who\u2019ve been playing for a while too.",
-                "date": "2025-09-08",
-                "value": 75,
-                "potential_idea": "Implement a robust cloud save and sync system to prevent data loss and offer tiered achievements for long-term players.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Forest: Focus for Productivity",
-                "rating": 1,
-                "review": "I love thee app, but I think it would be a great addition to have more orange, blue, and yellow flowers. The pink is getting boring. ***Edit. I paid for this app, and today, I was logged out for some unknown reason. All of my progress is gone. This is not ok. \ud83d\ude21\ud83d\ude21\ud83d\ude21. It still works on my iPad, but won't on my phone. I need it to work on my phone.  Is this because I said the pink is getting boring?  Please fix this or refund my money.",
-                "date": "2025-09-05",
-                "value": 18,
-                "potential_idea": "Implement a robust cloud backup and sync feature to prevent user data loss across devices and after unexpected logouts.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1303222868",
-        "name": "Paprika Recipe Manager 3",
-        "url": "https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "Can\u2019t figure out how to use it a waste of money",
-                "date": "2025-09-21",
-                "value": 55,
-                "potential_idea": "Implement an intuitive onboarding tutorial with interactive walkthroughs to guide new users through app functionality.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "I don\u2019t see using this. The User guide and help do not work nothing happens when trying to access them. I have to input so much data by hand I may as well use notes (free) and no known way to import existing data or what file format to use.",
-                "date": "2025-09-18",
-                "value": 65,
-                "potential_idea": "Implement a robust data import feature that supports common file formats (e.g., CSV, Excel) and provides clear guidance on how to prepare and import existing user data into the app.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "I have vers 1 & 3 and three has stopped working and being told I have to but another license. I tried contacting support but no one has replied in over a month.",
-                "date": "2025-09-14",
-                "value": 75,
-                "potential_idea": "Implement a robust cross-platform license management system that allows users to seamlessly transfer or manage their licenses across different versions or devices for the same app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 2,
-                "review": "The app had the ability to pull a recipe from a photo. (Like recipe keeper). I downloaded it thinking it could. I wish I could have my $5 back.",
-                "date": "2025-09-01",
-                "value": 60,
-                "potential_idea": "An app that accurately extracts recipes from photos with a high success rate.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "The old version was discontinued and somehow made to crash instantly upon running it and I was forced to buy the new one despite V2 working fine before \nVile greedy anti consumer behavior",
-                "date": "2025-08-31",
-                "value": 65,
-                "potential_idea": "Implement a grace period or alternative access for users who are forced to upgrade paid apps due to discontinuation of older versions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "I did not approve any charges for this app, it is not in my active subscriptions, and yet it is charging me 4.99??",
-                "date": "2025-08-24",
-                "value": 85,
-                "potential_idea": "In-app subscription management and dispute resolution tools to help users track and contest unauthorized charges.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "Recipe pages get stuck and unable to get to home browsing page even with typing in paprika home page.  Help button not working.  Giving up after about an hour. Requested delete app but not sure if this process provides  refund.",
-                "date": "2025-08-18",
-                "value": 12,
-                "potential_idea": "Implement a robust error handling and recovery mechanism that prevents users from getting stuck in the app and ensures a clear path to exit or contact support, with a simplified refund request process.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Paprika Recipe Manager 3",
-                "rating": 1,
-                "review": "I\u2019ve been happy with this app for several years, all of a sudden the only thing I can get is a invalid certificate error. I can\u2019t even contact support because of this",
-                "date": "2025-08-05",
-                "value": 15,
-                "potential_idea": "Implement an offline mode to allow users basic functionality and support contact even when network connectivity issues or security errors prevent full app access.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1504952058",
         "name": "Papa's Sushiria To Go!",
         "url": "https://apps.apple.com/us/app/papas-sushiria-to-go/id1504952058?uo=2",
@@ -12215,6 +11624,593 @@
                 "value": 75,
                 "potential_idea": "Develop an international version of the app that supports users outside of the US for features like international calls.",
                 "tags": []
+            }
+        ]
+    },
+    {
+        "id": "586149216",
+        "name": "Monash FODMAP Diet",
+        "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "While at first this app may have been one of the few around, there are far better resources. Being able to utilize Googles AI allows you to quickly search for specific foods. \n\nSEARCH: horrible search. I often get nothing related to my search, even as simple as a banana gets mixed results. \n\nRECIPES: there are maybe 20 recipes. They all stem from white American cuisine. Also, it mixes a lot with being healthy. Having minimal recipes that do not display diverse flavors really cuts your results.",
+                "date": "2025-09-30",
+                "value": 75,
+                "potential_idea": "Enhance the app's recipe discovery with a wider variety of global cuisines and explicit options to filter by health-focused or indulgent recipes.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Doesn\u2019t allow refunds? What a scam. This is supposed to be a database of foods with fodmap scores but they don\u2019t have any foods that a normal person would eat, just a bunch of expensive foods that are already labeled as low fodmap. Good luck finding any items from a regular grocery store. I wasted $8 on a useless app when I have to Google the fodmap content of any foods i actually plan to eat.",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Expand the app's food database to include commonly available grocery store items and implement a clear refund policy or trial period.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "There are free app that give more details with regards to serving size and max serving size. It\u2019s very surprising that Monash doesn\u2019t do the same. Potatoes for example. My Dre app shows the percentage of each fod map it also says how many potatoes ( and size i.e medium potatoes) you can it and it still remain low fod map. MoNash on the other hand says 1/4 cup but up 500g. In my opinion it\u2019s not informative enough and comes across as lazy.",
+                "date": "2025-09-28",
+                "value": 80,
+                "potential_idea": "Incorporate detailed FODMAP serving size breakdown, including percentage contribution of each FODMAP group and visual aids for portion size, similar to competitor apps.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "This app is constantly contacting Facebook, Google, etc. just look at the privacy report.",
+                "date": "2025-09-15",
+                "value": 20,
+                "potential_idea": "Provide users with a transparent and configurable privacy dashboard to control data sharing with third-party services and view connection logs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "First of all, there\u2019s no search option. Under the Food Guide, most of the suggested foods are not available in the U.S., at least not at my neighborhood Kroger. I\u2019d love to have help from a dietitian, but I\u2019m not paying out of pocket. I\u2019ll ask my NP to refer me to a nutritionist in my area, one whom my Medicare will cover.",
+                "date": "2025-09-05",
+                "value": 60,
+                "potential_idea": "Integrate location-based food availability and Medicare-covered nutritionist search within the app.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "a useless app that only promotes licensed products, offers little helpful information that isn\u2019t easily accessible or complete and can be found elsewhere for free",
+                "date": "2025-08-17",
+                "value": 65,
+                "potential_idea": "An app that aggregates product information from various sources, compares prices, and provides unbiased reviews for free, helping users make informed purchasing decisions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "$8 most of it looks \"foreign\".  No oats/oatmeal? Hmm",
+                "date": "2025-08-16",
+                "value": 65,
+                "potential_idea": "Expand the app's food database to include a wider variety of common breakfast items like oats and oatmeal, with clear localization for different regional product names.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "I found this app very useful until the latest update. Not only are my previous reintroductions gone, but the text is cut off in the reintroductions window so you can only guess what food you are supposed to be reintroducing. The text is there but only IF you are using the smallest possible font on your phone. I'm an older adult and can't read small fonts anymore. \u2639\ufe0f  This update does not consider the accessibility of those with poor eyesight. It's very disappointing and honestly, not very professional either. It's sad to see this happen to what used to be such a good resource.",
+                "date": "2025-08-14",
+                "value": 85,
+                "potential_idea": "Implement dynamic font scaling for all text elements within the app, particularly in reintroduction windows, to ensure readability for users with varying visual acuity and phone font size settings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "I was hoping for a features similar to the Carb Manager App where you can scan and track the foods you are eating and then see the FODMAP score.  This app doesn\u2019t have specific foods I am looking for and is hard to use if you are trying to discover which products in the store are or are not FODMAP.  I am disappointed that I purchased this app, even for only $8.",
+                "date": "2025-08-08",
+                "value": 75,
+                "potential_idea": "Integrate barcode scanning and a comprehensive, searchable FODMAP database with nutritional and FODMAP scoring for grocery items.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Rather a waste of money if you are looking up foods. Many basic food are not included in the search which is what I expected. Not much for the USA. Nothing under oils for Lard, Tallow or other meat fats for example. Most brands are not USA brands so not recommended for use for the USA.  No contact for help with using the app is readily found. Very disappointing.",
+                "date": "2025-07-14",
+                "value": 65,
+                "potential_idea": "Expand the app's food database to include a wider range of common American foods, including less common ingredients and specific brand information relevant to the US market.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "With the latest update, I can no longer save a PDF of my report, nor can I email it to myself as a copy. What have you done? I have no idea where I can get some help so I decided to leave a bad review. Maybe somebody will see it and help. I use the iPhone version. I don\u2019t understand why developers can\u2019t leave well enough alone. I run into these problems all the time with software.",
+                "date": "2025-07-08",
+                "value": 15,
+                "potential_idea": "Implement a clearer in-app help or support system that makes it easy for users to find solutions or contact customer service.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "I have made sure the app is in US mode.  I can\u2019t foods that maybe canned vs. fresh/frozen. \n\nMissing USA titled foods or products. \n\nMost times not helpful because of this.",
+                "date": "2025-06-23",
+                "value": 55,
+                "potential_idea": "Allow users to filter food items by their preservation method (canned, fresh, frozen) and suggest specific US-titled products within those categories.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "I\u2019ve been using this app for my low FODMAP diet and am now using the diary for reintroduction of foods. Today I noticed all of my entries disappeared. Luckily I exported recently and only lost 2 days, so I did my best to reenter those. Just went on again and everything is gone again! I will need to track elsewhere because this can\u2019t keep happening. Please fix this issue.",
+                "date": "2025-06-03",
+                "value": 18,
+                "potential_idea": "Implement robust background data synchronization and automatic local backup of user diary entries to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "This would be great if you lived in Australia. I am USA based and there is so far only one product on the  list that I can purchase in the USA. I wanted to make sure everyone knows it\u2019s USELESS. Don\u2019t buy it if you are American.",
+                "date": "2025-06-03",
+                "value": 80,
+                "potential_idea": "Geolocated product availability filters to show users only items purchasable in their region.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "If you are going to charge for an app at least try. This is no more than a list. They have a total of 8 breakfast recipes. Most include cheese or milk. One is just \u201cjam\u201d which is strawberries and sugar.",
+                "date": "2025-05-27",
+                "value": 15,
+                "potential_idea": "Expand the app's recipe library with a wider variety of breakfast options, including more dairy-free and allergy-friendly choices.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "I installed the latest update and now all data from my diary is gone. I cannot recommend this app when it is built that poorly, and when the developers in charge don\u2019t do any verification that the update they\u2019re about to apply won\u2019t break existing features. Bad software design.\nThe design changes to the app aren\u2019t good either, the latest updates have been a downgrade in every way.",
+                "date": "2025-05-06",
+                "value": 15,
+                "potential_idea": "Implement robust data backup and restoration services to prevent user data loss during app updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Not nearly enough recipes, hard to navigate, and the recipes that they do have were still quite problematic. Definitely do not waste your money, a massive disappointment of an app",
+                "date": "2025-05-04",
+                "value": 75,
+                "potential_idea": "Expand the recipe library with a curated collection of highly-rated or user-submitted recipes, and implement a more intuitive navigation system with better categorization and search filters.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "I just updated the app and found that it erased ALL of my diary entries. I\u2019ve been tracking for a long time so this is a big loss of data for me. I\u2019ll no longer use this app for tracking as it\u2019s no longer reliable and I\u2019m very disappointed considering this is a paid app. Just wow\u2026",
+                "date": "2025-05-03",
+                "value": 90,
+                "potential_idea": "Implement robust data backup and restore functionality for diary entries to prevent data loss during updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "What was the goal of changing the Diary add record / create report AND the save / cancel buttons? That change has reversed the positions of both functions, which means anyone who had been using the app and has muscle memory for making entries is now automatically touching the wrong buttons every single time they want to add to the diary. Was the point to frustrate existing users? Well, you\u2019ve succeeded.",
+                "date": "2025-05-03",
+                "value": 70,
+                "potential_idea": "Allow users to customize button placement or revert UI changes to a previous version to accommodate muscle memory and user preferences.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "I have been diligently recording my diet and symptoms for 2 months. This morning, I decided to update the app and now ALL of that data is gone! So much work vanished in an instant.  Up until today, I would have given the app a 4 star rating. I have appreciated the food guide, recipes, and ease with which to track everything. It wasn\u2019t perfect\u2014but it was a great resource. However losing 2 months worth of valuable data is unpardonable.",
+                "date": "2025-05-03",
+                "value": 95,
+                "potential_idea": "Implement robust data backup and recovery mechanisms with cloud sync to prevent data loss during app updates or other unforeseen events.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "The changes make the app useless for me. Was able to see whole day\u2019s activity and look at other days easily. Now having to scroll to see day\u2019s data.  Boo.",
+                "date": "2025-05-02",
+                "value": 85,
+                "potential_idea": "Restore a clear and easily navigable daily activity view that allows users to quickly access historical data.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "This app is great and makes it easy to track and find food. However, the new update is not good. The diary is too small and the reintroduction items are cut off and hard to use. The previous diary format was way better. Disappointed",
+                "date": "2025-05-02",
+                "value": 75,
+                "potential_idea": "Allow users to revert to the previous diary format in the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "The food list isn\u2019t very well organized, the red/yellow/green lights aren\u2019t in order, so it will show you the values randomly. Has really strange ranges too, for something like cornichons it will tell you 1.76oz is fine, then 17.07oz is in the yellow zone. I could see someone eating like 3oz of them, but who is eating almost a pound? Why not represent this in a more simplistic way. \n\nFinally, when you click \u201cstart the diet\u201d, it just tells you what the diet is like, no more information than what you could find on Google, it doesn\u2019t actually start anything for you. No calendar, nothing, you need to go find a dietitian to do it for you.",
+                "date": "2025-04-27",
+                "value": 70,
+                "potential_idea": "Implement a smart, customizable food logging system with adjustable portion size ranges and a simplified visual indicator for dietary compliance, in addition to providing personalized diet plans and tracking tools within the app.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "The food lists include packaged processed foods (from other countries despite using the country filter). It\u2019s cumbersome to have to weed through all this just to try to find something like steel cut oats which are not listed.",
+                "date": "2025-04-26",
+                "value": 75,
+                "potential_idea": "Implement a more robust and accurate food filtering system that prioritizes locally available and unprocessed food options, including a 'request new item' feature.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "While looking through the list of all the low fodmap certified food, I have my country selected in the filter, yet I\u2019m still seeing all the foods listed even if they are not in my country. Please fix!!!",
+                "date": "2025-04-01",
+                "value": 12,
+                "potential_idea": "Improve the country-based filtering for the low FODMAP food list to accurately display only foods available in the selected region.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Half the things I look up are not on here.",
+                "date": "2025-03-26",
+                "value": 60,
+                "potential_idea": "Expand the app's content database to include a wider range of information, potentially through user-generated contributions or partnerships.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "You know that I can\u2019t get a refund from Apple, the way you set up the App doesn\u2019t make it eligible. And I still canceled and deleted the app with in 3 hours. \nYou can keep the eight dollars or whatever. \nI hope this information is helpful to you, please DO NOT contact me if you have any other questions.\n\nBest regards  \nBS\ud83e\udd2c",
+                "date": "2025-03-15",
+                "value": 15,
+                "potential_idea": "Implement an in-app subscription cancellation flow that directly triggers a refund request to Apple for recent subscriptions, bypassing the need for users to manually contact Apple for refunds.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Just bought this app and right off the top, the first two categories of foods are \u201cLow FODMAP Certified Foods\u201d and \u201cLow FODMAP Certified Meals\u201d which are nothing more than a list of PROCESSED GARBAGE.\u201d very disappointed. Total waste of money.",
+                "date": "2025-02-28",
+                "value": 75,
+                "potential_idea": "Integrate a feature that clearly distinguishes between naturally low FODMAP whole foods and processed low FODMAP certified products.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "I can\u2019t look up food while I\u2019m grocery shopping. Anything I type I. It says it doesn\u2019t exist. Very few recipes. I expected more from an app that costs $8.00. I wouldn\u2019t purchase this. I\u2019d like my money back. Not only is my gi tract irritated now.",
+                "date": "2025-02-16",
+                "value": 80,
+                "potential_idea": "Integrate grocery list functionality with recipe search to allow users to easily look up food items while shopping.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "I bought this app because someone mentioned scanning products but I see no where to scan products. The app feels pretty generic and you can just google stuff instead.",
+                "date": "2025-02-16",
+                "value": 75,
+                "potential_idea": "Implement a prominent barcode/product scanner feature to enable users to quickly access product information directly within the app.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Not helpful.",
+                "date": "2025-02-05",
+                "value": 5,
+                "potential_idea": "Develop a feature that clearly articulates the benefits and functionality of the app to users.",
+                "tags": []
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "The diary should be integrated with the food database to do personalised analysis of the effects and outcomes. The food database should be more sophisticated; i.e., deeper and broader in order to provide information about food and beverages available and consumed, and capable of gathering these data by UPC scans.",
+                "date": "2025-01-18",
+                "value": 80,
+                "potential_idea": "Integrate a sophisticated food database with a UPC scanner for personalized dietary analysis within the diary feature.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "866450515",
+        "name": "Forest: Focus for Productivity",
+        "url": "https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 2,
+                "review": "That i spent money to buy the game but the items are still charged anh i can\u2019t even fram these items",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Implement a system where purchased in-game items are immediately unlocked and usable, or provide an in-game currency generation mechanism (farming) for items that are intended to be earned.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 2,
+                "review": "After getting the new update my phone died while I had a tree growing.  After I charged my phone I tried to get back on the app and it logged me out of my account and I can\u2019t log back in.  Now I\u2019m trying to make a new account and the app won\u2019t send me a confirmation email.  I\u2019ve had the app for two months now and I was loving it up until now\u2026",
+                "date": "2025-09-26",
+                "value": 12,
+                "potential_idea": "Implement a robust auto-save feature to prevent progress loss during power outages or unexpected app closures.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 1,
+                "review": "I paid for this app so that I can easily use and navigate it from my apple watch without touching my phone!  If I have to use my phone to start tree planting and end it then what's the point?  Also no pausing option? no sycing option within other devices?  okay bye",
+                "date": "2025-09-23",
+                "value": 15,
+                "potential_idea": "Implement standalone Apple Watch functionality that allows users to start, pause, and end app activities without needing their phone, with seamless syncing across devices.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 1,
+                "review": "Too often during sessions it say \u201cthe host has removed you\u201d and I get \u201ckick out\u201d the session and then once the session finished somehow I\u2019m \u201cback in\u201d and I get the coins. This happens wayyy too often, this app has become so buggy during sessions, idk what happen to forest :\\",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Implement a robust error handling and reconnection mechanism for in-session disruptions to ensure smooth continuity and prevent unintended session exits.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 1,
+                "review": "The app doesn\u2019t pop up when I open apps I\u2019ve blocked. I think you have a bug. I\u2019ve tried uninstalling and installing.",
+                "date": "2025-09-17",
+                "value": 15,
+                "potential_idea": "Implement robust background process monitoring to trigger blocked app pop-ups reliably, even when the app is not actively in the foreground.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 2,
+                "review": "My forest stopped blocking apps, both on default and the allow list I created. I can still go on social media without any restrictions. I deleted the app and redownloaded, but I\u2019m still having the same issue. Any way I can fix this?",
+                "date": "2025-09-16",
+                "value": 18,
+                "potential_idea": "Implement a more robust app-blocking mechanism that includes automatic re-verification and simpler troubleshooting tools for persistent blocking issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 2,
+                "review": "Been using this app on and off for years. No way to edit or manually adjust time. On to other options.",
+                "date": "2025-09-16",
+                "value": 75,
+                "potential_idea": "Introduce a feature allowing users to manually edit or adjust recorded workout times.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 2,
+                "review": "I\u2019ve used this app for years and it is cute, but it doesn\u2019t function anymore. It used to block other apps being opened and the plant would die if you were on focus mode (a big motivator), but it doesn\u2019t work anymore. I need a consequence for when I get out of focus mode.",
+                "date": "2025-09-12",
+                "value": 85,
+                "potential_idea": "Reintroduce and enhance the gamified focus mode with clear consequences and visual indicators for breaking focus.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 2,
+                "review": "Got the app earlier this summer and it\u2019s awesome but just this morning I lost the majority of my progress after some app malfunctions. It\u2019s showing that I\u2019m essentially back at the first couple of days worth of use after unlocking a couple monthly challenges, had over 2K in coins saved with various trees/plants unlocked including several of the 2,000 coin. Bummer about losing the progress but looking forward to restarting a new garden I guess. Please add more achievements for those who\u2019ve been playing for a while too.",
+                "date": "2025-09-08",
+                "value": 85,
+                "potential_idea": "Implement cloud-based automatic progress saving and synchronization to prevent data loss, and introduce advanced/long-term achievement tiers for dedicated players.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Forest: Focus for Productivity",
+                "rating": 1,
+                "review": "I love thee app, but I think it would be a great addition to have more orange, blue, and yellow flowers. The pink is getting boring. ***Edit. I paid for this app, and today, I was logged out for some unknown reason. All of my progress is gone. This is not ok. \ud83d\ude21\ud83d\ude21\ud83d\ude21. It still works on my iPad, but won't on my phone. I need it to work on my phone.  Is this because I said the pink is getting boring?  Please fix this or refund my money.",
+                "date": "2025-09-05",
+                "value": 18,
+                "potential_idea": "Implement robust cloud syncing and data backup to prevent progress loss due to account logouts on multiple devices.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1303222868",
+        "name": "Paprika Recipe Manager 3",
+        "url": "https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 2,
+                "review": "While Paprika\u2019s always been reliable, suddenly on the laptop version, it is impossible to add a new recipe. Please fix the software.",
+                "date": "2025-10-02",
+                "value": 15,
+                "potential_idea": "Implement robust backend error handling and user feedback mechanisms to prevent critical functionality failures and inform users of issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 1,
+                "review": "Can\u2019t figure out how to use it a waste of money",
+                "date": "2025-09-21",
+                "value": 75,
+                "potential_idea": "Improve app onboarding with interactive tutorials and clearer UI explanations.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 1,
+                "review": "I don\u2019t see using this. The User guide and help do not work nothing happens when trying to access them. I have to input so much data by hand I may as well use notes (free) and no known way to import existing data or what file format to use.",
+                "date": "2025-09-18",
+                "value": 75,
+                "potential_idea": "Implement a data import feature to easily migrate existing user data into the app, supporting common file formats like CSV.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 1,
+                "review": "I have vers 1 & 3 and three has stopped working and being told I have to but another license. I tried contacting support but no one has replied in over a month.",
+                "date": "2025-09-14",
+                "value": 15,
+                "potential_idea": "Implement a seamless license transfer or refund system for users who have purchased multiple versions or experienced app discontinuation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 2,
+                "review": "The app had the ability to pull a recipe from a photo. (Like recipe keeper). I downloaded it thinking it could. I wish I could have my $5 back.",
+                "date": "2025-09-01",
+                "value": 70,
+                "potential_idea": "Develop an AI-powered mobile app that accurately extracts recipes from user-uploaded photos, with a clear demonstration of its capabilities before purchase.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 1,
+                "review": "The old version was discontinued and somehow made to crash instantly upon running it and I was forced to buy the new one despite V2 working fine before \nVile greedy anti consumer behavior",
+                "date": "2025-08-31",
+                "value": 15,
+                "potential_idea": "Implement a phased rollout for app updates with a clear communication strategy to avoid user frustration, especially when discontinuing older versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 1,
+                "review": "I did not approve any charges for this app, it is not in my active subscriptions, and yet it is charging me 4.99??",
+                "date": "2025-08-24",
+                "value": 18,
+                "potential_idea": "Implement clearer subscription management and billing transparency within the app to prevent unauthorized charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Paprika Recipe Manager 3",
+                "rating": 1,
+                "review": "Recipe pages get stuck and unable to get to home browsing page even with typing in paprika home page.  Help button not working.  Giving up after about an hour. Requested delete app but not sure if this process provides  refund.",
+                "date": "2025-08-18",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and a reliable 'back' or 'home' navigation option to prevent users from getting stuck within the app.",
+                "tags": [
+                    "bug"
+                ]
             }
         ]
     }
