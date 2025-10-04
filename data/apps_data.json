@@ -861,442 +861,6 @@
         ]
     },
     {
-        "id": "1241909999",
-        "name": "WorkOutDoors",
-        "url": "https://apps.apple.com/us/app/workoutdoors/id1241909999?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 1,
-                "review": "This has been my go to app for over 300 miles. Now, the metrics are way off \u2014 whether the treadmill speed is set at 4 or 6 mph, the watch app is not capturing the correct pace. The watch is calibrated. I ran 15 miles outside with GPS, as I\u2019ve done in the past, only now, when using the app for an indoor run, my pace is 1m 30 sec. off from my outdoor pace \u2014 no matter how fast or slow the treadmill belt speed\u2026 I will no longer use this app if this does not get fixed soon.",
-                "date": "2025-09-10",
-                "value": 75,
-                "potential_idea": "Improve indoor running pace accuracy by developing a more robust algorithm that accounts for treadmill inconsistencies and calibrates against recent outdoor GPS data.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 2,
-                "review": "Since the latest update (6.0.14) this app has consistently froze in the middle of workouts while tracking with Apple Watch.",
-                "date": "2025-09-07",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and data recovery mechanisms to prevent workout interruptions and data loss during app freezes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 1,
-                "review": "Installed the app read thru the instructions and followed all troubleshooting tips and the app just opens up and does nothing want a refund",
-                "date": "2025-09-06",
-                "value": 15,
-                "potential_idea": "Implement a robust in-app diagnostic tool to identify and resolve common issues preventing the app from functioning correctly.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 1,
-                "review": "Update 6.0 erased all my personal settings. Worst of all the metric label fonts (I.e. bpm, %hr, etc.) are now TINY, UNREADABLE and the user can\u2019t change them. How many of your Customers asked you to erase their settings?  How many of your Customers can read the tiny little fonts while running or hiking?  Is this company arrogant or carelessly incompetent?",
-                "date": "2025-08-31",
-                "value": 18,
-                "potential_idea": "Implement a font size adjustment for in-app metric labels to improve readability during outdoor activities.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 1,
-                "review": "I purchased this app for my Apple Watch S9, the maps functionality is so far behind the ability of my $46 knock-off watch it\u2019s almost laughable \u2026 the folks at WorkOutDoors and their mapping functionality are sadly about 15 yrs behind..",
-                "date": "2025-07-22",
-                "value": 85,
-                "potential_idea": "Integrate advanced, high-resolution offline maps with turn-by-turn navigation for the Apple Watch, comparable to desktop-grade mapping applications.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 1,
-                "review": "Not intuitive at all. I would like a refund.",
-                "date": "2025-06-23",
-                "value": 55,
-                "potential_idea": "Implement an interactive onboarding tutorial that guides new users through the app's core functionalities to improve perceived intuitiveness.",
-                "tags": []
-            },
-            {
-                "app_name": "WorkOutDoors",
-                "rating": 2,
-                "review": "This app is good but it should have a button natively on both watch and app to communicate or recalibrate. Like a sync button between the two. I can\u2019t send or receive past workouts on the app to the watch (yes I tried uninstalling and rebooting app. Restarted app on both phone and watch) im on the latest version of iOS and watch OS and they can\u2019t seem to communicate I can\u2019t send a single workout, map, or running screen that I edited on my phone to the watch :/ other than that the potential for this app is really good",
-                "date": "2025-06-08",
-                "value": 75,
-                "potential_idea": "Implement a dedicated sync button for seamless data transfer and recalibration between the mobile app and its watch counterpart, enabling users to send and receive workouts and other data.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "335709058",
-        "name": "Stylebook",
-        "url": "https://apps.apple.com/us/app/stylebook/id335709058?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Stylebook",
-                "rating": 2,
-                "review": "The app is ok. It\u2019s good to visualize what I own. \n\nI would like there to be easier import and export features via .csv so I can import items in mass or update meta data like brand, url and price if I already had it separately logged. I also don\u2019t see why there\u2019s a men\u2019s app sold separately with all the same features. I would like this app to just be able to toggle the app icon and in app theme. \n\nI\u2019d like a desktop companion app too.",
-                "date": "2025-08-17",
-                "value": 75,
-                "potential_idea": "Integrate .csv import/export for bulk item management and combine single-gendered apps into a single app with customizable icons and themes.",
-                "tags": [
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 2,
-                "review": "For some reason, items that I add keep getting erased. I save them and see them in the Closet, then a few days later they are gone. I contacted the developer but it has been two weeks and no response.",
-                "date": "2025-08-17",
-                "value": 18,
-                "potential_idea": "Implement a robust data backup and synchronization system to prevent user data loss and provide proactive conflict resolution.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 2,
-                "review": "I've been using this app for years and the editing was always great. With the new update it has taken a step back. The advanced editing window is tiny (on my iPad anyway) and the zoom in and out feature for getting in close has completely disappeard.",
-                "date": "2025-08-06",
-                "value": 75,
-                "potential_idea": "Introduce a resizable and more robust advanced editing window with improved zoom functionality for iPad users.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 1,
-                "review": "Heard about this app from a recent news article and thought it would be a great way to organize. Read through the details and nowhere does it describe this as a woman\u2019s app. The company makes an app specifically for men, but this is not it. They should make that known in the product details. If I had known, I never would have purchased this. I have absolutely no use for it.",
-                "date": "2025-06-21",
-                "value": 65,
-                "potential_idea": "Clearly label the app's target audience and clearly distinguish it from other gender-specific apps in the app store description and marketing materials.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 1,
-                "review": "Every time i add a link to clip a product from a website the app crashes. This was my favorite feature for adding in new clothes since the image quality was typically better and now I can\u2019t use it",
-                "date": "2025-05-18",
-                "value": 75,
-                "potential_idea": "Implement a more robust link clipping feature with improved image handling to prevent app crashes and ensure seamless product saving.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 2,
-                "review": "I\u2019ve been using this app to organize my closet for years. It\u2019s been straightforward and intuitive. The new update puzzled me because it addresses things that have always worked. One of which adding new images of clothing pieces. I like to thrift and those images usually involve a mannequin. Instead of erasing it, I crop as much of it out and what\u2019s left unobtrusively remains in the picture. Post update, every time I add a new piece, the auto detect feature with erase a few spots in the picture. It\u2019s made adding thrifted pieces a pain. Please let me know how to revert the update.",
-                "date": "2025-05-02",
-                "value": 75,
-                "potential_idea": "Develop intelligent background detection that allows users to manually mark areas to preserve or ignore when automatically cropping images, especially for clothing items with mannequins.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 1,
-                "review": "Syncing seemed like a great upgrade! But even though I first synced my main device, syncing duplicated items and added back items I had deleted. Now I have to go back through every category.  Ugh! I DID NOT SYNC THE DEVICES SIMULTANEOUSLY. IT WAS AT LEAST A WEEK APART.",
-                "date": "2025-05-02",
-                "value": 18,
-                "potential_idea": "Implement a robust sync conflict resolution system that intelligently merges or flags duplicated and deleted items during synchronization, providing users with tools to easily manage discrepancies.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 2,
-                "review": "Tried to input photo of a new pair of sandals and the auto editer took off the entire white platform sole making the shoe look flat and there doesn\u2019t seem to be a way for me to fix it.",
-                "date": "2025-04-23",
-                "value": 70,
-                "potential_idea": "Allow users to manually adjust or undo automatic edits applied by the photo editor, especially for object recognition errors.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 2,
-                "review": "I accidentally downloaded the app and it charged me for the subscription that I never intended to purchase. Now there is not contact info from this app, I am not sure who I can contact, this is annnoying",
-                "date": "2025-04-05",
-                "value": 85,
-                "potential_idea": "Implement a clear and easily accessible 'Contact Us' or 'Support' section within the app, along with a prominent cancellation and refund policy, to address accidental subscriptions and billing issues.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stylebook",
-                "rating": 1,
-                "review": "I\u2019ve been using this app for a while and was pretty disappointed to see the addition of generative AI in the most recent update. You can\u2019t even opt out of the AI auto cropping when you add an item.",
-                "date": "2025-04-03",
-                "value": 50,
-                "potential_idea": "Allow users to disable or customize AI-powered features like auto-cropping within the mobile app.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1505636751",
-        "name": "TeleGuard",
-        "url": "https://apps.apple.com/us/app/teleguard/id1505636751?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "download speeds are abysmal",
-                "date": "2025-09-15",
-                "value": 15,
-                "potential_idea": "Optimize app download and update speeds by implementing a more efficient compression algorithm or a CDN for faster content delivery.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "For some reason out of nowhere none of the videos shared in the app have volume, even the ones sent from my device to the app. It\u2019s very bad and super annoying.",
-                "date": "2025-06-05",
-                "value": 15,
-                "potential_idea": "Implement robust audio playback debugging tools for shared videos to automatically diagnose and resolve volume issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "If you read the reviews looks like many users got banned for participating in illicit groups. TG banned them all, which means they can track, monitor, and see content of these groups, which contradicts its claim of being safe and private. \n\nI wish they could address this",
-                "date": "2025-03-10",
-                "value": 85,
-                "potential_idea": "Develop a truly private and secure messaging app that guarantees end-to-end encryption and anonymity for group communications, preventing third-party access or bans.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "I don\u2019t mean the app (I didnt mind paying for the app but they CHARGE for every phone call",
-                "date": "2025-03-07",
-                "value": 15,
-                "potential_idea": "Offer a tiered subscription model for the app that includes a certain number of calls per month, rather than charging per call.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 2,
-                "review": "The app quits when trying to add phone credit.",
-                "date": "2025-03-01",
-                "value": 18,
-                "potential_idea": "Implement robust error handling and crash reporting to ensure app stability, particularly during critical transactions like adding phone credit.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "Paid for this app a few days ago and got device banned this morning when I woke up to check my messages. If I could give zero stars I would. I highly don\u2019t recommend buying this app.",
-                "date": "2025-02-27",
-                "value": 15,
-                "potential_idea": "Implement a clear and transparent appeals process for device bans to allow users to contest or resolve issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "When I try to register it just says no connection to server over and over and over",
-                "date": "2025-01-20",
-                "value": 10,
-                "potential_idea": "Implement a robust offline registration mode with local data storage that syncs upon reconnection to allow users to register even without immediate server access.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "if i could give it a 0 i would. this app is for CRIMINALS. IT IS FOR CRIMINALS!!!!! THERE IS NO TRACE OF WHAT U DO ON HERE THAT LEADS BACK TO U! ITS DISGUSTING WHAT PEOPLE HAVE SENT ME WITHOUT CONSEQUENCES",
-                "date": "2025-01-19",
-                "value": 15,
-                "potential_idea": "Implement user verification and content moderation features to prevent misuse of the app for criminal activities.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "App stopped working weeks ago. I\u2019ve tried everything to address the \u201cno connection to server\u201d message, including  uninstalling and reinstalling. Nothing.",
-                "date": "2024-12-20",
-                "value": 15,
-                "potential_idea": "Implement robust offline functionality or improved local caching to allow users to access core app features when server connectivity is interrupted.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "I accidentally logged out of my account which I\u2019m not mad about but I\u2019ve tired contacting customer service to help my cause every time for the past 2 weeks when I try to make a new account it repeatedly says \u201cNo connection to server\u201d plz help",
-                "date": "2024-12-16",
-                "value": 75,
-                "potential_idea": "Implement a robust offline mode or improved error handling for account creation to prevent users from being blocked from accessing the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 2,
-                "review": "Went to redownload the app but I cannot connect to the server has been about a month and it\u2019s still not accessible.",
-                "date": "2024-12-13",
-                "value": 15,
-                "potential_idea": "Implement robust server-side monitoring and transparent status updates for users to proactively address and communicate connection issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "The app is definitely a work in progress. It lags ALOT. When trying to send media even if it\u2019s 19 secounds it takes for ever to upload and then even that the download speed is crazy long for something so short. Try to send family from overseas videos and they just take too long. Even a 10 second video I was trying to send saying hello takes for ever. Please update your stuff. There are literally so many apps that have faster download and upload speed than TeleGuard. It might not be working as good but others definitely have their media sending and downloading issue handled. Also if someone is sending media to someone why would they be required to download it manually. It should automatically be downloaded if someone send them something. \n\nOn another note. Why does media expire after a certain amount of time? I heard it was a TeleGuard thing where after two weeks the media will expire. Please remove that or fix it to keep media content on there. \n\nPlease work on that. Like REALLY work on it. Telegram puts yall to shame.",
-                "date": "2024-10-27",
-                "value": 85,
-                "potential_idea": "Introduce an automatic media download option and extend or remove the media expiration policy to improve user experience and content longevity.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 2,
-                "review": "i received some videos & they won\u2019t load & play they keep loading to 100 the. starting back over",
-                "date": "2024-09-30",
-                "value": 15,
-                "potential_idea": "Implement a robust video playback error handling system that provides clear user feedback and retry mechanisms for loading failures.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "App performance is too poor for it to be native performance on my iPhone 14 Pro Max. Either a port or needs an update.",
-                "date": "2024-09-25",
-                "value": 70,
-                "potential_idea": "Optimize app performance for a smoother native-like experience on high-end devices, especially by addressing potential porting issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "The messaging works but uploading pictures or videos doesn\u2019t. Devs should check in on this.",
-                "date": "2024-07-23",
-                "value": 15,
-                "potential_idea": "Implement reliable media uploading functionality for the messaging feature.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 2,
-                "review": "Why does this app need full access of my gallery?",
-                "date": "2024-07-14",
-                "value": 75,
-                "potential_idea": "Implement granular gallery permission controls, allowing users to select specific albums or photos instead of granting full access.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "This has been happening for days and happens too often.",
-                "date": "2024-05-28",
-                "value": 15,
-                "potential_idea": "Implement robust error reporting and user notification system to alert users and developers when a recurring issue occurs within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "For sometime the app did work but now it keep saying \u201cno connection to server\u201d where new feeds are not showing up anymore.",
-                "date": "2024-05-25",
-                "value": 15,
-                "potential_idea": "Implement robust offline caching and synchronization mechanisms for the app to ensure content availability and updates even with intermittent server connectivity.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 1,
-                "review": "Very interesting and promising app but lets say for middle east countries specially iran very poor video and audio call it takes an age to be connected and once its connected be disconnected immediately and quality is so poor",
-                "date": "2023-01-06",
-                "value": 75,
-                "potential_idea": "Optimize video and audio call performance for regions with challenging network conditions, such as Iran and the Middle East.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "TeleGuard",
-                "rating": 2,
-                "review": "The app looks nice and the security aspect of it sounds great. Unfortunately, it is impossible to link my US phone number with the app - I get a \u201cSend approve code error\u201d every time I try. Therefore, I am unable to see any friends which might use this app.\n\nUpdate: \nThe problem with my American cell phone is not due to adding additional 0s as suggested by the developer. The app shows the number correctly in the format +1-XXX-XXX-XXXX before it fails to send me the confirmation text message. Therefore I tried to contact customer support as instructed on their website directly via their Teleguard ID. However, I can\u2019t communicate with them as nobody accepts my \u201cinvitation\u201d. The contact for Teleguard Support shows since 2 weeks in broken English \u201cyou have send invite\u201d.\nI still think this app would be great if it worked, but as of now, it does not work for me at all.",
-                "date": "2022-01-26",
-                "value": 85,
-                "potential_idea": "Implement a robust, multilingual customer support system with clear, accurate error messages for international users, specifically addressing phone number verification issues.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "6449003064",
         "name": "Goblin Tools",
         "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=2",
@@ -1374,283 +938,6 @@
                 "date": "2025-04-17",
                 "value": 14,
                 "potential_idea": "Integrate an in-app button to submit crash reports and request support directly to developers.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6478639011",
-        "name": "Subnautica",
-        "url": "https://apps.apple.com/us/app/subnautica/id6478639011?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Subnautica",
-                "rating": 2,
-                "review": "Hello developers, please fix the bug with rendering after 2 hours of play the game becomes unplayable textures don't load and auto save breaks the whole game with an infinite save icon please fix these bugs",
-                "date": "2025-09-11",
-                "value": 15,
-                "potential_idea": "Implement robust background processes and memory management to prevent rendering and saving issues in long gaming sessions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Subnautica",
-                "rating": 2,
-                "review": "This game is super fun but difficult to play when 1. the graphics don't render\n2. Save game freezes so often it's almost unplayable. This is extremely disappointing for a paid game. Fix it or refund please",
-                "date": "2025-09-04",
-                "value": 15,
-                "potential_idea": "Implement a robust auto-save feature that periodically saves game progress to prevent data loss and user frustration.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Subnautica",
-                "rating": 2,
-                "review": "Would love to have backbone support",
-                "date": "2025-08-29",
-                "value": 70,
-                "potential_idea": "Implement 'backbone support' functionality to allow users to connect and support each other directly within the app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Subnautica",
-                "rating": 2,
-                "review": "When go near the place where ion cube is the game kick me out and I don\u2019t understand",
-                "date": "2025-08-08",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and user-friendly feedback mechanisms to inform players about game disruptions caused by specific in-game elements like 'ion cubes'.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "927098908",
-        "name": "Pro Camera by Moment",
-        "url": "https://apps.apple.com/us/app/pro-camera-by-moment/id927098908?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "I was really disappointed to find out that the Moment camera app doesn\u2019t support the 2x camera. On iOS, the native camera app includes the 2x option, and it\u2019s something I use all the time. Without it, I feel like I can\u2019t get the most out of my device\u2019s camera. I really enjoy the other features Moment offers, but not having access to the 2x lens makes the app feel incomplete and limits its usefulness for me.",
-                "date": "2025-09-28",
-                "value": 75,
-                "potential_idea": "Add support for the 2x telephoto lens to the Moment camera app to provide users with more framing options and access to their device's full camera capabilities.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "I just bought this a couple months ago. Now I see the \u201cexciting news\u201d that they are building a new app instead that I\u2019ll have to buy again, and presumably they will forget about and cease to maintain this one. Feels scammy",
-                "date": "2025-09-24",
-                "value": 55,
-                "potential_idea": "Offer loyal customers a discounted upgrade path to the new app or a free transfer of their purchased features.",
-                "tags": []
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Overall a great app, but a camera app must be reliable, and this one bug keeps me from using it - when the app is out of memory (either automatically or by force-closing), the next time the physical camera is used to launch the app, I just see a black screen. It is still working invisibly, tapping the screen/hitting the physical buttons can take photos, but with no preview or controls available.\n\nOnce this gets fixed, this will be an easy app to recommend!",
-                "date": "2025-09-19",
-                "value": 18,
-                "potential_idea": "Implement robust error handling and recovery mechanisms to prevent black screen issues after memory-related app interruptions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Cancel my membership",
-                "date": "2025-08-11",
-                "value": 15,
-                "potential_idea": "Implement a clear and easily accessible 'Cancel Membership' option within the app.",
-                "tags": []
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Application is very buggy on iPhone 16 Pro. I haven\u2019t used it since my iPhone 15 Pro in over a year and a half when I decided to use and record a video is crashes freezes and close the application so many bugs needs to be fixed.",
-                "date": "2025-08-02",
-                "value": 10,
-                "potential_idea": "Implement robust crash reporting and automated debugging tools to proactively identify and fix bugs affecting user experience, especially on specific device models.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Why is there a green screen effect when I change focus",
-                "date": "2025-07-19",
-                "value": 12,
-                "potential_idea": "Resolve the green screen effect issue during focus changes in the camera to improve user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "How do I switch to macro lens",
-                "date": "2025-05-26",
-                "value": 12,
-                "potential_idea": "Add a clear and accessible button or toggle within the app's camera interface to easily switch to the macro lens.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "I bought this app because I thought it was a professional camera app that allowed me to shoot raw and in manual mode. Turns out that you can\u2019t use this app professionally without first purchasing additional add ons. This app should be called \u201cBarely Intermediate Camera by Moment\u201d. I wish this was steam because I would have immediately requested a refund and never buy from them again.",
-                "date": "2025-04-11",
-                "value": 55,
-                "potential_idea": "Clearly label app features and limitations, particularly regarding paid add-ons for professional use, to manage user expectations.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "I bought the app yesterday for $8.99, and it keeps crashing. Complete ripoff and a fast hustle. Complete ga\u2019bage!",
-                "date": "2025-03-24",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and crash reporting mechanisms to ensure app stability.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "App is very slow, bought to improve small product photography, better off sticking with stock camera app. Video camera feature is also completely bricked and does not work at all, so definitely dont buy if you plan to use for that. Imagine buying one of the $80+ lenses just for the video part of the app to just not work lol",
-                "date": "2025-02-24",
-                "value": 85,
-                "potential_idea": "Introduce a performance optimization and bug fix for the video camera feature to ensure usability and reliability for users investing in premium hardware.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Useless app wont refund me. You cannot get the 48mp in anyway in this in app. Looks elsewhere",
-                "date": "2025-02-16",
-                "value": 18,
-                "potential_idea": "Implement a clear and accessible refunds process for in-app purchases and ensure all advertised camera features, like 48MP resolution, are fully functional and selectable within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "I bought this app to lock white balance white taking product for resale photos in my house.  It looks great when I open the app and it\u2019s on auto WB. But as soon as I touch the slider it introduces a crazy color cast that I can\u2019t override.   It\u2019s usually green. There is no tint option. My mirrorless camera works fine on locked WB in the same room.  This app is unusable for me.   I\u2019ve been trying to use it for weeks.",
-                "date": "2025-01-29",
-                "value": 85,
-                "potential_idea": "Implement a reliable and precise white balance lock feature with a tint adjustment slider to prevent color casts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Why are you debiting my card. I have not used this app for once. And you keep stealing my money",
-                "date": "2025-01-28",
-                "value": 15,
-                "potential_idea": "Implement a clear and easily accessible 'Subscription Management' section that allows users to view active subscriptions, track usage, and cancel services with a single click, along with proactive notifications before recurring charges.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 2,
-                "review": "I have had this app for awhile now and have really enjoyed it but all the manual controls are gone on my app.",
-                "date": "2025-01-17",
-                "value": 15,
-                "potential_idea": "Restore or provide manual control options for users who find them missing.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "I use this app all the time to record videos for YouTube. Recently I keep getting a capture error when I end recording. Come to find out a 20 minute video I filmed is only 3.5 minutes because there was yet another error I was not notified of until after stopping recording. I have to film the entire video over again, can\u2019t trust this app anymore. Will be switching to a new one.",
-                "date": "2024-12-11",
-                "value": 18,
-                "potential_idea": "Implement real-time error detection and in-app notifications during video recording to prevent data loss.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "UI is slow and not user friendly.",
-                "date": "2024-12-04",
-                "value": 50,
-                "potential_idea": "Implement a redesigned, more intuitive and faster user interface for the mobile app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Looking for the bundle can\u2019t find how.",
-                "date": "2024-12-03",
-                "value": 60,
-                "potential_idea": "Implement a clear and easily discoverable 'Bundles' section or filter within the app's navigation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "All day I was recording videos for a trip to Hawaii and none have sound. Horrendous quality app. Do yourself a favor and download Final Cut camera or BlackMagic instead.",
-                "date": "2024-11-29",
-                "value": 70,
-                "potential_idea": "Develop a mobile video recording app with guaranteed audio recording functionality and comparable professional quality to tools like Final Cut Camera or BlackMagic.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "Nothing seems to work with this piece of Junk.",
-                "date": "2024-11-27",
-                "value": 15,
-                "potential_idea": "Implement a comprehensive bug reporting and automated diagnostic tool within the app to better understand and resolve user-reported issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pro Camera by Moment",
-                "rating": 1,
-                "review": "\u7167\u7247\u6a21\u7cca\u4e0d\u6e05\u7121\u7acb\u9ad4\u611f\uff0c\u4e0d\u80fd\u7528\uff0c\u4e5f\u6c92\u6709\u5347\u7d1a\uff0c\u767d\u5316\u9322\u4e86\u3002",
-                "date": "2024-11-11",
-                "value": 90,
-                "potential_idea": "Improve photo clarity and add 3D effects to enhance image quality, addressing user dissatisfaction with current output.",
                 "tags": [
                     "bug"
                 ]
@@ -12976,6 +12263,601 @@
                 "date": "2025-05-28",
                 "value": 15,
                 "potential_idea": "Add controller support for a more immersive gaming experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1241909999",
+        "name": "WorkOutDoors",
+        "url": "https://apps.apple.com/us/app/workoutdoors/id1241909999?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "This has been my go to app for over 300 miles. Now, the metrics are way off \u2014 whether the treadmill speed is set at 4 or 6 mph, the watch app is not capturing the correct pace. The watch is calibrated. I ran 15 miles outside with GPS, as I\u2019ve done in the past, only now, when using the app for an indoor run, my pace is 1m 30 sec. off from my outdoor pace \u2014 no matter how fast or slow the treadmill belt speed\u2026 I will no longer use this app if this does not get fixed soon.",
+                "date": "2025-09-10",
+                "value": 70,
+                "potential_idea": "Develop a robust indoor tracking mode that intelligently adapts to treadmill speed discrepancies and recalibrates pace for indoor runs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 2,
+                "review": "Since the latest update (6.0.14) this app has consistently froze in the middle of workouts while tracking with Apple Watch.",
+                "date": "2025-09-07",
+                "value": 15,
+                "potential_idea": "Implement robust background process management to prevent app freezes during Apple Watch workout tracking after updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "Installed the app read thru the instructions and followed all troubleshooting tips and the app just opens up and does nothing want a refund",
+                "date": "2025-09-06",
+                "value": 18,
+                "potential_idea": "Implement a robust, automated troubleshooting assistant that actively diagnoses and resolves app loading issues.",
+                "tags": []
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "Update 6.0 erased all my personal settings. Worst of all the metric label fonts (I.e. bpm, %hr, etc.) are now TINY, UNREADABLE and the user can\u2019t change them. How many of your Customers asked you to erase their settings?  How many of your Customers can read the tiny little fonts while running or hiking?  Is this company arrogant or carelessly incompetent?",
+                "date": "2025-08-31",
+                "value": 75,
+                "potential_idea": "Implement a font size adjustment setting for in-app metrics to improve readability.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "I purchased this app for my Apple Watch S9, the maps functionality is so far behind the ability of my $46 knock-off watch it\u2019s almost laughable \u2026 the folks at WorkOutDoors and their mapping functionality are sadly about 15 yrs behind..",
+                "date": "2025-07-22",
+                "value": 75,
+                "potential_idea": "Enhance the mobile app's offline mapping and navigation capabilities to rival premium wearable device features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 1,
+                "review": "Not intuitive at all. I would like a refund.",
+                "date": "2025-06-23",
+                "value": 60,
+                "potential_idea": "Implement a guided onboarding tutorial with interactive walkthroughs to simplify the app's initial user experience and reduce the likelihood of refund requests due to confusion.",
+                "tags": []
+            },
+            {
+                "app_name": "WorkOutDoors",
+                "rating": 2,
+                "review": "This app is good but it should have a button natively on both watch and app to communicate or recalibrate. Like a sync button between the two. I can\u2019t send or receive past workouts on the app to the watch (yes I tried uninstalling and rebooting app. Restarted app on both phone and watch) im on the latest version of iOS and watch OS and they can\u2019t seem to communicate I can\u2019t send a single workout, map, or running screen that I edited on my phone to the watch :/ other than that the potential for this app is really good",
+                "date": "2025-06-08",
+                "value": 72,
+                "potential_idea": "Implement a dedicated sync button within the mobile app and its companion watch app to facilitate seamless data transfer (workouts, maps, running screens) between devices, addressing connectivity issues.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "335709058",
+        "name": "Stylebook",
+        "url": "https://apps.apple.com/us/app/stylebook/id335709058?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "The app is ok. It\u2019s good to visualize what I own. \n\nI would like there to be easier import and export features via .csv so I can import items in mass or update meta data like brand, url and price if I already had it separately logged. I also don\u2019t see why there\u2019s a men\u2019s app sold separately with all the same features. I would like this app to just be able to toggle the app icon and in app theme. \n\nI\u2019d like a desktop companion app too.",
+                "date": "2025-08-17",
+                "value": 75,
+                "potential_idea": "Implement bulk import/export via CSV with support for updating metadata (brand, URL, price) and offer theme/icon customization within a single app to consolidate features previously separated into 'men's' and 'women's' versions.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "For some reason, items that I add keep getting erased. I save them and see them in the Closet, then a few days later they are gone. I contacted the developer but it has been two weeks and no response.",
+                "date": "2025-08-17",
+                "value": 12,
+                "potential_idea": "Implement a more robust data synchronization mechanism with explicit save confirmation and a user-accessible backup/restore feature to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "I've been using this app for years and the editing was always great. With the new update it has taken a step back. The advanced editing window is tiny (on my iPad anyway) and the zoom in and out feature for getting in close has completely disappeard.",
+                "date": "2025-08-06",
+                "value": 80,
+                "potential_idea": "Implement a resizable and easily accessible advanced editing window with a robust zoom functionality for mobile and tablet users.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "Heard about this app from a recent news article and thought it would be a great way to organize. Read through the details and nowhere does it describe this as a woman\u2019s app. The company makes an app specifically for men, but this is not it. They should make that known in the product details. If I had known, I never would have purchased this. I have absolutely no use for it.",
+                "date": "2025-06-21",
+                "value": 65,
+                "potential_idea": "Clearly label whether the app is designed for a specific gender or demographic, or if it's intended for general use, in the product description.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "Every time i add a link to clip a product from a website the app crashes. This was my favorite feature for adding in new clothes since the image quality was typically better and now I can\u2019t use it",
+                "date": "2025-05-18",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and automatic recovery for the link clipping feature to prevent app crashes and preserve user data.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "I\u2019ve been using this app to organize my closet for years. It\u2019s been straightforward and intuitive. The new update puzzled me because it addresses things that have always worked. One of which adding new images of clothing pieces. I like to thrift and those images usually involve a mannequin. Instead of erasing it, I crop as much of it out and what\u2019s left unobtrusively remains in the picture. Post update, every time I add a new piece, the auto detect feature with erase a few spots in the picture. It\u2019s made adding thrifted pieces a pain. Please let me know how to revert the update.",
+                "date": "2025-05-02",
+                "value": 60,
+                "potential_idea": "Allow users to disable or adjust the sensitivity of the auto-object detection feature for image uploads.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "Syncing seemed like a great upgrade! But even though I first synced my main device, syncing duplicated items and added back items I had deleted. Now I have to go back through every category.  Ugh! I DID NOT SYNC THE DEVICES SIMULTANEOUSLY. IT WAS AT LEAST A WEEK APART.",
+                "date": "2025-05-02",
+                "value": 75,
+                "potential_idea": "Implement a robust conflict resolution system for syncing that intelligently identifies and merges duplicate or deleted items, preventing data corruption and user frustration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "Tried to input photo of a new pair of sandals and the auto editer took off the entire white platform sole making the shoe look flat and there doesn\u2019t seem to be a way for me to fix it.",
+                "date": "2025-04-23",
+                "value": 70,
+                "potential_idea": "Allow users to manually adjust or undo the automatic edits applied to uploaded photos, especially when the AI misinterprets or aggressively alters key visual elements like product details.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 2,
+                "review": "I accidentally downloaded the app and it charged me for the subscription that I never intended to purchase. Now there is not contact info from this app, I am not sure who I can contact, this is annnoying",
+                "date": "2025-04-05",
+                "value": 75,
+                "potential_idea": "Implement a clear 'Contact Us' or 'Support' section within the app, and a grace period for subscription cancellation to prevent accidental charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stylebook",
+                "rating": 1,
+                "review": "I\u2019ve been using this app for a while and was pretty disappointed to see the addition of generative AI in the most recent update. You can\u2019t even opt out of the AI auto cropping when you add an item.",
+                "date": "2025-04-03",
+                "value": 15,
+                "potential_idea": "Allow users to opt-out of AI-driven features like auto-cropping within the app.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1505636751",
+        "name": "TeleGuard",
+        "url": "https://apps.apple.com/us/app/teleguard/id1505636751?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "download speeds are abysmal",
+                "date": "2025-09-15",
+                "value": 15,
+                "potential_idea": "Implement a download queue with prioritized downloads and background optimization for slower connections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "For some reason out of nowhere none of the videos shared in the app have volume, even the ones sent from my device to the app. It\u2019s very bad and super annoying.",
+                "date": "2025-06-05",
+                "value": 15,
+                "potential_idea": "Implement a robust audio playback debugging tool that helps users diagnose and resolve video volume issues within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "If you read the reviews looks like many users got banned for participating in illicit groups. TG banned them all, which means they can track, monitor, and see content of these groups, which contradicts its claim of being safe and private. \n\nI wish they could address this",
+                "date": "2025-03-10",
+                "value": 75,
+                "potential_idea": "Develop a secure, privacy-focused messaging app that guarantees end-to-end encryption and transparently communicates its data handling policies to users, addressing concerns about content monitoring and bans.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "I don\u2019t mean the app (I didnt mind paying for the app but they CHARGE for every phone call",
+                "date": "2025-03-07",
+                "value": 75,
+                "potential_idea": "Offer a subscription tier for unlimited phone calls within the app.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "The app quits when trying to add phone credit.",
+                "date": "2025-03-01",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting specifically for the phone credit addition feature to ensure smooth transactions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "Paid for this app a few days ago and got device banned this morning when I woke up to check my messages. If I could give zero stars I would. I highly don\u2019t recommend buying this app.",
+                "date": "2025-02-27",
+                "value": 45,
+                "potential_idea": "Implement a clear and accessible appeal process for users who believe they have been wrongfully banned from the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "When I try to register it just says no connection to server over and over and over",
+                "date": "2025-01-20",
+                "value": 15,
+                "potential_idea": "Implement robust offline registration capabilities for users with unstable internet connections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "if i could give it a 0 i would. this app is for CRIMINALS. IT IS FOR CRIMINALS!!!!! THERE IS NO TRACE OF WHAT U DO ON HERE THAT LEADS BACK TO U! ITS DISGUSTING WHAT PEOPLE HAVE SENT ME WITHOUT CONSEQUENCES",
+                "date": "2025-01-19",
+                "value": 40,
+                "potential_idea": "Implement an optional enhanced identity verification or content moderation system to prevent misuse.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "App stopped working weeks ago. I\u2019ve tried everything to address the \u201cno connection to server\u201d message, including  uninstalling and reinstalling. Nothing.",
+                "date": "2024-12-20",
+                "value": 15,
+                "potential_idea": "Proactive server connection monitoring and troubleshooting guide within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "I accidentally logged out of my account which I\u2019m not mad about but I\u2019ve tired contacting customer service to help my cause every time for the past 2 weeks when I try to make a new account it repeatedly says \u201cNo connection to server\u201d plz help",
+                "date": "2024-12-16",
+                "value": 65,
+                "potential_idea": "Implement a robust offline mode or local caching mechanism that allows users to create accounts and access core app functionalities even with intermittent or no server connection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "Went to redownload the app but I cannot connect to the server has been about a month and it\u2019s still not accessible.",
+                "date": "2024-12-13",
+                "value": 15,
+                "potential_idea": "Implement robust server infrastructure and proactive monitoring to ensure sustained app accessibility and user trust.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "The app is definitely a work in progress. It lags ALOT. When trying to send media even if it\u2019s 19 secounds it takes for ever to upload and then even that the download speed is crazy long for something so short. Try to send family from overseas videos and they just take too long. Even a 10 second video I was trying to send saying hello takes for ever. Please update your stuff. There are literally so many apps that have faster download and upload speed than TeleGuard. It might not be working as good but others definitely have their media sending and downloading issue handled. Also if someone is sending media to someone why would they be required to download it manually. It should automatically be downloaded if someone send them something. \n\nOn another note. Why does media expire after a certain amount of time? I heard it was a TeleGuard thing where after two weeks the media will expire. Please remove that or fix it to keep media content on there. \n\nPlease work on that. Like REALLY work on it. Telegram puts yall to shame.",
+                "date": "2024-10-27",
+                "value": 75,
+                "potential_idea": "Implement an automatic media download option for received messages and extend the media expiration period or allow users to choose expiration settings.",
+                "tags": [
+                    "bug",
+                    "valuable opinion",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "i received some videos & they won\u2019t load & play they keep loading to 100 the. starting back over",
+                "date": "2024-09-30",
+                "value": 15,
+                "potential_idea": "Implement an offline caching or download feature for videos to allow playback even with unstable internet connections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "App performance is too poor for it to be native performance on my iPhone 14 Pro Max. Either a port or needs an update.",
+                "date": "2024-09-25",
+                "value": 55,
+                "potential_idea": "Optimize app performance to achieve native-level responsiveness on high-end devices like the iPhone 14 Pro Max.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "The messaging works but uploading pictures or videos doesn\u2019t. Devs should check in on this.",
+                "date": "2024-07-23",
+                "value": 15,
+                "potential_idea": "Implement a robust media uploading feature that reliably supports both pictures and videos within the app's messaging system.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "Why does this app need full access of my gallery?",
+                "date": "2024-07-14",
+                "value": 70,
+                "potential_idea": "Implement granular gallery access permissions, allowing users to select specific albums or photos for the app to access instead of granting full gallery access.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "This has been happening for days and happens too often.",
+                "date": "2024-05-28",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting system with clear severity indicators and targeted communication for users experiencing persistent issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "For sometime the app did work but now it keep saying \u201cno connection to server\u201d where new feeds are not showing up anymore.",
+                "date": "2024-05-25",
+                "value": 15,
+                "potential_idea": "Implement robust offline functionality and visual indicators for connection status to prevent user frustration during server outages.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 1,
+                "review": "Very interesting and promising app but lets say for middle east countries specially iran very poor video and audio call it takes an age to be connected and once its connected be disconnected immediately and quality is so poor",
+                "date": "2023-01-06",
+                "value": 55,
+                "potential_idea": "Optimize app for low-bandwidth regions with enhanced connection stability and quality for video/audio calls.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "The app looks nice and the security aspect of it sounds great. Unfortunately, it is impossible to link my US phone number with the app - I get a \u201cSend approve code error\u201d every time I try. Therefore, I am unable to see any friends which might use this app.\n\nUpdate: \nThe problem with my American cell phone is not due to adding additional 0s as suggested by the developer. The app shows the number correctly in the format +1-XXX-XXX-XXXX before it fails to send me the confirmation text message. Therefore I tried to contact customer support as instructed on their website directly via their Teleguard ID. However, I can\u2019t communicate with them as nobody accepts my \u201cinvitation\u201d. The contact for Teleguard Support shows since 2 weeks in broken English \u201cyou have send invite\u201d.\nI still think this app would be great if it worked, but as of now, it does not work for me at all.",
+                "date": "2022-01-26",
+                "value": 75,
+                "potential_idea": "Implement robust international phone number verification with improved error messaging and customer support accessibility. ",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "TeleGuard",
+                "rating": 2,
+                "review": "-Messages are disappearing \n-Links won\u2019t open",
+                "date": "2021-04-25",
+                "value": 15,
+                "potential_idea": "Implement a robust message recovery system and a reliable link handling mechanism.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6478639011",
+        "name": "Subnautica",
+        "url": "https://apps.apple.com/us/app/subnautica/id6478639011?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "Hello developers, please fix the bug with rendering after 2 hours of play the game becomes unplayable textures don't load and auto save breaks the whole game with an infinite save icon please fix these bugs",
+                "date": "2025-09-11",
+                "value": 55,
+                "potential_idea": "Implement robust automatic save rollback and recovery mechanisms to prevent game-breaking bugs caused by save corruption.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "This game is super fun but difficult to play when 1. the graphics don't render\n2. Save game freezes so often it's almost unplayable. This is extremely disappointing for a paid game. Fix it or refund please",
+                "date": "2025-09-04",
+                "value": 45,
+                "potential_idea": "Implement a robust auto-save feature to prevent progress loss and improve user experience in the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "Would love to have backbone support",
+                "date": "2025-08-29",
+                "value": 85,
+                "potential_idea": "Implement a 'backbone support' feature that automatically categorizes and allows for quick access to frequently used or important app features.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Subnautica",
+                "rating": 2,
+                "review": "When go near the place where ion cube is the game kick me out and I don\u2019t understand",
+                "date": "2025-08-08",
+                "value": 12,
+                "potential_idea": "Implement debugging tools for players to understand why specific in-game events cause crashes or unexpected behavior.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "927098908",
+        "name": "Pro Camera by Moment",
+        "url": "https://apps.apple.com/us/app/pro-camera-by-moment/id927098908?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I was really disappointed to find out that the Moment camera app doesn\u2019t support the 2x camera. On iOS, the native camera app includes the 2x option, and it\u2019s something I use all the time. Without it, I feel like I can\u2019t get the most out of my device\u2019s camera. I really enjoy the other features Moment offers, but not having access to the 2x lens makes the app feel incomplete and limits its usefulness for me.",
+                "date": "2025-09-28",
+                "value": 70,
+                "potential_idea": "Add support for the 2x telephoto lens in the Moment camera app to offer users more photographic flexibility.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I just bought this a couple months ago. Now I see the \u201cexciting news\u201d that they are building a new app instead that I\u2019ll have to buy again, and presumably they will forget about and cease to maintain this one. Feels scammy",
+                "date": "2025-09-24",
+                "value": 75,
+                "potential_idea": "Create a transparent upgrade path or loyalty program for users transitioning to a new app version or a successor product, offering discounted or free access to incentivise continued engagement.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Overall a great app, but a camera app must be reliable, and this one bug keeps me from using it - when the app is out of memory (either automatically or by force-closing), the next time the physical camera is used to launch the app, I just see a black screen. It is still working invisibly, tapping the screen/hitting the physical buttons can take photos, but with no preview or controls available.\n\nOnce this gets fixed, this will be an easy app to recommend!",
+                "date": "2025-09-19",
+                "value": 18,
+                "potential_idea": "Implement robust memory management and error recovery to prevent black screen issues after app crashes or forced closures, ensuring seamless camera functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Cancel my membership",
+                "date": "2025-08-11",
+                "value": 15,
+                "potential_idea": "Implement a clear and easily accessible 'cancel membership' option within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Application is very buggy on iPhone 16 Pro. I haven\u2019t used it since my iPhone 15 Pro in over a year and a half when I decided to use and record a video is crashes freezes and close the application so many bugs needs to be fixed.",
+                "date": "2025-08-02",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated bug fixing tools to ensure application stability on various devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "Why is there a green screen effect when I change focus",
+                "date": "2025-07-19",
+                "value": 15,
+                "potential_idea": "Implement a robust focus adjustment system that avoids visual glitches like green screen effects during camera focus changes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "How do I switch to macro lens",
+                "date": "2025-05-26",
+                "value": 15,
+                "potential_idea": "Provide an in-app guide or tutorial on how to access and use the macro lens feature.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Pro Camera by Moment",
+                "rating": 1,
+                "review": "I bought this app because I thought it was a professional camera app that allowed me to shoot raw and in manual mode. Turns out that you can\u2019t use this app professionally without first purchasing additional add ons. This app should be called \u201cBarely Intermediate Camera by Moment\u201d. I wish this was steam because I would have immediately requested a refund and never buy from them again.",
+                "date": "2025-04-11",
+                "value": 75,
+                "potential_idea": "Develop a 'Pro' version of the camera app that includes RAW and manual mode capabilities, clearly differentiating it from the 'Barely Intermediate' free/basic version.",
                 "tags": [
                     "valuable opinion"
                 ]
