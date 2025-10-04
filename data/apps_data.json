@@ -1381,561 +1381,6 @@
         ]
     },
     {
-        "id": "912536422",
-        "name": "Five Nights at Freddy's",
-        "url": "https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Five Nights at Freddy's",
-                "rating": 1,
-                "review": "It didn\u2019t let me move. All I could do is turn to the left and right I couldn\u2019t even look behind me",
-                "date": "2025-08-21",
-                "value": 15,
-                "potential_idea": "Implement full 360-degree camera control and movement options, including looking behind the user.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's",
-                "rating": 1,
-                "review": "Do not like this game at all. The jump scares are not very good. You can\u2019t move around I do not recommend it if you\u2019re someone who likes to be scared and it cost money which I believe is a total scam and it\u2019s not that fun.",
-                "date": "2025-08-01",
-                "value": 15,
-                "potential_idea": "Develop a horror game with more engaging exploration mechanics and less reliance on predictable jump scares, offering a demo or a free tier to address concerns about perceived value.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "575154654",
-        "name": "Pou",
-        "url": "https://apps.apple.com/us/app/pou/id575154654?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "It took 3.23 cents off my card then a 1.99 . Why did it take a total of 5 dollars when it was only suppose to take 1.99 ?",
-                "date": "2025-09-25",
-                "value": 75,
-                "potential_idea": "Implement clear and transparent per-transaction fee breakdowns within the app to show users exactly why charges are incurred.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 2,
-                "review": "I started playing Pou a while ago.But my complaints start at where everything is so expensive!! And I have to do level ups to unlock stuff but it\u2019s sooooo hard to level up!!! I hate this game sometimes",
-                "date": "2025-08-05",
-                "value": 65,
-                "potential_idea": "Introduce a 'daily challenge' or 'login bonus' system to provide users with more opportunities to earn in-game currency or experience points, thereby alleviating the frustration of high costs and slow leveling.",
-                "tags": []
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "If i payed for this app why am i getting adds ols let me know why i amm i will not tolerate it i  paid",
-                "date": "2025-06-07",
-                "value": 75,
-                "potential_idea": "Implement a premium ad-free subscription tier for users who have already paid for the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "there\u2019s literally no sound at all",
-                "date": "2025-05-24",
-                "value": 15,
-                "potential_idea": "Implement robust audio playback functionality with clear sound output and volume controls.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "I tried to play Pou with sis on my phone and my sis went on her iPad and we were so close that both of our pous were talking to each other we got so scared that I deleted this game and forgot I had to pay to play I have waisted all of my money now my broke",
-                "date": "2025-04-19",
-                "value": 65,
-                "potential_idea": "Implement a local co-op or remote play mode for Pou that allows two players to interact with their respective Pous simultaneously on different devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "i bought this game with my first paycheck and this is horrible. i want a refund. why do i have to pay for money? i should have infinite money since i already payed once. not to mention it always crashes on me. and has ad?? like hello that\u2019s so stupid. i want a refund. NOW!",
-                "date": "2025-03-23",
-                "value": 80,
-                "potential_idea": "Develop a premium version of the game that offers an ad-free experience and a one-time purchase for unlimited in-game currency.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Pou",
-                "rating": 1,
-                "review": "POU IS A YIT YIT",
-                "date": "2025-02-17",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "640364616",
-        "name": "Terraria",
-        "url": "https://apps.apple.com/us/app/terraria/id640364616?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "I can\u2019t even load into this game when I click on the app. My screen goes pitch black",
-                "date": "2025-09-27",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and load time optimization to prevent app crashes and black screen issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "The game has become completely unplayable on iPad with Magic Keyboard, might be a OS issue but super unfortunate. 5 star game, just leaving this hopping for an update.",
-                "date": "2025-09-24",
-                "value": 18,
-                "potential_idea": "Develop an optimized game mode or specific control scheme for tablet users with external keyboards to ensure seamless gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Game plays horrible compared to how it did 10 years ago. Mines the wrong blocks and places blocks in random places that you aren\u2019t aiming for no reason and is just overall horrible compared to how it was. Why did you have to ruin it? Because this version is cheaper than the Xbox or pc version?",
-                "date": "2025-09-23",
-                "value": 75,
-                "potential_idea": "Revert the mobile game mechanics to their original, more accurate state from 10 years ago, or offer an option to switch between the old and new control schemes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "Why are the controls different! I don\u2019t understand these new controls. I played like 10 years ago and I could just hold down the attack button and it would auto attack. I had an inventory on the bottom and now it\u2019s a bag at the top. Not sure if there\u2019s a way to layout it all out so it\u2019s like the old controls but idk if I care enough to watch a yt vid to figure it out. I was hoping it\u2019d be the same feeling",
-                "date": "2025-09-21",
-                "value": 78,
-                "potential_idea": "Offer an option to revert to classic game controls and UI layout for returning players.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "Its been 3 years since 1.4.5 was announced and literally nothing has happened. i quit dont get this game if you want to wait 10 years for the next update.",
-                "date": "2025-09-13",
-                "value": 55,
-                "potential_idea": "Implement a transparent roadmap for app development and regular update announcements to manage user expectations.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "The controls are so bad I could only play for about 30min. Probably a lot better on PC.",
-                "date": "2025-08-21",
-                "value": 70,
-                "potential_idea": "Implement a customizable virtual joystick and button layout for mobile gaming to improve touch controls.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Super clunky experience for new players. maybe if better for experienced players. can\u2019t imagine its great",
-                "date": "2025-07-31",
-                "value": 70,
-                "potential_idea": "Implement a guided onboarding tutorial for new users to navigate complex features and improve the initial user experience.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Was almost endgame and working on beating the moon lord with a master character but now all my progress is gone",
-                "date": "2025-07-14",
-                "value": 90,
-                "potential_idea": "Implement robust cloud save/backup functionality for mobile games to prevent data loss, especially for challenging game modes or long-term progress.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 2,
-                "review": "\u0421\u0430\u043c\u043e\u0435 \u043d\u0435\u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u043d\u0441\u043e\u0440\u0435 \u044d\u0432\u0435\u0440)",
-                "date": "2025-07-13",
-                "value": 65,
-                "potential_idea": "Introduce customizable gesture controls for improved in-app navigation and interaction.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Terraria",
-                "rating": 1,
-                "review": "Terrible controls bring back old ones!",
-                "date": "2025-07-13",
-                "value": 75,
-                "potential_idea": "Allow users to switch between old and new control schemes in the app.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "763692274",
-        "name": "Grand Theft Auto: San Andreas",
-        "url": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Cuando me uno el juego no me carga y me saca y tengo que instalar y desinstalar",
-                "date": "2025-10-02",
-                "value": 75,
-                "potential_idea": "Implement robust error handling and recovery mechanisms to prevent game crashes and persistent installation/uninstallation loops for users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 2,
-                "review": "Al manejar tiende a irse a la derecha el volante\nYo juego con los botones tactiles, no es por una palanca vieja de control \ud83c\udfae pagu\u00e9 7 d\u00f3lares para que??? Para que al subirme a los carros y hacer las misiones solo tenga que estar corrigiendo el volante",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement an auto-correction or auto-steering assistance feature for mobile racing games that compensates for persistent steering drift when using touch controls.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "i love this game without a doubt in my mind but i dont appreciate buying it when i closed the app and opened it back up it wouldn\u2019t load me in, it would keep closing the app entirely!",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement robust session management and error handling to prevent app crashes upon reopening, ensuring a seamless return to the user's game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "It has a glitch in it! \nOn spray Tags",
-                "date": "2025-09-19",
-                "value": 10,
-                "potential_idea": "Implement a robust error handling and reporting system for specific in-app features like 'spray tags' to automatically log and potentially resolve glitches.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "\u0627\u0644\u0644\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u062a\u062e\u0631\u062c \u0644\u0645\u0627 \u0627\u062f\u062e\u0644 \u0641\u064a\u0647\u0627",
-                "date": "2025-09-14",
-                "value": 5,
-                "potential_idea": "Implement robust error handling and crash reporting to prevent the app from crashing when users try to launch it.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Tuve que borrar el proceso y comenzar desde cero, el juego est\u00e1 teniendo problema se congela mucho",
-                "date": "2025-09-11",
-                "value": 70,
-                "potential_idea": "Implement a robust system for saving game progress automatically and frequently to prevent data loss due to game freezes.",
-                "tags": []
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 2,
-                "review": "I loved playing this game around 2020 it was my favorite but now there are no more pedestrians roaming around and I really loved the mixtape feature which was also sadly removed.  Hopefully this game will fix this issues.  I know the mixtape one is pretty minor and doesn\u2019t affect gameplay but it was still a nice feature.",
-                "date": "2025-09-07",
-                "value": 60,
-                "potential_idea": "Reintroduce and enhance the 'mixtape' feature for users to create and share custom audio playlists within the game, and optionally bring back dynamic pedestrian populations.",
-                "tags": [
-                    "no update for long time",
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "IT CRASHES WHEN I TAP ON THE RESUME BUTTON",
-                "date": "2025-09-07",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and crash reporting to identify and fix critical bugs like the one experienced with the resume button.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Rockstar if you see this, please fix this game, every time I drive cars go super fast and it blows up my car, you also need to fix the problem of not having any ambulances or firetrucks spawn, and one more thing when gang wars are active after Doberman or Homecoming the dialogue is disabled. Please fix these issues",
-                "date": "2025-08-21",
-                "value": 18,
-                "potential_idea": "Implement a car handling adjustment for driving mechanics that prevents vehicles from accelerating uncontrollably and exploding, and ensure emergency vehicles and gang war dialogue function correctly to improve gameplay immersion and stability.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Tons of glitches, was fine before last update. FIX IT for goodness sake.",
-                "date": "2025-08-19",
-                "value": 15,
-                "potential_idea": "Implement a robust rollback feature to revert to a previous stable version after problematic updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 2,
-                "review": "Been playing for a while now managed to accumulate millions and just gambling, but once I did that the game itself started bugging out, have been unable to play it",
-                "date": "2025-08-17",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and debugging tools within the app to prevent game-breaking bugs, especially after users accumulate significant in-game progress.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Absolutely furious. I have been playing and enjoying the game for some time. Just the other day, when I tried to launch my saved game, the app abruptly quit during the loading screen. Thinking it was a fluke, I tried again. And again. Days later, it\u2019s still crashing during load. I\u2019m furious. I didn\u2019t create a rockstar account, so nothing was backed up to the cloud. What a disappointment.",
-                "date": "2025-08-13",
-                "value": 18,
-                "potential_idea": "Implement robust cloud saving and backup options for game progress to prevent data loss and ensure seamless game continuation across devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Grand Theft Auto: San Andreas",
-                "rating": 1,
-                "review": "Great emulation of the original, but now the app has stoped working on my iPhone 16. I see it\u2019s not \u201cofficially\u201d supported\u2026 but wth bro you\u2019ve gotta update so it runs on newer phones!!",
-                "date": "2025-08-10",
-                "value": 70,
-                "potential_idea": "Ensure app compatibility and functionality on the latest iPhone models to prevent user disruption.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1164801111",
-        "name": "AutoSleep Track Sleep on Watch",
-        "url": "https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "This hasn\u2019t kept my nightly sleep record in months",
-                "date": "2025-10-02",
-                "value": 55,
-                "potential_idea": "Implement robust data synchronization and backup for sleep tracking data to prevent loss.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Alarms no longer work in ios26 and the developer has not addressed the issue.",
-                "date": "2025-09-27",
-                "value": 15,
-                "potential_idea": "Implement robust background alarm functionality that is resilient to OS updates and remains reliable across different iOS versions.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Even though I\u2019ve unsubscribed it still charges for the subscription. Beware that you will not be able to cancel.",
-                "date": "2025-09-27",
-                "value": 95,
-                "potential_idea": "Implement a clear, multi-step confirmation process for subscription cancellations, including an immediate confirmation email and an easy way to verify cancellation status within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Does not work since the latest update. Horrible timing since apple just buffed up the Health app and I\u2019m just going to switch to the native Health app.",
-                "date": "2025-09-25",
-                "value": 45,
-                "potential_idea": "Implement robust background syncing and data backup for offline access, ensuring continued functionality even after app updates or device issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Used to be my favorite app to track sleep, now it never works. Constantly gives an error with zero info. Delete app and redownload, it\u2019ll work for a day. Then back to an error every day after that. Rinse and repeat. All the info shows up fine in the health app.",
-                "date": "2025-09-23",
-                "value": 15,
-                "potential_idea": "Implement a robust error reporting and automated troubleshooting system that proactively identifies and resolves recurring technical issues within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "Why is this app no longer available on Apple Watches?",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Restore and enhance the mobile app's functionality on Apple Watches.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "AutoSleep Track Sleep on Watch",
-                "rating": 1,
-                "review": "After years of good syncing history, suddenly syncs about only 1/3 of days. iOS issue perhaps? Disturbing at best.",
-                "date": "2025-09-21",
-                "value": 70,
-                "potential_idea": "Implement a robust, real-time synchronization status indicator and troubleshooting guide within the app to clearly communicate sync success/failure and offer self-help solutions.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1581140954",
-        "name": "Noir - Dark Mode for Safari",
-        "url": "https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "When you enable this is says it can read and alter what\u2019s plinth screens including passwords and cards",
-                "date": "2025-09-30",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 25,
-                    "feasibility": 20,
-                    "total": 80
-                },
-                "potential_idea": "Implement a clear, accessible privacy dashboard that details exactly what data the app accesses and its purpose, with explicit user consent options for each permission.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "Doesn\u2019t work on in-app versions of Safari and the \u201ccontact us\u201d section in the app doesn\u2019t even bother to load an email address when it opens the email app. Waste of money.",
-                "date": "2025-09-26",
-                "value": 15,
-                "potential_idea": "Implement a robust in-app browser compatibility check and a functional 'contact us' feature that automatically populates the email client.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "\u62c5\u5fc3\u6570\u636e\u5b89\u5168\u95ee\u9898\uff0c\u7533\u8bf7\u9000\u6b3e\u4e0d\u901a\u8fc7\uff0c\u90a3\u5c31\u5dee\u8bc4\u55bd\uff5e",
-                "date": "2025-09-09",
-                "value": 15,
-                "potential_idea": "Implement a clear and customer-friendly refund policy with an easily accessible refund request process for users concerned about data security.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 2,
-                "review": "Noir works flawlessly on Safari proper. Unfortunately, it doesn\u2019t work when Safari is launched with an app. For example, clicking a link in an X post, Safari slides open, but no noir.",
-                "date": "2025-07-02",
-                "value": 75,
-                "potential_idea": "Extend Noir's dark mode functionality to function within in-app browsers launched from other applications.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 1,
-                "review": "I've had noir for years and just realized how good it really is!!",
-                "date": "2025-06-13",
-                "value": 15,
-                "potential_idea": "Introduce a 'hidden gems' feature to highlight underappreciated functionalities or aspects of the app that long-time users might not be aware of.",
-                "tags": []
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 2,
-                "review": "Appreciate the dark mode but don\u2019t trust the app. Understand it needs access to change darkness but it shouldn\u2019t be asking for access to a password manager. Didn\u2019t even visit that website. Was browsing the news when it asked. Very suspect. Feels like data mining/major invasion for a paid app. Deleting.",
-                "date": "2025-04-11",
-                "value": 70,
-                "potential_idea": "Implement granular permission controls for the app, allowing users to explicitly deny access to sensitive data like password managers and providing clear explanations for requested permissions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Noir - Dark Mode for Safari",
-                "rating": 2,
-                "review": "Update 3/27/25: I really appreciate the devs responding and I also really really liked the app (as you can see from my crazy long review below), but I had to eventually un-install it a from my shortcuts a few days after DL.    \n\nWhen I had it installed (I have an iPhone 15 pro max, so not a old-ish iPhone btw. Also I use safari as my phone Internet browser) web pages would not load correctly. I would have to re-load the web pages pretty much all the time or sometimes re-loading wouldn\u2019t work and everything on the page would just look wonky. I really wanted this to work because like I said in my review, I have light sensitivity & I prefer my phone to be on dark mode (I can read everything better and it doesn\u2019t hurt my eyes so much) and some websites are now having options to be able to change to dark mode or will automatically change if that is your phones settings. But the majority don\u2019t have that yet so their background will be white. I have \u201cnight shift\u201d turned on for websites like that, but sometimes it\u2019s not enough and still will hurt my eyes/give me a headache. \n\nAnyways, it just didn\u2019t work for me. I had to un-install it because I was getting too frustrated with having to re-load sites, sites looking super weird and sites crashing all the time. I wasn\u2019t really sure what was going wrong but I thought maybe it had something to do with the noir extension and as soon as I turned it off safari started working fine. \nBummed!\n\u2014\u2014\u2014-\n\nJust purchased the app and I felt like I had to write a review to tell the devs thank you! I have really bad photophobia/light sensitivity, especially in the evening & at night, that causes super bad headaches and makes my eyes ache and hurt. I switch anything I can to dark mode, night shift etc. I even sometimes wear these goofy light sensitivity glasses (they block specific wavelengths of light). For a long time now I was so annoyed I couldn\u2019t change all of safari on dark mode (a few websites I could but that\u2019s it). I found this app randomly tonight and immediately bought and downloaded it. The instructions to install it on safari were very clear and I had it up and running in just a few minutes. The app also has other colors/themes you can choose besides just black which I thought was pretty cool if someone wants to change it to sepia instead or something. Also the app itself looks really nice and I thought for what it does I would have paid more than $3 for it so I appreciate the devs for keeping it at that price. Anyways, ty to the devs for making this!!",
-                "date": "2025-03-29",
-                "value": 70,
-                "potential_idea": "Develop an advanced dark mode browser extension that prioritizes seamless website rendering and offers customizable color themes beyond simple black inversion.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1400579543",
         "name": "imo video calls and chat HD",
         "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543?uo=2",
@@ -13009,6 +12454,603 @@
                 "date": "2025-02-01",
                 "value": 70,
                 "potential_idea": "Reintroduce and improve the moon-finding algorithm to restore previous accuracy and reliability for astronomical observation apps.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "912536422",
+        "name": "Five Nights at Freddy's",
+        "url": "https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Five Nights at Freddy's",
+                "rating": 1,
+                "review": "It didn\u2019t let me move. All I could do is turn to the left and right I couldn\u2019t even look behind me",
+                "date": "2025-08-21",
+                "value": 15,
+                "potential_idea": "Implement 360-degree camera control and forward/backward movement for enhanced immersion in the mobile app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's",
+                "rating": 1,
+                "review": "Do not like this game at all. The jump scares are not very good. You can\u2019t move around I do not recommend it if you\u2019re someone who likes to be scared and it cost money which I believe is a total scam and it\u2019s not that fun.",
+                "date": "2025-08-01",
+                "value": 30,
+                "potential_idea": "Develop a mobile horror game with engaging exploration mechanics and improved, less predictable jump scares.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "575154654",
+        "name": "Pou",
+        "url": "https://apps.apple.com/us/app/pou/id575154654?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "It took 3.23 cents off my card then a 1.99 . Why did it take a total of 5 dollars when it was only suppose to take 1.99 ?",
+                "date": "2025-09-25",
+                "value": 70,
+                "potential_idea": "Provide a transparent breakdown of all charges and fees before a transaction is finalized.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 2,
+                "review": "I started playing Pou a while ago.But my complaints start at where everything is so expensive!! And I have to do level ups to unlock stuff but it\u2019s sooooo hard to level up!!! I hate this game sometimes",
+                "date": "2025-08-05",
+                "value": 60,
+                "potential_idea": "Introduce a more accessible progression system or in-game currency options in Pou to address user frustration with high costs and difficult level-ups.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "If i payed for this app why am i getting adds ols let me know why i amm i will not tolerate it i  paid",
+                "date": "2025-06-07",
+                "value": 75,
+                "potential_idea": "Implement a version of the app that is completely ad-free for users who have paid for a premium subscription.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "there\u2019s literally no sound at all",
+                "date": "2025-05-24",
+                "value": 15,
+                "potential_idea": "Implement a robust audio debugging tool that allows users to test and troubleshoot sound issues within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "I tried to play Pou with sis on my phone and my sis went on her iPad and we were so close that both of our pous were talking to each other we got so scared that I deleted this game and forgot I had to pay to play I have waisted all of my money now my broke",
+                "date": "2025-04-19",
+                "value": 75,
+                "potential_idea": "Implement a safe, optional local multiplayer mode for Pou that prevents unintended cross-device interaction and offers clear refund/account recovery options for accidental purchases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "i bought this game with my first paycheck and this is horrible. i want a refund. why do i have to pay for money? i should have infinite money since i already payed once. not to mention it always crashes on me. and has ad?? like hello that\u2019s so stupid. i want a refund. NOW!",
+                "date": "2025-03-23",
+                "value": 95,
+                "potential_idea": "Implement an in-game currency system that offers a one-time purchase for unlimited in-game currency to avoid pay-to-win mechanics and recurring in-app purchases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "POU IS A YIT YIT",
+                "date": "2025-02-17",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": []
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "I really love this app but when you pay for an app you expect it to work. On my brothers page and mine Pou doesn\u2019t gain energy when you put him to sleep like they used to. So now we\u2019re stuck having to waste coins every time to increase energy.",
+                "date": "2025-01-24",
+                "value": 15,
+                "potential_idea": "Implement a 'manual energy boost' option that doesn't require in-app currency for users experiencing bugs with automatic energy regeneration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "This game have a camera a can locate you address!!! Be safe",
+                "date": "2024-12-22",
+                "value": 20,
+                "potential_idea": "Develop a mobile game with a privacy-focused mode that simulates location tracking without actually accessing the user's real-time address, to teach users about online privacy risks.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "No funciona el micr\u00f3fono",
+                "date": "2024-12-19",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and user feedback mechanisms for microphone functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Pou",
+                "rating": 1,
+                "review": "Charges your card fraudelently and does nothing to help you or refund you and is condescending. Do not download!",
+                "date": "2024-10-28",
+                "value": 18,
+                "potential_idea": "Implement a robust and transparent dispute resolution process with clear escalation paths and human support for fraudulent charges.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "640364616",
+        "name": "Terraria",
+        "url": "https://apps.apple.com/us/app/terraria/id640364616?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "I can\u2019t even load into this game when I click on the app. My screen goes pitch black",
+                "date": "2025-09-27",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and crash reporting to quickly identify and resolve loading issues that prevent users from accessing the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "The game has become completely unplayable on iPad with Magic Keyboard, might be a OS issue but super unfortunate. 5 star game, just leaving this hopping for an update.",
+                "date": "2025-09-24",
+                "value": 15,
+                "potential_idea": "Enhance app compatibility and input handling for external keyboards, specifically on iPads with Magic Keyboard.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Game plays horrible compared to how it did 10 years ago. Mines the wrong blocks and places blocks in random places that you aren\u2019t aiming for no reason and is just overall horrible compared to how it was. Why did you have to ruin it? Because this version is cheaper than the Xbox or pc version?",
+                "date": "2025-09-23",
+                "value": 70,
+                "potential_idea": "Restore the original game mechanics and touch controls experienced by long-time players, emphasizing polish and accuracy over cost-cutting.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "Why are the controls different! I don\u2019t understand these new controls. I played like 10 years ago and I could just hold down the attack button and it would auto attack. I had an inventory on the bottom and now it\u2019s a bag at the top. Not sure if there\u2019s a way to layout it all out so it\u2019s like the old controls but idk if I care enough to watch a yt vid to figure it out. I was hoping it\u2019d be the same feeling",
+                "date": "2025-09-21",
+                "value": 75,
+                "potential_idea": "Allow users to customize in-game controls and UI layouts to match previous versions of the app or personal preferences.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "Its been 3 years since 1.4.5 was announced and literally nothing has happened. i quit dont get this game if you want to wait 10 years for the next update.",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Implement a clear and predictable roadmap with regular update announcements to manage user expectations and re-engage a lapsed user base.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "The controls are so bad I could only play for about 30min. Probably a lot better on PC.",
+                "date": "2025-08-21",
+                "value": 75,
+                "potential_idea": "Implement customizable touch controls and controller support for mobile games to improve playability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Super clunky experience for new players. maybe if better for experienced players. can\u2019t imagine its great",
+                "date": "2025-07-31",
+                "value": 75,
+                "potential_idea": "Implement an onboarding tutorial and guided challenges for new users to ease them into complex application features.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Was almost endgame and working on beating the moon lord with a master character but now all my progress is gone",
+                "date": "2025-07-14",
+                "value": 85,
+                "potential_idea": "Implement robust cloud-based save synchronization with automatic backups to prevent data loss in mobile games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 2,
+                "review": "\u0421\u0430\u043c\u043e\u0435 \u043d\u0435\u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u043d\u0441\u043e\u0440\u0435 \u044d\u0432\u0435\u0440)",
+                "date": "2025-07-13",
+                "value": 45,
+                "potential_idea": "Implement an advanced gesture-based control system with customizable sensitivity and gesture mapping for improved mobile app navigation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Terraria",
+                "rating": 1,
+                "review": "Terrible controls bring back old ones!",
+                "date": "2025-07-13",
+                "value": 15,
+                "potential_idea": "Allow users to switch between different control schemes, including a customizable or classic option.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "763692274",
+        "name": "Grand Theft Auto: San Andreas",
+        "url": "https://apps.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Cuando me uno el juego no me carga y me saca y tengo que instalar y desinstalar",
+                "date": "2025-10-02",
+                "value": 15,
+                "potential_idea": "Implement a robust automatic game repair or cache clearing function to resolve loading issues without requiring uninstallation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "Al manejar tiende a irse a la derecha el volante\nYo juego con los botones tactiles, no es por una palanca vieja de control \ud83c\udfae pagu\u00e9 7 d\u00f3lares para que??? Para que al subirme a los carros y hacer las misiones solo tenga que estar corrigiendo el volante",
+                "date": "2025-09-29",
+                "value": 12,
+                "potential_idea": "Implement haptic feedback for steering attempts to provide a more intuitive and responsive control experience in driving games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "i love this game without a doubt in my mind but i dont appreciate buying it when i closed the app and opened it back up it wouldn\u2019t load me in, it would keep closing the app entirely!",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement robust session management and error handling to prevent crashes upon app reopening after purchase, ensuring a seamless user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "It has a glitch in it! \nOn spray Tags",
+                "date": "2025-09-19",
+                "value": 10,
+                "potential_idea": "Implement a robust error handling and debugging system for the 'spray tags' feature to prevent glitches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "\u0627\u0644\u0644\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u062a\u062e\u0631\u062c \u0644\u0645\u0627 \u0627\u062f\u062e\u0644 \u0641\u064a\u0647\u0627",
+                "date": "2025-09-14",
+                "value": 12,
+                "potential_idea": "Implement robust crash reporting and error logging to identify and fix app instability issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Tuve que borrar el proceso y comenzar desde cero, el juego est\u00e1 teniendo problema se congela mucho",
+                "date": "2025-09-11",
+                "value": 18,
+                "potential_idea": "Implement a robust auto-save feature to prevent progress loss in the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "I loved playing this game around 2020 it was my favorite but now there are no more pedestrians roaming around and I really loved the mixtape feature which was also sadly removed.  Hopefully this game will fix this issues.  I know the mixtape one is pretty minor and doesn\u2019t affect gameplay but it was still a nice feature.",
+                "date": "2025-09-07",
+                "value": 60,
+                "potential_idea": "Restore and enhance the 'mixtape' feature in the game, allowing users to create and share custom playlists.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "IT CRASHES WHEN I TAP ON THE RESUME BUTTON",
+                "date": "2025-09-07",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting for all interactive elements to ensure app stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Rockstar if you see this, please fix this game, every time I drive cars go super fast and it blows up my car, you also need to fix the problem of not having any ambulances or firetrucks spawn, and one more thing when gang wars are active after Doberman or Homecoming the dialogue is disabled. Please fix these issues",
+                "date": "2025-08-21",
+                "value": 15,
+                "potential_idea": "Implement a stable vehicle physics system that prevents cars from accelerating uncontrollably and ensure proper AI spawning of emergency vehicles and functional dialogue during gang wars.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Tons of glitches, was fine before last update. FIX IT for goodness sake.",
+                "date": "2025-08-19",
+                "value": 15,
+                "potential_idea": "Develop a robust rollback feature that allows users to revert to a previous stable version of the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 2,
+                "review": "Been playing for a while now managed to accumulate millions and just gambling, but once I did that the game itself started bugging out, have been unable to play it",
+                "date": "2025-08-17",
+                "value": 15,
+                "potential_idea": "Implement robust in-game currency management and error handling for large sums to prevent game-breaking bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Absolutely furious. I have been playing and enjoying the game for some time. Just the other day, when I tried to launch my saved game, the app abruptly quit during the loading screen. Thinking it was a fluke, I tried again. And again. Days later, it\u2019s still crashing during load. I\u2019m furious. I didn\u2019t create a rockstar account, so nothing was backed up to the cloud. What a disappointment.",
+                "date": "2025-08-13",
+                "value": 18,
+                "potential_idea": "Implement robust cloud save functionality with clear user prompts for account creation to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Grand Theft Auto: San Andreas",
+                "rating": 1,
+                "review": "Great emulation of the original, but now the app has stoped working on my iPhone 16. I see it\u2019s not \u201cofficially\u201d supported\u2026 but wth bro you\u2019ve gotta update so it runs on newer phones!!",
+                "date": "2025-08-10",
+                "value": 15,
+                "potential_idea": "Update the mobile app to ensure compatibility with the latest iOS versions and future iPhone models to maintain consistent user experience.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1164801111",
+        "name": "AutoSleep Track Sleep on Watch",
+        "url": "https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "This hasn\u2019t kept my nightly sleep record in months",
+                "date": "2025-10-02",
+                "value": 75,
+                "potential_idea": "Implement a reliable and persistent sleep tracking feature that automatically records nightly sleep data without user intervention.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Alarms no longer work in ios26 and the developer has not addressed the issue.",
+                "date": "2025-09-27",
+                "value": 60,
+                "potential_idea": "Implement a robust background task management system to ensure critical app functions like alarms reliably operate across all iOS versions and updates.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Even though I\u2019ve unsubscribed it still charges for the subscription. Beware that you will not be able to cancel.",
+                "date": "2025-09-27",
+                "value": 75,
+                "potential_idea": "Implement a more robust and transparent subscription cancellation process with clear confirmation and deactivation notifications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Does not work since the latest update. Horrible timing since apple just buffed up the Health app and I\u2019m just going to switch to the native Health app.",
+                "date": "2025-09-25",
+                "value": 65,
+                "potential_idea": "Develop a seamless data migration tool to transfer user data from the app to competing health platforms like Apple Health.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Used to be my favorite app to track sleep, now it never works. Constantly gives an error with zero info. Delete app and redownload, it\u2019ll work for a day. Then back to an error every day after that. Rinse and repeat. All the info shows up fine in the health app.",
+                "date": "2025-09-23",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and persistent data synchronization for sleep tracking to ensure reliable daily functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "Why is this app no longer available on Apple Watches?",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Reintroduce the mobile app's functionality to Apple Watches to cater to existing users who miss the convenience.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "AutoSleep Track Sleep on Watch",
+                "rating": 1,
+                "review": "After years of good syncing history, suddenly syncs about only 1/3 of days. iOS issue perhaps? Disturbing at best.",
+                "date": "2025-09-21",
+                "value": 70,
+                "potential_idea": "Implement a robust, real-time sync status indicator and troubleshooting guide to help users diagnose and resolve syncing issues.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1581140954",
+        "name": "Noir - Dark Mode for Safari",
+        "url": "https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "When you enable this is says it can read and alter what\u2019s plinth screens including passwords and cards",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement enhanced security transparency features that clearly explain app permissions and their implications for user data.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "Doesn\u2019t work on in-app versions of Safari and the \u201ccontact us\u201d section in the app doesn\u2019t even bother to load an email address when it opens the email app. Waste of money.",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Implement a robust in-app browser compatibility layer for Safari and fix the 'contact us' email link to pre-populate a working email address.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "\u62c5\u5fc3\u6570\u636e\u5b89\u5168\u95ee\u9898\uff0c\u7533\u8bf7\u9000\u6b3e\u4e0d\u901a\u8fc7\uff0c\u90a3\u5c31\u5dee\u8bc4\u55bd\uff5e",
+                "date": "2025-09-09",
+                "value": 60,
+                "potential_idea": "Implement a clear and transparent refund policy with an accessible refund request process within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Noir works flawlessly on Safari proper. Unfortunately, it doesn\u2019t work when Safari is launched with an app. For example, clicking a link in an X post, Safari slides open, but no noir.",
+                "date": "2025-07-02",
+                "value": 75,
+                "potential_idea": "Extend Noir's dark mode functionality to browser views embedded within other mobile applications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 1,
+                "review": "I've had noir for years and just realized how good it really is!!",
+                "date": "2025-06-13",
+                "value": 5,
+                "potential_idea": "Implement a 'discovery' feature in the app to help new users understand and appreciate the app's existing strengths.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Appreciate the dark mode but don\u2019t trust the app. Understand it needs access to change darkness but it shouldn\u2019t be asking for access to a password manager. Didn\u2019t even visit that website. Was browsing the news when it asked. Very suspect. Feels like data mining/major invasion for a paid app. Deleting.",
+                "date": "2025-04-11",
+                "value": 12,
+                "potential_idea": "Implement robust privacy and security notifications for requested permissions, clearly explaining why access is needed to reassure users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Noir - Dark Mode for Safari",
+                "rating": 2,
+                "review": "Update 3/27/25: I really appreciate the devs responding and I also really really liked the app (as you can see from my crazy long review below), but I had to eventually un-install it a from my shortcuts a few days after DL.    \n\nWhen I had it installed (I have an iPhone 15 pro max, so not a old-ish iPhone btw. Also I use safari as my phone Internet browser) web pages would not load correctly. I would have to re-load the web pages pretty much all the time or sometimes re-loading wouldn\u2019t work and everything on the page would just look wonky. I really wanted this to work because like I said in my review, I have light sensitivity & I prefer my phone to be on dark mode (I can read everything better and it doesn\u2019t hurt my eyes so much) and some websites are now having options to be able to change to dark mode or will automatically change if that is your phones settings. But the majority don\u2019t have that yet so their background will be white. I have \u201cnight shift\u201d turned on for websites like that, but sometimes it\u2019s not enough and still will hurt my eyes/give me a headache. \n\nAnyways, it just didn\u2019t work for me. I had to un-install it because I was getting too frustrated with having to re-load sites, sites looking super weird and sites crashing all the time. I wasn\u2019t really sure what was going wrong but I thought maybe it had something to do with the noir extension and as soon as I turned it off safari started working fine. \nBummed!\n\u2014\u2014\u2014-\n\nJust purchased the app and I felt like I had to write a review to tell the devs thank you! I have really bad photophobia/light sensitivity, especially in the evening & at night, that causes super bad headaches and makes my eyes ache and hurt. I switch anything I can to dark mode, night shift etc. I even sometimes wear these goofy light sensitivity glasses (they block specific wavelengths of light). For a long time now I was so annoyed I couldn\u2019t change all of safari on dark mode (a few websites I could but that\u2019s it). I found this app randomly tonight and immediately bought and downloaded it. The instructions to install it on safari were very clear and I had it up and running in just a few minutes. The app also has other colors/themes you can choose besides just black which I thought was pretty cool if someone wants to change it to sepia instead or something. Also the app itself looks really nice and I thought for what it does I would have paid more than $3 for it so I appreciate the devs for keeping it at that price. Anyways, ty to the devs for making this!!",
+                "date": "2025-03-29",
+                "value": 65,
+                "potential_idea": "Develop an advanced 'Dark Mode for Web' app that intelligently applies dark themes to websites lacking native support, with enhanced compatibility and performance optimizations to prevent rendering issues and crashes.",
                 "tags": [
                     "bug"
                 ]
