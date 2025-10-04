@@ -770,605 +770,6 @@
         ]
     },
     {
-        "id": "625334537",
-        "name": "Geometry Dash",
-        "url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Geometry Dash",
-                "rating": 2,
-                "review": "I\u2019ve been playing Geometry Dash for five years and don\u2019t get me wrong I love this game but with the new iOS 26 update on iPhone, it\u2019s lagging the heck out of my session causing me to die over and over again. It\u2019s either apple\u2018s fault or my iPhone fault because this game is actually so easy to run",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Develop a performance optimization tool within the app to mitigate lag issues on specific device/OS combinations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "I just paid for this game again on my new phone and now its super buggy. Im on ios 26 in a iphone 15 and it was less buggy on my iphone XR!",
-                "date": "2025-09-30",
-                "value": 65,
-                "potential_idea": "Implement a robust cross-platform device and OS migration tool to ensure seamless game progression and performance for paid users upgrading their devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "Couldn\u2019t even make an account wow this is so bad. She says my email is not a real thing, but it is. I tried to get over a simple jump and I\u2019m not even touching the spike and it killed me. This game is so stupid. Don\u2019t even get me started with the Level editor.",
-                "date": "2025-09-30",
-                "value": 65,
-                "potential_idea": "Implement robust error handling for account creation, including better email validation and user feedback, and fix physics bug causing unfair deaths in the game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "ITS LAGGING SO MUCH!!! IPHONE 16 PRO AND LAGGING",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement performance optimization features to reduce app lag for high-end devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "been playing for 10+ years and now the games so laggy from the update i cant even play \ud83d\ude41",
-                "date": "2025-09-28",
-                "value": 65,
-                "potential_idea": "Optimize game performance for older devices to reduce lag and prevent crashes after updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "ROBTOP YOUR LEVElS THE WORST JUST LIKE YOU",
-                "date": "2025-09-28",
-                "value": 5,
-                "potential_idea": "Implement a 'community level review' system allowing users to rate and provide feedback on user-created levels.",
-                "tags": []
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "i play geometry dash alot, i test games out, i stream, I also develop things in the game itself, its been lagging for as long as i can remember and i havent told my viewers, i am doing this off-stream. but yeah, please fix the errors",
-                "date": "2025-09-28",
-                "value": 75,
-                "potential_idea": "Implement a performance optimization feature that specifically addresses lag issues reported by dedicated Geometry Dash players and developers, potentially offering in-game settings for smoother gameplay.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 2,
-                "review": "This game is so good and I really wanna have 2.22! I also have a suggestion: make animation work on mobile because when I try to press ANIM it just puts me back in the main editor. Steps: select an object, tap edit group, tap anim.",
-                "date": "2025-09-28",
-                "value": 75,
-                "potential_idea": "Enable in-app animation editing and playback on mobile devices to allow users to create and preview animations directly within the app.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "bad words",
-                "date": "2025-09-27",
-                "value": 10,
-                "potential_idea": "Implement a profanity filter that automatically censors or flags offensive language within user-generated content.",
-                "tags": []
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 2,
-                "review": "Why sometimes when I open the app it just is going 1 fps and sometimes it doesn\u2019t? I\u2019m on an iPhone 16 so it shouldn\u2019t have problems so idk why it\u2019s lagging sooo bad cuz it didn\u2019t used to do this",
-                "date": "2025-09-26",
-                "value": 15,
-                "potential_idea": "Implement a performance optimization feature to ensure consistent smooth frame rates across all devices and app versions.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1118115766",
-        "name": "Bloons TD 6",
-        "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Was torn whether to give 1 or 5 stars, been playing for 2-3 years and have always thought it was an awesome near-perfect game\u2014 easily 5+ stars. Over the past 1-2 months, it has been and still is CONSTANTLY crashing. I submitted a message to support team via ninja kiwi\u2019s website several weeks ago to make them aware if they weren\u2019t already. Before I did that, I had given it plenty of time to resolve after making absolutely sure the softwares for both the game and my iPhone were up-to-date. It\u2019s been a few weeks since submitting that message, and it is STILL crashing. I\u2019ve been trying to get black borders on maps, and in EVERY CHIMPS ATTEMPT I DO ON ANY MAP IT ALWAYS CRASHES, which prevents me from getting the black borders!! EVEN ON THE BASIC HARD DIFFICULTY LEVEL, it crashes WELL BEFORE round 80. Every. Single. Freakin. Game. It is so frustrating and it having been happening for as long as it has, as often as it does, has gotten ridiculous. Please either change the freaking chimps so you can still get the chimps medal with black eyes (and thus black border) when the game crashes, or fix the crashes. \n\nThe game used to only crash when my son and I would play co-op and get into rounds 140+, and that would be infuriating and ridiculous when at least one of us would always be kicked and completely lose access to re-join the game. Now it\u2019s crashing on solo games sometimes before round 60, always before round 80, and it completely messes up the opportunity to get the medals/borders for maps that ninja kiwi designed to be a part of the game! Sorry rant over. Please fix. This is ridic.",
-                "date": "2025-10-01",
-                "value": 80,
-                "potential_idea": "Implement an auto-save feature for game progress in single-player modes, especially for challenging difficulties like CHIMPS, to prevent lost progress due to crashes.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "It\u2019s like my 10th time playing and some reason it\u2019s taking forever to load. PLEASE FIX THIS!",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Optimize app loading times to prevent excessive delays for returning users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Six dollars and when I download the game, I can\u2019t even play yet. I have to go through hours of unlocking stuff if you\u2019re gonna do that at least tell people before they download the game that they\u2019re not actually buying the game. They actually have to spend multiple hours and even a day to actually play at four capacity and even then you have to pay for almost everything else please make it so we don\u2019t have to get tower XP at least for the base to the paragons make sense",
-                "date": "2025-09-24",
-                "value": 16,
-                "potential_idea": "Implement a clear in-game disclaimer before purchase, clearly stating the extent of content locked behind additional progression or microtransactions, alongside an option to bypass or accelerate certain XP/unlock requirements for paying users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "This game has fallen off so hard no good updates all just more updates to try to take money and the only way to make monkey money is playing the same map over and over again just to need 30k more monkey money when you make 30 every 40 waves \ud83e\udee9",
-                "date": "2025-09-24",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 22,
-                    "feasibility": 18,
-                    "total": 75
-                },
-                "potential_idea": "Introduce new game modes or challenges that offer alternative, engaging ways to earn in-game currency, reducing the reliance on repetitive gameplay.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Legends now crashes near the end of any level. It\u2019s beyond frustrating, since I spend 20 minutes getting through a difficult level only to have the game crash and then when I reload it counts as a LOSS! At the very least I shouldn\u2019t lose because your game code wasn\u2019t tested on iOS.  Please fix Legends. It cost extra beyond just the game itself!!!!!!",
-                "date": "2025-09-23",
-                "value": 18,
-                "potential_idea": "Implement a robust auto-save feature to prevent progress loss on game crashes, particularly in long levels.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 2,
-                "review": "Game is super addicting, however I can\u2019t get past round 153 without it crashing my game, crashes all the time at high rounds on mobile, I have a IPhone 13 and it can\u2019t handle this game on high rounds. Once that\u2019s fixed, easy 5 stars.",
-                "date": "2025-09-23",
-                "value": 15,
-                "potential_idea": "Optimize game performance on high rounds for mobile devices to prevent crashes and ensure a seamless experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 2,
-                "review": "The game is amazing but it instantly banned me when I made an account and I don\u2019t have hacks or anything",
-                "date": "2025-09-20",
-                "value": 15,
-                "potential_idea": "Implement a more transparent and potentially appealable automated banning system for the game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 2,
-                "review": "When too many micro transactions for a 7 dollar game. Disgusting. Pay to win. Pathetic monetization.",
-                "date": "2025-09-19",
-                "value": 18,
-                "potential_idea": "Develop a mobile game with a transparent, upfront pricing model and no in-app purchases to avoid predatory microtransactions.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "I loaded up balloons after updating the iOS 26 and now it just black screens and crashes.",
-                "date": "2025-09-17",
-                "value": 15,
-                "potential_idea": "Implement robust crash reporting and error handling for specific iOS versions to identify and resolve critical bugs that prevent app launch.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "I\u2019ve been playing this game about a week and the game keeps telling me I am not connected and I sit on the screen that says it\u2019s trying to reconnect for 5-10 minutes until I finally just back out. This especially happens when I play co-op mode. Very unhappy. I enjoy the app but don\u2019t appreciate wasting my insta monkeys when I can\u2019t even finish the game.",
-                "date": "2025-09-13",
-                "value": 55,
-                "potential_idea": "Implement a more robust and persistent connection management system, especially for co-op mode, that provides clearer feedback and reduces player frustration from disconnections.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Monkey",
-                "date": "2025-09-13",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "373493387",
-        "name": "AnkiMobile Flashcards",
-        "url": "https://apps.apple.com/us/app/ankimobile-flashcards/id373493387?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "Everything on iOS is worse",
-                "date": "2025-09-26",
-                "value": 65,
-                "potential_idea": "Develop a mobile app specifically designed to outperform its iOS counterpart by offering a superior user experience and feature set on Android.",
-                "tags": []
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "It\u2019s been over a year since iOS introduced dark mode icons, and Anki still doesn\u2019t have support for a dark mode icon. I\u2019ll change my review to 5 stars once it does!",
-                "date": "2025-09-18",
-                "value": 15,
-                "potential_idea": "Implement dark mode support for the app icon to match user's system-wide theme preferences.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "So difficult to accomplish what works best for me within the app. I\u2019m starting to build out my deck of flashcards on different topics, but I can\u2019t see new cards created bc I\u2019ve reached my daily new card limit. I\u2019ve tried increasing it or doing a customer study plan and it won\u2019t work. DO NOT spend the money for this app. Appears to be customizable but it is really not.",
-                "date": "2025-09-03",
-                "value": 75,
-                "potential_idea": "Allow users to increase or customize their daily new card limit, potentially through an unlockable feature or tiered subscription, to enable more flexible learning and content creation.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "It\u2019s super complicated. Waste of time and money.",
-                "date": "2025-08-31",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": []
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "I have tried thousand times to sunc put in oassword again and again it says wrong password or email!!! What is this anki???",
-                "date": "2025-08-26",
-                "value": 15,
-                "potential_idea": "Implement a more robust password recovery and account verification flow to address frequent user login issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "This app is complete garbage on iPhone. I can\u2019t download any decks directly from Anki to my app on iPhone. I\u2019ve tried using my computer to use the desktop site then synchronizing from there and still nothing. A complete waste of time and money",
-                "date": "2025-08-17",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 18,
-                    "feasibility": 17,
-                    "total": 70
-                },
-                "potential_idea": "Implement direct deck synchronization from Anki to the mobile app on iPhone.",
-                "tags": {
-                    "tags": [
-                        "bug"
-                    ]
-                }
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "Why did you bring this update man why ? It just ruined my study and life . Please downgrade the basic image occlusion part . Please please please",
-                "date": "2025-07-26",
-                "value": 78,
-                "potential_idea": "A version history or 'downgrade' feature that allows users to revert to a previous version of a specific, core app function like image occlusion when an update negatively impacts their workflow.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "This app is terrible. Completely messed up my card deck. Date intervals are all messed up. App is not worth using especially for how much it is. If I could, I would give it 0 stars.",
-                "date": "2025-07-13",
-                "value": 65,
-                "potential_idea": "An app feature that automatically creates and manages a backup version of a user's card deck before any major changes or at regular intervals.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "Horrible",
-                "date": "2025-07-11",
-                "value": 60,
-                "potential_idea": "An AI-powered sentiment analysis tool that automatically detects vague or unhelpful reviews and prompts users for more specific feedback.",
-                "tags": []
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "I paid for this without first being informed that I would need to have a computer in order to use it. I have watched so many videos trying to figure out a way around this and I can\u2019t understand what I\u2019m supposed to do so I am just deleting the app. Please provide a refund as I feel that I shouldn\u2019t have to pay for something that I\u2019m not even going to use.",
-                "date": "2025-06-17",
-                "value": 85,
-                "potential_idea": "An in-app warning system that clearly informs users of hardware or companion device requirements before they complete a purchase.",
-                "tags": []
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 2,
-                "review": "For a 25$ app it should not have this much trouble synching images",
-                "date": "2025-06-16",
-                "value": 68,
-                "potential_idea": "An app that provides detailed, real-time status reports and troubleshooting guides for cloud sync processes, specifically for large media files like images.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "i did literally everything to sync my decks from my laptop to the app and nothing worked. now all my money is down the drain for the crime of wanting to learn. you\u2019re better off using noji, the app and website syncs automatically if you are signed in.",
-                "date": "2025-06-04",
-                "value": 68,
-                "potential_idea": "An app-agnostic cloud sync service that securely stores and transfers user-created content (like flashcards) between a user's different devices and preferred apps.",
-                "tags": {
-                    "tags": [
-                        "bug",
-                        "valuable opinion"
-                    ]
-                }
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 2,
-                "review": "This app feels frustrating to navigate and a waste of money. Why are the free Anki imitations easier to use? It\u2019s no wonder why the knockoffs are more popular when this app costs $25 and looks like it hasn\u2019t been updated in over a decade, and the free versions offer better features. For example, when viewing all cards in a deck, the only option is to browse by the front of the cards only. Very tiresome when needing to sort through cards for language learning purposes when it doesn\u2019t show you the translation as well. Why can\u2019t this app display the cards\u2019 front and backs simultaneously?\n\nSecond, do the creators know that the free versions of this app automatically translate words into your desired language when you put them in new cards? For $25, why can\u2019t this app do the same?\n\nThis app does not seem relevant anymore. There are plenty of better alternatives out there for FREE. Please do not waste your money.",
-                "date": "2025-06-02",
-                "value": 80,
-                "potential_idea": "A modern, user-friendly flashcard app that offers a dual-pane view for simultaneous front/back display and integrated translation tools for language learners.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "It\u2019s great for what it is, but highly unintuitive and doesn\u2019t sync well with iOS.  I\u2019ve used Anki on and off for a while now, and I get less and less impressed with it",
-                "date": "2025-05-15",
-                "value": 78,
-                "potential_idea": "A mobile-first flashcard app with seamless, automatic cross-platform sync and an intuitive, gesture-driven UI designed for iOS.",
-                "tags": []
-            },
-            {
-                "app_name": "AnkiMobile Flashcards",
-                "rating": 1,
-                "review": "I assumed because this one had a paid version it would be superior. This requires you to be familiar with using the AnkiWeb desktop version and can then transfer your cards. But as a not computer savvy person found that to be a lot of work. I am already studying for a bunch of other classes. I had hoped this would be straightforward and user friendly. \n\nThe other FREE \u201cAnkiApp\u201d worked exactly as I had assumed this app should work. I could instantly start building cards and had access to those cards to study. It also looked \u201ccleaner\u201d or more modern which my artist tendencies prefer. Try before you buy. My mistake cost me.",
-                "date": "2025-05-11",
-                "value": 85,
-                "potential_idea": "An app that provides a simplified, mobile-first interface for Anki with one-touch card creation and automatic cloud sync, designed specifically for non-technical users.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "916366645",
-        "name": "Procreate Pocket",
-        "url": "https://apps.apple.com/us/app/procreate-pocket/id916366645?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "Whenever I make a new canvas I can\u2019t draw beacuse it kicks me out of the app, I WILL NOT EVER DOWNLOAD THIS AGAIN this is the worst app ever",
-                "date": "2025-09-28",
-                "value": 70,
-                "potential_idea": "An app feature that automatically saves a crash recovery file and offers to restore the user's unsaved work upon reopening the app after a crash.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "I used to love this app, especially for logo making. But recently, when I add text to a canvas and tap to edit it, it crashes. There is no workaround and I even tried uninstalling and reinstalling to no avail. This has been ongoing for months now.",
-                "date": "2025-09-26",
-                "value": 78,
-                "potential_idea": "A robust auto-save and crash recovery system that automatically saves the user's progress after every change and restores the project to its last state upon reopening the app after a crash.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "update is HORRIBLE",
-                "date": "2025-09-23",
-                "value": 15,
-                "potential_idea": "An update verification system that allows users to preview and test app updates in a sandbox environment before committing to the full installation.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "I\u2019ve been using procreate since around the time it came out, and got pocket the moment it first became available- but this app, despite all I\u2019ve invested in it, has become completely unusable. Even the normal version can\u2019t be used for a minute before crashing. Very sad to see.",
-                "date": "2025-09-08",
-                "value": 65,
-                "potential_idea": "An app health dashboard that proactively monitors and reports on an app's stability, performance metrics, and crash analytics in a user-accessible way.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 2,
-                "review": "There is no sonarpen support for this version.. Whenever i need to draw on phone sometimes I require a stylus right? (also the people that use fingers to draw i am not offended you.) but it has no support god.. i would like a refund..",
-                "date": "2025-09-04",
-                "value": 68,
-                "potential_idea": "An app feature that enables stylus support for popular drawing apps by simulating pen pressure and palm rejection when using a Sonarpen or other basic stylus.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "For an app that costs money it has way too many technical and formatting issues. Certain things like the drawing guide dont work when you turn them on and the formatting and layout for the app is just awful.",
-                "date": "2025-08-27",
-                "value": 70,
-                "potential_idea": "An automated pre-release quality suite that runs device-specific tests on layout, formatting, and core features like the drawing guide to ensure basic functionality before each update.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "I was unable to use. It\u2019s extremely hard and frustrating. Might have better luck with a iPad. But I highly don\u2019t recommend getting this app.",
-                "date": "2025-08-22",
-                "value": 68,
-                "potential_idea": "An app compatibility pre-check tool that scans a user's device and network environment before download to predict and warn about potential performance issues.",
-                "tags": []
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 2,
-                "review": "The layers that don\u2019t have a check on them keep showing up on the screen when I\u2019m trying to share my layers. Please fix the bug",
-                "date": "2025-08-09",
-                "value": 65,
-                "potential_idea": "An app feature that automatically hides all non-selected layers and provides a clear visual preview before finalizing a share or export.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "They have an automatic selection tool that works in a straightforward, low-tech way (adjacent pixel contrast detection, more or less). That would be fine for my collage- and meme-making purposes HOWEVER you cannot paint directly onto a mask. \n\nYour options for modifying the mask directly are either A) use the built-in selection tools (with the underlying layer turned off, so you can see the mask clearly) or B) use brushes and black/white to modify it ONLY with the underlying layer turned on. There is no rendering the mask alone in its plain black-and-white form so you can see clearly if there are any spots you missed. \n\nIt's also unfortunate because you lose access to a lot of cool effects that are achievable by applying filters to masks. It's so vexing because you can see the underlying mask in its true black-and-white form in the thumbnail for the mask, there's just no working on it in full screen. So close but so far, very disappointing to omit this valuable feature.",
-                "date": "2025-08-04",
-                "value": 85,
-                "potential_idea": "Implement a 'Mask Only' full-screen editing mode that allows users to view and directly paint on a mask in its true black-and-white form, separate from the underlying image layer.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 2,
-                "review": "The lack of an undo button makes this app practically useless. Kind of a giant waste of money. 2 stars bc it can still be used like a dry erase board.",
-                "date": "2025-07-15",
-                "value": 85,
-                "potential_idea": "An undo/redo history feature that allows users to revert accidental strokes or deletions.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "On a photos you can\u2019t erase what you did and there\u2019s no undo button and what the size is and it didn\u2019t let me change the color so I don\u2019t recommend this app and not worth the price.",
-                "date": "2025-07-09",
-                "value": 78,
-                "potential_idea": "An advanced photo editor with a non-destructive, layer-based editing system featuring a comprehensive undo/redo history, real-time brush size and opacity indicators, and an easily accessible color picker.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "This is the worst app I\u2019ve ever used don\u2019t pay for it so complicated Jeff bezos couldn\u2019t even understand it",
-                "date": "2025-07-06",
-                "value": 68,
-                "potential_idea": "An app that offers a simplified, guided mode for complex applications, featuring interactive tutorials and a one-tap 'simple mode' that hides advanced features.",
-                "tags": []
-            },
-            {
-                "app_name": "Procreate Pocket",
-                "rating": 1,
-                "review": "clicked something and it erased my whole drawing I tried looking for a undo button but I couldn\u2019t find it anywhere",
-                "date": "2025-07-06",
-                "value": 10,
-                "potential_idea": "Implement a prominent and easily discoverable undo/redo button within the drawing interface.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1477966166",
-        "name": "MONOPOLY: The Board Game",
-        "url": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "MONOPOLY: The Board Game",
-                "rating": 1,
-                "review": "Fix & update the game",
-                "date": "2025-09-29",
-                "value": 10,
-                "potential_idea": "Regularly update the game with new content and bug fixes to improve user experience and engagement.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "497716362",
         "name": "TonalEnergy Tuner & Metronome",
         "url": "https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362?uo=2",
@@ -12113,6 +11514,595 @@
                 "value": 15,
                 "potential_idea": "Implement a robust debugging and reporting tool within the app to help users submit detailed error logs and request refunds more effectively when performance issues arise.",
                 "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "625334537",
+        "name": "Geometry Dash",
+        "url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Geometry Dash",
+                "rating": 2,
+                "review": "I\u2019ve been playing Geometry Dash for five years and don\u2019t get me wrong I love this game but with the new iOS 26 update on iPhone, it\u2019s lagging the heck out of my session causing me to die over and over again. It\u2019s either apple\u2018s fault or my iPhone fault because this game is actually so easy to run",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Optimize the mobile app for performance on specific operating system versions to prevent lag and improve user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "I just paid for this game again on my new phone and now its super buggy. Im on ios 26 in a iphone 15 and it was less buggy on my iphone XR!",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement a robust cross-device and cross-platform progression system for paid mobile games, allowing users to seamlessly transfer their game progress and purchases to new devices without repurchasing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "Couldn\u2019t even make an account wow this is so bad. She says my email is not a real thing, but it is. I tried to get over a simple jump and I\u2019m not even touching the spike and it killed me. This game is so stupid. Don\u2019t even get me started with the Level editor.",
+                "date": "2025-09-30",
+                "value": 18,
+                "potential_idea": "Implement an in-game bug reporting tool with direct submission of error logs and gameplay recordings for faster issue resolution.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "ITS LAGGING SO MUCH!!! IPHONE 16 PRO AND LAGGING",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Optimize app performance for high-end devices to eliminate lag.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "been playing for 10+ years and now the games so laggy from the update i cant even play \ud83d\ude41",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Optimize app performance to eliminate lag caused by updates, ensuring a smooth gaming experience for long-term users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "ROBTOP YOUR LEVElS THE WORST JUST LIKE YOU",
+                "date": "2025-09-28",
+                "value": 10,
+                "potential_idea": "Implement a user feedback system for level design to allow players to rate and comment on levels, informing future design choices.",
+                "tags": []
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "i play geometry dash alot, i test games out, i stream, I also develop things in the game itself, its been lagging for as long as i can remember and i havent told my viewers, i am doing this off-stream. but yeah, please fix the errors",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Implement performance optimizations and advanced debugging tools within the mobile app to address lagging issues, particularly for users who engage in demanding activities like game development and live streaming.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 2,
+                "review": "This game is so good and I really wanna have 2.22! I also have a suggestion: make animation work on mobile because when I try to press ANIM it just puts me back in the main editor. Steps: select an object, tap edit group, tap anim.",
+                "date": "2025-09-28",
+                "value": 65,
+                "potential_idea": "Enable animation editing functionality specifically for mobile devices to allow users to create and modify animations directly within the app on their phones.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "bad words",
+                "date": "2025-09-27",
+                "value": 5,
+                "potential_idea": "Implement a profanity filter to block offensive language within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 2,
+                "review": "Why sometimes when I open the app it just is going 1 fps and sometimes it doesn\u2019t? I\u2019m on an iPhone 16 so it shouldn\u2019t have problems so idk why it\u2019s lagging sooo bad cuz it didn\u2019t used to do this",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Implement performance profiling tools within the app to diagnose and resolve inconsistent frame rate issues on high-end devices.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1118115766",
+        "name": "Bloons TD 6",
+        "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Was torn whether to give 1 or 5 stars, been playing for 2-3 years and have always thought it was an awesome near-perfect game\u2014 easily 5+ stars. Over the past 1-2 months, it has been and still is CONSTANTLY crashing. I submitted a message to support team via ninja kiwi\u2019s website several weeks ago to make them aware if they weren\u2019t already. Before I did that, I had given it plenty of time to resolve after making absolutely sure the softwares for both the game and my iPhone were up-to-date. It\u2019s been a few weeks since submitting that message, and it is STILL crashing. I\u2019ve been trying to get black borders on maps, and in EVERY CHIMPS ATTEMPT I DO ON ANY MAP IT ALWAYS CRASHES, which prevents me from getting the black borders!! EVEN ON THE BASIC HARD DIFFICULTY LEVEL, it crashes WELL BEFORE round 80. Every. Single. Freakin. Game. It is so frustrating and it having been happening for as long as it has, as often as it does, has gotten ridiculous. Please either change the freaking chimps so you can still get the chimps medal with black eyes (and thus black border) when the game crashes, or fix the crashes. \n\nThe game used to only crash when my son and I would play co-op and get into rounds 140+, and that would be infuriating and ridiculous when at least one of us would always be kicked and completely lose access to re-join the game. Now it\u2019s crashing on solo games sometimes before round 60, always before round 80, and it completely messes up the opportunity to get the medals/borders for maps that ninja kiwi designed to be a part of the game! Sorry rant over. Please fix. This is ridic.",
+                "date": "2025-10-01",
+                "value": 18,
+                "potential_idea": "Implement a robust auto-save and recovery system for game progress, especially for challenging modes like CHIMPS, to prevent data loss and frustration due to crashes.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "It\u2019s like my 10th time playing and some reason it\u2019s taking forever to load. PLEASE FIX THIS!",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement faster loading times and optimized performance for the mobile game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Six dollars and when I download the game, I can\u2019t even play yet. I have to go through hours of unlocking stuff if you\u2019re gonna do that at least tell people before they download the game that they\u2019re not actually buying the game. They actually have to spend multiple hours and even a day to actually play at four capacity and even then you have to pay for almost everything else please make it so we don\u2019t have to get tower XP at least for the base to the paragons make sense",
+                "date": "2025-09-24",
+                "value": 16,
+                "potential_idea": "Implement a clearer pre-purchase disclosure of in-game progression requirements and monetization, and offer an option to bypass or significantly reduce the grind for core game elements like tower XP.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "This game has fallen off so hard no good updates all just more updates to try to take money and the only way to make monkey money is playing the same map over and over again just to need 30k more monkey money when you make 30 every 40 waves \ud83e\udee9",
+                "date": "2025-09-24",
+                "value": 75,
+                "potential_idea": "Introduce alternative, more engaging ways to earn in-game currency beyond repetitive map grinding, such as daily challenges, mini-games, or social events.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Legends now crashes near the end of any level. It\u2019s beyond frustrating, since I spend 20 minutes getting through a difficult level only to have the game crash and then when I reload it counts as a LOSS! At the very least I shouldn\u2019t lose because your game code wasn\u2019t tested on iOS.  Please fix Legends. It cost extra beyond just the game itself!!!!!!",
+                "date": "2025-09-23",
+                "value": 15,
+                "potential_idea": "Implement a robust autosave and recovery system for levels to prevent progress loss due to crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 2,
+                "review": "Game is super addicting, however I can\u2019t get past round 153 without it crashing my game, crashes all the time at high rounds on mobile, I have a IPhone 13 and it can\u2019t handle this game on high rounds. Once that\u2019s fixed, easy 5 stars.",
+                "date": "2025-09-23",
+                "value": 85,
+                "potential_idea": "A performance optimization mode that automatically reduces graphical fidelity and background processes during high-intensity gameplay rounds to prevent crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 2,
+                "review": "The game is amazing but it instantly banned me when I made an account and I don\u2019t have hacks or anything",
+                "date": "2025-09-20",
+                "value": 15,
+                "potential_idea": "Implement a more robust and transparent automatic ban detection system with a clear appeal or review process for users who believe they were banned unfairly.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 2,
+                "review": "When too many micro transactions for a 7 dollar game. Disgusting. Pay to win. Pathetic monetization.",
+                "date": "2025-09-19",
+                "value": 65,
+                "potential_idea": "Implement a one-time purchase option for games that currently rely heavily on microtransactions to unlock content or progress.",
+                "tags": []
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "I loaded up balloons after updating the iOS 26 and now it just black screens and crashes.",
+                "date": "2025-09-17",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and crash reporting mechanisms to proactively identify and resolve bugs, especially after OS updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "I\u2019ve been playing this game about a week and the game keeps telling me I am not connected and I sit on the screen that says it\u2019s trying to reconnect for 5-10 minutes until I finally just back out. This especially happens when I play co-op mode. Very unhappy. I enjoy the app but don\u2019t appreciate wasting my insta monkeys when I can\u2019t even finish the game.",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Implement robust offline mode or improved connection stability management to prevent game interruptions and resource loss during gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Monkey",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Develop a mobile app that allows users to create and manage custom soundboards with unique sound effects.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "373493387",
+        "name": "AnkiMobile Flashcards",
+        "url": "https://apps.apple.com/us/app/ankimobile-flashcards/id373493387?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "Everything on iOS is worse",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Enhance the user experience of the iOS version to match or exceed the Android version, addressing platform-specific deficiencies.",
+                "tags": []
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "It\u2019s been over a year since iOS introduced dark mode icons, and Anki still doesn\u2019t have support for a dark mode icon. I\u2019ll change my review to 5 stars once it does!",
+                "date": "2025-09-18",
+                "value": 10,
+                "potential_idea": "Implement a dark mode icon for the Anki mobile app to align with iOS system-wide dark mode.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "So difficult to accomplish what works best for me within the app. I\u2019m starting to build out my deck of flashcards on different topics, but I can\u2019t see new cards created bc I\u2019ve reached my daily new card limit. I\u2019ve tried increasing it or doing a customer study plan and it won\u2019t work. DO NOT spend the money for this app. Appears to be customizable but it is really not.",
+                "date": "2025-09-03",
+                "value": 70,
+                "potential_idea": "Allow users to increase their daily new card limit or bypass it entirely with a premium subscription, unlocking full customization for flashcard creation.",
+                "tags": []
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "It\u2019s super complicated. Waste of time and money.",
+                "date": "2025-08-31",
+                "value": 12,
+                "potential_idea": "Simplify the app's interface and onboarding process to reduce complexity.",
+                "tags": []
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "I have tried thousand times to sunc put in oassword again and again it says wrong password or email!!! What is this anki???",
+                "date": "2025-08-26",
+                "value": 18,
+                "potential_idea": "Implement a more robust password reset flow that offers alternative verification methods beyond just email, considering potential user login issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "This app is complete garbage on iPhone. I can\u2019t download any decks directly from Anki to my app on iPhone. I\u2019ve tried using my computer to use the desktop site then synchronizing from there and still nothing. A complete waste of time and money",
+                "date": "2025-08-17",
+                "value": 70,
+                "potential_idea": "Develop a robust offline Anki deck synchronization feature for the mobile app that works independently of the desktop Anki client.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "Why did you bring this update man why ? It just ruined my study and life . Please downgrade the basic image occlusion part . Please please please",
+                "date": "2025-07-26",
+                "value": 65,
+                "potential_idea": "Allow users to revert to a previous version of the app, especially after a destabilizing update to core functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "This app is terrible. Completely messed up my card deck. Date intervals are all messed up. App is not worth using especially for how much it is. If I could, I would give it 0 stars.",
+                "date": "2025-07-13",
+                "value": 80,
+                "potential_idea": "Implement robust data integrity checks and rollback functionality for user-created content like card decks to prevent data corruption.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "Horrible",
+                "date": "2025-07-11",
+                "value": 0,
+                "potential_idea": "N/A since the review provides no actionable feedback.",
+                "tags": []
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "I paid for this without first being informed that I would need to have a computer in order to use it. I have watched so many videos trying to figure out a way around this and I can\u2019t understand what I\u2019m supposed to do so I am just deleting the app. Please provide a refund as I feel that I shouldn\u2019t have to pay for something that I\u2019m not even going to use.",
+                "date": "2025-06-17",
+                "value": 15,
+                "potential_idea": "Develop a companion mobile-only version or a clear upfront disclaimer about PC dependency for users who lack computer access.",
+                "tags": []
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 2,
+                "review": "For a 25$ app it should not have this much trouble synching images",
+                "date": "2025-06-16",
+                "value": 75,
+                "potential_idea": "Implement a more robust and reliable image synchronization mechanism for the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "i did literally everything to sync my decks from my laptop to the app and nothing worked. now all my money is down the drain for the crime of wanting to learn. you\u2019re better off using noji, the app and website syncs automatically if you are signed in.",
+                "date": "2025-06-04",
+                "value": 75,
+                "potential_idea": "Implement automatic, seamless syncing of user data (e.g., decks) between the mobile app and a companion website, mirroring a competitor's successful feature.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 2,
+                "review": "This app feels frustrating to navigate and a waste of money. Why are the free Anki imitations easier to use? It\u2019s no wonder why the knockoffs are more popular when this app costs $25 and looks like it hasn\u2019t been updated in over a decade, and the free versions offer better features. For example, when viewing all cards in a deck, the only option is to browse by the front of the cards only. Very tiresome when needing to sort through cards for language learning purposes when it doesn\u2019t show you the translation as well. Why can\u2019t this app display the cards\u2019 front and backs simultaneously?\n\nSecond, do the creators know that the free versions of this app automatically translate words into your desired language when you put them in new cards? For $25, why can\u2019t this app do the same?\n\nThis app does not seem relevant anymore. There are plenty of better alternatives out there for FREE. Please do not waste your money.",
+                "date": "2025-06-02",
+                "value": 75,
+                "potential_idea": "Instantly add an AI-powered translation feature for new cards and enable simultaneous front/back card display for improved language learning navigation.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "It\u2019s great for what it is, but highly unintuitive and doesn\u2019t sync well with iOS.  I\u2019ve used Anki on and off for a while now, and I get less and less impressed with it",
+                "date": "2025-05-15",
+                "value": 65,
+                "potential_idea": "Improve the app's user interface and optimize its synchronization with iOS for a more intuitive and seamless user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "AnkiMobile Flashcards",
+                "rating": 1,
+                "review": "I assumed because this one had a paid version it would be superior. This requires you to be familiar with using the AnkiWeb desktop version and can then transfer your cards. But as a not computer savvy person found that to be a lot of work. I am already studying for a bunch of other classes. I had hoped this would be straightforward and user friendly. \n\nThe other FREE \u201cAnkiApp\u201d worked exactly as I had assumed this app should work. I could instantly start building cards and had access to those cards to study. It also looked \u201ccleaner\u201d or more modern which my artist tendencies prefer. Try before you buy. My mistake cost me.",
+                "date": "2025-05-11",
+                "value": 70,
+                "potential_idea": "Develop a mobile-first Anki-like app with a simplified, intuitive interface for card creation and studying, eliminating the need for desktop synchronization for basic functionality.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "916366645",
+        "name": "Procreate Pocket",
+        "url": "https://apps.apple.com/us/app/procreate-pocket/id916366645?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "Whenever I make a new canvas I can\u2019t draw beacuse it kicks me out of the app, I WILL NOT EVER DOWNLOAD THIS AGAIN this is the worst app ever",
+                "date": "2025-09-28",
+                "value": 20,
+                "potential_idea": "Implement robust crash reporting and debugging tools to identify and fix the specific bug causing app exits upon canvas creation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "I used to love this app, especially for logo making. But recently, when I add text to a canvas and tap to edit it, it crashes. There is no workaround and I even tried uninstalling and reinstalling to no avail. This has been ongoing for months now.",
+                "date": "2025-09-26",
+                "value": 15,
+                "potential_idea": "Implement a robust text editing module that prevents crashes and ensures data persistence even after reinstallation.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "update is HORRIBLE",
+                "date": "2025-09-23",
+                "value": 15,
+                "potential_idea": "Implement a robust rollback mechanism for app updates, allowing users to revert to a previous stable version.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "I\u2019ve been using procreate since around the time it came out, and got pocket the moment it first became available- but this app, despite all I\u2019ve invested in it, has become completely unusable. Even the normal version can\u2019t be used for a minute before crashing. Very sad to see.",
+                "date": "2025-09-08",
+                "value": 18,
+                "potential_idea": "Implement robust crash reporting and performance optimization to ensure app stability, especially for users with Procreate Pocket.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 2,
+                "review": "There is no sonarpen support for this version.. Whenever i need to draw on phone sometimes I require a stylus right? (also the people that use fingers to draw i am not offended you.) but it has no support god.. i would like a refund..",
+                "date": "2025-09-04",
+                "value": 70,
+                "potential_idea": "Implement stylus/sonarpen support for drawing functionalities, catering to users who prefer precise input methods.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "For an app that costs money it has way too many technical and formatting issues. Certain things like the drawing guide dont work when you turn them on and the formatting and layout for the app is just awful.",
+                "date": "2025-08-27",
+                "value": 30,
+                "potential_idea": "Introduce a dedicated 'bug reporting and feedback' feature within the app to streamline the process of users reporting technical and formatting issues.",
+                "tags": [
+                    "bug",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "I was unable to use. It\u2019s extremely hard and frustrating. Might have better luck with a iPad. But I highly don\u2019t recommend getting this app.",
+                "date": "2025-08-22",
+                "value": 15,
+                "potential_idea": "Develop a simplified, one-handed mode for mobile app users who find complex interfaces difficult on smaller screens.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 2,
+                "review": "The layers that don\u2019t have a check on them keep showing up on the screen when I\u2019m trying to share my layers. Please fix the bug",
+                "date": "2025-08-09",
+                "value": 15,
+                "potential_idea": "Implement a toggle or filter to hide unchecked layers during the layer sharing process to prevent them from cluttering the sharing interface.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "They have an automatic selection tool that works in a straightforward, low-tech way (adjacent pixel contrast detection, more or less). That would be fine for my collage- and meme-making purposes HOWEVER you cannot paint directly onto a mask. \n\nYour options for modifying the mask directly are either A) use the built-in selection tools (with the underlying layer turned off, so you can see the mask clearly) or B) use brushes and black/white to modify it ONLY with the underlying layer turned on. There is no rendering the mask alone in its plain black-and-white form so you can see clearly if there are any spots you missed. \n\nIt's also unfortunate because you lose access to a lot of cool effects that are achievable by applying filters to masks. It's so vexing because you can see the underlying mask in its true black-and-white form in the thumbnail for the mask, there's just no working on it in full screen. So close but so far, very disappointing to omit this valuable feature.",
+                "date": "2025-08-04",
+                "value": 75,
+                "potential_idea": "Allow users to directly edit masks in a dedicated black-and-white preview mode, enabling precise adjustments and access to mask-based filter effects.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 2,
+                "review": "The lack of an undo button makes this app practically useless. Kind of a giant waste of money. 2 stars bc it can still be used like a dry erase board.",
+                "date": "2025-07-15",
+                "value": 15,
+                "potential_idea": "Implement an undo/redo functionality to allow users to easily correct mistakes.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "On a photos you can\u2019t erase what you did and there\u2019s no undo button and what the size is and it didn\u2019t let me change the color so I don\u2019t recommend this app and not worth the price.",
+                "date": "2025-07-09",
+                "value": 78,
+                "potential_idea": "Implement an undo/redo functionality and allow customization of brush size and color for photo editing features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "This is the worst app I\u2019ve ever used don\u2019t pay for it so complicated Jeff bezos couldn\u2019t even understand it",
+                "date": "2025-07-06",
+                "value": 15,
+                "potential_idea": "Implement a streamlined, intuitive onboarding process with guided tutorials for new users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Procreate Pocket",
+                "rating": 1,
+                "review": "clicked something and it erased my whole drawing I tried looking for a undo button but I couldn\u2019t find it anywhere",
+                "date": "2025-07-06",
+                "value": 15,
+                "potential_idea": "Implement a prominent and easily accessible 'Undo' button (or gesture) to prevent accidental deletion of user work.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1477966166",
+        "name": "MONOPOLY: The Board Game",
+        "url": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "MONOPOLY: The Board Game",
+                "rating": 1,
+                "review": "Fix & update the game",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement a system for regular game updates and bug fixes to improve stability and address user-reported issues.",
+                "tags": [
+                    "no update for long time",
                     "bug"
                 ]
             }
