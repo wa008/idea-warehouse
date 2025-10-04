@@ -945,58 +945,6 @@
         ]
     },
     {
-        "id": "1462324486",
-        "name": "Papa's Donuteria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-donuteria-to-go/id1462324486?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Donuteria To Go!",
-                "rating": 1,
-                "review": "I had to get a new phone and 3 years of progress gone there\u2019s no data saves this game is not a good game don\u2019t get it",
-                "date": "2025-07-09",
-                "value": 85,
-                "potential_idea": "Implement cloud-based progress saving and syncing for mobile games to prevent data loss upon device change.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Donuteria To Go!",
-                "rating": 2,
-                "review": "Cuando intento poner las chispas, se me queda frisado sin poderle poner la que quiero, sino la que est\u00e1 en el medio.",
-                "date": "2025-03-23",
-                "value": 15,
-                "potential_idea": "Implement a more responsive and user-friendly interface for selecting 'sparks' (or similar selectable elements) within the app, preventing freezing and allowing precise selection.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Donuteria To Go!",
-                "rating": 2,
-                "review": "The music and actions now lag so it ruins the gameplay",
-                "date": "2024-08-07",
-                "value": 18,
-                "potential_idea": "Optimize app performance to eliminate lag in music and actions during gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Donuteria To Go!",
-                "rating": 1,
-                "review": "First of all, there is nothing you can do as a beginner, you hire a person that is useless. Second of all, When I have to restart a donut it just disappears. DO NOT WASTE YOUR MONEY ON THIS GAME!!!",
-                "date": "2023-11-22",
-                "value": 12,
-                "potential_idea": "Implement a tutorial or guided onboarding system for new users struggling with initial gameplay mechanics and character progression.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "435871950",
         "name": "HappyCow - Vegan Food Near You",
         "url": "https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950?uo=2",
@@ -1086,519 +1034,6 @@
                 "potential_idea": "Enhance the app's search and filtering capabilities to include more granular options for identifying restaurants with flexible vegetarian/vegan options, even if not exclusively vegetarian/vegan establishments.",
                 "tags": [
                     "no update for long time",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6752363508",
-        "name": "Garten of Banban 8: Anti Devil",
-        "url": "https://apps.apple.com/us/app/garten-of-banban-8-anti-devil/id6752363508?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Garten of Banban 8: Anti Devil",
-                "rating": 1,
-                "review": "I love this game a lot it\u2019s definitely my favorite in the series so far but PLEASE add settings for the graphics the others games on mobile had settings for it so it feels really weird that this one doesn\u2019t",
-                "date": "2025-09-24",
-                "value": 60,
-                "potential_idea": "Implement customizable graphics settings for mobile games, allowing users to adjust quality for performance or visual fidelity.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Garten of Banban 8: Anti Devil",
-                "rating": 2,
-                "review": "the gameplay is fine, but the graphics are terrible. to see the murals on the wall you have to get super close for it to not be blurry, and the bowling pins don\u2019t look anything like what they should. could you fix this?",
-                "date": "2025-09-24",
-                "value": 60,
-                "potential_idea": "Enhance the app's graphics by improving texture resolution and model detail for in-game objects like murals and bowling pins.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "479516143",
-        "name": "Minecraft: Dream it, Build it!",
-        "url": "https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Minecraft: Dream it, Build it!",
-                "rating": 1,
-                "review": "notch this is stupid there is no copper golems or shelf\u2019s and no copper chains/lanterns/torch /copper bars/nautilus not all of that I\u2019ll give you 1 stars",
-                "date": "2025-10-01",
-                "value": 55,
-                "potential_idea": "Expand in-game asset library to include more copper-themed decorative and functional items like golems, shelves, chains, lanterns, torches, bars, and nautilus shells to enhance player creativity and customization.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Minecraft: Dream it, Build it!",
-                "rating": 1,
-                "review": "Minecraft mineCRAP",
-                "date": "2025-09-30",
-                "value": 18,
-                "potential_idea": "A Minecraft mod or app that provides an enhanced and less buggy gameplay experience for Minecraft.",
-                "tags": []
-            },
-            {
-                "app_name": "Minecraft: Dream it, Build it!",
-                "rating": 1,
-                "review": "I was playing a server than bam it kicked me out and restarted all my progress and also add in\u2019s in this game tried to flirt with me and I\u2019m a minor",
-                "date": "2025-09-30",
-                "value": 18,
-                "potential_idea": "Implement robust in-app safety features and parental controls to prevent inappropriate content and protect minor users.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "525818839",
-        "name": "Plague Inc.",
-        "url": "https://apps.apple.com/us/app/plague-inc/id525818839?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Plague Inc.",
-                "rating": 1,
-                "review": "Why was France dropping when I literally destroyed its government removed almost all lethality and destroyed the entire European continent I don\u2019t understand why  it was not spreading what kind of game is this",
-                "date": "2025-09-30",
-                "value": 18,
-                "potential_idea": "Introduce a 'Disaster Simulation' mode that allows players to meticulously control and observe the spread of simulated disasters with greater transparency and customizable parameters.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Plague Inc.",
-                "rating": 1,
-                "review": "Tried the shadow and at one point features just stopped working.",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement a robust in-app bug reporting system with diagnostic tools for users to submit detailed error information.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1596736236",
-        "name": "Red's First Flight",
-        "url": "https://apps.apple.com/us/app/reds-first-flight/id1596736236?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Red's First Flight",
-                "rating": 1,
-                "review": "if you click on the privacy policy it will list about something I don't know 50 different companies they sell your ads to. It gives you the apparent option to opt out of all of them but when you click it nothing happens. I'll be damned if you're gonna sell my info. Deleted the app.",
-                "date": "2025-09-30",
-                "value": 18,
-                "potential_idea": "Implement a functional 'opt-out-all' button for ad tracking that visibly confirms the action and provides clear feedback upon successful execution.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Red's First Flight",
-                "rating": 1,
-                "review": "Don\u2019t agree with them removing levels. They should all be available to play.",
-                "date": "2025-09-16",
-                "value": 15,
-                "potential_idea": "Allow users to access all levels of the app immediately, bypassing any progression gating.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Red's First Flight",
-                "rating": 2,
-                "review": "Im not I'm surprised that the game was removed again. The new engine does not convey the atmosphere of the old classics. And new pigs model is terrifying",
-                "date": "2025-08-28",
-                "value": 80,
-                "potential_idea": "Develop a 'Classic Graphics Mode' that allows players to toggle between the new engine's visuals and an emulated version of the old engine's graphics and character models.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "623592465",
-        "name": "Heads Up!",
-        "url": "https://apps.apple.com/us/app/heads-up/id623592465?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I purchased extra packs and they never uploaded to my game. I\u2019ve hit restore purchases and it doesn\u2019t show. I\u2019ve tried to buy the pack again but it says already purchased and brings me to my decks\u2026 which isn\u2019t there\u2026 I\u2019ve deleted the app to clear the cache- nope. I\u2019ve tried reaching out to app developers and get a 404 page not found error. I purchased several packs in the past and then switched to Android so understandly lost those packs.  But now that I\u2019m back to an iPhone my previously purchased and my new ones never show.",
-                "date": "2025-09-25",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I love this game, but it does not work for kids. That\u2019s learning to read. I thought it would have pictures of animals. so for me it was a waste of money.",
-                "date": "2025-09-23",
-                "value": 70,
-                "potential_idea": "Develop an educational version of the game with clear visual aids and phonetic pronunciations of animal names, specifically designed for early readers.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Horrible app, lures many into buying it thinking they\u2019ll be able to play instantly. Turns out you need to purchase endless pricey card decks to get any value. Feel downright cheated.",
-                "date": "2025-09-22",
-                "value": 70,
-                "potential_idea": "Implement a 'starter pack' or demo mode with a balanced set of cards to showcase core gameplay before requiring purchases.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "What happened to the bible deck? want to play it with my church",
-                "date": "2025-09-21",
-                "value": 15,
-                "potential_idea": "Restore or reintroduce a 'Bible deck' feature for use in church group settings, allowing users to play games or engage with biblical content collaboratively.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "While inside a Disney park, the pack labeled Disney parks is not free as listed in the app. This is false advertising and extremely frustrating. I\u2019ve downloaded the app thrice and restarted my phone as well as location services.",
-                "date": "2025-09-13",
-                "value": 18,
-                "potential_idea": "Implement an accurate and real-time pricing system for in-app park packs, ensuring advertised prices reflect actual costs and location-based availability.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I thought it was a one time purchase for a deck but I just got charged again a month later. I click  on the \u201cApp Support\u201d in the Apple Store to try and resolve this/stop the payment and web link is invalid. I even checked under subscriptions and it doesn\u2019t list it as reoccurring.",
-                "date": "2025-09-13",
-                "value": 70,
-                "potential_idea": "Implement a clear, accessible, and functional in-app support system for billing and subscription inquiries that includes a valid contact method and verifiable subscription status.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "when we call out the answer, it doesn\u2019t recognize the correct answer.",
-                "date": "2025-09-06",
-                "value": 75,
-                "potential_idea": "Implement a more robust speech recognition engine that accurately identifies spoken answers, especially for interactive quiz or learning apps.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Even if you purchase the app, you barely have any \u2018decks\u2019 to play with. Only very specific decks, and only a couple. Game is blocked behind a paywall \u2014 and then has way more to buy. I wish I could get a refund",
-                "date": "2025-08-30",
-                "value": 75,
-                "potential_idea": "Offer a more generous selection of pre-made card decks or a robust deck-building tool for a one-time purchase, reducing the need for microtransactions.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 2,
-                "review": "Bought the app, could not find how to create a custom deck; when I clicked the link for \u201cget help\u201d the page was \u201c404 not found\u201d\n\nUnless this gets fixed, do not buy.",
-                "date": "2025-08-28",
-                "value": 15,
-                "potential_idea": "Implement a clear and easily discoverable tutorial section within the app for creating custom decks, along with functioning in-app help resources.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "While at a Walt Disney World Park, i tried to download the free Disney Parks pack. The app verified my location but wouldn\u2019t let me download the pack. It would try to charge me the cost of the set of packs.",
-                "date": "2025-08-28",
-                "value": 15,
-                "potential_idea": "In-app purchase verification system that reliably differentiates between free and paid content based on user location and subscription status.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Hated this game, very stupid, would make your kids stupid just from playing..\ud83e\udd78",
-                "date": "2025-08-27",
-                "value": 15,
-                "potential_idea": "Develop an educational game with learning objectives and parental controls to counter concerns about negative educational impact.",
-                "tags": []
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 2,
-                "review": "Why don\u2019t they let you buy a single deck? I don\u2019t want to spend $12.99 when I will only use 1/4 decks. So stupid. Also, bring back the Drag Race deck!",
-                "date": "2025-08-26",
-                "value": 65,
-                "potential_idea": "Allow users to purchase individual card decks or smaller bundles instead of full expansion packs, and reintroduce the 'Drag Race' themed deck.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I bought a pack of decks for $13 and it is showing up in my purchases on my iPhone, but none of the content in the pack is showing up in the my decks section.. so I can\u2019t play them. I tried  selecting restore purchases, but that isn\u2019t working either..",
-                "date": "2025-08-26",
-                "value": 10,
-                "potential_idea": "Implement a robust and multi-platform 'Restore Purchases' feature that proactively syncs purchases across devices and clearly guides users through troubleshooting steps.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "No free decks??? After paying for the app you have to spend $20+ to play at all?",
-                "date": "2025-08-25",
-                "value": 70,
-                "potential_idea": "Offer a tiered subscription model with a free option that includes a limited set of starter decks to experience core gameplay.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I like this game a lot when it works, but I\u2019ve recently tried playing it again and it will open to the \u201chold to forehead\u201d screen and then not work any further.",
-                "date": "2025-08-22",
-                "value": 15,
-                "potential_idea": "Implement robust bug reporting and automatic crash logging within the app for faster issue resolution.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I\u2019m in the paths but can\u2019t get Disney parks to download for Jess than $9.99 even though it\u2019s supposed to be free",
-                "date": "2025-08-22",
-                "value": 15,
-                "potential_idea": "Provide clear indicators or troubleshooting steps for users encountering issues downloading free park content, ensuring promised features are accessible.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I purchased this on my phone, thinking that my child, who is part of my iCloud Family, would be able to then install it for free on their phone. Turns out the app doesn\u2019t support family sharing, despite that being super common on the App Store. Greedy. Now I\u2019m stuck with an app on my phone I don\u2019t want and we\u2019ll have to pay for it again to put it on my kids phone. I guess we\u2019ll just go with one of the free rip off versions instead of trying to support the original developer of the game.",
-                "date": "2025-08-19",
-                "value": 75,
-                "potential_idea": "Implement Apple Family Sharing support for app purchases to allow family members to access purchased apps on their devices.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "What happened to all the decks you can use for free? I just paid for the app to pay for decks??",
-                "date": "2025-08-19",
-                "value": 70,
-                "potential_idea": "Introduce a clear tiered pricing model or a free tier that allows access to a selection of decks, addressing user confusion about paid content after purchasing the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Pay for the app only to get access to more game categories where you then have to PAY AGAIN to be able to even play. \nSo when you pay for the app originally you literally get absolutely NO games to play.",
-                "date": "2025-08-17",
-                "value": 85,
-                "potential_idea": "Offer a tiered unlock system for app content, where initial purchase grants immediate access to a substantial portion of games/features, with optional further unlocks for specialized content.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "They removed the Make Your Own Deck feature and now this app is worthless. The decks I\u2019ve bought replay the same 4 or 5 cards over and over again, making it unplayable.",
-                "date": "2025-08-14",
-                "value": 70,
-                "potential_idea": "Reintroduce a 'Make Your Own Deck' feature and fix the bug causing decks to replay the same cards.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Get limited number of categories. Have to pay for more which is crazy for a paid app. Then the categories repeat themselves over and over. So you can\u2019t play them multiple times",
-                "date": "2025-08-13",
-                "value": 70,
-                "potential_idea": "Implement a more flexible and less restrictive category system that allows users to replay existing categories or offers a wider variety of unique categories without forcing additional purchases.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "the app cost $1.99 which comes with limited amount of categories.  you have to buy everything else in app. i want a refund honestly this is a scam.",
-                "date": "2025-08-11",
-                "value": 65,
-                "potential_idea": "Offer a tiered subscription model with unlocked categories based on subscription level, rather than individual in-app purchases for each category.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Wants access to microphone and camera and also must pay to get additional decks.",
-                "date": "2025-08-10",
-                "value": 70,
-                "potential_idea": "Implement a freemium model allowing users to access core features with limited decks, with an option to purchase additional decks for expanded content.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Got ride of the Bible deck our families favorite one to play",
-                "date": "2025-08-08",
-                "value": 12,
-                "potential_idea": "Allow users to permanently pin or favorite specific decks to the top of their deck list to prevent accidental deletion or removal.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Its fine. Kind of ridiculous to charge so much for other themes. Idk if others have issues but iv had issues with trying to start games or switching between the limited themes",
-                "date": "2025-08-08",
-                "value": 55,
-                "potential_idea": "Offer a wider variety of free or more affordable theme options for the app to increase accessibility and user satisfaction.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "They don\u2019t share that your purchase only includes 9 lackluster decks, with all other decks being for purchase starting at $12 each. There are plenty of free charades apps that offer the same thing with easier interfaces. The app also annoyingly replays memories from the home page, with no option I can find to mute them. To turn off the videoing feature I had to go my phone settings, because if there are settings within the app, they are ridiculously hard to find.",
-                "date": "2025-07-31",
-                "value": 45,
-                "potential_idea": "Implement a clear in-app purchase breakdown and a prominent, easy-to-find settings menu for controlling features like autoplay videos and decks.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Such a bad game. Lousy choices of subject, even after buying a ridiculously expensive add on pack. But even if you do what I did and get the packs, the clues/cards it gives you are horrible and super off topic like half the time. AVOID AVOID AVOID.",
-                "date": "2025-07-30",
-                "value": 15,
-                "potential_idea": "Develop a trivia game app with curated, high-quality subject packs, potentially community-vetted, to ensure accuracy and relevance of clues.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 2,
-                "review": "Heads up is fun but it needs some updates like only 60 seconds???\nI think you should be able to get all the decks for free and just pay for the special decks and  needing to have voice and camera on for videos.\nSo if you really want to download it you should be a little bit careful",
-                "date": "2025-07-30",
-                "value": 65,
-                "potential_idea": "Allow users to unlock all standard decks for free while offering premium or special decks as paid content within the Heads Up! app.",
-                "tags": [
-                    "bug",
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "User interface is terrible and the app keeps bricking all black. Requested refund immediately.",
-                "date": "2025-07-29",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and automated recovery mechanisms to prevent the app from crashing and becoming unresponsive, potentially offering a safe mode or guided troubleshooting for persistent issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Tried everything even refunding and rebuying the bundle and for whatever reason it refuses to work. Outdated app with no way of customer support other than asking apple for a refund.",
-                "date": "2025-07-22",
-                "value": 17,
-                "potential_idea": "Implement a direct in-app customer support chat or ticketing system to address user issues.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "Why must I pay for games when I just paid for the app.",
-                "date": "2025-07-21",
-                "value": 30,
-                "potential_idea": "Offer a freemium model where the core app is free, with optional in-app purchases for specific games or content, rather than requiring separate purchases for games within a paid app.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "I bought this app, thinking it would come in handy, and would be a fun time I didn\u2019t need to think much about. However, upon purchase, I found there were only like three free sets and they were all such bummy themes. All the interesting stuff is locked, and you have to pay more money to own them or sign up for a subscription. Of course, none of this is properly disclosed in advertising. Do not download!\n\n\u201cIt is so bad i wanna give you a 0. But that's not possible so i give you a 1.\u201d",
-                "date": "2025-07-19",
-                "value": 15,
-                "potential_idea": "Offer more diverse and appealing free content at the start of the app to showcase its capabilities, or clearly disclose premium content limitations upfront in marketing.",
-                "tags": []
-            },
-            {
-                "app_name": "Heads Up!",
-                "rating": 1,
-                "review": "There should be an option to delete decks. Of all the decks that could be included for free, the content creators decide to put agenda decks in place to push sexuality agendas. ABSOLUTELY RIDICULOUS.",
-                "date": "2025-07-01",
-                "value": 75,
-                "potential_idea": "Allow users to delete or hide specific decks within the app to curate their content experience.",
-                "tags": [
                     "valuable opinion"
                 ]
             }
@@ -12861,6 +12296,610 @@
                 "tags": [
                     "valuable opinion"
                 ]
+            }
+        ]
+    },
+    {
+        "id": "1462324486",
+        "name": "Papa's Donuteria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-donuteria-to-go/id1462324486?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 1,
+                "review": "I had to get a new phone and 3 years of progress gone there\u2019s no data saves this game is not a good game don\u2019t get it",
+                "date": "2025-07-09",
+                "value": 95,
+                "potential_idea": "Implement cloud-based save/sync functionality for game progress to prevent data loss across devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 2,
+                "review": "Cuando intento poner las chispas, se me queda frisado sin poderle poner la que quiero, sino la que est\u00e1 en el medio.",
+                "date": "2025-03-23",
+                "value": 15,
+                "potential_idea": "Implement a more reliable and intuitive interface for selecting decorative elements within the app, preventing freezing and allowing precise selection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 2,
+                "review": "The music and actions now lag so it ruins the gameplay",
+                "date": "2024-08-07",
+                "value": 15,
+                "potential_idea": "Optimize app performance to eliminate lag in music and actions, ensuring smooth gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Donuteria To Go!",
+                "rating": 1,
+                "review": "First of all, there is nothing you can do as a beginner, you hire a person that is useless. Second of all, When I have to restart a donut it just disappears. DO NOT WASTE YOUR MONEY ON THIS GAME!!!",
+                "date": "2023-11-22",
+                "value": 55,
+                "potential_idea": "Implement a tutorial system and a 'bug report' feature for persistent issues like disappearing items.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6752363508",
+        "name": "Garten of Banban 8: Anti Devil",
+        "url": "https://apps.apple.com/us/app/garten-of-banban-8-anti-devil/id6752363508?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Garten of Banban 8: Anti Devil",
+                "rating": 1,
+                "review": "I love this game a lot it\u2019s definitely my favorite in the series so far but PLEASE add settings for the graphics the others games on mobile had settings for it so it feels really weird that this one doesn\u2019t",
+                "date": "2025-09-24",
+                "value": 65,
+                "potential_idea": "Add customizable graphics settings to the mobile game, mirroring features present in previous installments of the series.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Garten of Banban 8: Anti Devil",
+                "rating": 2,
+                "review": "the gameplay is fine, but the graphics are terrible. to see the murals on the wall you have to get super close for it to not be blurry, and the bowling pins don\u2019t look anything like what they should. could you fix this?",
+                "date": "2025-09-24",
+                "value": 70,
+                "potential_idea": "Enhance in-game graphics by improving texture resolution for environmental details and character models. ",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "479516143",
+        "name": "Minecraft: Dream it, Build it!",
+        "url": "https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Minecraft: Dream it, Build it!",
+                "rating": 1,
+                "review": "Can\u2019t believe I\u2019ve been charged monthly for an app I\u2019ve been locked out of for over 6 months. Just know after you spend hundreds of dollars if you ever have trouble with your account you\u2019re never getting help. I spent over 4 months reaching out to Microsoft, Xbox and Minecraft with nothing close to assistance. My credit card was entered into an account that was not mine. No help, no guidance. There\u2019s a lot of ai assistance that doesn\u2019t address the issue in question. I\u2019ve been signed out for months, reloaded apps, nothing works\u2026 ie I don\u2019t need to log out again. 2 factor authentication is on and fails (it\u2019s also been reloaded). There is ZERO help. Bye bye to your money once there\u2019s a problem. Unreal.",
+                "date": "2025-10-02",
+                "value": 95,
+                "potential_idea": "Develop an AI-powered, direct customer support chatbot specifically for account recovery and security issues with verified identity protocols, offering real-time troubleshooting and escalation to human support when AI fails.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Minecraft: Dream it, Build it!",
+                "rating": 1,
+                "review": "This game deleted my years of worlds and progress and gave me no option to save\u2014would give 0 if I could/ I\u2019m being so honest",
+                "date": "2025-10-01",
+                "value": 100,
+                "potential_idea": "Implement robust, automatic cloud backup and manual save/transfer options for game progress to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Minecraft: Dream it, Build it!",
+                "rating": 1,
+                "review": "Wasn\u2019t able to get the Jenny mod on my 10 year hardcore world",
+                "date": "2025-10-01",
+                "value": 15,
+                "potential_idea": "Integrate a curated marketplace or discovery platform for user-created mods and content within the game.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Minecraft: Dream it, Build it!",
+                "rating": 1,
+                "review": "Ok so sewing Minecraft is good and better I need to be the owner mojang fixe your bad work game you did no atleast work\n\n I will be better than you make me owner",
+                "date": "2025-10-01",
+                "value": 15,
+                "potential_idea": "Implement a user-generated content marketplace within Minecraft, allowing players to 'own' and monetize their creations, bridging the gap between player desire for creative ownership and developer control.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Minecraft: Dream it, Build it!",
+                "rating": 1,
+                "review": "I hate water tnt! It spoiled my whole day! I m never playing again!",
+                "date": "2025-10-01",
+                "value": 15,
+                "potential_idea": "Implement a 'peaceful mode' or 'sandbox mode' in the game that allows users to experiment with TNT mechanics without the risk of causing in-game destruction or negative consequences.",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": "525818839",
+        "name": "Plague Inc.",
+        "url": "https://apps.apple.com/us/app/plague-inc/id525818839?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Why was France dropping when I literally destroyed its government removed almost all lethality and destroyed the entire European continent I don\u2019t understand why  it was not spreading what kind of game is this",
+                "date": "2025-09-30",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 15,
+                    "feasibility": 10,
+                    "total": 60
+                },
+                "potential_idea": "Introduce a 'Scenario Explainer' feature that provides detailed in-game feedback on why certain game mechanics behave unexpectedly, especially in complex simulation games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Tried the shadow and at one point features just stopped working.",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and real-time status monitoring to prevent features from unexpectedly stopping.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Well, all my speed runs are still have a good score, they are no longer at global scoreboard.",
+                "date": "2025-09-20",
+                "value": 12,
+                "potential_idea": "Allow users to re-submit or recover their speed run scores to the global scoreboard if they were incorrectly removed.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "For casual mode I feel like it should be a 95% chance at winning. I can\u2019t beat anything. So I haven\u2019t even bothered with the other difficulties.",
+                "date": "2025-09-12",
+                "value": 12,
+                "potential_idea": "Introduce adjustable 'casual' mode difficulty levels or a tutorial that guides beginners through early game challenges.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Said I could buy the game for $0.99 and then charged me $7.54\nSCAM.",
+                "date": "2025-09-07",
+                "value": 75,
+                "potential_idea": "Implement clear and transparent pricing displays with confirmation steps to prevent billing discrepancies.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Was very close to completing a level I have spent hours trying to complete game just crashes all progress is lost very upsetting no way to recover",
+                "date": "2025-09-05",
+                "value": 95,
+                "potential_idea": "Implement an auto-save or cloud-save feature to prevent progress loss in mobile games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 2,
+                "review": "I was lead into this game because I wanted to play the zombie and vampire scenarios, but quickly learned they are added dlc even though they are in the game images without mentioning that.\nI play a lot of world conquering games like CIV fand EU4, so I u Der stand the basics of this type of game.  However I found this game to be quite difficult from the very beginning and all the maps are locked behind either beating the previous level on a certain difficulty or a paywall.  I know people will say \u2018get good\u2019, but the game also doesn\u2019t do a good job of giving you hints on how to improve and all the bonus items are again locked behind a paywall so you can\u2019t even grind for them.  This game is a big disappointment due to the learning curve.  And if I don\u2019t want to pay for the zombies or vampires, you have to beat all the levels on the hard mode.  I cannot recommend this to anyone but the most die hard fan of this game.  I hope the develop has improved on their other titles.\n\nUpdate:  I beat all the main game plagues on Brutal difficulty and the game only allowed me to play the shadow/vampire plague once and then locked me out to buy even though it said it would open up if I beat the main plagues on that difficulty level. What is the deal.  I know people like this game but it seems like it it always blocking me from trying the next thing.",
+                "date": "2025-09-04",
+                "value": 70,
+                "potential_idea": "Incorporate an in-game tutorial system and offer unlockable content through gameplay rather than solely through paywalls or extreme difficulty.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "\ud328\uce58\uc880 \ubd80\ud0c1\ud569\ub2c8\ub2e4",
+                "date": "2025-09-03",
+                "value": 15,
+                "potential_idea": "Implement a user-friendly patch submission and tracking system for bug reports and feature requests.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 2,
+                "review": "i stayed upp all night until 6am trying to beat fungus on NORMAL, the first 2 were simple and i even could beat it on brutal and almost mega brutal but how have i spent hours doing the same thing over and over starting in different regions but fungi is still unbeatable. its like you have to pay to beat it.",
+                "date": "2025-08-31",
+                "value": 15,
+                "potential_idea": "Introduce a 'hint' system or tiered difficulty scaling for challenging bosses that don't require payment, offering players strategic advice or slight gameplay adjustments.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Plague Inc.",
+                "rating": 1,
+                "review": "Once you get the fungus you can't beat the game. The point system makes no sense.",
+                "date": "2025-08-30",
+                "value": 65,
+                "potential_idea": "Implement a clear and logical point system that is easy for players to understand and interact with, potentially rewarding strategic play and progression.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1596736236",
+        "name": "Red's First Flight",
+        "url": "https://apps.apple.com/us/app/reds-first-flight/id1596736236?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Red's First Flight",
+                "rating": 1,
+                "review": "if you click on the privacy policy it will list about something I don't know 50 different companies they sell your ads to. It gives you the apparent option to opt out of all of them but when you click it nothing happens. I'll be damned if you're gonna sell my info. Deleted the app.",
+                "date": "2025-09-30",
+                "value": 85,
+                "potential_idea": "Implement a functional opt-out mechanism for targeted advertising that clearly communicates the success or failure of the opt-out attempt to the user.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Red's First Flight",
+                "rating": 1,
+                "review": "Don\u2019t agree with them removing levels. They should all be available to play.",
+                "date": "2025-09-16",
+                "value": 35,
+                "potential_idea": "Allow users to access all levels of the game at once, rather than being restricted by progression.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Red's First Flight",
+                "rating": 2,
+                "review": "Im not I'm surprised that the game was removed again. The new engine does not convey the atmosphere of the old classics. And new pigs model is terrifying",
+                "date": "2025-08-28",
+                "value": 75,
+                "potential_idea": "Offer a retro graphics mode that replicates the visual style and atmosphere of older classic games, including original character models for nostalgic players.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "623592465",
+        "name": "Heads Up!",
+        "url": "https://apps.apple.com/us/app/heads-up/id623592465?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "After paying two dollars, it just shows you a very non-user-friendly page of all of the different decks that you can buy. Honestly so disappointed. Just use the free version\u2026",
+                "date": "2025-10-02",
+                "value": 65,
+                "potential_idea": "Implement a guided, user-friendly onboarding flow for premium features to clearly showcase their value and benefits.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "You used to be able to click on a deck and it would give a description of what the deck was about and the suggested rules for it. Now it just goes right into it with no way to open the descriptions. A long time ago I bought access to all decks. It puts them all into a single giant list that sometimes seems to sort by what you\u2019ve used most recently, sometimes just seems to be random. There should be categories where the decks are grouped and a way to sear CB and favorite decks, but the devs don\u2019t care. If they did, this would have been one of the first quality of life improvements they made. It\u2019s been this way for several years at this point. We used to love playing this game and I still do, but I find myself using some of the copycat apps over this one fairly regularly. The final straw that led me to create this review is that they seem to have removed one of my go-to decks \u201cThe Bible\u201d this was a popular one to play with my family and friends and now it\u2019s just gone. I get that I didn\u2019t technically own the deck but it is something I paid for, and it\u2019s crummy that they took it away.",
+                "date": "2025-10-01",
+                "value": 95,
+                "potential_idea": "Implement a deck categorization, search, and favoriting system with robust display of deck descriptions and rules, potentially integrating a user history or an option to restore removed decks.",
+                "tags": [
+                    "no update for long time",
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I purchased extra packs and they never uploaded to my game. I\u2019ve hit restore purchases and it doesn\u2019t show. I\u2019ve tried to buy the pack again but it says already purchased and brings me to my decks\u2026 which isn\u2019t there\u2026 I\u2019ve deleted the app to clear the cache- nope. I\u2019ve tried reaching out to app developers and get a 404 page not found error. I purchased several packs in the past and then switched to Android so understandly lost those packs.  But now that I\u2019m back to an iPhone my previously purchased and my new ones never show.",
+                "date": "2025-09-25",
+                "value": 90,
+                "potential_idea": "Implement a robust cross-platform purchase restoration system that syncs digital content across different operating systems and devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I love this game, but it does not work for kids. That\u2019s learning to read. I thought it would have pictures of animals. so for me it was a waste of money.",
+                "date": "2025-09-23",
+                "value": 65,
+                "potential_idea": "Develop an educational version of the game with prominent visual aids like animal pictures to support early readers.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Horrible app, lures many into buying it thinking they\u2019ll be able to play instantly. Turns out you need to purchase endless pricey card decks to get any value. Feel downright cheated.",
+                "date": "2025-09-22",
+                "value": 75,
+                "potential_idea": "Implement a tiered progression system that allows free or affordable access to core gameplay mechanics before requiring expensive purchases.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "What happened to the bible deck? want to play it with my church",
+                "date": "2025-09-21",
+                "value": 15,
+                "potential_idea": "Reinstate or reintroduce the 'Bible Deck' game mode for social and religious group play.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "While inside a Disney park, the pack labeled Disney parks is not free as listed in the app. This is false advertising and extremely frustrating. I\u2019ve downloaded the app thrice and restarted my phone as well as location services.",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Implement a system that accurately verifies offer eligibility based on real-time park location and status of park packs to prevent false advertising on premium features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I thought it was a one time purchase for a deck but I just got charged again a month later. I click  on the \u201cApp Support\u201d in the Apple Store to try and resolve this/stop the payment and web link is invalid. I even checked under subscriptions and it doesn\u2019t list it as reoccurring.",
+                "date": "2025-09-13",
+                "value": 75,
+                "potential_idea": "Implement transparent subscription management and provide a functional in-app support channel to address billing discrepancies.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "when we call out the answer, it doesn\u2019t recognize the correct answer.",
+                "date": "2025-09-06",
+                "value": 15,
+                "potential_idea": "Implement an improved speech recognition engine that is more accurate in identifying spoken answers within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Even if you purchase the app, you barely have any \u2018decks\u2019 to play with. Only very specific decks, and only a couple. Game is blocked behind a paywall \u2014 and then has way more to buy. I wish I could get a refund",
+                "date": "2025-08-30",
+                "value": 45,
+                "potential_idea": "Offer a free trial or a more generous selection of playable decks in the premium version to address user frustration with perceived paywalls.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 2,
+                "review": "Bought the app, could not find how to create a custom deck; when I clicked the link for \u201cget help\u201d the page was \u201c404 not found\u201d\n\nUnless this gets fixed, do not buy.",
+                "date": "2025-08-28",
+                "value": 18,
+                "potential_idea": "Implement a clear and accessible 'Help' or 'FAQ' section within the app for users to find instructions on creating custom decks and general app usage.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "While at a Walt Disney World Park, i tried to download the free Disney Parks pack. The app verified my location but wouldn\u2019t let me download the pack. It would try to charge me the cost of the set of packs.",
+                "date": "2025-08-28",
+                "value": 15,
+                "potential_idea": "Implement a more robust in-app purchase validation system that accounts for location-specific freebies and prevents accidental charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Hated this game, very stupid, would make your kids stupid just from playing..\ud83e\udd78",
+                "date": "2025-08-27",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 2,
+                "review": "Why don\u2019t they let you buy a single deck? I don\u2019t want to spend $12.99 when I will only use 1/4 decks. So stupid. Also, bring back the Drag Race deck!",
+                "date": "2025-08-26",
+                "value": 40,
+                "potential_idea": "Implement a feature to purchase individual card decks or smaller bundles of decks to cater to users with specific needs and preferences.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I bought a pack of decks for $13 and it is showing up in my purchases on my iPhone, but none of the content in the pack is showing up in the my decks section.. so I can\u2019t play them. I tried  selecting restore purchases, but that isn\u2019t working either..",
+                "date": "2025-08-26",
+                "value": 15,
+                "potential_idea": "Implement a robust 'restore purchases' feature that accurately syncs in-app purchases across devices and resolves content access issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "No free decks??? After paying for the app you have to spend $20+ to play at all?",
+                "date": "2025-08-25",
+                "value": 18,
+                "potential_idea": "Implement a tiered freemium model with a limited selection of free decks to allow users to experience core gameplay before purchasing additional content.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I like this game a lot when it works, but I\u2019ve recently tried playing it again and it will open to the \u201chold to forehead\u201d screen and then not work any further.",
+                "date": "2025-08-22",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting and automated crash recovery system within the game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I\u2019m in the paths but can\u2019t get Disney parks to download for Jess than $9.99 even though it\u2019s supposed to be free",
+                "date": "2025-08-22",
+                "value": 10,
+                "potential_idea": "Offer a clear disclaimer or troubleshooting guide for users encountering download or pricing issues with specific park content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "I purchased this on my phone, thinking that my child, who is part of my iCloud Family, would be able to then install it for free on their phone. Turns out the app doesn\u2019t support family sharing, despite that being super common on the App Store. Greedy. Now I\u2019m stuck with an app on my phone I don\u2019t want and we\u2019ll have to pay for it again to put it on my kids phone. I guess we\u2019ll just go with one of the free rip off versions instead of trying to support the original developer of the game.",
+                "date": "2025-08-19",
+                "value": 70,
+                "potential_idea": "Implement Family Sharing support for app purchases to allow licensed users to share the app with family members.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "What happened to all the decks you can use for free? I just paid for the app to pay for decks??",
+                "date": "2025-08-19",
+                "value": 85,
+                "potential_idea": "Implement a tiered subscription model that clearly distinguishes between paid features and a free tier that retains access to a selection of decks.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Pay for the app only to get access to more game categories where you then have to PAY AGAIN to be able to even play. \nSo when you pay for the app originally you literally get absolutely NO games to play.",
+                "date": "2025-08-17",
+                "value": 85,
+                "potential_idea": "Implement a freemium model where a significant set of core game categories are accessible for free, with optional paid expansions for niche or advanced content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "They removed the Make Your Own Deck feature and now this app is worthless. The decks I\u2019ve bought replay the same 4 or 5 cards over and over again, making it unplayable.",
+                "date": "2025-08-14",
+                "value": 70,
+                "potential_idea": "Restore and enhance the 'Make Your Own Deck' feature, ensuring it integrates seamlessly with purchased decks for a more personalized and replayable user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Get limited number of categories. Have to pay for more which is crazy for a paid app. Then the categories repeat themselves over and over. So you can\u2019t play them multiple times",
+                "date": "2025-08-13",
+                "value": 75,
+                "potential_idea": "Implement a more robust and varied category system in the app, allowing users access to a broader range of gameplay without requiring additional purchases or encountering repetitive content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "the app cost $1.99 which comes with limited amount of categories.  you have to buy everything else in app. i want a refund honestly this is a scam.",
+                "date": "2025-08-11",
+                "value": 60,
+                "potential_idea": "Offer a subscription model with tiered access to all app categories, providing a clearer value proposition than the current pay-per-category system.",
+                "tags": []
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Wants access to microphone and camera and also must pay to get additional decks.",
+                "date": "2025-08-10",
+                "value": 75,
+                "potential_idea": "Offer a freemium model with limited free decks and a purchase option for unlimited decks and advanced features like microphone/camera access for more interactive content.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Heads Up!",
+                "rating": 1,
+                "review": "Got ride of the Bible deck our families favorite one to play",
+                "date": "2025-08-08",
+                "value": 15,
+                "potential_idea": "Allow users to save and re-access favorite content or decks within the app.",
+                "tags": []
             }
         ]
     }
