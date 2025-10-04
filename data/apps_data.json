@@ -624,662 +624,6 @@
         ]
     },
     {
-        "id": "1449584007",
-        "name": "Koala Sampler",
-        "url": "https://apps.apple.com/us/app/koala-sampler/id1449584007?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Koala Sampler",
-                "rating": 1,
-                "review": "It\u2019s a Very good app except for the fact that anytime I\u2019m doing something in iCloud like opening a video , for some unknown reason koala will open  instead of my video file . it doesn\u2019t allow me to view any of my saved videos . I have tried everything and I don\u2019t understand why it would attempt to open any videos. After purchasing the app along with some additional content I\u2019ve had to delete the app from my devices until I receive feedback or a fix from the developers",
-                "date": "2025-09-27",
-                "value": 18,
-                "potential_idea": "Implement a robust setting to prevent the app from interfering with or overriding native file association for media files, allowing users to specify which file types the app should handle.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Koala Sampler",
-                "rating": 1,
-                "review": "1star can\u2019t access my cloud folder and some files won\u2019t even open up but don\u2019t open up on my laptop my MacBook Pro, but will not open up on my iPhone 15 Pro Max one terabyte",
-                "date": "2025-09-04",
-                "value": 75,
-                "potential_idea": "Implement a robust file syncing and offline access feature for cloud folders that works seamlessly across devices, ensuring files are available and accessible on both mobile and desktop.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Koala Sampler",
-                "rating": 1,
-                "review": "It\u2019s been countless times now that I open the app where I have a whole project full of samples of musical ideas, melodies, and vocal clips that I\u2019ve accumulated, only to find an empty project. My previous project, disappears into unrecoverable nothingness. I cannot trust this app with my ideas anymore and have deleted it because of this.",
-                "date": "2025-06-16",
-                "value": 95,
-                "potential_idea": "Implement robust automatic cloud backup and version history for all user projects to prevent data loss.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Koala Sampler",
-                "rating": 1,
-                "review": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 , \u0421\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u043e\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 , \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0438 \u043c\u043d\u043e\u0433\u043e \u0431\u0430\u0433\u043e\u0432 , \u043d\u043e \u0432\u043e\u0442 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043e\u043c \u0442\u0430\u043a \u0438 \u043d\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0438 , \u043f\u043e\u0442\u0443 \u0447\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u0431\u0430\u0433 ,\u043a\u043e\u0433\u0434\u0430 \u043d\u0430\u0431\u0438\u0432\u0430\u0435\u0448\u044c \u043d\u0430 \u044d\u043a\u0440\u0430\u043d\u0435 \u043c\u0435\u043b\u043e\u0434\u0438\u044e ,\u043a\u0430\u0441\u0430\u044f\u0441\u044c \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u044d\u043a\u0440\u0430\u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0448\u044c \u0434\u0432\u043e\u0439\u043d\u043e\u0435 \u043a\u0430\u0441\u0430\u043d\u0438\u0435, \u0432 \u0441\u0435\u043a\u0432\u0435\u043d\u0441\u043e\u0440 \u043f\u0440\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u043e \u043a\u0430\u0441\u0430\u043d\u0438\u0435 , \u0430 \u0437\u0432\u0443\u043a \u0438\u0434\u0435\u0442 \u043a\u0430\u043a \u0434\u0432\u043e\u0439\u043d\u043e\u0435 ,\u0438 \u044d\u0442\u043e \u043d\u0435\u0432\u0430\u0436\u043d\u043e \u043d\u0430 \u043a\u0430\u043a\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 \u0438\u043b\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435 , \u0440\u0430\u043d\u044c\u0448\u0435 \u0432 \u043a\u0430\u043a\u0438\u0445 \u0442\u043e \u0432\u0435\u0440\u0441\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0431\u044b\u043b\u043e , \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c , \u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u043f\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u043b\u043e\u0433\u0438\u043a\u043e\u0439 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043e\u043c \u0434\u043b\u044f \u0444\u0438\u043d\u0433\u0435\u0440\u0434\u0440\u0430\u043c\u0438\u043d\u0433\u0430 , \u0430 \u043f\u043e \u0444\u0430\u043a\u0442\u0443 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u043e\u044f\u0432\u043b\u044f\u0442\u044c\u0441\u044f \u043f\u0430\u043a\u0438 \u0441 \u0441\u044d\u043c\u043f\u043b\u0430\u043c\u0438 ))) \u043d\u0435 \u0445\u043e\u0440\u043e\u0448\u043e \u0442\u0430\u043a \u0434\u0435\u043b\u0430\u0442\u044c , \u0431\u044b\u043b\u0430 \u0441\u0443\u043f\u0435\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u043e\u043d\u0430\u0442\u044b !!!",
-                "date": "2025-05-16",
-                "value": 65,
-                "potential_idea": "Enhance touch sensitivity and responsiveness for finger drumming, potentially offering customizable touch gesture recognition for a more nuanced musical input experience.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Koala Sampler",
-                "rating": 1,
-                "review": "Color is eye hurting",
-                "date": "2025-02-26",
-                "value": 15,
-                "potential_idea": "Offer users customizable color themes or a dark mode option to reduce eye strain and improve readability.",
-                "tags": []
-            },
-            {
-                "app_name": "Koala Sampler",
-                "rating": 2,
-                "review": "why do i have to pay for features on already paid app. it\u2019s a rip off",
-                "date": "2025-02-15",
-                "value": 65,
-                "potential_idea": "Offer a single, one-time purchase option for premium features instead of relying on recurring subscriptions for paid apps.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Koala Sampler",
-                "rating": 1,
-                "review": "1starring this hopefully for visibility.  I get error message on iPad saying app can\u2019t connect to app story.  Would be happy to provide more details",
-                "date": "2025-01-22",
-                "value": 15,
-                "potential_idea": "Implement robust network connection error handling and user-friendly troubleshooting guides for when app store connectivity issues arise on iPad.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1556671822",
-        "name": "Merge Watermelon for watch",
-        "url": "https://apps.apple.com/us/app/merge-watermelon-for-watch/id1556671822?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "It may be 99 cents but that\u2019s a crazy thing for apple to allow",
-                "date": "2025-04-15",
-                "value": 15,
-                "potential_idea": "Implement a feature allowing users to review and report app pricing that they deem unreasonable or unfair.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "I purchased this but can\u2019t play anymore because of the update",
-                "date": "2025-03-21",
-                "value": 15,
-                "potential_idea": "Implement a rollback feature allowing users to revert to a previous app version, especially before major updates that negatively impact functionality or purchased content.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "has not downloaded onto my phone!! I bought it and it\u2019s not downloading. Wasted money",
-                "date": "2025-02-23",
-                "value": 15,
-                "potential_idea": "Implement a transparent and reliable refund system for in-app purchases that fail to deliver.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "bought the game, says \u201cpurchased\u201d, and won\u2019t pop up on watch. Please give me my money back.",
-                "date": "2025-01-23",
-                "value": 70,
-                "potential_idea": "Implement a robust cloud sync or account-based system for game purchases to ensure cross-device availability and simplified refund requests.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "Game didn't download to my apple watch, just says it  was purchased",
-                "date": "2025-01-08",
-                "value": 15,
-                "potential_idea": "Implement a streamlined process for syncing purchased apps from an iPhone to an Apple Watch, including clear status indicators and troubleshooting prompts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "It didn\u2019t install it just says purchased",
-                "date": "2024-12-31",
-                "value": 10,
-                "potential_idea": "Implement a clearer in-app purchasing and installation status indicator to inform users of purchase completion and installation progress.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "Uninstalled from my ultra 2",
-                "date": "2023-12-11",
-                "value": 10,
-                "potential_idea": "Develop a companion app or feature specifically for smartwatches, focusing on core functionalities that are optimized for a smaller screen and quick interactions.",
-                "tags": []
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "does NOT work on ULTRA 2",
-                "date": "2023-11-22",
-                "value": 15,
-                "potential_idea": "Ensure app compatibility and proper functionality on newer Apple Watch Ultra 2 models.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Merge Watermelon for watch",
-                "rating": 1,
-                "review": "Loved this game, but it stopped working on my larger watch. It seems to still be working for anyone who has a smaller watch",
-                "date": "2022-09-13",
-                "value": 60,
-                "potential_idea": "Optimize the mobile game for compatibility with larger smartwatch screen sizes.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "925494667",
-        "name": "Papa's Pizzeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-pizzeria-to-go/id925494667?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "When will we be able to customize our characters?",
-                "date": "2025-09-16",
-                "value": 65,
-                "potential_idea": "Implement character customization options within the app to allow users to personalize their avatars or profiles.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "The game is really pixilated, not worth it.",
-                "date": "2024-07-31",
-                "value": 15,
-                "potential_idea": "Offer a premium version of the game with higher resolution graphics or texture packs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "I have almost every other game and I wanted to add this one but just the quality is not very good and it\u2019s just not worth it (I wish a could get my money back\ud83d\ude39)",
-                "date": "2024-06-05",
-                "value": 15,
-                "potential_idea": "Implement a free trial or a more robust preview mechanism to demonstrate the app's quality before purchase.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "It\u2019s so bad I can\u2019t refund it",
-                "date": "2024-05-09",
-                "value": 15,
-                "potential_idea": "Implement a clear and accessible refund process within the app for users who are dissatisfied with their purchase.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "i now see why this one is cheaper than the other ones. honestly the pizza one was one of my favorites growing up but the app is very laggy and not living up to the og web version or the other apps. (i only have the pasta one as of right now) wish there was a refund option lol",
-                "date": "2024-03-14",
-                "value": 15,
-                "potential_idea": "Implement a refund option for users who are dissatisfied with the app's performance or features.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 2,
-                "review": "You teach how to do topping in all the other games like Pasteria but we just have to guess how the toppings go for this game?? I love this game but wow\u2026 it\u2019s plainly hard because of bad execution.",
-                "date": "2023-11-14",
-                "value": 70,
-                "potential_idea": "Integrate visual guides or step-by-step instructions for topping placement within the game, similar to how it's done in other games.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "I am extremely disappointed by this game. The fact that I spent money just to play a game that doesn\u2019t even save your progress is ridiculous. I was up to rank 15 when I got off last night, I ended right after my shift, then I wake up this morning to see that I have somehow dropped to a rank 5??? I am so angry that I spent so much time playing this game, decorating my lobby, and buying upgrades just for non of it to save. I wish I could give zero stars!!!!!! Hope you enjoy my money!",
-                "date": "2023-05-07",
-                "value": 95,
-                "potential_idea": "Implement robust auto-save and manual save features to ensure player progress is consistently preserved.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 2,
-                "review": "I know it\u2019s a (classic) it\u2019s good but it has low quality unlike the other games and in general I honestly don\u2019t like it and want my money back",
-                "date": "2023-04-17",
-                "value": 20,
-                "potential_idea": "Implement a trial period or detailed demo for games before purchase to manage user expectations and reduce refund requests.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "I used to play this game when I was a kid a lot and was hoping to play it again, I bought it and then when it shows the orders the thing where it shows the day cycle gets in the way of the receipt making it hard to see, the roping\u2019s one the receipt are really hard to see and I can\u2019t tell what\u2019s what, was really looking forward ro playing too :/ I want my money back and it won\u2019t let me.",
-                "date": "2022-10-23",
-                "value": 15,
-                "potential_idea": "Introduce an in-game zoom or clarity adjustment feature for order receipts to improve readability, especially for older games.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "The quality is so horrible it\u2019s not even worth the money. Also you barely get to do anything. Just take an order, add toppings, bake and slice the pizza. I\u2019d recommend you spend another dollar on one of the better games.",
-                "date": "2021-07-15",
-                "value": 75,
-                "potential_idea": "Develop a more complex and engaging pizza-making simulation game that offers a wider range of activities beyond basic order fulfillment, such as ingredient sourcing, recipe creation, and restaurant management.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 2,
-                "review": "Me want a refund I hate it :( I wasted money on this it\u2019s fine just why:/ but sill cool \ud83d\udc4d\ud83d\ude12 just want a refund but why it cost money it\u2019s like a free game :(",
-                "date": "2020-08-05",
-                "value": 75,
-                "potential_idea": "Offer a limited free trial period or a refund option for users who are dissatisfied with the app's value proposition.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 2,
-                "review": "The game is fun for about 2 days maybe. I wish they would just run ads so all these games could be free :( definitely not buying another one",
-                "date": "2019-12-06",
-                "value": 75,
-                "potential_idea": "Implement a free-to-play model with opt-in rewarded ads for in-game currency or content, allowing users to access the full game experience without a purchase.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Pizzeria To Go!",
-                "rating": 1,
-                "review": "This game is a waste of money. You don\u2019t even make the pizza (dough, spread cheese & sauce, etc.) you just heat up the pizza then put toppings on. basically the pizza is premade all you do is put it in the oven for a few seconds and then when it\u2019s finished you place the toppings and give it to the customer. I want my money back.",
-                "date": "2019-11-13",
-                "value": 75,
-                "potential_idea": "Develop a mobile pizza-making game where users can create pizzas from scratch, including dough, sauce, and cheese, before adding toppings.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6740349587",
-        "name": "Backyard Baseball '01",
-        "url": "https://apps.apple.com/us/app/backyard-baseball-01/id6740349587?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "When I load in a get kicked out. Fix or I\u2019m suing you for my money back.",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and crash reporting to prevent users from being kicked out upon app launch.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "I am unable to progress my season as I am continually met with a fatal error",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and recovery mechanisms to prevent game progression blockers caused by fatal errors.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 2,
-                "review": "I receive an error in the playoffs after the completion of a game. I swipe out and repeat. Same result. Please fix.",
-                "date": "2025-09-12",
-                "value": 15,
-                "potential_idea": "Implement robust error handling that automatically retries or provides clear guidance to the user when a game completion error occurs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "Wont swing the bat when pitches are coming, I can\u2019t hit the ball no matter what happens",
-                "date": "2025-09-11",
-                "value": 70,
-                "potential_idea": "Implement an AI-powered swing predictor that suggests the optimal time to swing based on pitch trajectory and speed.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 2,
-                "review": "When you can play it\u2019s great, most of the time you can\u2019t due to this error that happens at the end of every game for me.",
-                "date": "2025-09-09",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and logging to diagnose and resolve recurring game-ending errors for a smoother user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "Loved this game as a kid. This version does not work. It is fully messed up. Fielding is bad, the other team sometimes can\u2019t field the ball and then the play never ends until you get out.",
-                "date": "2025-08-20",
-                "value": 50,
-                "potential_idea": "A more polished and bug-free modern remake of a classic childhood game with improved fielding mechanics.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 2,
-                "review": "Needs to support a mouse like the original game or have buttons for actions like swinging instead of clicking randomly on screen and hoping the desired action happens",
-                "date": "2025-08-18",
-                "value": 75,
-                "potential_idea": "Implement customizable on-screen buttons for common actions in the mobile game, allowing for more precise control than random screen tapping.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "Instant freeze and close out everytime I load up game\u2026",
-                "date": "2025-08-17",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and performance optimization to prevent unexpected app crashes during game loading.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "Whenever I click on the app it cancels out immediately and I cannot play the game",
-                "date": "2025-08-04",
-                "value": 10,
-                "potential_idea": "Implement robust crash reporting and automatic restarts for the mobile game to ensure continuous gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "When you get to the playoffs , this error message appears after winning games . The game crashes and then picks up at the last batter of the previous game . There\u2019s no way to advance it just keeps reverting back to the last batter of the game.\n\nUpdate : new update that supposedly fixes this error allowed me to complete the game in question but then happened again as I got to the last out of the next game .",
-                "date": "2025-08-02",
-                "value": 18,
-                "potential_idea": "Implement robust game state saving and recovery mechanisms to prevent progress loss and ensure seamless continuation after crashes or errors, particularly during critical game progression points like playoffs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 2,
-                "review": "The emulator doesn\u2019t work past game nine",
-                "date": "2025-08-01",
-                "value": 15,
-                "potential_idea": "Implement a robust bug reporting system within the app to allow users to easily submit and track issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "While the game is fun, you will be bombarded by \"SCUMMERROR\". One of my seasons, I made it to game 1 of the World Series and the error message came up. Now every time I attempted to load that season, I am bumped out of the app. I created another season seeing if that would help and got close to the end of the season, in the middle of the game every time someone hits a ball the error message pops up. The game is just like I remember and nostalgic, however until the developers are able to update it and finally patch it, save your money and do not download this game.",
-                "date": "2025-07-28",
-                "value": 18,
-                "potential_idea": "Implement robust error handling and data integrity checks to prevent game-breaking bugs like 'SCUMMERROR' that corrupt save data and crash the app, ensuring a stable gaming experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 1,
-                "review": "Hard to feel nostalgic when the game crashes every time the ball is hit.",
-                "date": "2025-07-28",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Baseball '01",
-                "rating": 2,
-                "review": "CPU is crazy, how is a pitch hitting the dirt and still being called a strike against me? My bat loves to melt through the ball and result in a strike too. Love it",
-                "date": "2025-07-28",
-                "value": 18,
-                "potential_idea": "Implement stricter and more accurate pitch recognition and ball-bat collision physics to ensure fair calls and realistic gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "600626116",
-        "name": "Papa's Burgeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-burgeria-to-go/id600626116?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 2,
-                "review": "It good but keep acting up when I delete it it didn\u2019t give me my money back",
-                "date": "2025-02-16",
-                "value": 15,
-                "potential_idea": "Implement a clear and automated refund process for subscriptions or in-app purchases that is triggered upon app uninstallation or cancellation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 2,
-                "review": "I know on my Cupcakeria I said it\u2019s bad quality because it was made in 2013 (like this one) but the game is low quality, and also, why is the ticket so small, like I need a magnifying glass to see it. This used to be my go-to papa\u2019s game until I got either taco Mia or hot doggeria. It\u2019s a simple game only having 3 stations, waiting, grilling, and topping station. The topping is bad because it expects us to drop toppings from like 10 feet away. I used to like this game but now I question why I liked this.",
-                "date": "2025-02-02",
-                "value": 18,
-                "potential_idea": "Implement a zoom-in feature for viewing order tickets and adjust topping placement accuracy to improve gameplay, especially for older games with dated UI elements.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "I want a refund",
-                "date": "2024-08-31",
-                "value": 125,
-                "potential_idea": "Add an in-app mechanism allowing users to request refunds for recent purchases, with clear conditions defined.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "The game keeps freezing now. Why is this happening.",
-                "date": "2024-08-08",
-                "value": 15,
-                "potential_idea": "Implement a performance monitoring and diagnostic tool within the app to help users identify and potentially resolve freezing issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "Tried to get reimbursed for the app & I\u2019m unable to get a refund.",
-                "date": "2024-04-02",
-                "value": 15,
-                "potential_idea": "Implement a clear and easily accessible refund request system within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "I just bought the game like 5 minutes ago,Im doing the tutorial then the game freezes every time it goes to the toppings.I WANT MY MONEY BACK!!!",
-                "date": "2023-10-12",
-                "value": 15,
-                "potential_idea": "Implement a rigorous pre-release QA process specifically targeting critical user flow bottlenecks that cause game-breaking freezes to prevent customer frustration and refund requests.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 2,
-                "review": "I\u2019m on day 24 and can\u2019t get passed it because it keeps getting all messed up. The timers on my burgers are freezing and the meat won\u2019t cook. It\u2019s buggy. I\u2019ve been playing this game for a long time now and never had issues. Please fix it!!!",
-                "date": "2023-09-21",
-                "value": 15,
-                "potential_idea": "Implement a robust bug reporting and automatic data saving system to prevent game progression interruptions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "the game is fine I guess but it\u2019s blurry? like theres this really weird blurry quality and the sound effects are muffled. I know it\u2019s not my phone because all my other papas games aren\u2019t like this.",
-                "date": "2023-05-06",
-                "value": 30,
-                "potential_idea": "Implement graphics and audio quality settings for users to improve visual clarity and sound fidelity in the game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "THIS GAME IS BAD, HORRIBLE, I DONT NEED HELP PLAYING THE FIRST DAY. STOP MAKING ME THROW AWAY MY BURNT BURGER. YOU STUPID HO HO HOS!!!",
-                "date": "2023-05-06",
-                "value": 15,
-                "potential_idea": "Implement an optional tutorial skip feature or a quick start mode for experienced players to bypass initial introductory gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "0 ugly 0",
-                "date": "2022-11-07",
-                "value": 5,
-                "potential_idea": "Offer customizable UI themes and color palettes to allow users to personalize the app's appearance.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "Every time I try to speed up the cooking of Burgers the game freezes and it\u2019s really frustrating because I love making burgers. Please help by updating this app. Every time we try to speed up the cooking of the burgers the burger meter freezes and then if you keep clicking nothing works and it freezes and all the buttons disappear. I really don\u2019t like it and I\u2019m scared. Thank you.",
-                "date": "2022-10-01",
-                "value": 10,
-                "potential_idea": "Implement robust error handling and input validation to prevent game freezes during the burger cooking speed-up mechanic.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 2,
-                "review": "Okay so I bought this game thinking it would be as fun as the Freezeria but I didn\u2019t like and I want a refund. !!",
-                "date": "2022-09-20",
-                "value": 15,
-                "potential_idea": "Implement a free trial or demo mode for new games before purchase to manage player expectations.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "I bought it about a year ago and I play it on and off. But now it just wants me to buy it again. Not doing it.",
-                "date": "2022-08-09",
-                "value": 15,
-                "potential_idea": "Implement a subscription model or a lifetime purchase option for mobile games to avoid repeated purchase demands.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Burgeria To Go!",
-                "rating": 1,
-                "review": "I really have no idea how that happened, i never even played that game.\nI just saw that a 0.99 dollars purchase was made at 5 p.m. today i never bought anything, i am requesting a refund even though i isn\u2019t a lot of money.",
-                "date": "2022-05-24",
-                "value": 18,
-                "potential_idea": "Implement an in-app 'Purchase History' feature that displays all transactions, allowing users to easily track and dispute unauthorized purchases.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1551207253",
         "name": "Papa's Mocharia To Go!",
         "url": "https://apps.apple.com/us/app/papas-mocharia-to-go/id1551207253?uo=2",
@@ -12199,6 +11543,590 @@
                 "value": 55,
                 "potential_idea": "Implement a guided onboarding tutorial that highlights key features and navigation paths to improve user intuitiveness.",
                 "tags": []
+            }
+        ]
+    },
+    {
+        "id": "1449584007",
+        "name": "Koala Sampler",
+        "url": "https://apps.apple.com/us/app/koala-sampler/id1449584007?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "It\u2019s a Very good app except for the fact that anytime I\u2019m doing something in iCloud like opening a video , for some unknown reason koala will open  instead of my video file . it doesn\u2019t allow me to view any of my saved videos . I have tried everything and I don\u2019t understand why it would attempt to open any videos. After purchasing the app along with some additional content I\u2019ve had to delete the app from my devices until I receive feedback or a fix from the developers",
+                "date": "2025-09-27",
+                "value": 15,
+                "potential_idea": "Allow users to disable Koala's automatic file association for specific file types (e.g., videos) to prevent it from intercepting them.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "1star can\u2019t access my cloud folder and some files won\u2019t even open up but don\u2019t open up on my laptop my MacBook Pro, but will not open up on my iPhone 15 Pro Max one terabyte",
+                "date": "2025-09-04",
+                "value": 15,
+                "potential_idea": "Implement a cloud syncing and file integrity checker that alerts users to corrupted or inaccessible files across devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "It\u2019s been countless times now that I open the app where I have a whole project full of samples of musical ideas, melodies, and vocal clips that I\u2019ve accumulated, only to find an empty project. My previous project, disappears into unrecoverable nothingness. I cannot trust this app with my ideas anymore and have deleted it because of this.",
+                "date": "2025-06-16",
+                "value": 95,
+                "potential_idea": "Implement robust, automatic cloud backup and version history for projects to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 , \u0421\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u043e\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 , \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0438 \u043c\u043d\u043e\u0433\u043e \u0431\u0430\u0433\u043e\u0432 , \u043d\u043e \u0432\u043e\u0442 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043e\u043c \u0442\u0430\u043a \u0438 \u043d\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0438 , \u043f\u043e\u0442\u0443 \u0447\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u0431\u0430\u0433 ,\u043a\u043e\u0433\u0434\u0430 \u043d\u0430\u0431\u0438\u0432\u0430\u0435\u0448\u044c \u043d\u0430 \u044d\u043a\u0440\u0430\u043d\u0435 \u043c\u0435\u043b\u043e\u0434\u0438\u044e ,\u043a\u0430\u0441\u0430\u044f\u0441\u044c \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u044d\u043a\u0440\u0430\u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0448\u044c \u0434\u0432\u043e\u0439\u043d\u043e\u0435 \u043a\u0430\u0441\u0430\u043d\u0438\u0435, \u0432 \u0441\u0435\u043a\u0432\u0435\u043d\u0441\u043e\u0440 \u043f\u0440\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u043e \u043a\u0430\u0441\u0430\u043d\u0438\u0435 , \u0430 \u0437\u0432\u0443\u043a \u0438\u0434\u0435\u0442 \u043a\u0430\u043a \u0434\u0432\u043e\u0439\u043d\u043e\u0435 ,\u0438 \u044d\u0442\u043e \u043d\u0435\u0432\u0430\u0436\u043d\u043e \u043d\u0430 \u043a\u0430\u043a\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 \u0438\u043b\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435 , \u0440\u0430\u043d\u044c\u0448\u0435 \u0432 \u043a\u0430\u043a\u0438\u0445 \u0442\u043e \u0432\u0435\u0440\u0441\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0431\u044b\u043b\u043e , \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c , \u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u043f\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u043b\u043e\u0433\u0438\u043a\u043e\u0439 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043e\u043c \u0434\u043b\u044f \u0444\u0438\u043d\u0433\u0435\u0440\u0434\u0440\u0430\u043c\u0438\u043d\u0433\u0430 , \u0430 \u043f\u043e \u0444\u0430\u043a\u0442\u0443 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u043e\u044f\u0432\u043b\u044f\u0442\u044c\u0441\u044f \u043f\u0430\u043a\u0438 \u0441 \u0441\u044d\u043c\u043f\u043b\u0430\u043c\u0438 ))) \u043d\u0435 \u0445\u043e\u0440\u043e\u0448\u043e \u0442\u0430\u043a \u0434\u0435\u043b\u0430\u0442\u044c , \u0431\u044b\u043b\u0430 \u0441\u0443\u043f\u0435\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u043e\u043d\u0430\u0442\u044b !!!",
+                "date": "2025-05-16",
+                "value": 12,
+                "potential_idea": "Implement an advanced sensor calibration and sensitivity adjustment specifically for finger drumming to resolve double-tap issues and enhance precision.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "Color is eye hurting",
+                "date": "2025-02-26",
+                "value": 35,
+                "potential_idea": "Offer customizable color themes or high-contrast modes to improve readability and reduce eye strain.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 2,
+                "review": "why do i have to pay for features on already paid app. it\u2019s a rip off",
+                "date": "2025-02-15",
+                "value": 15,
+                "potential_idea": "Integrate all premium features into a single, upfront purchase or a subscription model for clarity.",
+                "tags": []
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "1starring this hopefully for visibility.  I get error message on iPad saying app can\u2019t connect to app story.  Would be happy to provide more details",
+                "date": "2025-01-22",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and logging for connection issues to improve app stability and user support.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1556671822",
+        "name": "Merge Watermelon for watch",
+        "url": "https://apps.apple.com/us/app/merge-watermelon-for-watch/id1556671822?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "It may be 99 cents but that\u2019s a crazy thing for apple to allow",
+                "date": "2025-04-15",
+                "value": 15,
+                "potential_idea": "Implement a transparent pricing breakdown for in-app purchases and subscriptions, explaining why the cost is what it is.",
+                "tags": []
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "I purchased this but can\u2019t play anymore because of the update",
+                "date": "2025-03-21",
+                "value": 35,
+                "potential_idea": "Implement a robust rollback or version selection mechanism for app updates to allow users to revert to a previous state if an update causes issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "has not downloaded onto my phone!! I bought it and it\u2019s not downloading. Wasted money",
+                "date": "2025-02-23",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "bought the game, says \u201cpurchased\u201d, and won\u2019t pop up on watch. Please give me my money back.",
+                "date": "2025-01-23",
+                "value": 12,
+                "potential_idea": "Implement a unified purchase synchronization system across mobile and wearable devices to ensure purchased content is immediately accessible.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "Game didn't download to my apple watch, just says it  was purchased",
+                "date": "2025-01-08",
+                "value": 30,
+                "potential_idea": "A feature that allows users to manually retry or troubleshoot app installations on connected devices like smartwatches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "It didn\u2019t install it just says purchased",
+                "date": "2024-12-31",
+                "value": 15,
+                "potential_idea": "Display a clearer status indicator for app purchases and installations, informing users if the app is on the device, pending download, or if there's an installation error.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "Uninstalled from my ultra 2",
+                "date": "2023-12-11",
+                "value": 10,
+                "potential_idea": "Develop a smartwatch-specific companion app that offers a streamlined, glanceable interface tailored for quick actions and essential information display on wearables.",
+                "tags": []
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "does NOT work on ULTRA 2",
+                "date": "2023-11-22",
+                "value": 15,
+                "potential_idea": "Ensure full compatibility and functionality of the app on the Apple Watch Ultra 2.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Merge Watermelon for watch",
+                "rating": 1,
+                "review": "Loved this game, but it stopped working on my larger watch. It seems to still be working for anyone who has a smaller watch",
+                "date": "2022-09-13",
+                "value": 35,
+                "potential_idea": "Develop an adaptive version of the game that automatically scales and optimizes its UI and gameplay for different smartwatch screen sizes.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "925494667",
+        "name": "Papa's Pizzeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-pizzeria-to-go/id925494667?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "When will we be able to customize our characters?",
+                "date": "2025-09-16",
+                "value": 60,
+                "potential_idea": "Introduce character customization options to allow users to personalize their in-app avatars.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "The game is really pixilated, not worth it.",
+                "date": "2024-07-31",
+                "value": 15,
+                "potential_idea": "Offer a resolution setting to improve graphics quality for users with higher-end devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "I have almost every other game and I wanted to add this one but just the quality is not very good and it\u2019s just not worth it (I wish a could get my money back\ud83d\ude39)",
+                "date": "2024-06-05",
+                "value": 15,
+                "potential_idea": "Enhance game graphics and overall quality to justify pricing and competitor standing.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "It\u2019s so bad I can\u2019t refund it",
+                "date": "2024-05-09",
+                "value": 15,
+                "potential_idea": "Implement a clear and accessible refund process for users who are dissatisfied with the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "i now see why this one is cheaper than the other ones. honestly the pizza one was one of my favorites growing up but the app is very laggy and not living up to the og web version or the other apps. (i only have the pasta one as of right now) wish there was a refund option lol",
+                "date": "2024-03-14",
+                "value": 70,
+                "potential_idea": "Implement a performance optimization feature to reduce app lag and improve responsiveness, bridging the gap between the mobile app and the original web version.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 2,
+                "review": "You teach how to do topping in all the other games like Pasteria but we just have to guess how the toppings go for this game?? I love this game but wow\u2026 it\u2019s plainly hard because of bad execution.",
+                "date": "2023-11-14",
+                "value": 70,
+                "potential_idea": "Implement visual guides for topping placement in the current game to match the teaching style of other games in the series.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "I am extremely disappointed by this game. The fact that I spent money just to play a game that doesn\u2019t even save your progress is ridiculous. I was up to rank 15 when I got off last night, I ended right after my shift, then I wake up this morning to see that I have somehow dropped to a rank 5??? I am so angry that I spent so much time playing this game, decorating my lobby, and buying upgrades just for non of it to save. I wish I could give zero stars!!!!!! Hope you enjoy my money!",
+                "date": "2023-05-07",
+                "value": 90,
+                "potential_idea": "Implement a robust cloud-based save system for game progress, including player rank, lobby decorations, and purchased upgrades.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 2,
+                "review": "I know it\u2019s a (classic) it\u2019s good but it has low quality unlike the other games and in general I honestly don\u2019t like it and want my money back",
+                "date": "2023-04-17",
+                "value": 30,
+                "potential_idea": "Integrate a quality assurance and bug-fixing process to address user-reported issues and improve the overall polish of the app, particularly for paid applications.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "I used to play this game when I was a kid a lot and was hoping to play it again, I bought it and then when it shows the orders the thing where it shows the day cycle gets in the way of the receipt making it hard to see, the roping\u2019s one the receipt are really hard to see and I can\u2019t tell what\u2019s what, was really looking forward ro playing too :/ I want my money back and it won\u2019t let me.",
+                "date": "2022-10-23",
+                "value": 15,
+                "potential_idea": "Improve the visibility of in-game text and UI elements, especially receipts, by offering adjustable text or UI scaling options.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "The quality is so horrible it\u2019s not even worth the money. Also you barely get to do anything. Just take an order, add toppings, bake and slice the pizza. I\u2019d recommend you spend another dollar on one of the better games.",
+                "date": "2021-07-15",
+                "value": 15,
+                "potential_idea": "Introduce more complex pizza customization and culinary challenges beyond basic order fulfillment and baking to increase gameplay depth and engagement.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 2,
+                "review": "Me want a refund I hate it :( I wasted money on this it\u2019s fine just why:/ but sill cool \ud83d\udc4d\ud83d\ude12 just want a refund but why it cost money it\u2019s like a free game :(",
+                "date": "2020-08-05",
+                "value": 14,
+                "potential_idea": "Implement a free trial period for the app before requiring a purchase to manage user expectations and prevent dissatisfaction.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 2,
+                "review": "The game is fun for about 2 days maybe. I wish they would just run ads so all these games could be free :( definitely not buying another one",
+                "date": "2019-12-06",
+                "value": 65,
+                "potential_idea": "Offer a freemium model for the game with rewarded ads to unlock content, instead of a one-time purchase.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Papa's Pizzeria To Go!",
+                "rating": 1,
+                "review": "This game is a waste of money. You don\u2019t even make the pizza (dough, spread cheese & sauce, etc.) you just heat up the pizza then put toppings on. basically the pizza is premade all you do is put it in the oven for a few seconds and then when it\u2019s finished you place the toppings and give it to the customer. I want my money back.",
+                "date": "2019-11-13",
+                "value": 75,
+                "potential_idea": "Develop a pizza-making game that allows users to create pizzas from scratch, including dough, sauce, cheese, and toppings.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6740349587",
+        "name": "Backyard Baseball '01",
+        "url": "https://apps.apple.com/us/app/backyard-baseball-01/id6740349587?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "When I load in a get kicked out. Fix or I\u2019m suing you for my money back.",
+                "date": "2025-09-28",
+                "value": 20,
+                "potential_idea": "Implement robust error handling and crash reporting to prevent app crashes and ensure a stable user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "I am unable to progress my season as I am continually met with a fatal error",
+                "date": "2025-09-25",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 2,
+                "review": "I receive an error in the playoffs after the completion of a game. I swipe out and repeat. Same result. Please fix.",
+                "date": "2025-09-12",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and retry mechanisms for game completion processing to prevent user frustration and data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "Wont swing the bat when pitches are coming, I can\u2019t hit the ball no matter what happens",
+                "date": "2025-09-11",
+                "value": 65,
+                "potential_idea": "Implement an enhanced AI swing predictor that visually cues the user when to swing based on pitch trajectory and speed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 2,
+                "review": "When you can play it\u2019s great, most of the time you can\u2019t due to this error that happens at the end of every game for me.",
+                "date": "2025-09-09",
+                "value": 60,
+                "potential_idea": "Implement robust error handling and logging to identify and resolve the persistent game-ending error that many users are experiencing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "Loved this game as a kid. This version does not work. It is fully messed up. Fielding is bad, the other team sometimes can\u2019t field the ball and then the play never ends until you get out.",
+                "date": "2025-08-20",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and game state management to prevent infinite loops and unresponsive gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 2,
+                "review": "Needs to support a mouse like the original game or have buttons for actions like swinging instead of clicking randomly on screen and hoping the desired action happens",
+                "date": "2025-08-18",
+                "value": 75,
+                "potential_idea": "Implement a virtual joystick or on-screen button controls for action-based mobile games to replace imprecise tap-to-act mechanics.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "Instant freeze and close out everytime I load up game\u2026",
+                "date": "2025-08-17",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to diagnose and resolve frequent app freezes and crashes upon loading.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "Whenever I click on the app it cancels out immediately and I cannot play the game",
+                "date": "2025-08-04",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to prevent immediate app cancellations and ensure game continuity.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "When you get to the playoffs , this error message appears after winning games . The game crashes and then picks up at the last batter of the previous game . There\u2019s no way to advance it just keeps reverting back to the last batter of the game.\n\nUpdate : new update that supposedly fixes this error allowed me to complete the game in question but then happened again as I got to the last out of the next game .",
+                "date": "2025-08-02",
+                "value": 15,
+                "potential_idea": "Implement a robust error handling and state-saving mechanism that prevents game progression loss and data corruption after crashes, especially during critical playoff moments.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 2,
+                "review": "The emulator doesn\u2019t work past game nine",
+                "date": "2025-08-01",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and debugging tools for emulator functionality, specifically addressing issues that arise after a certain point in gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "While the game is fun, you will be bombarded by \"SCUMMERROR\". One of my seasons, I made it to game 1 of the World Series and the error message came up. Now every time I attempted to load that season, I am bumped out of the app. I created another season seeing if that would help and got close to the end of the season, in the middle of the game every time someone hits a ball the error message pops up. The game is just like I remember and nostalgic, however until the developers are able to update it and finally patch it, save your money and do not download this game.",
+                "date": "2025-07-28",
+                "value": 18,
+                "potential_idea": "Implement robust error handling and data validation to prevent game-crashing 'SCUMMERROR' messages and preserve user progress, especially during critical gameplay moments.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 1,
+                "review": "Hard to feel nostalgic when the game crashes every time the ball is hit.",
+                "date": "2025-07-28",
+                "value": 18,
+                "potential_idea": "Implement robust crash detection and automatic error reporting to developers to improve game stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Backyard Baseball '01",
+                "rating": 2,
+                "review": "CPU is crazy, how is a pitch hitting the dirt and still being called a strike against me? My bat loves to melt through the ball and result in a strike too. Love it",
+                "date": "2025-07-28",
+                "value": 15,
+                "potential_idea": "Implement an AI-powered umpire that provides personalized feedback on pitch calls and hitting mechanics, explaining the physics behind the calls.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "600626116",
+        "name": "Papa's Burgeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-burgeria-to-go/id600626116?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 2,
+                "review": "It good but keep acting up when I delete it it didn\u2019t give me my money back",
+                "date": "2025-02-16",
+                "value": 65,
+                "potential_idea": "Implement a clear refund process and confirmation for in-app purchases within the app itself to prevent user frustration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 2,
+                "review": "I know on my Cupcakeria I said it\u2019s bad quality because it was made in 2013 (like this one) but the game is low quality, and also, why is the ticket so small, like I need a magnifying glass to see it. This used to be my go-to papa\u2019s game until I got either taco Mia or hot doggeria. It\u2019s a simple game only having 3 stations, waiting, grilling, and topping station. The topping is bad because it expects us to drop toppings from like 10 feet away. I used to like this game but now I question why I liked this.",
+                "date": "2025-02-02",
+                "value": 15,
+                "potential_idea": "Enhance UI accessibility for small ticket elements and improve topping placement mechanics in the mobile game.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 1,
+                "review": "I want a refund",
+                "date": "2024-08-31",
+                "value": 15,
+                "potential_idea": "Implement a clear and accessible refund request process within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 1,
+                "review": "The game keeps freezing now. Why is this happening.",
+                "date": "2024-08-08",
+                "value": 15,
+                "potential_idea": "Implement a diagnostic tool within the app that helps users identify the cause of performance issues or freezes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 1,
+                "review": "Tried to get reimbursed for the app & I\u2019m unable to get a refund.",
+                "date": "2024-04-02",
+                "value": 15,
+                "potential_idea": "Implement a clear and straightforward in-app refund request process with automated eligibility checks.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 1,
+                "review": "I just bought the game like 5 minutes ago,Im doing the tutorial then the game freezes every time it goes to the toppings.I WANT MY MONEY BACK!!!",
+                "date": "2023-10-12",
+                "value": 15,
+                "potential_idea": "Implement a robust tutorial progression system with built-in error handling to prevent freezing and ensure a smooth onboarding experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Burgeria To Go!",
+                "rating": 2,
+                "review": "I\u2019m on day 24 and can\u2019t get passed it because it keeps getting all messed up. The timers on my burgers are freezing and the meat won\u2019t cook. It\u2019s buggy. I\u2019ve been playing this game for a long time now and never had issues. Please fix it!!!",
+                "date": "2023-09-21",
+                "value": 18,
+                "potential_idea": "Implement a more robust timer and cooking simulation system to prevent game-breaking bugs.",
+                "tags": [
+                    "bug"
+                ]
             }
         ]
     }
