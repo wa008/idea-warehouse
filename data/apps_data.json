@@ -1381,269 +1381,6 @@
         ]
     },
     {
-        "id": "6448530928",
-        "name": "Total War\u2122: EMPIRE",
-        "url": "https://apps.apple.com/us/app/total-war-empire/id6448530928?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Total War\u2122: EMPIRE",
-                "rating": 2,
-                "review": "Was excited to play but can\u2019t.  After downloading from App Store the game stops 1/3 in with message \u201cnot enough free space\u201d, despite having 100gb free on my phone.  Empire interface reflects only have 2gb free (unclear what it\u2019s referencing, but not my phone storage). All other downloads (including Rome) perform as expected. So some kind of glitch with Empire thinking there isn\u2019t enough room\u2026. Tough as Empire was driving purchase and seems to be a good transition to mobile.  Devs seem responsive, so hopefully they can resolve.",
-                "date": "2025-09-07",
-                "value": 15,
-                "potential_idea": "Implement a more robust storage detection mechanism for games to accurately reflect available device space and prevent 'not enough free space' errors for users with ample storage.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Total War\u2122: EMPIRE",
-                "rating": 1,
-                "review": "Cannot complete a battle during the French Ohio valley missions due to hud constantly disappearing. Troop movement is wonky. For example: I try to line up rangers in the woods and it sends them to the edge of the map.",
-                "date": "2025-09-06",
-                "value": 65,
-                "potential_idea": "Implement robust troop pathfinding and AI to ensure accurate unit movement and combat engagement within game levels, specifically addressing issues during complex missions. Additionally, a persistent UI toggle or auto-restore feature for the HUD during intense gameplay could be beneficial.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Total War\u2122: EMPIRE",
-                "rating": 1,
-                "review": "Don\u2019t waste your money not worth it you\u2019ll regret it",
-                "date": "2025-08-26",
-                "value": 10,
-                "potential_idea": "Develop a trial period or a more detailed preview of the app's premium features before purchase to prevent user regret.",
-                "tags": []
-            },
-            {
-                "app_name": "Total War\u2122: EMPIRE",
-                "rating": 1,
-                "review": "the controls are unplayable. Moving your troops and forming them up is impossible. You have to do some thing with two fingers that only sometimes works. Before battle it\u2019s like pulling teeth. Durning the battle it\u2019s not possible. So sad because this is my favorite total war",
-                "date": "2025-07-20",
-                "value": 85,
-                "potential_idea": "Introduce improved, context-aware touch controls for troop movement and formation that are intuitive and reliable, eliminating the need for complex multi-finger gestures.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6463616555",
-        "name": "Ticket to Ride\u00ae",
-        "url": "https://apps.apple.com/us/app/ticket-to-ride/id6463616555?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 2,
-                "review": "Do you like playing Ticket to Ride when your opponent can see your destination cards and decide which train cards are at the top of the deck during your turn? Me neither.",
-                "date": "2025-10-02",
-                "value": 75,
-                "potential_idea": "Implement a 'fog of war' or hidden information mode for competitive digital board games to ensure fair play and strategic depth.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 2,
-                "review": "Gameplay is good. Interface is fine. \u201cAI\u201d players can take 30-60 seconds just to decide to take 2 cards. Far too long for a single player game. Haven\u2019t tried non battery saving mode so that might help, but if you want to sit down and bang out a few games in 30 minutes, this isn\u2019t your game.\n\nUpdate: Battery save mode off didn\u2019t appreciably speed up the game. But it caused the battery drop from 73% to 45% in a single game. I\u2019ll be holding off on the DLC until they address these issues. There was previously a better version of this game that they removed in favor of one with micro-transactions. Too bad, that version was amazing, and still had the other expansions available to buy. I don\u2019t know if it was the same company or not, but a clear example of removing a successful version and replacing it with a marginally functional one with higher revenue potential.",
-                "date": "2025-09-28",
-                "value": 65,
-                "potential_idea": "Introduce an option for significantly faster AI turns, potentially by reducing AI decision-making complexity or allowing users to queue certain AI actions.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "The fact that you have to have two separate apps and neither of them work well at all. The original app had some issues but at least it was fun and uncomplicated to play. I wish someone else would pick this up and actually make a usable version. Do not waste your time and money on this!!",
-                "date": "2025-09-22",
-                "value": 70,
-                "potential_idea": "Develop a unified, fun, and uncomplicated mobile game that combines the features of the original app with improvements to address current issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "Recently downloaded this one after using the original app for a long time. I really don\u2019t like how this map looks. It\u2019s so cluttered and hard to see the important details. It desperately needs the hard black outlines around each train spot. The names of the cities shouldn\u2019t over lap the train spots.  It looks so messy right now even with the \u201csimple\u201d map on. Can we get a map that looks closer to the original game design and colors?",
-                "date": "2025-09-21",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 18,
-                    "feasibility": 15,
-                    "total": 68
-                },
-                "potential_idea": "Implement a customizable map display option that allows users to choose between different visual themes, including one that closely mimics the original game's design and color palette with clear outlines for train spots and non-overlapping city names.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 2,
-                "review": "Wouldn\u2019t even open; hung up on the first screen",
-                "date": "2025-09-09",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and crash reporting to prevent app startup failures and provide developers with immediate insights into critical bugs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "We love to play this game.  I live 500+ miles from my family and we played often.  \nBut now the game says \u201cthis board can\u2019t be joined because it is created with an incompatible version of the game\u201d. \nWe loved the previous app and had paid for it.  Then we paid $40+ each to have all boards on the new app.  \nPlease give us our game back!!!!",
-                "date": "2025-09-08",
-                "value": 75,
-                "potential_idea": "Implement a robust version management system with clear in-app notifications for game version updates to prevent cross-version play issues for remote players.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "This app freezes and crashes very often on my iPad. On Steam PC it will often hang during an online game at someone else\u2019s turn and the turn is never taken so I either stack up idle games or resign and lose stars. Very frustrating experience.",
-                "date": "2025-08-23",
-                "value": 65,
-                "potential_idea": "Implement a robust 'timeout' or 'automatic resignation' feature for online games to prevent users from being stuck in indefinitely frozen games on both mobile and PC platforms.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 2,
-                "review": "I used to love playing this game on an older version, but with this one, I don\u2019t like both versions of the map. They are too busy looking and the road colors are too small.",
-                "date": "2025-08-20",
-                "value": 12,
-                "potential_idea": "Introduce a customizable map overlay with adjustable road color saturation and detail levels to reduce visual clutter.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "I AM SO OVER THIS GAME CRASHING!! This game is fun when it works, but it\u2019s not fair that when it crashes I lose stars because of it. Also not fair that if I click on a four person game because I want to play with three other people, that if the host starts it\u2019s before there are four people I either have to play or lose stars. I didn\u2019t want to play with just three people that\u2019s why I clicked a four person game. They should also move the route cards because I have clicked them accidentally when I\u2019ve wanted to pick up the top card.",
-                "date": "2025-08-19",
-                "value": 70,
-                "potential_idea": "Implement an automatic star recovery system for game crashes and introduce a stricter matchmaking rule that ensures four players join before a game begins to prevent players from losing stars due to premature starts.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "Major issues lately. I\u2019ve had this app for a while, and have enjoyed playing it with friends. It worked pretty well for the most part, with an occasional glitch that required a re-launch of app. For the past few days however, it has been freezing at the conclusion of games, never revealing the winner. This is pretty frustrating when you shell out $30 for the full version of the game.",
-                "date": "2025-08-19",
-                "value": 75,
-                "potential_idea": "Implement robust error handling and automatic game state saving for the full version of the game to prevent freezing at conclusion and losing results.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "2 things- one, without being able to play it vertically on my phone, basically unusable. It\u2019s uncomfortable and awkward at best. Two- I don\u2019t need an app threatening me that ai is literally going to replace me if I don\u2019t follow the rules. Feels pretty cold and um\u2026 I don\u2019t want to see the word \u201cai\u201d when I\u2019m freaking playing a game that\u2019s all about building the first RAILROAD tracks. Seems pretty off brand.",
-                "date": "2025-08-17",
-                "value": 85,
-                "potential_idea": "Implement adjustable orientation settings for mobile gameplay, allowing vertical play on phones and ensuring AI-related pronouncements are contextually appropriate and brand-aligned.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "The game won\u2019t even start because it won\u2019t let me select my birthdate. What a joke.",
-                "date": "2025-08-17",
-                "value": 10,
-                "potential_idea": "Implement a robust birthdate selection mechanism that prevents game startup if invalid or unselected, ensuring accessibility and core functionality.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "No internet connection found! Please check your connection and try again.\nWhat is wrong with this, tried to reinstall it, still not working",
-                "date": "2025-08-14",
-                "value": 15,
-                "potential_idea": "Implement robust offline functionality for core app features, allowing users to access and use functionality even without an internet connection.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 2,
-                "review": "I am so tired of this app crashing!!! So frustrating.",
-                "date": "2025-08-11",
-                "value": 15,
-                "potential_idea": "Implement robust crash reporting and debugging tools to ensure app stability and reduce user frustration.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 1,
-                "review": "I cannot figure out the rules or physical mechanics to play this game. The tutorial is in no way helpful. I feel stupid.",
-                "date": "2025-08-10",
-                "value": 75,
-                "potential_idea": "Develop an interactive, gamified tutorial with visual aids and step-by-step guidance specifically designed to explain game mechanics and rules for new players.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Ticket to Ride\u00ae",
-                "rating": 2,
-                "review": "When you play a game like this you really need to put misbehaved people on a no play list.",
-                "date": "2025-08-10",
-                "value": 75,
-                "potential_idea": "Implement a user-selectable 'block' or 'mute' list feature for problematic players in multiplayer games.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6738784151",
-        "name": "A Little to the Left: Stars",
-        "url": "https://apps.apple.com/us/app/a-little-to-the-left-stars/id6738784151?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "A Little to the Left: Stars",
-                "rating": 1,
-                "review": "Buggy, unable to play beyond level 24 after paying 5 bucks for this stupid game",
-                "date": "2025-06-13",
-                "value": 15,
-                "potential_idea": "Implement a robust in-game support or bug reporting system that allows users to easily report issues and receive timely assistance, especially after in-app purchases.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "741990930",
         "name": "Walkout Song DJ",
         "url": "https://apps.apple.com/us/app/walkout-song-dj/id741990930?uo=2",
@@ -1820,407 +1557,6 @@
                 "potential_idea": "Integrate Spotify playback and library management directly within the app.",
                 "tags": [
                     "niche demand"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1439262206",
-        "name": "Root Board Game",
-        "url": "https://apps.apple.com/us/app/root-board-game/id1439262206?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Root Board Game",
-                "rating": 2,
-                "review": "This game is super fun with amazing mechanics, but the AI plays this game dumber than an oscillating fan. If you want to simulate playing against people with intelligence of at least a rock, don\u2019t download this game. Just to the board game instead.",
-                "date": "2025-09-13",
-                "value": 15,
-                "potential_idea": "Implement an adjustable AI difficulty setting for the game, allowing players to choose between various levels of opponent intelligence.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Root Board Game",
-                "rating": 2,
-                "review": "I bought this on steam a few years ago, but the AI was so bad it was unplayable. I bought it again on iOS hoping things had improved and I would have a good game to play on my iPad. The AI is still unplayably bad. The AI will ignore a faction one turn from victory to attack the lowest scoring faction on the board (I get when Eyrie does it due to decree, this isn\u2019t that). How hard is it to program some priorities in to target leaders?",
-                "date": "2025-01-02",
-                "value": 75,
-                "potential_idea": "Implement a more intelligent AI in the mobile game that prioritizes targeting enemy leaders and factions nearing victory.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Root Board Game",
-                "rating": 2,
-                "review": "Either this game is racked with bugs or it has lots of crazy unwritten rules. For example,  when you\u2019re playing woodland appliance who knows why any faction can move to any other space but woodland appliance can only move to assigned spaces that the game decides? Think I\u2019m done with this. Recently the game designer had to publish a two volume set on all the esoteric rules of this game. So it\u2019s simple but not really it\u2019s as completed as D&D ?!  Ok I feel manipulati joined a game I can do",
-                "date": "2024-12-31",
-                "value": 85,
-                "potential_idea": "Integrate an in-app, context-aware rulebook and tutorial system for complex board games to explain hidden mechanics and reduce player frustration.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "578665578",
-        "name": "Threema. The Secure Messenger",
-        "url": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Add: search by email or phone number",
-                "date": "2025-08-15",
-                "value": 75,
-                "potential_idea": "Implement a contact search feature allowing users to find contacts easily by their email or phone number within the app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "The best",
-                "date": "2025-07-07",
-                "value": 0,
-                "potential_idea": "No specific feature request or pain point is mentioned, making it impossible to generate a concrete feature idea. The review lacks actionable information.",
-                "tags": []
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Newer versions no longer allow to transfer data to another phone. I had \u2018ID EXPORT\u2019 enabled from previous phone switch which was a few years back. Obviously, the password is forgotten. After synching the phone to new iPhone I cannot remember the password. Exporting the ID into iCloud backup means, I need to restore it again (a couple hours of work). Super sad and bad usability.",
-                "date": "2025-06-01",
-                "value": 75,
-                "potential_idea": "Implement a password recovery or reset option for 'ID EXPORT' to allow users to regain access to their data or generate a new export without requiring a full backup restore.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Mesaj g\u00f6nderemiyorum kar\u015f\u0131 taraf mesajlar\u0131m\u0131 g\u00f6r\u00fcyor ama ben g\u00f6remiyorum",
-                "date": "2025-06-01",
-                "value": 55,
-                "potential_idea": "Implement a real-time sync status indicator for messages and delivery receipts to ensure users are aware of message visibility status.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "I love how I can record messages with my airpods and put my phone in my pocket while continuing to record. But it does happen from time to time thst rhe recording stops suddenly. Or it doesn\u2019t remember the recording and gives an error message and then it disappears. This is so frustrating, especially when you do longer messages. Please finally fix this!",
-                "date": "2025-01-03",
-                "value": {
-                    "intensity": 20,
-                    "difference": 5,
-                    "scope": 20,
-                    "feasibility": 15,
-                    "total": 60
-                },
-                "potential_idea": "Implement robust background recording with automatic saving and error recovery to prevent data loss.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 2,
-                "review": "I\u2019ve had the new IPhone 16 pro max for weeks now, and I have never been able to send a video on it. Worked fine on my IPhone 13. Now whenever I try to send a video whether I take the video in Threema, or on my phones camera app, I get an error saying \u201ccould not load the video, please restart the app and try again\u201d. I have closed it and reopened, restarted my phone, even deleted Threema and re-installed it.",
-                "date": "2024-10-16",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and diagnostic tools for video sending issues, especially on newer iPhone models, to help users troubleshoot common problems.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 2,
-                "review": "Can\u2019t respond to individual messages with emoji reactions. Doesn\u2019t support a .gif keyboard. Can\u2019t pin individual messages that are important to the top in group messages.",
-                "date": "2024-10-08",
-                "value": 65,
-                "potential_idea": "Enhance group chat functionality with emoji reactions, GIF keyboard support, and the ability to pin important messages for better organization and engagement.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "There should be an option for auto deletions within days not week or month!!!",
-                "date": "2024-10-04",
-                "value": 75,
-                "potential_idea": "Implement granular auto-deletion options for content, allowing users to select deletion intervals in days.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 1,
-                "review": "Haven\u2019t seen much good things added in terms of features or bugfixes in a looooong time. \n\n- sending media from Photos app requires you to wait for the media to be encoded before you can add captions. You need to keep the send dialogue open until everything is sent, otherwise you loose your captions and you have to share from pictures again\n- when sending multiple images/videos and one fails (eg network timeout), all media \u201cafter\u201d that are lost and you have to share again from Photos app. \n- randomly people can\u2019t receive/send messages for non-obvious reasons. No error messages whatsoever. We found out by accident when speaking IRL. Trusting the other\u2019s Threema IDs resolved it\n- extremely limited set of reaction emojis. Why can\u2019t I use the full emoji pallet to express my emotions\n- can\u2019t port data backups from android to iOS???\n- when you are offline for some time and get online again you are spammed by notifications, instead of Threema batching them in a single notification/one per chat\n\nThreema for Desktop is the only good addition that I\u2019ve seen in 5+ years. \n\nI don\u2019t see a reason to pay for Threema when there are better alternatives (Signal being the obvious one)",
-                "date": "2024-05-10",
-                "value": 18,
-                "potential_idea": "Implement intelligent batching of notifications for offline users to consolidate them into single, actionable alerts per chat, preventing overwhelming spam upon reconnection.",
-                "tags": [
-                    "no update for long time",
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Threema. The Secure Messenger",
-                "rating": 2,
-                "review": "Its been over two months now that Threema has stopped working with the notifications! I have turned off/on my phone multiple times, and the app is up to date on the app store\ud83d\ude21. This is very annoying given that i paid money for this app",
-                "date": "2023-12-30",
-                "value": 18,
-                "potential_idea": "Implement a proactive notification troubleshooting assistant within the app to guide users through common notification issues.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1029932207",
-        "name": "Papa's Cupcakeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-cupcakeria-to-go/id1029932207?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "Graphics are Very blurry",
-                "date": "2025-03-16",
-                "value": 15,
-                "potential_idea": "Implement an option for users to select graphic quality settings (e.g., low, medium, high) to optimize performance and visual clarity.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "I hate the quality it\u2019s horrible and so blurry! Fix this nowww",
-                "date": "2024-10-11",
-                "value": 15,
-                "potential_idea": "Implement a 'high-quality' or 'HD' mode for content viewing that prioritizes resolution over data usage.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I guess I should\u2019ve seen when it was last updated and assumed, but I really want a refund on this app so if anyone knows how I can do that pls lmk. It\u2019s just not worth it. So much better on computer and kind of infuriating and less quality on phone. Makes me sad\u2026 I want my money back\u2026.. even though I\u2019m a devout papas cupcakeria fan",
-                "date": "2024-10-07",
-                "value": 12,
-                "potential_idea": "Implement a clear \"last updated\" indicator and a straightforward in-app refund request process for users who are dissatisfied with the mobile experience.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "As soon as I opened the app it was all fuzzy and low quality. I have six other Papa's games on this same device and none of them look bad at all.",
-                "date": "2024-08-17",
-                "value": 15,
-                "potential_idea": "Optimize app rendering for improved visual quality on a wider range of devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "Why is it blurry",
-                "date": "2024-08-17",
-                "value": 15,
-                "potential_idea": "Improve image clarity and propose sharpening filters within the app.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "The quality goes crazy for it costing 2.13 \ud83d\ude2d Especially when I don\u2019t get the options I get with the other games.",
-                "date": "2024-05-06",
-                "value": 65,
-                "potential_idea": "Introduce tiered subscription options or unlockable game modes that offer more advanced features and gameplay for users seeking premium experiences.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "Hey flipline Studios so it has come to my attention that u didn\u2019t fulfill my request to put me as a pro? That has made alpha very angry 2 v 1 \ud83d\udc7f",
-                "date": "2024-05-04",
-                "value": 10,
-                "potential_idea": "Implement tiers of premium user status or in-app recognition to acknowledge and reward loyal or high-contributing users, potentially with special in-app badges or titles.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "Low quality, bad app, i need a refund",
-                "date": "2024-04-16",
-                "value": 18,
-                "potential_idea": "Develop a simplified, user-friendly version of the app focused on core functionality, with clear expectations and a user-friendly refund process for dissatisfied customers.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I don\u2019t  know if I got the old version but it won\u2019t let my custom\nMy own avatar",
-                "date": "2024-03-06",
-                "value": 60,
-                "potential_idea": "Allow users to create and use custom avatars within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "As a child I absolutely adored this papa\u2019s game it was my absolute favorite and it was actually the only one I would play. And I was so exited to see I could download the game and play now that I\u2019m older, nevertheless I am sad to say that I am disappointed with the game I received. The mobile game is very outdated and seems to be like one of the older files. I would really like to see this game be updated to a more recent file because unlike the computer game you can\u2019t customize your own character and the graphics are very underwhelming. This is no hate to the game just an attempt to see a more developed version. Thank you for your time and I hope this can be taken into consideration.",
-                "date": "2024-02-10",
-                "value": 90,
-                "potential_idea": "Update the mobile game with modern graphics, character customization options, and performance improvements to match its former glory and appeal to adult nostalgia.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "i hated it give me my money back",
-                "date": "2023-12-11",
-                "value": 20,
-                "potential_idea": "Implement a clear and accessible refund process for dissatisfied users.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I\u2019ve been playing this game on my computer on some free website and let me tell you IM IN LOVE. I was so excited to get the app so i could play it on my phone/iPad. I was a little surprised that it cost money since the version I played on the computer was free but since I loved the game so much I decided to buy it. Very much regretting it. It\u2019s rlly nothing like the website. Same concept but overall quality is horrible. I do not recommend as it\u2019s not worth the money.",
-                "date": "2023-11-30",
-                "value": 15,
-                "potential_idea": "Develop a mobile version of popular free web-based games with comparable quality and features to their desktop counterparts.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "THE QUALITY IS HORRIBLE AND THE SOUND/MUSIC SOUNDS DISTORTED",
-                "date": "2023-11-18",
-                "value": 15,
-                "potential_idea": "Improve audio processing to eliminate distortion and enhance sound quality within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "Can the game at least get an update?? It needs more mini games and prizes , everytime you win a prize , you get the same prize over and over and it has the same mini games, it\u2019s not fun like it used to be and it be cool if we can create your  own character like the HD one",
-                "date": "2023-11-15",
-                "value": 75,
-                "potential_idea": "Introduce a character customization system with a wide array of customizable avatar options and new, diverse mini-games and prize pools to enhance player engagement and replayability.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "I played the computer version a lot so I thought  let me download it on my phone.When you first open the app everything\u2019s blurry. Then you can\u2019t customize your character. And the mechanics aren\u2019t the same either it\u2019s just a worse quality version of the game and I wish I didn\u2019t spend 2 dollars on it.",
-                "date": "2023-09-30",
-                "value": 65,
-                "potential_idea": "Develop a mobile version of the game that faithfully replicates the character customization and mechanics of its computer counterpart, ensuring a high-quality user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "1 - The game hasn\u2019t been updated in 4 years. I really doubt it will ever receive a update from the developers. It\u2019s abandoned quite literally.\n2 - The Quality is so bad. The game audio sounds terrible, the graphics is very low quality and slow. Gameplay is buggy too. \n3 - Not advanced. Does not allow you to customize your own character. \n\nI requested a refund. But please save your little cents and do not purchase this game. It is so bad!",
-                "date": "2023-09-10",
-                "value": 60,
-                "potential_idea": "Develop a mobile game with polished audio, sharp graphics, and smooth gameplay, featuring robust character customization options, for users who are frustrated with abandoned and low-quality games.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "the quality is really bad and so pixelated",
-                "date": "2023-09-10",
-                "value": 15,
-                "potential_idea": "Implement an imager cleaner or upscaler feature within the app to automatically improve the quality of pixelated images.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "It doesn\u2019t work when u pour the chocolate flavor I deleted it n downloaded it again n still doesn\u2019t work",
-                "date": "2023-07-30",
-                "value": 5,
-                "potential_idea": "Implement robust error handling and user feedback for specific flavor-related issues to prevent app crashes or malfunctions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "I was hoping to play this game to be updated but it\u2019s quality is so pixelated and old school to not have a assistant. Customers movement is so low quality too. Gameplay works fine but I wouldn\u2019t like playing a game so blurry.",
-                "date": "2023-06-08",
-                "value": 65,
-                "potential_idea": "Implement an in-game graphical enhancement tool or filter to improve visual quality and reduce pixelation in the mobile game.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 1,
-                "review": "The app is not what I thought it was I need a refund because the quality is horrible",
-                "date": "2023-05-07",
-                "value": 10,
-                "potential_idea": "Implement a 'feature snapshot' or more detailed preview within the app store listing to accurately showcase app functionality before download.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Cupcakeria To Go!",
-                "rating": 2,
-                "review": "I loved this game as a kid and wanted to play it on my iPad. I already have the donut one and play it all the time. For some reason the cupcake one has such bad graphics and it makes it a lot less fun to play. I\u2019m disappointed.",
-                "date": "2023-03-15",
-                "value": 15,
-                "potential_idea": "Improve the graphics quality of the 'cupcake' version of the game to match the 'donut' version.",
-                "tags": [
-                    "bug"
                 ]
             }
         ]
@@ -13153,6 +12489,619 @@
                 "tags": [
                     "bug"
                 ]
+            }
+        ]
+    },
+    {
+        "id": "6448530928",
+        "name": "Total War\u2122: EMPIRE",
+        "url": "https://apps.apple.com/us/app/total-war-empire/id6448530928?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 2,
+                "review": "Was excited to play but can\u2019t.  After downloading from App Store the game stops 1/3 in with message \u201cnot enough free space\u201d, despite having 100gb free on my phone.  Empire interface reflects only have 2gb free (unclear what it\u2019s referencing, but not my phone storage). All other downloads (including Rome) perform as expected. So some kind of glitch with Empire thinking there isn\u2019t enough room\u2026. Tough as Empire was driving purchase and seems to be a good transition to mobile.  Devs seem responsive, so hopefully they can resolve.",
+                "date": "2025-09-07",
+                "value": 18,
+                "potential_idea": "Implement a more robust and accurate storage detection mechanism in the app to prevent 'not enough free space' errors when sufficient device storage is available.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 1,
+                "review": "Cannot complete a battle during the French Ohio valley missions due to hud constantly disappearing. Troop movement is wonky. For example: I try to line up rangers in the woods and it sends them to the edge of the map.",
+                "date": "2025-09-06",
+                "value": 15,
+                "potential_idea": "Implement a 'debug mode' or 'telemetry feature' to automatically record and analyze troop movement and HUD issues for better bug reporting and resolution in strategy games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 1,
+                "review": "Don\u2019t waste your money not worth it you\u2019ll regret it",
+                "date": "2025-08-26",
+                "value": 15,
+                "potential_idea": "Integrate a free trial or a more robust demo mode for users to experience the app's core functionality before purchasing.",
+                "tags": []
+            },
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 1,
+                "review": "the controls are unplayable. Moving your troops and forming them up is impossible. You have to do some thing with two fingers that only sometimes works. Before battle it\u2019s like pulling teeth. Durning the battle it\u2019s not possible. So sad because this is my favorite total war",
+                "date": "2025-07-20",
+                "value": 75,
+                "potential_idea": "Introduce a simplified or intuitive control scheme for mobile devices to improve troop movement and formation.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6463616555",
+        "name": "Ticket to Ride\u00ae",
+        "url": "https://apps.apple.com/us/app/ticket-to-ride/id6463616555?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "Do you like playing Ticket to Ride when your opponent can see your destination cards and decide which train cards are at the top of the deck during your turn? Me neither.",
+                "date": "2025-10-02",
+                "value": 15,
+                "potential_idea": "Introduce a 'private mode' for online multiplayer in board game apps where opponent's relevant hidden information (like destination cards in Ticket to Ride) is truly hidden until revealed in-game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "Gameplay is good. Interface is fine. \u201cAI\u201d players can take 30-60 seconds just to decide to take 2 cards. Far too long for a single player game. Haven\u2019t tried non battery saving mode so that might help, but if you want to sit down and bang out a few games in 30 minutes, this isn\u2019t your game.\n\nUpdate: Battery save mode off didn\u2019t appreciably speed up the game. But it caused the battery drop from 73% to 45% in a single game. I\u2019ll be holding off on the DLC until they address these issues. There was previously a better version of this game that they removed in favor of one with micro-transactions. Too bad, that version was amazing, and still had the other expansions available to buy. I don\u2019t know if it was the same company or not, but a clear example of removing a successful version and replacing it with a marginally functional one with higher revenue potential.",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Introduce an 'express mode' for AI turns that dramatically speeds up decision-making, even at the risk of slightly less optimal AI play, to facilitate quicker games.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "The fact that you have to have two separate apps and neither of them work well at all. The original app had some issues but at least it was fun and uncomplicated to play. I wish someone else would pick this up and actually make a usable version. Do not waste your time and money on this!!",
+                "date": "2025-09-22",
+                "value": 70,
+                "potential_idea": "Develop a single, streamlined, and fun mobile game that combines the best of the original app's uncomplicated design with modern usability and bug fixes.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Recently downloaded this one after using the original app for a long time. I really don\u2019t like how this map looks. It\u2019s so cluttered and hard to see the important details. It desperately needs the hard black outlines around each train spot. The names of the cities shouldn\u2019t over lap the train spots.  It looks so messy right now even with the \u201csimple\u201d map on. Can we get a map that looks closer to the original game design and colors?",
+                "date": "2025-09-21",
+                "value": 85,
+                "potential_idea": "Implement a 'Classic Map' mode that reverts the map's visual style to resemble the original game's design, featuring clear black outlines for train spots and improved city name legibility to reduce clutter.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "Wouldn\u2019t even open; hung up on the first screen",
+                "date": "2025-09-09",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and startup diagnostics to prevent app crashes on launch.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "We love to play this game.  I live 500+ miles from my family and we played often.  \nBut now the game says \u201cthis board can\u2019t be joined because it is created with an incompatible version of the game\u201d. \nWe loved the previous app and had paid for it.  Then we paid $40+ each to have all boards on the new app.  \nPlease give us our game back!!!!",
+                "date": "2025-09-08",
+                "value": 75,
+                "potential_idea": "Implement a mechanism for seamless backward compatibility or offer easy migration paths for users who have paid for content in previous versions of the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "This app freezes and crashes very often on my iPad. On Steam PC it will often hang during an online game at someone else\u2019s turn and the turn is never taken so I either stack up idle games or resign and lose stars. Very frustrating experience.",
+                "date": "2025-08-23",
+                "value": 75,
+                "potential_idea": "Implement a robust auto-resume and turn-timeout feature for online games to prevent game abandonment and user frustration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "I used to love playing this game on an older version, but with this one, I don\u2019t like both versions of the map. They are too busy looking and the road colors are too small.",
+                "date": "2025-08-20",
+                "value": 65,
+                "potential_idea": "Introduce a simplified map view option with larger, more distinct road colors for improved readability.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "I AM SO OVER THIS GAME CRASHING!! This game is fun when it works, but it\u2019s not fair that when it crashes I lose stars because of it. Also not fair that if I click on a four person game because I want to play with three other people, that if the host starts it\u2019s before there are four people I either have to play or lose stars. I didn\u2019t want to play with just three people that\u2019s why I clicked a four person game. They should also move the route cards because I have clicked them accidentally when I\u2019ve wanted to pick up the top card.",
+                "date": "2025-08-19",
+                "value": 85,
+                "potential_idea": "Implement an automated refund or star-restoration system for game crashes and implement clearer player-count selection in game lobbies.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Major issues lately. I\u2019ve had this app for a while, and have enjoyed playing it with friends. It worked pretty well for the most part, with an occasional glitch that required a re-launch of app. For the past few days however, it has been freezing at the conclusion of games, never revealing the winner. This is pretty frustrating when you shell out $30 for the full version of the game.",
+                "date": "2025-08-19",
+                "value": 18,
+                "potential_idea": "Implement robust error handling and data persistence to prevent game state loss and ensure accurate winner declaration even after unexpected crashes or freezes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "2 things- one, without being able to play it vertically on my phone, basically unusable. It\u2019s uncomfortable and awkward at best. Two- I don\u2019t need an app threatening me that ai is literally going to replace me if I don\u2019t follow the rules. Feels pretty cold and um\u2026 I don\u2019t want to see the word \u201cai\u201d when I\u2019m freaking playing a game that\u2019s all about building the first RAILROAD tracks. Seems pretty off brand.",
+                "date": "2025-08-17",
+                "value": 12,
+                "potential_idea": "Implement an optional, less threatening user interface and offer portrait mode gameplay.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "The game won\u2019t even start because it won\u2019t let me select my birthdate. What a joke.",
+                "date": "2025-08-17",
+                "value": 15,
+                "potential_idea": "Implement a more robust and intuitive birthdate selection mechanism for new user onboarding.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "No internet connection found! Please check your connection and try again.\nWhat is wrong with this, tried to reinstall it, still not working",
+                "date": "2025-08-14",
+                "value": 15,
+                "potential_idea": "Implement an offline mode that allows users to access core app functionalities without an internet connection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "I am so tired of this app crashing!!! So frustrating.",
+                "date": "2025-08-11",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to ensure app stability and provide a seamless user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "I cannot figure out the rules or physical mechanics to play this game. The tutorial is in no way helpful. I feel stupid.",
+                "date": "2025-08-10",
+                "value": 75,
+                "potential_idea": "Implement an interactive, step-by-step tutorial with simulations that allows users to practice game mechanics before full gameplay.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "When you play a game like this you really need to put misbehaved people on a no play list.",
+                "date": "2025-08-10",
+                "value": 70,
+                "potential_idea": "Implement a 'block' or 'mute' feature for disruptive players in multiplayer games.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Ever since they added bubble, this app crashes constantly",
+                "date": "2025-08-09",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and debugging tools to proactively identify and resolve stability issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "This version is horrible. The pacing, even on the fast setting, is slow. The graphics are horrible. The card colors are horrible. The route markings are horrible. Everything about this app is horrible. I hate it so much.\n\nThe original app was one of the best ever, this feels like it was designed by someone who has never enjoyed board game apps. I will go back to playing the original app! What a waste of time, energy, and money!\n\nOh, and they should have created an option to transfer your stats from the original app to this app! \n\nWho decided on creating a new, crappier, app rather than using the original app?",
+                "date": "2025-08-06",
+                "value": 55,
+                "potential_idea": "Implement an option to transfer player statistics from the original app to the new version to retain user progress and investment.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "This game is amazing. It used to have an intuitive and friendly app to play online at any time. This \u2018new\u2019 app is horrible and uses a \u2018friend request\u2019 bubble that just doesn\u2019t work. When my family visits, we love to play this game, but this new app makes it just a stressful and painful process. DO BETTER!",
+                "date": "2025-07-26",
+                "value": 75,
+                "potential_idea": "Reintroduce the previous intuitive online play functionality for the game, focusing on a seamless and reliable way to connect and play with friends and family.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Long delays when playing. I owned all the content on the old version so it was disappoint that they want me to buy it again.",
+                "date": "2025-07-25",
+                "value": 70,
+                "potential_idea": "Implement profile migration for purchased content from previous app versions to avoid requiring repurchase.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "This game could be really fun, but it rarely lets me complete the game and kicks me out of the game multiple times. You really need to fix your problems with this",
+                "date": "2025-07-21",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and stability improvements to prevent frequent game crashes and disconnections.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Constantly crashing and freezing.",
+                "date": "2025-07-13",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and performance optimization to prevent app crashes and freezing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "No chat so no community, no ability to search/restrict by player ability so I can\u2019t find any challenge - I\u2019m maybe 200 wins in a row at this point whereas on the old app I played 1600+ players and won maybe 50%.mechanics work well though I don\u2019t consider 7 minutes blitz, they should have a 4 minute option.\n\nUpdating my review - no improvements and too boring to play bad players all the time, I\u2019m pretty much done with this app.\n\nThe shame is a few minor upgrades would go a long way \u2026. Finding well matched players and chat - that\u2019s it!",
+                "date": "2025-07-11",
+                "value": 80,
+                "potential_idea": "Implement a robust player-matching system that considers skill level and offers customizable game timers, alongside in-app chat functionality.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "I\u2019m a casual player. I don\u2019t want to go online. I don\u2019t want to buy a non-pathetic avatar. I don\u2019t want to buy expansion packs that I already paid for with the last game version. The new point system is terrible. Unless you want to give up your life to playing nonstop games, you\u2019ll never be on top. +5 points if I win and -10 points if I lose? All I want is quick games with two AI opponents on the original USA map. Since I\u2019m choosing the \u201cHard\u201d skill level for each AI, there shouldn\u2019t be a handicap built into the point system. And I shouldn\u2019t have a keep returning to the Home Screen in order to prevent a ghost game from appearing in \u201cMy Games\u201d.",
+                "date": "2025-06-28",
+                "value": 70,
+                "potential_idea": "Introduce a 'Casual Mode' with adjustable AI difficulty, a balanced point system (or no points at all), and offline play options, specifically for users who prefer quick, single-player experiences without competitive pressures.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "The developers killed the old version.  Made us pay for a new version and there are still just as many glitches that cause a game to crash as before.  And if you try to contact support they require a ridiculous amount of information about the game or else you can\u2019t even submit a ticket.  Stop making new maps and fix the basic engine of the game!",
+                "date": "2025-06-28",
+                "value": 65,
+                "potential_idea": "Implement a streamlined and less data-intensive support ticketing system that proactively collects relevant crash data.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6738784151",
+        "name": "A Little to the Left: Stars",
+        "url": "https://apps.apple.com/us/app/a-little-to-the-left-stars/id6738784151?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "A Little to the Left: Stars",
+                "rating": 1,
+                "review": "Buggy, unable to play beyond level 24 after paying 5 bucks for this stupid game",
+                "date": "2025-06-13",
+                "value": 15,
+                "potential_idea": "Implement robust game progression and save features to prevent data loss and ensure uninterrupted gameplay, especially after in-app purchases.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1439262206",
+        "name": "Root Board Game",
+        "url": "https://apps.apple.com/us/app/root-board-game/id1439262206?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "This game is super fun with amazing mechanics, but the AI plays this game dumber than an oscillating fan. If you want to simulate playing against people with intelligence of at least a rock, don\u2019t download this game. Just to the board game instead.",
+                "date": "2025-09-13",
+                "value": 55,
+                "potential_idea": "Implement an advanced AI opponent with configurable difficulty levels to enhance the single-player experience in the game.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "I bought this on steam a few years ago, but the AI was so bad it was unplayable. I bought it again on iOS hoping things had improved and I would have a good game to play on my iPad. The AI is still unplayably bad. The AI will ignore a faction one turn from victory to attack the lowest scoring faction on the board (I get when Eyrie does it due to decree, this isn\u2019t that). How hard is it to program some priorities in to target leaders?",
+                "date": "2025-01-02",
+                "value": 78,
+                "potential_idea": "Develop an AI strategy module for mobile strategy games that prioritizes targeting dominant or victory-positioned opponents.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Root Board Game",
+                "rating": 2,
+                "review": "Either this game is racked with bugs or it has lots of crazy unwritten rules. For example,  when you\u2019re playing woodland appliance who knows why any faction can move to any other space but woodland appliance can only move to assigned spaces that the game decides? Think I\u2019m done with this. Recently the game designer had to publish a two volume set on all the esoteric rules of this game. So it\u2019s simple but not really it\u2019s as completed as D&D ?!  Ok I feel manipulati joined a game I can do",
+                "date": "2024-12-31",
+                "value": 72,
+                "potential_idea": "Develop a mobile application that dynamically explains and visualizes complex or hidden game rules in real-time, using AI to interpret game state and a user-friendly interface to present clarifications.",
+                "tags": [
+                    "bug",
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "578665578",
+        "name": "Threema. The Secure Messenger",
+        "url": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Add: search by email or phone number",
+                "date": "2025-08-15",
+                "value": 70,
+                "potential_idea": "Implement a contact search function allowing users to find contacts by email or phone number within the app.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "The best",
+                "date": "2025-07-07",
+                "value": 0,
+                "potential_idea": "This review is too vague to generate a specific feature or app idea.",
+                "tags": []
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Newer versions no longer allow to transfer data to another phone. I had \u2018ID EXPORT\u2019 enabled from previous phone switch which was a few years back. Obviously, the password is forgotten. After synching the phone to new iPhone I cannot remember the password. Exporting the ID into iCloud backup means, I need to restore it again (a couple hours of work). Super sad and bad usability.",
+                "date": "2025-06-01",
+                "value": 19,
+                "potential_idea": "Implement a secure and user-friendly password recovery or reset mechanism for exported user IDs to facilitate easier data transfer between devices.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Mesaj g\u00f6nderemiyorum kar\u015f\u0131 taraf mesajlar\u0131m\u0131 g\u00f6r\u00fcyor ama ben g\u00f6remiyorum",
+                "date": "2025-06-01",
+                "value": 15,
+                "potential_idea": "Implement a real-time read receipt feature, showing when messages are delivered and seen by the recipient, to resolve the sender's inability to see their own sent messages being received.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "I love how I can record messages with my airpods and put my phone in my pocket while continuing to record. But it does happen from time to time thst rhe recording stops suddenly. Or it doesn\u2019t remember the recording and gives an error message and then it disappears. This is so frustrating, especially when you do longer messages. Please finally fix this!",
+                "date": "2025-01-03",
+                "value": 75,
+                "potential_idea": "Implement robust background audio recording with reliable error handling and automatic saving to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 2,
+                "review": "I\u2019ve had the new IPhone 16 pro max for weeks now, and I have never been able to send a video on it. Worked fine on my IPhone 13. Now whenever I try to send a video whether I take the video in Threema, or on my phones camera app, I get an error saying \u201ccould not load the video, please restart the app and try again\u201d. I have closed it and reopened, restarted my phone, even deleted Threema and re-installed it.",
+                "date": "2024-10-16",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and device-specific compatibility testing for video sharing on newer iPhone models.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 2,
+                "review": "Can\u2019t respond to individual messages with emoji reactions. Doesn\u2019t support a .gif keyboard. Can\u2019t pin individual messages that are important to the top in group messages.",
+                "date": "2024-10-08",
+                "value": 70,
+                "potential_idea": "Implement emoji reactions, GIF keyboard support, and message pinning for enhanced group chat communication.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "There should be an option for auto deletions within days not week or month!!!",
+                "date": "2024-10-04",
+                "value": {
+                    "intensity": 15,
+                    "difference": 5,
+                    "scope": 15,
+                    "feasibility": 20,
+                    "total": 55
+                },
+                "potential_idea": "Implement an auto-deletion feature with customizable daily intervals for app content to provide users with more granular control over data management.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 1,
+                "review": "Haven\u2019t seen much good things added in terms of features or bugfixes in a looooong time. \n\n- sending media from Photos app requires you to wait for the media to be encoded before you can add captions. You need to keep the send dialogue open until everything is sent, otherwise you loose your captions and you have to share from pictures again\n- when sending multiple images/videos and one fails (eg network timeout), all media \u201cafter\u201d that are lost and you have to share again from Photos app. \n- randomly people can\u2019t receive/send messages for non-obvious reasons. No error messages whatsoever. We found out by accident when speaking IRL. Trusting the other\u2019s Threema IDs resolved it\n- extremely limited set of reaction emojis. Why can\u2019t I use the full emoji pallet to express my emotions\n- can\u2019t port data backups from android to iOS???\n- when you are offline for some time and get online again you are spammed by notifications, instead of Threema batching them in a single notification/one per chat\n\nThreema for Desktop is the only good addition that I\u2019ve seen in 5+ years. \n\nI don\u2019t see a reason to pay for Threema when there are better alternatives (Signal being the obvious one)",
+                "date": "2024-05-10",
+                "value": 65,
+                "potential_idea": "Implement a robust background media encoding and sending process with improved error handling and resilience for multi-file transfers to prevent data loss and ensure seamless user experience.",
+                "tags": [
+                    "no update for long time",
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Threema. The Secure Messenger",
+                "rating": 2,
+                "review": "Its been over two months now that Threema has stopped working with the notifications! I have turned off/on my phone multiple times, and the app is up to date on the app store\ud83d\ude21. This is very annoying given that i paid money for this app",
+                "date": "2023-12-30",
+                "value": 18,
+                "potential_idea": "Implement a robust notification troubleshooting guide and system within the app for users experiencing consistent notification failures.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1029932207",
+        "name": "Papa's Cupcakeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-cupcakeria-to-go/id1029932207?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "Graphics are Very blurry",
+                "date": "2025-03-16",
+                "value": 10,
+                "potential_idea": "Improve graphic rendering in the app for clearer visuals.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "I hate the quality it\u2019s horrible and so blurry! Fix this nowww",
+                "date": "2024-10-11",
+                "value": 15,
+                "potential_idea": "Improve the image and video quality of captured media within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "I guess I should\u2019ve seen when it was last updated and assumed, but I really want a refund on this app so if anyone knows how I can do that pls lmk. It\u2019s just not worth it. So much better on computer and kind of infuriating and less quality on phone. Makes me sad\u2026 I want my money back\u2026.. even though I\u2019m a devout papas cupcakeria fan",
+                "date": "2024-10-07",
+                "value": 18,
+                "potential_idea": "Implement a clear and accessible in-app refund request system for users who find the mobile experience unsatisfactory.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "As soon as I opened the app it was all fuzzy and low quality. I have six other Papa's games on this same device and none of them look bad at all.",
+                "date": "2024-08-17",
+                "value": 10,
+                "potential_idea": "Implement dynamic resolution scaling to ensure optimal visual quality on a wider range of devices, especially for users experiencing fuzzy graphics like those in the review.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "Why is it blurry",
+                "date": "2024-08-17",
+                "value": 15,
+                "potential_idea": "Implement image sharpening and clarity enhancement filters within the app to address user complaints about blurry visuals.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 2,
+                "review": "The quality goes crazy for it costing 2.13 \ud83d\ude2d Especially when I don\u2019t get the options I get with the other games.",
+                "date": "2024-05-06",
+                "value": 70,
+                "potential_idea": "Offer users more customization options or unlockable content for a lower price point to match the perceived value of 'other games'.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cupcakeria To Go!",
+                "rating": 1,
+                "review": "Hey flipline Studios so it has come to my attention that u didn\u2019t fulfill my request to put me as a pro? That has made alpha very angry 2 v 1 \ud83d\udc7f",
+                "date": "2024-05-04",
+                "value": 15,
+                "potential_idea": "Implement a tiered user system or premium subscription for in-app status and benefits.",
+                "tags": []
             }
         ]
     }
