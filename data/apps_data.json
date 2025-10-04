@@ -1040,166 +1040,6 @@
         ]
     },
     {
-        "id": "294934058",
-        "name": "HotSchedules",
-        "url": "https://apps.apple.com/us/app/hotschedules/id294934058?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "For sometime now, I will not get any pop-up notifications or text messages when my schedule has been posted, etc. I used to get them. I\u2019ve checked all the settings. Everything is checked properly. I just don\u2019t get notifications anymore.",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "Implement a robust notification system that reliably alerts users to schedule updates and other important app events.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "It\u2019s annoying how as an employee I have to pay for an app for my job",
-                "date": "2025-09-16",
-                "value": 65,
-                "potential_idea": "Offer a tiered subscription model where employers can subsidize or fully cover the app cost for their employees.",
-                "tags": []
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 2,
-                "review": "I don\u2019t know if it\u2019s just me? But probably like 3 months (I\u2019ve had it for 3 years now) after getting the app my push notifications for the app stopped working completely so I have to solely rely on my email every time I got notifications about work\u2026 yes I checked I have them on in my actual phone settings and my app settings I tried turning them off then on again still doesn\u2019t work. Now a couple days ago my email notifications stopped working now too. \n\nPlease fix this hot schedules starting to really get annoying",
-                "date": "2025-08-30",
-                "value": 50,
-                "potential_idea": "Implement a robust in-app notification troubleshooting wizard to guide users through diagnosing and resolving push and email notification issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "My notifications for this app are on but one day my coworkers and I stopped receiving notifications.",
-                "date": "2025-08-26",
-                "value": 15,
-                "potential_idea": "Implement a robust notification debugging tool that allows users to troubleshoot why they are not receiving app notifications.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 2,
-                "review": "An ok scheduling app. Major problem is that it redundantly adds appointments to your calendar, as many as 10 to 12 a day and requires lots of calendar maintenance to keep its entries correct.",
-                "date": "2025-08-03",
-                "value": 85,
-                "potential_idea": "Implement a robust conflict detection and resolution system for appointment scheduling to prevent duplicate entries and simplify calendar management.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "I don\u2019t know when this update was but i opened the app the hideous website style of hot schedules, just as glitchy too. the old version we had a few days ago was so much better </3",
-                "date": "2025-07-15",
-                "value": 15,
-                "potential_idea": "Develop a mobile app that offers a polished and functional alternative to the 'Hot Schedules' website, focusing on a user-friendly interface and robust performance.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "0 out of 5 -As a business owner, I had high hopes for HotSchedules to streamline our employee scheduling, but it has been a complete letdown. The app\u2019s communication features are abysmal, making it nearly impossible for my team to stay on the same page. It\u2019s far from user-friendly\u2014my employees found the interface confusing and frustrating to navigate, leading to constant issues with scheduling.\n\nWhen we reached out to customer service and tech support for help, the experience was equally disappointing. The support team was unhelpful, and the issues persisted without resolution. After wasting time and energy, we switched to a much more user-friendly scheduling software that actually works for our team. I strongly recommend avoiding HotSchedules\u2014it\u2019s a headache not worth dealing with.",
-                "date": "2025-07-01",
-                "value": 85,
-                "potential_idea": "Develop a mobile app focused on intuitive and highly efficient employee scheduling with integrated, clear communication tools, specifically designed for small to medium-sized businesses.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "I spent the whatever $2 to download this app, because it was apparently very important to do that in order for me to work.  Not an ideal, or really morally acceptable, time to hit somebody up for money, but that\u2019s your decision.\nFrom that point, I worked for two weeks and no one in management was authorized or able to finish my set-up process, citing a lack of customer support from the app.\nI have since discovered that the job was not the best fit, and if I would have listened to my gut feeling I would\u2019ve avoided that wasted time, but que ser\u00e1.  The simple fact is this app is a way for businesses to pass the buck onto their hourly wage earners, and I will use my last dying breath to urge people to avoid using it.\nPower to the proletariat!",
-                "date": "2025-05-22",
-                "value": 85,
-                "potential_idea": "Offer a free trial or a freemium tier of the app for individual users to evaluate its utility before requiring a business to purchase it.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "have had this app for the last 3 yrs per company policy, not once has the app worked regularly. almost everyday in the morning both the paid app and website don\u2019t even load past the login screen; sometimes not even that. what\u2019s the point of making us pay for an app that doesn\u2019t work and still charging the company to use it too.",
-                "date": "2025-05-09",
-                "value": 15,
-                "potential_idea": "Develop a robust and reliable app with consistently stable performance, ensuring core functionalities like login and data loading work seamlessly daily.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "I can\u2019t login or even load anything it just spins for ever.",
-                "date": "2025-05-08",
-                "value": 15,
-                "potential_idea": "Implement robust error handling with user-friendly feedback for login and loading issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "doesn\u2019t work when I try to open the app",
-                "date": "2025-05-08",
-                "value": 10,
-                "potential_idea": "Implement robust error handling and logging to identify and resolve app crashing issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "I paid for it n can\u2019t use ur. I want a refund",
-                "date": "2025-04-26",
-                "value": 15,
-                "potential_idea": "Implement a clear and straightforward refund process directly within the app for users who encounter immediate issues after purchase.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "It charged me 7.99. like what?!",
-                "date": "2025-03-07",
-                "value": 65,
-                "potential_idea": "Implement a clear and upfront pricing breakdown or a prominent free trial option before users are asked for payment.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "HotSchedules",
-                "rating": 1,
-                "review": "If I paid for this app, I think it should come with the option to ignore ads. I can't open my schedule without having to view company message every single time I get on the app and it's very frustrating",
-                "date": "2025-01-12",
-                "value": 75,
-                "potential_idea": "Offer an ad-free subscription tier for users who want to bypass in-app advertisements and promotional messages.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "582584117",
         "name": "Solocator - GPS Field Camera",
         "url": "https://apps.apple.com/us/app/solocator-gps-field-camera/id582584117?uo=2",
@@ -1444,183 +1284,6 @@
         ]
     },
     {
-        "id": "1207867591",
-        "name": "Papa's Taco Mia To Go!",
-        "url": "https://apps.apple.com/us/app/papas-taco-mia-to-go/id1207867591?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "just downloaded and i really wish that i saw that this game hasn\u2019t been updated in years lol. in comparison to the new to go games the one looks horrible lol. if u can update the app that would be amazing. i mean for a games that cost  money (even though it\u2019s cheap) i feel like the quality should be up to date .",
-                "date": "2025-09-03",
-                "value": 55,
-                "potential_idea": "Revamp the visual design and user interface of the mobile game to align with modern gaming standards, reflecting its paid status.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "I don\u2019t think I\u2019m the only one to say this the graphics on this game is worse then the other 1.99 ones it makes my eyes hurt trying to play it I bought it and seen the graphics and never liked them please fix the graphics",
-                "date": "2024-06-30",
-                "value": 15,
-                "potential_idea": "Implement an in-game visual style selector to allow users to choose between different graphic presets or themes.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "i\u2019ve bought most of the papas games and all of the $1.99 ones are high quality except this one. it\u2019s grainy and completely lacking the updated look and feel of all the rest of them. it\u2019s only $1.99 but feels like a ripoff tbh. disappointed :(",
-                "date": "2024-03-29",
-                "value": 75,
-                "potential_idea": "A mobile game development tool that enforces consistent visual quality and updated design across a series of games to prevent 'ripoff' perceptions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 1,
-                "review": "I didn\u2019t even play yet guys.. the game is $1.99 apple just charged me over 20 dollars just now\ud83d\ude41",
-                "date": "2024-02-29",
-                "value": 15,
-                "potential_idea": "Implement clearer in-app purchase confirmation screens with a detailed breakdown of costs before finalizing transactions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 1,
-                "review": "The quality of this game is so low it\u2019s actually unplayable on top of that the game is super buggy and freezes constantly. waste of money.",
-                "date": "2024-02-12",
-                "value": 10,
-                "potential_idea": "Develop a mobile game with high production quality that is thoroughly tested to ensure a stable and bug-free user experience.",
-                "tags": {
-                    "tags": [
-                        "bug"
-                    ]
-                }
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "I remember playing this game since when I was a kid. But when i bought and downloaded the game it was blurry and the whole game was not clear. It was hard to concentrate on it and uncomfortable to the eyes. Please fix this problem.",
-                "date": "2023-12-22",
-                "value": 85,
-                "potential_idea": "Implement a graphics resolution upgrade for older mobile games to improve clarity and visual comfort.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "The quality of this game is poor. I play a few other papa games and their qualities are great. In this game I can\u2019t even read what is on the tickets. It\u2019s so bad.",
-                "date": "2023-08-12",
-                "value": 20,
-                "potential_idea": "Improve text readability and graphical clarity for all in-game elements, especially ticket information.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "i rarely ever review apps but i wish i checked the reviews of this before downloading. the quality is atrocious like 10 fps and blurry and grainy.",
-                "date": "2023-06-24",
-                "value": 15,
-                "potential_idea": "Implement essential performance optimization and graphics rendering improvements to ensure a smooth and clear user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 1,
-                "review": "I adored this game as a child and was jumping for joy to spend $2 on this game. But the graphics is probably the largest standout factor about the app. The quality is so bad, it\u2019s very fuzzy and pixelated. I feel really sad because I was looking forward to playing this game obsessively like old times, but it gives me a fat headache",
-                "date": "2023-01-20",
-                "value": 65,
-                "potential_idea": "Offer a remastered version of the game with updated, high-definition graphics.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 1,
-                "review": "I bought it and was dissatisfied with the quality. I would like a refund .",
-                "date": "2022-05-01",
-                "value": 15,
-                "potential_idea": "Implement a seamless in-app refund process for dissatisfied users.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "I bought this game because I love the Papas Games franchise. LOVE IT. I was so excited to play on the phone! But the quality/graphics for most of the Papa games are just not great. The Pancakeria and Donuteria are the only ones from the lot that I bought that has good game quality graphics. \nThe quality in the other games I bought (Tacomia, Burgeria, Cupcakeria, and Freezeria) are also just bad. Please try to get an update for the games for better quality! I love these games and would love to play them without the bad graphics. It gives me a headache to look at. :( \nLOVE the game, don\u2019t love the graphics.",
-                "date": "2021-12-15",
-                "value": 65,
-                "potential_idea": "Offer a graphics upgrade option for older Papa Games titles within the app to improve visual quality for users.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "I downloaded because I\u2019m a big fan of the papa games and I was looking for some more games to get on my phone but when I bought it I realized it\u2019s a bit low quality and stuff. I remember seeing the game before and it looked way different from that. ( I was sort of upset there was not custom characters ) I then looked at the reviews and see them saying the same thing. I kept playing it though thinking I might get used to it. No , I did not . It\u2019s so low quality I had to get a refund. But anyways don\u2019t take my word for it . If you wanna play this game, play it but beware on the limited play and quality for iPhone / android users",
-                "date": "2021-12-13",
-                "value": 60,
-                "potential_idea": "Enhance game quality and introduce character customization options to appeal to fans of existing 'Papa' game franchises.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 2,
-                "review": "The game looks old. I was disappointed when I finally paid for the game and opened the app lol.",
-                "date": "2021-06-22",
-                "value": 15,
-                "potential_idea": "Implement a visual overhaul of the game's interface and graphics to modernize its appearance.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 1,
-                "review": "I used to play alll of these games and get really far in them.  and now everything has changed and it is WAY too easy to click the wrong things! I constantly have to remake everything and It is so difficult to navigate around .  Im annoyed I bought this game thinking itd be the original.",
-                "date": "2021-05-15",
-                "value": 60,
-                "potential_idea": "Implement an 'undo' feature or a 'confirm action' prompt for critical gameplay actions to prevent accidental mistakes in game progression.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Taco Mia To Go!",
-                "rating": 1,
-                "review": "I was so exited to play and I open the app and the quality is so bad and in my opinion this was a big waste of my money and time please fix and update quality please and thank you",
-                "date": "2021-03-14",
-                "value": 15,
-                "potential_idea": "Improve the app's visual quality and graphical assets to enhance the user experience and justify the purchase price.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1498550832",
         "name": "ASCCP Management Guidelines",
         "url": "https://apps.apple.com/us/app/asccp-management-guidelines/id1498550832?uo=2",
@@ -1797,188 +1460,6 @@
                 "tags": [
                     "bug",
                     "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "932747118",
-        "name": "Shadowrocket",
-        "url": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6b64\u6b21\u66f4\u65b0\u4e4b\u540e\uff0cxhttp \u534f\u8bae\u5b8c\u5168\u65e0\u6cd5\u4f7f\u7528\u3002\n\n[18:56:57.995] backend vless <1b88bc81-f4e-31d-6ce-950cd4384e3> send vless header\n[18:56:58.291] mux connection <1b88bc81-f4e-31d-6ce-950cd4384e3> close stream <24>\n[18:56:58.291] mux session <1b88bc81-f4e-31d-6ce-950cd4384e3> group count => <0> id <0> did disconnect reason => xhttp h2 session <1b88bc81-f4e-31d-6ce-950cd4384e3> lib_error_code => -536 error => Remote peer returned unexpected data while we expected SETTINGS frame.  Perhaps, peer does not support HTTP/2 properly.",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and fallback mechanisms for XHTTP protocol compatibility issues to ensure uninterrupted service.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u4e4b\u524d\u4e00\u76f4\u7528\u4e863\u5e74\u591a\uff0c\u4e00\u70b9\u95ee\u9898\u90fd\u6ca1\u6709\u3002\u66f4\u65b0\u52302.2.71\u4ee5\u540e\u5b8c\u5168\u7528\u4e0d\u4e86",
-                "date": "2025-09-29",
-                "value": 10,
-                "potential_idea": "Implement a rollback mechanism or a robust testing pipeline to prevent critical bugs in future app updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "I use this app for many years,but it don\u2019t work after update yesterday.the same vpn account is works on my android phone.",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement robust cross-platform compatibility testing to ensure updates do not break functionality on specific operating systems, or offer a rollback option for critical bugs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "previous version works ,but the latest version on ios18.6 nNOT! WORK!",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Implement robust backward compatibility testing before releasing new app versions to ensure functionality across all supported iOS versions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "The connection issue persists on my 15 pro max, ios 26 after the 2.2.71 update. Fix the problem! we don\u2019t pay for a nonfunctional app!",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Proactive network connection monitoring and automatic reconnection attempts with user notifications.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6253\u5f00\u540e\u4e00\u4f1a\u5c31\u65e0\u6cd5\u8fde\u63a5\u4e86\uff0c\u66f4\u65b0\u4e86\u7cfb\u7edf\u4e5f\u662f\uff0c\u5e0c\u671b\u5c3d\u5feb\u4fee\u590d\uff01",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Improve the app's network stability and reconnection reliability, especially after system updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "The new design with a huge blue banner on top is terrible, please don\u2019t ever use it again. My eyes hurt.",
-                "date": "2025-09-26",
-                "value": 15,
-                "potential_idea": "Allow users to customize banner colors and sizes within the app to improve visual comfort.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u7b2c\u4e00\u6b21\u89c1\u5230\u4e00\u4e2aApp\u53d1\u5e03\u4e86\u90a3\u4e48\u591a\u5173\u4e8e\u66f4\u65b0\u7684\u6d4b\u8bd5build\u4e4b\u540e\uff0c\u6b63\u5f0f\u4e0a\u67b6\u7684\u7248\u672c\u5b8c\u5168\u4e0d\u53ef\u7528\uff01\u8fde\u63a5\u540e\u6ca1\u4e24\u5206\u949f\u5c31\u5168\u65ad\uff0c\u5e94\u8be5\u662f\u6574\u4e2a\u7f51\u7edc\u90e8\u5206\u88ab\u91cd\u6784\u8fc7\u4e86\uff0c\u53ef\u60dc\u5f00\u53d1\u548c\u6d4b\u8bd5\u6c34\u5e73\u592a\u4e1a\u4f59\uff01\u56e2\u961f\u4f60\u4eec\u7a76\u7adf\u5728\u5e72\u4ec0\u4e48\uff1f\u5b58\u5fc3\u7684\u5417\uff1f",
-                "date": "2025-09-26",
-                "value": 60,
-                "potential_idea": "Implement a robust beta testing program with clear channels for feedback to prevent major usability issues in release versions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "sb",
-                "date": "2025-09-23",
-                "value": 0,
-                "potential_idea": "N/A",
-                "tags": []
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "Or new list showed and immediately disappear",
-                "date": "2025-09-12",
-                "value": 15,
-                "potential_idea": "Implement a system to prevent accidental deletion or disappearance of user-created lists.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6211\u89c9\u5f97\u4ea7\u54c1\u548c\u7528\u6237\uff0c\u81f3\u5c11\u5e94\u8be5\u6709\u6700\u57fa\u672c\u7684\u76f8\u4e92\u5c0a\u91cd\u5bf9\u5417\uff1f\n\u9ebb\u70e6\u7ed9\u6211\u4e00\u4e2a\u201c\u63d0\u4ea4\u9700\u6c42\uff0c\u8010\u5fc3\u89e3\u91ca\u9700\u6c42\u201d\u7136\u540e\u88ab\u6240\u8c13\u201c\u7ba1\u7406\u201d\u5c01\u7981\u7684\u7406\u7531\u597d\u5417\uff1f \u4ea7\u54c1\u9700\u6c42\uff1a \u5728\u4ee3\u7406\u5206\u7ec4\u8bbe\u7f6e\u4e00\u4e2a\u201c\u8282\u70b9\u4e0a\u9650\u201d\u9009\u9879\uff08\u975e\u8ba2\u9605\u65f6\u7684\u8bbe\u7f6e\uff09 \u67d0\u4f4d\u201c\u7ba1\u7406\u201d\u8bf4\u662f\u201c\u4f2a\u9700\u6c42\u201d\uff0c\u6211\u56de\u590d\u4ed6\u201c\u5982\u679c\u6309\u7167\u8fd9\u4e2a\u903b\u8f91\uff0c\u8ba2\u9605\u65f6\u8bbe\u7f6e\u8282\u70b9\u4e0a\u9650\u4e5f\u662f\u4f2a\u9700\u6c42\u4e86\uff0c\u4e3a\u4ec0\u4e48\u8981\u4e22\u5f03\u8282\u70b9\u5462\u201d\uff0c\u51ed\u4ec0\u4e48\u88ab\u5c01\u7981\uff1f \u4f5c\u4e3a\u6d88\u8d39\u8005\uff0c\u6211\u81f3\u5c11\u6709\u63d0\u5efa\u8bae\u7684\u6743\u5229\u5427\uff1f \u51ed\u4ec0\u4e48\uff1f\uff1f \u8fd9\u4e00\u5c0f\u64ae\u4eba\u5230\u5e95\u662f\u8981\u641e\u4ec0\u4e48\uff1f",
-                "date": "2025-08-21",
-                "value": 15,
-                "potential_idea": "Implement user-facing moderation logs and clear appeal processes for account restrictions to foster transparency and trust.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "\u6253\u5f00\u4e0d\u4e86",
-                "date": "2025-08-21",
-                "value": 10,
-                "potential_idea": "Implement robust error handling and a user-friendly crash reporting mechanism to diagnose and resolve app opening issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 2,
-                "review": "\u4e3a\u4ec0\u4e48ihone 5c\u4e0d\u80fd\u7528\u554a",
-                "date": "2025-08-15",
-                "value": 10,
-                "potential_idea": "Ensure app compatibility with older iPhone models like the 5c.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "need more effort to learn how to diy conf file",
-                "date": "2025-08-15",
-                "value": 70,
-                "potential_idea": "Build an AI-powered, interactive guide to help users understand and configure app settings, simplifying complex DIY configuration files.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "I really enjoy using Shadowrocket\u2014it\u2019s an excellent app! It would be fantastic if the developer could release an update that supports M2 macOS. This would make the app even more versatile and useful.",
-                "date": "2025-08-14",
-                "value": 65,
-                "potential_idea": "Develop a native macOS version of Shadowrocket optimized for M2 chips to enhance its versatility and usefulness on desktop platforms.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Shadowrocket",
-                "rating": 1,
-                "review": "For days I complained to the connection support about my connection issues, until they finally suggested testing another software instead of Shadowrocket. Now I feel it\u2019s a shame that a completely free application can stay connected stably through this connection, while in this so-called premium paid software, it doesn\u2019t even return a single ping!",
-                "date": "2025-08-09",
-                "value": 75,
-                "potential_idea": "Develop a premium VPN service that prioritizes stable and reliable connections, even on challenging networks, distinguishing itself from free alternatives that may offer less consistent performance.",
-                "tags": [
-                    "bug"
                 ]
             }
         ]
@@ -12900,6 +12381,577 @@
                 "value": 15,
                 "potential_idea": "Allow users to save and re-access favorite content or decks within the app.",
                 "tags": []
+            }
+        ]
+    },
+    {
+        "id": "294934058",
+        "name": "HotSchedules",
+        "url": "https://apps.apple.com/us/app/hotschedules/id294934058?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "For sometime now, I will not get any pop-up notifications or text messages when my schedule has been posted, etc. I used to get them. I\u2019ve checked all the settings. Everything is checked properly. I just don\u2019t get notifications anymore.",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement a robust and user-configurable notification system that reliably informs users of schedule updates and other important events within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "It\u2019s annoying how as an employee I have to pay for an app for my job",
+                "date": "2025-09-16",
+                "value": 45,
+                "potential_idea": "Introduce a tiered subscription model or a freemium option for employees to access the app's core features for personal use, with advanced features available for a premium.",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "I don\u2019t know if it\u2019s just me? But probably like 3 months (I\u2019ve had it for 3 years now) after getting the app my push notifications for the app stopped working completely so I have to solely rely on my email every time I got notifications about work\u2026 yes I checked I have them on in my actual phone settings and my app settings I tried turning them off then on again still doesn\u2019t work. Now a couple days ago my email notifications stopped working now too. \n\nPlease fix this hot schedules starting to really get annoying",
+                "date": "2025-08-30",
+                "value": 12,
+                "potential_idea": "Implement a robust, multi-channel notification troubleshooting guide within the app to help users resolve common notification delivery issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "My notifications for this app are on but one day my coworkers and I stopped receiving notifications.",
+                "date": "2025-08-26",
+                "value": 15,
+                "potential_idea": "Implement a robust notification status checker and troubleshooting guide within the app to help users diagnose and resolve notification delivery issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "An ok scheduling app. Major problem is that it redundantly adds appointments to your calendar, as many as 10 to 12 a day and requires lots of calendar maintenance to keep its entries correct.",
+                "date": "2025-08-03",
+                "value": 75,
+                "potential_idea": "Implement a setting to control the frequency and mode of appointment synchronization with the device's native calendar to prevent duplicate entries.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I don\u2019t know when this update was but i opened the app the hideous website style of hot schedules, just as glitchy too. the old version we had a few days ago was so much better </3",
+                "date": "2025-07-15",
+                "value": 75,
+                "potential_idea": "Revert the app UI to the previous, preferred version or offer users the option to choose between the old and new UI.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "0 out of 5 -As a business owner, I had high hopes for HotSchedules to streamline our employee scheduling, but it has been a complete letdown. The app\u2019s communication features are abysmal, making it nearly impossible for my team to stay on the same page. It\u2019s far from user-friendly\u2014my employees found the interface confusing and frustrating to navigate, leading to constant issues with scheduling.\n\nWhen we reached out to customer service and tech support for help, the experience was equally disappointing. The support team was unhelpful, and the issues persisted without resolution. After wasting time and energy, we switched to a much more user-friendly scheduling software that actually works for our team. I strongly recommend avoiding HotSchedules\u2014it\u2019s a headache not worth dealing with.",
+                "date": "2025-07-01",
+                "value": 85,
+                "potential_idea": "Develop an intuitive scheduling app for small businesses with integrated, real-time team communication tools and responsive customer support.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I spent the whatever $2 to download this app, because it was apparently very important to do that in order for me to work.  Not an ideal, or really morally acceptable, time to hit somebody up for money, but that\u2019s your decision.\nFrom that point, I worked for two weeks and no one in management was authorized or able to finish my set-up process, citing a lack of customer support from the app.\nI have since discovered that the job was not the best fit, and if I would have listened to my gut feeling I would\u2019ve avoided that wasted time, but que ser\u00e1.  The simple fact is this app is a way for businesses to pass the buck onto their hourly wage earners, and I will use my last dying breath to urge people to avoid using it.\nPower to the proletariat!",
+                "date": "2025-05-22",
+                "value": 18,
+                "potential_idea": "Offer a free trial or freemium version for users to evaluate the app's utility before a mandatory purchase, especially for a job-seeking context.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "have had this app for the last 3 yrs per company policy, not once has the app worked regularly. almost everyday in the morning both the paid app and website don\u2019t even load past the login screen; sometimes not even that. what\u2019s the point of making us pay for an app that doesn\u2019t work and still charging the company to use it too.",
+                "date": "2025-05-09",
+                "value": 85,
+                "potential_idea": "Develop a backend system that ensures consistent app and website uptime and performance, resolving frequent login and loading issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I can\u2019t login or even load anything it just spins for ever.",
+                "date": "2025-05-08",
+                "value": 15,
+                "potential_idea": "Improve app loading speed and login reliability by optimizing backend services and implementing robust error handling.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "doesn\u2019t work when I try to open the app",
+                "date": "2025-05-08",
+                "value": 10,
+                "potential_idea": "Implement robust error handling and logging to diagnose and resolve app startup crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I paid for it n can\u2019t use ur. I want a refund",
+                "date": "2025-04-26",
+                "value": 20,
+                "potential_idea": "Implement a more robust and clear refund process for users who encounter payment issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "It charged me 7.99. like what?!",
+                "date": "2025-03-07",
+                "value": 75,
+                "potential_idea": "Implement a clear and transparent pricing breakdown before users confirm any purchase or subscription within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "If I paid for this app, I think it should come with the option to ignore ads. I can't open my schedule without having to view company message every single time I get on the app and it's very frustrating",
+                "date": "2025-01-12",
+                "value": 90,
+                "potential_idea": "Offer a premium subscription to remove all in-app advertisements, including mandatory company messages.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "Everytime there is a company notification it\u2019s continuously pops up every time you click on a different day or refresh that app. SO ANNOYING FIX IT",
+                "date": "2025-01-05",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "First of all I had to purchase this app for $1.99, which is absurd because the app doesn\u2019t even work half the time. It buffers at the loading screen. It seems they have tried to \u201cupdate\u201d this app so many times but, within the day they revert back to the original format. I despise this app and wish my job used a different platform.",
+                "date": "2024-12-16",
+                "value": 18,
+                "potential_idea": "Develop a robust and consistently functional mobile app with reliable performance to replace the current unstable platform.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "Its really really hard to believe how a schedule app that you pay for could be soo bad..but thats reality. A scheduling app that constantly has problems loading your schedule even if you are connected to wifi with no problems. The team at Hotschedules refuse to fix these problems that have plagued the app for years. They do not care about their customers or whether they have a functioning app.",
+                "date": "2024-12-16",
+                "value": 15,
+                "potential_idea": "Develop a reliable and stable offline scheduling app that prioritizes core functionality and user experience over complex features.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "The newest update is awful, the interface is not as easy and it\u2019s missing action that used to be available. Also it\u2019s visually overwhelming.",
+                "date": "2024-12-02",
+                "value": 95,
+                "potential_idea": "Revert to a previous UI version with simplified navigation and restored previously available actions, addressing user feedback on overwhelming visuals and lost functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "Eh",
+                "date": "2024-11-28",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "You updated the app than reverted to the old one and now tabs are missing, yall can't do anything right lol",
+                "date": "2024-11-27",
+                "value": 10,
+                "potential_idea": "Improve app stability and data integrity during updates to prevent feature loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "Used to love the simplicity of this app. New update is horrible and much less user friendly.",
+                "date": "2024-11-26",
+                "value": 12,
+                "potential_idea": "Introduce an opt-in feature to revert to a previous, simpler UI version for users who preferred the old design.",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "The overall new look of this app is honestly the worst. Everything is so disorganized this needs to go back to the original look",
+                "date": "2024-11-25",
+                "value": 15,
+                "potential_idea": "Implement an optional 'classic' theme for users who prefer the app's original design.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 2,
+                "review": "New update is trash. Why fix something that\u2019s not broken? Go back to the old version",
+                "date": "2024-11-25",
+                "value": 15,
+                "potential_idea": "Allow users to opt-out of automatic app updates or choose to revert to previous versions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "The new update is way less efficient and has made it hard to view my shifts and any shifts that are released at a quick glance. Unfortunately, now different job titles are mixed up on one page and all start times are placed in chronological order from Am to Pm. It makes it difficult to see who I\u2019m working with (with the same job title). I have to spend time reading each person and title and and decipher through the mess. Please GROUP JOB TITLES BACK TOGETHER! Why did you make it more difficult for us?\nI also can\u2019t quickly see who I\u2019m working with when I initially click on my shift button. I don\u2019t know why it was split into two separate pages. So unnecessary. \nPlease bring back the old version or at least make this new look similar to the old layout. This is so upsetting!!! I hate looking opening this app now and I\u2019m quite literally forced to for work.",
+                "date": "2024-11-25",
+                "value": 85,
+                "potential_idea": "Allow users to group shifts by job title and revert to a single-page view for shift details.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "i bought the app and now it wont even download on my phone",
+                "date": "2024-11-25",
+                "value": 10,
+                "potential_idea": "Implement a robust download and installation troubleshooting guide within the app's help section.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "It does literally nothing better. What overpaid grad student designed this?",
+                "date": "2024-11-25",
+                "value": 5,
+                "potential_idea": "Redesign the app's core functionality to offer tangible improvements in performance or user experience over competitors.",
+                "tags": []
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I\u2019m limited to the things that I can see on there now and it\u2019s confusing to navigate",
+                "date": "2024-11-25",
+                "value": 60,
+                "potential_idea": "Introduce a customizable dashboard or personalized homepage to streamline navigation and prioritize frequently accessed features.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "Go back to old format",
+                "date": "2024-11-24",
+                "value": 12,
+                "potential_idea": "Roll out an optional legacy mode that reverts the app's interface and functionality to its previous version, allowing users to choose their preferred experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "The update is garbage please give us the old UI back",
+                "date": "2024-11-24",
+                "value": 15,
+                "potential_idea": "Allow users to revert to a previous UI version of the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "I never write reviews but this new update has made the app so much harder to navigate please go back to the old version",
+                "date": "2024-11-24",
+                "value": 10,
+                "potential_idea": "Allow users to revert to a previous app version to improve user experience and satisfaction.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "This new update is actually awful. I don\u2019t know why they would change what they have it was easy to use and now it\u2019s confusing to read and navigate. Change it back.",
+                "date": "2024-11-24",
+                "value": 15,
+                "potential_idea": "Implement an optional 'classic mode' to revert to the previous UI and navigation of an app, satisfying users who preferred the older, simpler interface.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "HotSchedules",
+                "rating": 1,
+                "review": "This new update is the worst!!! It\u2019s so much more difficult to see who\u2019s working with me now and it\u2019s no longer even sorted by job so everyone\u2019s all mixed up! As a manager my job just got so much more difficult from just one update, put it back!!",
+                "date": "2024-11-24",
+                "value": 70,
+                "potential_idea": "Reintroduce a sortable and clearly organized 'team view' that displays users by their assigned jobs or tasks.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1207867591",
+        "name": "Papa's Taco Mia To Go!",
+        "url": "https://apps.apple.com/us/app/papas-taco-mia-to-go/id1207867591?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "just downloaded and i really wish that i saw that this game hasn\u2019t been updated in years lol. in comparison to the new to go games the one looks horrible lol. if u can update the app that would be amazing. i mean for a games that cost  money (even though it\u2019s cheap) i feel like the quality should be up to date .",
+                "date": "2025-09-03",
+                "value": 65,
+                "potential_idea": "A mobile gaming app that allows users to visually compare the graphical quality of games before purchasing, ensuring better value for paid games.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I don\u2019t think I\u2019m the only one to say this the graphics on this game is worse then the other 1.99 ones it makes my eyes hurt trying to play it I bought it and seen the graphics and never liked them please fix the graphics",
+                "date": "2024-06-30",
+                "value": 65,
+                "potential_idea": "Improve the graphical fidelity and visual appeal of the game to be competitive with other paid games in its category.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "i\u2019ve bought most of the papas games and all of the $1.99 ones are high quality except this one. it\u2019s grainy and completely lacking the updated look and feel of all the rest of them. it\u2019s only $1.99 but feels like a ripoff tbh. disappointed :(",
+                "date": "2024-03-29",
+                "value": 15,
+                "potential_idea": "Implement graphical updates and a consistent 'updated look and feel' across all Papas games to match the quality of newer titles.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I didn\u2019t even play yet guys.. the game is $1.99 apple just charged me over 20 dollars just now\ud83d\ude41",
+                "date": "2024-02-29",
+                "value": 75,
+                "potential_idea": "Implement a clearer in-app purchase confirmation flow for paid apps, including a review of the exact amount to be charged.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "The quality of this game is so low it\u2019s actually unplayable on top of that the game is super buggy and freezes constantly. waste of money.",
+                "date": "2024-02-12",
+                "value": 15,
+                "potential_idea": "Develop a game with robust performance and minimal bugs to ensure a smooth and enjoyable player experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I remember playing this game since when I was a kid. But when i bought and downloaded the game it was blurry and the whole game was not clear. It was hard to concentrate on it and uncomfortable to the eyes. Please fix this problem.",
+                "date": "2023-12-22",
+                "value": 15,
+                "potential_idea": "Upscale the game's graphics to a higher resolution for modern devices, addressing user complaints about blurriness and eye strain.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "The quality of this game is poor. I play a few other papa games and their qualities are great. In this game I can\u2019t even read what is on the tickets. It\u2019s so bad.",
+                "date": "2023-08-12",
+                "value": 55,
+                "potential_idea": "Improve text readability and UI scaling for smaller screens to ensure all game elements are clear and accessible.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "i rarely ever review apps but i wish i checked the reviews of this before downloading. the quality is atrocious like 10 fps and blurry and grainy.",
+                "date": "2023-06-24",
+                "value": 40,
+                "potential_idea": "An app quality checker that analyzes and reports on an app's performance metrics (like FPS and visual clarity) before download.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I adored this game as a child and was jumping for joy to spend $2 on this game. But the graphics is probably the largest standout factor about the app. The quality is so bad, it\u2019s very fuzzy and pixelated. I feel really sad because I was looking forward to playing this game obsessively like old times, but it gives me a fat headache",
+                "date": "2023-01-20",
+                "value": 75,
+                "potential_idea": "Offer a remastered HD graphics option for the mobile game to appeal to nostalgic users and new players.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I bought it and was dissatisfied with the quality. I would like a refund .",
+                "date": "2022-05-01",
+                "value": 15,
+                "potential_idea": "Implement a clear and easy-to-access refund policy and process within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I bought this game because I love the Papas Games franchise. LOVE IT. I was so excited to play on the phone! But the quality/graphics for most of the Papa games are just not great. The Pancakeria and Donuteria are the only ones from the lot that I bought that has good game quality graphics. \nThe quality in the other games I bought (Tacomia, Burgeria, Cupcakeria, and Freezeria) are also just bad. Please try to get an update for the games for better quality! I love these games and would love to play them without the bad graphics. It gives me a headache to look at. :( \nLOVE the game, don\u2019t love the graphics.",
+                "date": "2021-12-15",
+                "value": 70,
+                "potential_idea": "Remaster older Papa Games titles with updated graphics and improved visual quality to match newer releases.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "I downloaded because I\u2019m a big fan of the papa games and I was looking for some more games to get on my phone but when I bought it I realized it\u2019s a bit low quality and stuff. I remember seeing the game before and it looked way different from that. ( I was sort of upset there was not custom characters ) I then looked at the reviews and see them saying the same thing. I kept playing it though thinking I might get used to it. No , I did not . It\u2019s so low quality I had to get a refund. But anyways don\u2019t take my word for it . If you wanna play this game, play it but beware on the limited play and quality for iPhone / android users",
+                "date": "2021-12-13",
+                "value": 75,
+                "potential_idea": "Develop a mobile game franchise with a strong emphasis on customizable characters and higher graphical fidelity, inspired by the Papa Louie series.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 2,
+                "review": "The game looks old. I was disappointed when I finally paid for the game and opened the app lol.",
+                "date": "2021-06-22",
+                "value": 45,
+                "potential_idea": "Implement a visual overhaul or offer graphical upgrade options for older-looking mobile games.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I used to play alll of these games and get really far in them.  and now everything has changed and it is WAY too easy to click the wrong things! I constantly have to remake everything and It is so difficult to navigate around .  Im annoyed I bought this game thinking itd be the original.",
+                "date": "2021-05-15",
+                "value": 45,
+                "potential_idea": "Implement an 'undo' or 'restore previous state' feature for user actions in the game to prevent accidental changes and frustration.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Taco Mia To Go!",
+                "rating": 1,
+                "review": "I was so exited to play and I open the app and the quality is so bad and in my opinion this was a big waste of my money and time please fix and update quality please and thank you",
+                "date": "2021-03-14",
+                "value": 15,
+                "potential_idea": "Improve the app's visual quality and overall user experience to justify its price point.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "932747118",
+        "name": "Shadowrocket",
+        "url": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u6b64\u6b21\u66f4\u65b0\u4e4b\u540e\uff0cxhttp \u534f\u8bae\u5b8c\u5168\u65e0\u6cd5\u4f7f\u7528\u3002\n\n[18:56:57.995] backend vless <1b88bc81-f4e-31d-6ce-950cd4384e3> send vless header\n[18:56:58.291] mux connection <1b88bc81-f4e-31d-6ce-950cd4384e3> close stream <24>\n[18:56:58.291] mux session <1b88bc81-f4e-31d-6ce-950cd4384e3> group count => <0> id <0> did disconnect reason => xhttp h2 session <1b88bc81-f4e-31d-6ce-950cd4384e3> lib_error_code => -536 error => Remote peer returned unexpected data while we expected SETTINGS frame.  Perhaps, peer does not support HTTP/2 properly.",
+                "date": "2025-09-30",
+                "value": {
+                    "intensity": 15,
+                    "difference": 10,
+                    "scope": 15,
+                    "feasibility": 15,
+                    "total": 55
+                },
+                "potential_idea": "Implement robust error handling and informative diagnostics for xhttp protocol issues to help users troubleshoot connection problems.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 1,
+                "review": "\u4e4b\u524d\u4e00\u76f4\u7528\u4e863\u5e74\u591a\uff0c\u4e00\u70b9\u95ee\u9898\u90fd\u6ca1\u6709\u3002\u66f4\u65b0\u52302.2.71\u4ee5\u540e\u5b8c\u5168\u7528\u4e0d\u4e86",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement a robust rollback mechanism for app updates to allow users to revert to previous stable versions if a new update introduces critical bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shadowrocket",
+                "rating": 2,
+                "review": "I use this app for many years,but it don\u2019t work after update yesterday.the same vpn account is works on my android phone.",
+                "date": "2025-09-29",
+                "value": 18,
+                "potential_idea": "Implement robust cross-platform account synchronization to ensure VPN credentials work seamlessly across different operating systems after app updates.",
+                "tags": [
+                    "bug"
+                ]
             }
         ]
     }
