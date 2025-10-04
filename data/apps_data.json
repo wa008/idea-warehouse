@@ -11929,5 +11929,89 @@
                 "tags": []
             }
         ]
+    },
+    {
+        "id": "1449584007",
+        "name": "Koala Sampler",
+        "url": "https://apps.apple.com/us/app/koala-sampler/id1449584007?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "It\u2019s a Very good app except for the fact that anytime I\u2019m doing something in iCloud like opening a video , for some unknown reason koala will open  instead of my video file . it doesn\u2019t allow me to view any of my saved videos . I have tried everything and I don\u2019t understand why it would attempt to open any videos. After purchasing the app along with some additional content I\u2019ve had to delete the app from my devices until I receive feedback or a fix from the developers",
+                "date": "2025-09-27",
+                "value": 18,
+                "potential_idea": "Implement a robust setting to prevent the app from interfering with or overriding native file association for media files, allowing users to specify which file types the app should handle.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "1star can\u2019t access my cloud folder and some files won\u2019t even open up but don\u2019t open up on my laptop my MacBook Pro, but will not open up on my iPhone 15 Pro Max one terabyte",
+                "date": "2025-09-04",
+                "value": 75,
+                "potential_idea": "Implement a robust file syncing and offline access feature for cloud folders that works seamlessly across devices, ensuring files are available and accessible on both mobile and desktop.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "It\u2019s been countless times now that I open the app where I have a whole project full of samples of musical ideas, melodies, and vocal clips that I\u2019ve accumulated, only to find an empty project. My previous project, disappears into unrecoverable nothingness. I cannot trust this app with my ideas anymore and have deleted it because of this.",
+                "date": "2025-06-16",
+                "value": 95,
+                "potential_idea": "Implement robust automatic cloud backup and version history for all user projects to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 , \u0421\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u043e\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 , \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0438 \u043c\u043d\u043e\u0433\u043e \u0431\u0430\u0433\u043e\u0432 , \u043d\u043e \u0432\u043e\u0442 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043e\u043c \u0442\u0430\u043a \u0438 \u043d\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0438 , \u043f\u043e\u0442\u0443 \u0447\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u0431\u0430\u0433 ,\u043a\u043e\u0433\u0434\u0430 \u043d\u0430\u0431\u0438\u0432\u0430\u0435\u0448\u044c \u043d\u0430 \u044d\u043a\u0440\u0430\u043d\u0435 \u043c\u0435\u043b\u043e\u0434\u0438\u044e ,\u043a\u0430\u0441\u0430\u044f\u0441\u044c \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u044d\u043a\u0440\u0430\u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0448\u044c \u0434\u0432\u043e\u0439\u043d\u043e\u0435 \u043a\u0430\u0441\u0430\u043d\u0438\u0435, \u0432 \u0441\u0435\u043a\u0432\u0435\u043d\u0441\u043e\u0440 \u043f\u0440\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u043e \u043a\u0430\u0441\u0430\u043d\u0438\u0435 , \u0430 \u0437\u0432\u0443\u043a \u0438\u0434\u0435\u0442 \u043a\u0430\u043a \u0434\u0432\u043e\u0439\u043d\u043e\u0435 ,\u0438 \u044d\u0442\u043e \u043d\u0435\u0432\u0430\u0436\u043d\u043e \u043d\u0430 \u043a\u0430\u043a\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 \u0438\u043b\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435 , \u0440\u0430\u043d\u044c\u0448\u0435 \u0432 \u043a\u0430\u043a\u0438\u0445 \u0442\u043e \u0432\u0435\u0440\u0441\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0431\u044b\u043b\u043e , \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c , \u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u043f\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u043b\u043e\u0433\u0438\u043a\u043e\u0439 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043e\u043c \u0434\u043b\u044f \u0444\u0438\u043d\u0433\u0435\u0440\u0434\u0440\u0430\u043c\u0438\u043d\u0433\u0430 , \u0430 \u043f\u043e \u0444\u0430\u043a\u0442\u0443 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u043e\u044f\u0432\u043b\u044f\u0442\u044c\u0441\u044f \u043f\u0430\u043a\u0438 \u0441 \u0441\u044d\u043c\u043f\u043b\u0430\u043c\u0438 ))) \u043d\u0435 \u0445\u043e\u0440\u043e\u0448\u043e \u0442\u0430\u043a \u0434\u0435\u043b\u0430\u0442\u044c , \u0431\u044b\u043b\u0430 \u0441\u0443\u043f\u0435\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u043e\u043d\u0430\u0442\u044b !!!",
+                "date": "2025-05-16",
+                "value": 65,
+                "potential_idea": "Enhance touch sensitivity and responsiveness for finger drumming, potentially offering customizable touch gesture recognition for a more nuanced musical input experience.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "Color is eye hurting",
+                "date": "2025-02-26",
+                "value": 15,
+                "potential_idea": "Offer users customizable color themes or a dark mode option to reduce eye strain and improve readability.",
+                "tags": []
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 2,
+                "review": "why do i have to pay for features on already paid app. it\u2019s a rip off",
+                "date": "2025-02-15",
+                "value": 65,
+                "potential_idea": "Offer a single, one-time purchase option for premium features instead of relying on recurring subscriptions for paid apps.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Koala Sampler",
+                "rating": 1,
+                "review": "1starring this hopefully for visibility.  I get error message on iPad saying app can\u2019t connect to app story.  Would be happy to provide more details",
+                "date": "2025-01-22",
+                "value": 15,
+                "potential_idea": "Implement robust network connection error handling and user-friendly troubleshooting guides for when app store connectivity issues arise on iPad.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
     }
 ]
