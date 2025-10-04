@@ -1,610 +1,5 @@
 [
     {
-        "id": "1504952058",
-        "name": "Papa's Sushiria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-sushiria-to-go/id1504952058?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "it\u2019s a good game and but u can play it for free on some websites so please don\u2019t pay for it since it gets boring after a little bit and you can just play it for free",
-                "date": "2025-06-14",
-                "value": 60,
-                "potential_idea": "Develop a mobile app that offers curated, high-quality short-form gaming experiences with limited playtime to combat boredom and encourage discovery, similar to how some services offer free trials but with a focus on ongoing engagement through varied content.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "Just started this game, and it locks up on the 3rd screen.  Very disappointed\u2026",
-                "date": "2025-06-08",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and testing for critical game progression points to prevent in-game freezes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "The game becomes unplayable the more you level up and the bubble tea is rigged because you lose points for it not being filled all the way and even afterwards when you buy the upgrade it does NOTHING",
-                "date": "2025-03-21",
-                "value": 65,
-                "potential_idea": "Introduce a balanced difficulty scaling in the game that adjusts based on player level, ensuring fair progression and addressing player concerns about 'rigged' mechanics.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 2,
-                "review": "This papas game is boring sadly",
-                "date": "2024-10-26",
-                "value": 5,
-                "potential_idea": "Introduce mini-games or challenges within the papas game to increase engagement and variety.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "I am VERY disappointed with these developers. Truly scammers. I saw that my daughter wanted this game and it was only $1.99. I was like sure whatever ill get it. After I bought it, it charged me $4.00!!! I am FURIOUS. Been stuck on customer service for an hour.",
-                "date": "2024-08-15",
-                "value": 18,
-                "potential_idea": "Implement clear and transparent pricing, including a pre-purchase confirmation screen that explicitly states the final cost before authorizing payment.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "More stress inducing rather than relieving\u2026other games were more starter friendly creating a joyous environment while this one, with its poorly created time management creates an environment of a rushed stress to get a decent finale score.",
-                "date": "2024-06-23",
-                "value": {
-                    "intensity": 18,
-                    "difference": 15,
-                    "scope": 20,
-                    "feasibility": 22,
-                    "total": 75
-                },
-                "potential_idea": "Introduce a 'starter-friendly' or 'practice' mode with relaxed time constraints to ease new users into the game.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "The game said it was only $1.99 but it charged be $4.22 on my card. what a scam",
-                "date": "2024-04-14",
-                "value": 15,
-                "potential_idea": "Implement a clear and transparent pricing display within the app, showing the exact final cost before purchase confirmation, including any regional taxes or unseen fees.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "How can you make a person's order when you can't see what they ordered after they order it? The \"order ticket\" shows two ingredients out of the six or seven or 10 or however many ingredients the person ordered. How are you supposed to use a list of two ingredients to cook an order that contains many more ingredients than that? And the ingredients shown are just icons \u2013 there's no indication of what they actually are. So if two or three ingredients you could choose from happen to look very much alike, which several do, you're just going to have to guess which of the look-alike items they wanted. Truly bizarre and unplayable game. I'm going to appeal to the App Store to give me my money back.",
-                "date": "2024-02-26",
-                "value": 85,
-                "potential_idea": "Implement a detailed order display feature that shows all ordered ingredients with clear labels and descriptions, not just icons, to enable accurate order preparation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "Why is there no permission details for the app?",
-                "date": "2023-10-08",
-                "value": 15,
-                "potential_idea": "Provide users with clear and accessible permission details within the app for enhanced transparency.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 2,
-                "review": "I really want to like this game and I enjoy it when it works, but every time I go to add ingredients to my sushi roll, the game freezes up",
-                "date": "2023-08-02",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and debugging tools to prevent game freezes during ingredient selection in the sushi-making game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Sushiria To Go!",
-                "rating": 1,
-                "review": "The game is fun however they charged my card $1.99 when I never purchased anything or had a subscription with them.",
-                "date": "2023-06-23",
-                "value": 18,
-                "potential_idea": "Implement a clear and transparent in-app purchase history and subscription management section to prevent accidental charges and provide users with control.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "837860959",
-        "name": "Mini Metro",
-        "url": "https://apps.apple.com/us/app/mini-metro/id837860959?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Mini Metro",
-                "rating": 1,
-                "review": "This is not an accurate representation of public transportation policy, design, construction, or management.",
-                "date": "2025-08-10",
-                "value": 15,
-                "potential_idea": "Develop a mobile app that provides accurate, real-time information and analysis on public transportation policies, design, construction, and management.",
-                "tags": []
-            },
-            {
-                "app_name": "Mini Metro",
-                "rating": 2,
-                "review": "Ayo ima lil train boi \u2018n I fuken luv dis!",
-                "date": "2025-07-22",
-                "value": 12,
-                "potential_idea": "Develop a gamified learning app specifically for train enthusiasts to learn about different train types, history, and routes.",
-                "tags": []
-            },
-            {
-                "app_name": "Mini Metro",
-                "rating": 1,
-                "review": "An insanely simple component of any subway line is turning, which you cannot do in this game. Curved river in the way that you could easily navigate around? Nope too bad you need to use a tunnel. Oh hit wait - another stop opened up where you wanted to place the curve. *Now* you can curve the track. \n\nIncredibly stupid.",
-                "date": "2025-07-09",
-                "value": 70,
-                "potential_idea": "Implement the ability for players to create curved tracks in the subway simulation game, allowing for more organic and realistic city layouts.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mini Metro",
-                "rating": 1,
-                "review": "Waist of money should be free for what is giving",
-                "date": "2025-03-19",
-                "value": 15,
-                "potential_idea": "Offer a free tier with basic functionality to attract more users before encouraging premium upgrades.",
-                "tags": []
-            },
-            {
-                "app_name": "Mini Metro",
-                "rating": 2,
-                "review": "I thought they were. I thought there was bullet train.",
-                "date": "2024-12-15",
-                "value": 15,
-                "potential_idea": "Integrate real-time public transit information, including bullet train schedules and routes, directly within the app to help users plan their journeys.",
-                "tags": []
-            },
-            {
-                "app_name": "Mini Metro",
-                "rating": 1,
-                "review": "There\u2019s a tutorial and instructions but neither one really explains what the point of the game is. I think you\u2019re supposed to move passengers between stations but there\u2019s no real strategy involved. They give you multiple lines but you only need one line. Set it in a loop to all stations and then sit and stare at your screen for hours while trains slooooowly move around, I guess. I just don\u2019t get what the point or the challenge is. It\u2019s a beautiful looking game though.",
-                "date": "2024-11-28",
-                "value": {
-                    "intensity": 18,
-                    "difference": 15,
-                    "scope": 17,
-                    "feasibility": 12,
-                    "total": 62
-                },
-                "potential_idea": "Introduce strategic gameplay elements, such as optimizing routes for efficiency, managing passenger demand with dynamic pricing, or incorporating random events that require quick decision-making to enhance the challenge and engagement of the train simulation game.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "449735650",
-        "name": "Where's My Water?",
-        "url": "https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Where's My Water?",
-                "rating": 1,
-                "review": "disney is against free speech. taking my money elsewhere",
-                "date": "2025-09-18",
-                "value": 15,
-                "potential_idea": "A streaming service that guarantees freedom of speech and content diversity, allowing users to monetize their own content.",
-                "tags": []
-            },
-            {
-                "app_name": "Where's My Water?",
-                "rating": 1,
-                "review": "dont buy",
-                "date": "2025-07-18",
-                "value": 10,
-                "potential_idea": "An app that proactively warns users about potential scams or fraudulent mobile applications.",
-                "tags": []
-            },
-            {
-                "app_name": "Where's My Water?",
-                "rating": 1,
-                "review": "I have a player in the world, but I read download it, and it kept lagging and then crashing",
-                "date": "2025-06-29",
-                "value": 18,
-                "potential_idea": "Implement robust error handling and performance optimization to prevent lagging and crashing, especially during app downloads or initial loading.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Where's My Water?",
-                "rating": 1,
-                "review": "When you open the game it automatically Crashes and takes you to the home screen, this game needs a patch fix.",
-                "date": "2025-05-24",
-                "value": 15,
-                "potential_idea": "Implement robust crash detection and reporting mechanisms to identify and fix game stability issues.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "563718995",
-        "name": "Bloons TD 5",
-        "url": "https://apps.apple.com/us/app/bloons-td-5/id563718995?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "Should have used the money for an ice cream",
-                "date": "2025-08-16",
-                "value": 10,
-                "potential_idea": "Integrate a 'treat yourself' or reward system within the app that suggests small, enjoyable activities or purchases the user can make with saved money or points.",
-                "tags": []
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 2,
-                "review": "this game is awesome but the co op is not working at all got in to one game with my friend and tried like 100 times  and didn\u2019t work please fix this",
-                "date": "2025-08-09",
-                "value": 15,
-                "potential_idea": "Enable stable and reliable co-op gameplay functionality for multiplayer sessions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "Latest update wont let me play with friends co op",
-                "date": "2025-06-17",
-                "value": 15,
-                "potential_idea": "Implement a robust matchmaking system for co-op multiplayer that prevents players from being blocked from joining games after updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "Only thing I like is the shredder should\u2019ve brought that onto btd 6 but the difference in difficulty is too much",
-                "date": "2025-06-07",
-                "value": 15,
-                "potential_idea": "Implement a difficulty scaling or tutorial mode for new users transitioning from simpler games like 'shredder' to more complex strategy games like Bloons TD 6.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "My rank disappeared out of nowhere and I had so much unlocked I\u2019m literally so mad all that money and hard earned achievements just gone I could seriously scream",
-                "date": "2025-03-29",
-                "value": 95,
-                "potential_idea": "Implement a robust data backup and restore system to prevent loss of user progress, achievements, and in-app purchases.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "Terrible game terrible mechanics and the game WILL NOT let you progress without spending money. Wish I could give 0 stars.",
-                "date": "2025-03-29",
-                "value": 80,
-                "potential_idea": "Implement a clear free-to-play progression path or an alternative monetization model that doesn't gate core gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "Just another microtransaction ripoff machine",
-                "date": "2025-01-09",
-                "value": 10,
-                "potential_idea": "Implement a transparent and ethical in-app purchase system that clearly outlines the value of each transaction and avoids exploitative monetization strategies.",
-                "tags": []
-            },
-            {
-                "app_name": "Bloons TD 5",
-                "rating": 1,
-                "review": "This game was removed from my phone and when I redownloaded the game all my data was deleted and did not save in the cloud. Terrible waste of time",
-                "date": "2024-12-28",
-                "value": 85,
-                "potential_idea": "Implement robust cloud save functionality that reliably syncs game progress across sessions and re-downloads.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6508165149",
-        "name": "Dungeon Clawler",
-        "url": "https://apps.apple.com/us/app/dungeon-clawler/id6508165149?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 1,
-                "review": "Just launched the game and all my progress is gone. Not starting over from scratch. Going to request a refund.",
-                "date": "2025-09-16",
-                "value": 70,
-                "potential_idea": "Implement robust cloud-based progress saving and synchronization features for mobile games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 2,
-                "review": "I can\u2019t get enough of this game, taking my love for claw games and making it into a dungeon crawler has me hooked!  Endless gameplay, lots of options lots of different paths worth the five dollars and more.  Considering how much I\u2019ve spent on claw games in the past this game feeds that addiction. Feeds my gaming addiction, it keeps me coming back for more.   This game is amazing. People should spend the five dollars for it. I\u2019m looking forward to more content so I\u2019m spreading the word.",
-                "date": "2025-09-15",
-                "value": 80,
-                "potential_idea": "Introduce new game modes or expansions that introduce more diverse dungeon crawling mechanics or a different take on the claw machine mini-game.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 2,
-                "review": "The title says it all. My first complaint is the game takes far too long to show variance in runs making it feel stale fast.\nSecond, the game is far too RNG dependent, the mechanic to increase chances of receiving certain synergistic items doesn\u2019t seem to be effective, you have practically no good choices even with heavy RNG manipulation and dozens of re rolls. Back to Peglin I guess \ud83e\udd37\u200d\u2640\ufe0f",
-                "date": "2025-07-29",
-                "value": 70,
-                "potential_idea": "Implement a system that allows players to more reliably influence or mitigate RNG to ensure more diverse and engaging runs, addressing the feeling of staleness and frustration.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 1,
-                "review": "I continued to play this game even with my issues below. I finished a run and probably started a few other ones. It's been idk how many days that I have not even thought about this game at all. On one of my runs I watch the claw go down and grab a bunch of items and right when it started to come up one of the items I was going for immediately disappeared. When it's the games mechanic I can't get past it. I will never play this game again and wasted the money I spent on it. I hate free to play but this game makes me want to just play free to play so I am not wasting money like this. I am very disappointed. I like this game. It's pretty entertaining. I just bought it today and I am on my first run. I am on floor 16 and just started to notice stuff disappearing. So 2 turns I watched the magnet drop in the machine and immediately disappear. Third turn it drops lands on the other stuff and when I went to grab it, it disappeared. Next stage same floor I watched stuff fall and immediately disappear. The reason such a low rating is grabbing stuff is the whole point of the game. Can't grab stuff if it doesn't drop or show up like it should. Please fix.",
-                "date": "2025-02-07",
-                "value": 75,
-                "potential_idea": "Implement a visual confirmation or replay of item disappearances during gameplay to address user frustration and build trust in the game mechanics.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Dungeon Clawler",
-                "rating": 2,
-                "review": "This game requires precision in aligning the claw exactly over the objects you need to collect yet it makes it very difficult to do so.  If you try to drag the claw a millimeter it goes a centimeter and sometimes nowhere at all.  Maybe that\u2019s by design but it creates a bad experience.  The player needs a left and right arrow he can tap to move the claw in finer increments.  Not going to play this game as it is right now unless these features are added",
-                "date": "2024-11-29",
-                "value": 85,
-                "potential_idea": "Implement fine-tuned directional arrow controls for precise claw movement in a mobile game.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6738784092",
-        "name": "A Little to the Left: Drawers",
-        "url": "https://apps.apple.com/us/app/a-little-to-the-left-drawers/id6738784092?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "They need to update the app with more games frequently. There\u2019s no reason I can complete the game the same day I buy it.",
-                "date": "2025-09-23",
-                "value": 65,
-                "potential_idea": "Implement a system for regularly releasing new game content or challenges within the app to extend user engagement.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "This happened on level 2. You cannot place the items without them leaning in a certain direction. Also, it is impossible to know where to put them without using hints.",
-                "date": "2025-06-28",
-                "value": 60,
-                "potential_idea": "Implement a visual guide or ghosting feature to show players the correct placement and orientation of items within levels.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "Paid 3 bucks just to finish the game in two hours. Not worth the money .",
-                "date": "2025-06-05",
-                "value": 15,
-                "potential_idea": "Offer a free-to-play option with optional in-app purchases for faster progression or content unlocks to better align with player expectations.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 2,
-                "review": "Theres only a few levels and it ends fairly quickly. I finished it with in a day and now if I want to continue playing I have to download the other app and pay $5.99. Just get the other app at that point and save money if you really want to play.",
-                "date": "2025-06-03",
-                "value": 65,
-                "potential_idea": "Integrate or offer a discounted upgrade path from the initial free/lite app to the full paid app to avoid user frustration and potential churn.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 1,
-                "review": "Y\u2019all charged me $1.99 for a game that was completely finished in 20 minutes???? Nah, what rip off. Get a cup of coffee with the $2 you saved by NOT PAYING for this game",
-                "date": "2025-05-06",
-                "value": 65,
-                "potential_idea": "Offer games with significantly longer playtime or implement a demo/trial version to prevent user dissatisfaction with short-lived paid games.",
-                "tags": []
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 2,
-                "review": "Fun game, but why did i pay $3 for there to be like 20 levels.",
-                "date": "2025-04-04",
-                "value": 55,
-                "potential_idea": "Offer a free tier with limited levels to attract more users and a premium tier or in-app purchases for more content.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "A Little to the Left: Drawers",
-                "rating": 2,
-                "review": "32 total levels, and a handful of them are just busy work/filler levels (i.e. tapping the cat to pet it, then finish). I wouldn\u2019t say this app is worth the $3 to purchase.",
-                "date": "2025-03-28",
-                "value": 35,
-                "potential_idea": "Introduce a 'skip filler' or 'skip easy' option for players who want to progress through less engaging levels more quickly.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "1392608717",
-        "name": "Papa's Scooperia To Go!",
-        "url": "https://apps.apple.com/us/app/papas-scooperia-to-go/id1392608717?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "The controls are terrible",
-                "date": "2025-05-23",
-                "value": 45,
-                "potential_idea": "Implement customizable and more intuitive in-app controls for improved user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "The game seems fun but when I tried playing on my iPad the game is minimized because it doesn\u2019t fit my screen.",
-                "date": "2024-09-24",
-                "value": 65,
-                "potential_idea": "Implement adaptive UI scaling for different screen sizes to ensure optimal gameplay on various devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 2,
-                "review": "This one is boring and difficult. I love playing these games but OMG the build station is what catches me off guard. All I get is 98% on the build even though it looked perfectly done well. Pastaria is the same way (but I don\u2019t mind that one cause it\u2019s more fun than this one.) I mean I don't mind getting 98% on build in these games but this one is strict about it, like you have to have it perfect perfect in order to get a 100%. But honestly, I deleted this game mainly because it\u2019s super boring, not the grading. I don\u2019t really mind getting high scores not 100% in these games but what I\u2019m saying is this is how strict the building is in this game. I deleted it because it was boring not really my taste (I have all the other ones though that are much rather entertaining and easier.) \ud83d\ude43\ud83e\udd14",
-                "date": "2024-05-18",
-                "value": 15,
-                "potential_idea": "Implement a forgiving 'perfect build' mechanic with a visual guide or progressive feedback to reduce player frustration and improve accessibility in simulation/tycoon games.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "This is the worst game that I ever played so thanks a lot enjoy my stupid money flip line",
-                "date": "2024-03-29",
-                "value": 15,
-                "potential_idea": "Offer a clear 'refund' or 'cancel subscription' option within the app for dissatisfied users.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "I accidentally bought this game. I WANT A REFUND!! \ud83d\udcaf",
-                "date": "2023-06-14",
-                "value": 15,
-                "potential_idea": "Implement an in-app purchase confirmation step with a delay or a secondary confirmation to prevent accidental purchases.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Scooperia To Go!",
-                "rating": 1,
-                "review": "ITS TOO SMALL FOR MY APPLE TABLET, It doesn\u2019t fit the screen. The other to go papa game fits my screen but not scooperia.",
-                "date": "2022-06-11",
-                "value": 15,
-                "potential_idea": "Implement adaptive UI scaling for larger tablet screens in Scooperia to ensure proper interface fit.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "405835358",
-        "name": "MilGPS",
-        "url": "https://apps.apple.com/us/app/milgps/id405835358?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "MilGPS",
-                "rating": 1,
-                "review": "Love this app. Been using it for years. BUT it no longer lets me plot points and make overlays, which is a critical function. No customer service to contact either.",
-                "date": "2025-04-27",
-                "value": 90,
-                "potential_idea": "Reimplement the plotting and overlay functionality for users, and provide accessible customer support.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "MilGPS",
-                "rating": 1,
-                "review": "Won\u2019t run on iPad",
-                "date": "2025-02-17",
-                "value": 15,
-                "potential_idea": "Develop a dedicated iPad version of the app with optimized UI for larger screens.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "MilGPS",
-                "rating": 2,
-                "review": "Does not pin point",
-                "date": "2025-01-14",
-                "value": 15,
-                "potential_idea": "Implement location pinning functionality to allow users to mark and save specific locations within the app.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "1451873044",
         "name": "Papa's Wingeria To Go!",
         "url": "https://apps.apple.com/us/app/papas-wingeria-to-go/id1451873044?uo=2",
@@ -11921,6 +11316,608 @@
                 "date": "2025-08-05",
                 "value": 15,
                 "potential_idea": "Implement an offline mode to allow users basic functionality and support contact even when network connectivity issues or security errors prevent full app access.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1504952058",
+        "name": "Papa's Sushiria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-sushiria-to-go/id1504952058?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "it\u2019s a good game and but u can play it for free on some websites so please don\u2019t pay for it since it gets boring after a little bit and you can just play it for free",
+                "date": "2025-06-14",
+                "value": 65,
+                "potential_idea": "Introduce a tiered subscription model with exclusive, regularly updated content to maintain engagement beyond the free game experience.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "Just started this game, and it locks up on the 3rd screen.  Very disappointed\u2026",
+                "date": "2025-06-08",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to proactively identify and fix bugs that prevent user progression.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "The game becomes unplayable the more you level up and the bubble tea is rigged because you lose points for it not being filled all the way and even afterwards when you buy the upgrade it does NOTHING",
+                "date": "2025-03-21",
+                "value": 15,
+                "potential_idea": "Implement a more dynamic and rewarding bubble tea mechanic that considers player progress and actually shows tangible benefits from upgrades.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 2,
+                "review": "This papas game is boring sadly",
+                "date": "2024-10-26",
+                "value": 55,
+                "potential_idea": "Introduce mini-games or challenges with varying difficulty levels to the 'papas' game to increase engagement and replayability.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "I am VERY disappointed with these developers. Truly scammers. I saw that my daughter wanted this game and it was only $1.99. I was like sure whatever ill get it. After I bought it, it charged me $4.00!!! I am FURIOUS. Been stuck on customer service for an hour.",
+                "date": "2024-08-15",
+                "value": 18,
+                "potential_idea": "Implement clear and transparent in-app purchase confirmation and billing details that appear *before* the final transaction is processed, with a direct link to customer support.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "More stress inducing rather than relieving\u2026other games were more starter friendly creating a joyous environment while this one, with its poorly created time management creates an environment of a rushed stress to get a decent finale score.",
+                "date": "2024-06-23",
+                "value": 15,
+                "potential_idea": "Introduce adjustable difficulty settings or a 'practice mode' allowing players to learn game mechanics without time pressure.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "The game said it was only $1.99 but it charged be $4.22 on my card. what a scam",
+                "date": "2024-04-14",
+                "value": 15,
+                "potential_idea": "Implement transparent pricing with a clear breakdown of all costs and fees before purchase to prevent perceived billing discrepancies.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "How can you make a person's order when you can't see what they ordered after they order it? The \"order ticket\" shows two ingredients out of the six or seven or 10 or however many ingredients the person ordered. How are you supposed to use a list of two ingredients to cook an order that contains many more ingredients than that? And the ingredients shown are just icons \u2013 there's no indication of what they actually are. So if two or three ingredients you could choose from happen to look very much alike, which several do, you're just going to have to guess which of the look-alike items they wanted. Truly bizarre and unplayable game. I'm going to appeal to the App Store to give me my money back.",
+                "date": "2024-02-26",
+                "value": {
+                    "intensity": 25,
+                    "difference": 15,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 75
+                },
+                "potential_idea": "Enhance the in-game order ticket to display all ordered ingredients with clear text labels and potentially visual distinction for similar items.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "Why is there no permission details for the app?",
+                "date": "2023-10-08",
+                "value": 15,
+                "potential_idea": "Provide detailed explanations within the app about why specific permissions are requested.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 2,
+                "review": "I really want to like this game and I enjoy it when it works, but every time I go to add ingredients to my sushi roll, the game freezes up",
+                "date": "2023-08-02",
+                "value": 15,
+                "potential_idea": "Implement a robust error handling and recovery system for the sushi roll ingredient adding feature to prevent game freezes and data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Sushiria To Go!",
+                "rating": 1,
+                "review": "The game is fun however they charged my card $1.99 when I never purchased anything or had a subscription with them.",
+                "date": "2023-06-23",
+                "value": 15,
+                "potential_idea": "Implement a transparent transaction history and subscription management section within the app to allow users to easily view and control all charges.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "837860959",
+        "name": "Mini Metro",
+        "url": "https://apps.apple.com/us/app/mini-metro/id837860959?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Mini Metro",
+                "rating": 1,
+                "review": "This is not an accurate representation of public transportation policy, design, construction, or management.",
+                "date": "2025-08-10",
+                "value": 15,
+                "potential_idea": "Develop a mobile app that simulates public transportation policy, design, construction, and management with accurate data and scenarios.",
+                "tags": []
+            },
+            {
+                "app_name": "Mini Metro",
+                "rating": 2,
+                "review": "Ayo ima lil train boi \u2018n I fuken luv dis!",
+                "date": "2025-07-22",
+                "value": 10,
+                "potential_idea": "Develop a sub-community or forum within the app specifically for users who identify as 'train boys', allowing them to connect and share their passion.",
+                "tags": []
+            },
+            {
+                "app_name": "Mini Metro",
+                "rating": 1,
+                "review": "An insanely simple component of any subway line is turning, which you cannot do in this game. Curved river in the way that you could easily navigate around? Nope too bad you need to use a tunnel. Oh hit wait - another stop opened up where you wanted to place the curve. *Now* you can curve the track. \n\nIncredibly stupid.",
+                "date": "2025-07-09",
+                "value": 75,
+                "potential_idea": "Introduce track turning mechanics that allow for smooth curves on subway lines, avoiding the need for tunnels or complicated track placements.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mini Metro",
+                "rating": 1,
+                "review": "Waist of money should be free for what is giving",
+                "date": "2025-03-19",
+                "value": 45,
+                "potential_idea": "Implement a freemium model or offer a trial period for the app, as users feel the current paid features do not justify the cost.",
+                "tags": []
+            },
+            {
+                "app_name": "Mini Metro",
+                "rating": 2,
+                "review": "I thought they were. I thought there was bullet train.",
+                "date": "2024-12-15",
+                "value": 5,
+                "potential_idea": "Implement a 'bullet train' mode for faster scrolling or navigation within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Mini Metro",
+                "rating": 1,
+                "review": "There\u2019s a tutorial and instructions but neither one really explains what the point of the game is. I think you\u2019re supposed to move passengers between stations but there\u2019s no real strategy involved. They give you multiple lines but you only need one line. Set it in a loop to all stations and then sit and stare at your screen for hours while trains slooooowly move around, I guess. I just don\u2019t get what the point or the challenge is. It\u2019s a beautiful looking game though.",
+                "date": "2024-11-28",
+                "value": 75,
+                "potential_idea": "Introduce strategic depth and varied objectives to the game beyond simply moving passengers in a loop, such as managing fuel, optimizing routes for efficiency, or completing time-sensitive missions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "449735650",
+        "name": "Where's My Water?",
+        "url": "https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Where's My Water?",
+                "rating": 1,
+                "review": "disney is against free speech. taking my money elsewhere",
+                "date": "2025-09-18",
+                "value": 15,
+                "potential_idea": "Develop a streaming service that guarantees freedom of expression and content diversity without censorship, attracting users frustrated by content restrictions.",
+                "tags": []
+            },
+            {
+                "app_name": "Where's My Water?",
+                "rating": 1,
+                "review": "dont buy",
+                "date": "2025-07-18",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "Where's My Water?",
+                "rating": 1,
+                "review": "I have a player in the world, but I read download it, and it kept lagging and then crashing",
+                "date": "2025-06-29",
+                "value": 60,
+                "potential_idea": "Implement an in-app performance optimization tool to identify and resolve lagging and crashing issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Where's My Water?",
+                "rating": 1,
+                "review": "When you open the game it automatically Crashes and takes you to the home screen, this game needs a patch fix.",
+                "date": "2025-05-24",
+                "value": 15,
+                "potential_idea": "Develop a robust crash reporting and real-time debugging system for the app to proactively identify and fix bugs.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "563718995",
+        "name": "Bloons TD 5",
+        "url": "https://apps.apple.com/us/app/bloons-td-5/id563718995?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "Should have used the money for an ice cream",
+                "date": "2025-08-16",
+                "value": 12,
+                "potential_idea": "Integrate a fun, reward-based gamification system with in-app treats or discounts.",
+                "tags": []
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 2,
+                "review": "this game is awesome but the co op is not working at all got in to one game with my friend and tried like 100 times  and didn\u2019t work please fix this",
+                "date": "2025-08-09",
+                "value": 70,
+                "potential_idea": "Implement a robust and reliable co-op mode to enable seamless multiplayer gaming experiences.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "Latest update wont let me play with friends co op",
+                "date": "2025-06-17",
+                "value": 15,
+                "potential_idea": "Implement robust co-op functionality that persists through app updates, ensuring continuous play with friends.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "Only thing I like is the shredder should\u2019ve brought that onto btd 6 but the difference in difficulty is too much",
+                "date": "2025-06-07",
+                "value": 12,
+                "potential_idea": "A difficulty adjustment slider or preset options for existing game modes within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "My rank disappeared out of nowhere and I had so much unlocked I\u2019m literally so mad all that money and hard earned achievements just gone I could seriously scream",
+                "date": "2025-03-29",
+                "value": 85,
+                "potential_idea": "Implement robust backup and sync functionality for user progress, achievements, and unlocked content to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "Terrible game terrible mechanics and the game WILL NOT let you progress without spending money. Wish I could give 0 stars.",
+                "date": "2025-03-29",
+                "value": 65,
+                "potential_idea": "Develop a mobile game with fair, skill-based progression that doesn't require in-app purchases to advance.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "Just another microtransaction ripoff machine",
+                "date": "2025-01-09",
+                "value": 15,
+                "potential_idea": "Develop a mobile game focused on organic progression with transparent, non-intrusive monetization, avoiding aggressive microtransactions.",
+                "tags": []
+            },
+            {
+                "app_name": "Bloons TD 5",
+                "rating": 1,
+                "review": "This game was removed from my phone and when I redownloaded the game all my data was deleted and did not save in the cloud. Terrible waste of time",
+                "date": "2024-12-28",
+                "value": 85,
+                "potential_idea": "Implement robust cloud save functionality that automatically backs up game progress and can be restored after reinstallation.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6508165149",
+        "name": "Dungeon Clawler",
+        "url": "https://apps.apple.com/us/app/dungeon-clawler/id6508165149?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 1,
+                "review": "Just launched the game and all my progress is gone. Not starting over from scratch. Going to request a refund.",
+                "date": "2025-09-16",
+                "value": 80,
+                "potential_idea": "Implement robust cloud-based save functionality with automatic syncing to prevent data loss and ensure seamless progress restoration, potentially offering cross-device play.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 2,
+                "review": "I can\u2019t get enough of this game, taking my love for claw games and making it into a dungeon crawler has me hooked!  Endless gameplay, lots of options lots of different paths worth the five dollars and more.  Considering how much I\u2019ve spent on claw games in the past this game feeds that addiction. Feeds my gaming addiction, it keeps me coming back for more.   This game is amazing. People should spend the five dollars for it. I\u2019m looking forward to more content so I\u2019m spreading the word.",
+                "date": "2025-09-15",
+                "value": 80,
+                "potential_idea": "Create a mobile game that combines the addictive nature of claw machines with the progression and exploration of a dungeon crawler, offering diverse pathways and endless gameplay.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 2,
+                "review": "The title says it all. My first complaint is the game takes far too long to show variance in runs making it feel stale fast.\nSecond, the game is far too RNG dependent, the mechanic to increase chances of receiving certain synergistic items doesn\u2019t seem to be effective, you have practically no good choices even with heavy RNG manipulation and dozens of re rolls. Back to Peglin I guess \ud83e\udd37\u200d\u2640\ufe0f",
+                "date": "2025-07-29",
+                "value": 75,
+                "potential_idea": "Introduce a more nuanced and visibly impactful system for increasing item synergy probabilities, allowing for greater player agency and less reliance on raw luck.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 1,
+                "review": "I continued to play this game even with my issues below. I finished a run and probably started a few other ones. It's been idk how many days that I have not even thought about this game at all. On one of my runs I watch the claw go down and grab a bunch of items and right when it started to come up one of the items I was going for immediately disappeared. When it's the games mechanic I can't get past it. I will never play this game again and wasted the money I spent on it. I hate free to play but this game makes me want to just play free to play so I am not wasting money like this. I am very disappointed. I like this game. It's pretty entertaining. I just bought it today and I am on my first run. I am on floor 16 and just started to notice stuff disappearing. So 2 turns I watched the magnet drop in the machine and immediately disappear. Third turn it drops lands on the other stuff and when I went to grab it, it disappeared. Next stage same floor I watched stuff fall and immediately disappear. The reason such a low rating is grabbing stuff is the whole point of the game. Can't grab stuff if it doesn't drop or show up like it should. Please fix.",
+                "date": "2025-02-07",
+                "value": 90,
+                "potential_idea": "Implement a visual indicator or sound cue to clearly show when items are about to disappear from the claw's grasp, allowing players to react proactively.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Dungeon Clawler",
+                "rating": 2,
+                "review": "This game requires precision in aligning the claw exactly over the objects you need to collect yet it makes it very difficult to do so.  If you try to drag the claw a millimeter it goes a centimeter and sometimes nowhere at all.  Maybe that\u2019s by design but it creates a bad experience.  The player needs a left and right arrow he can tap to move the claw in finer increments.  Not going to play this game as it is right now unless these features are added",
+                "date": "2024-11-29",
+                "value": 74,
+                "potential_idea": "Introduce fine-tune directional buttons for precise claw movement in a crane game.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6738784092",
+        "name": "A Little to the Left: Drawers",
+        "url": "https://apps.apple.com/us/app/a-little-to-the-left-drawers/id6738784092?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "They need to update the app with more games frequently. There\u2019s no reason I can complete the game the same day I buy it.",
+                "date": "2025-09-23",
+                "value": 70,
+                "potential_idea": "Introduce a recurring content update schedule for new games or game challenges within the app.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "This happened on level 2. You cannot place the items without them leaning in a certain direction. Also, it is impossible to know where to put them without using hints.",
+                "date": "2025-06-28",
+                "value": 60,
+                "potential_idea": "Implement intelligent item placement guides in the app that subtly indicate optimal positioning and orientation to prevent leaning and reduce reliance on hints.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "Paid 3 bucks just to finish the game in two hours. Not worth the money .",
+                "date": "2025-06-05",
+                "value": 55,
+                "potential_idea": "Introduce tiered pricing or a freemium model with more engaging gameplay to justify the cost for longer play sessions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 2,
+                "review": "Theres only a few levels and it ends fairly quickly. I finished it with in a day and now if I want to continue playing I have to download the other app and pay $5.99. Just get the other app at that point and save money if you really want to play.",
+                "date": "2025-06-03",
+                "value": 75,
+                "potential_idea": "Introduce a tiered content model within the app, offering a free introductory experience and an optional, one-time in-app purchase to unlock more levels, rather than forcing users to download a separate, more expensive app.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 1,
+                "review": "Y\u2019all charged me $1.99 for a game that was completely finished in 20 minutes???? Nah, what rip off. Get a cup of coffee with the $2 you saved by NOT PAYING for this game",
+                "date": "2025-05-06",
+                "value": 85,
+                "potential_idea": "Implement a demo version or offer a free trial for mobile games to allow users to experience gameplay before purchasing.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 2,
+                "review": "Fun game, but why did i pay $3 for there to be like 20 levels.",
+                "date": "2025-04-04",
+                "value": 40,
+                "potential_idea": "Introduce more content, such as additional levels or bonus stages, to justify the premium price point of the game.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "A Little to the Left: Drawers",
+                "rating": 2,
+                "review": "32 total levels, and a handful of them are just busy work/filler levels (i.e. tapping the cat to pet it, then finish). I wouldn\u2019t say this app is worth the $3 to purchase.",
+                "date": "2025-03-28",
+                "value": 60,
+                "potential_idea": "Introduce a 'skip filler' option for repetitive or less engaging levels to improve player experience and perceived value.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1392608717",
+        "name": "Papa's Scooperia To Go!",
+        "url": "https://apps.apple.com/us/app/papas-scooperia-to-go/id1392608717?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "The controls are terrible",
+                "date": "2025-05-23",
+                "value": 35,
+                "potential_idea": "Implement a customizable control scheme for the mobile app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "The game seems fun but when I tried playing on my iPad the game is minimized because it doesn\u2019t fit my screen.",
+                "date": "2024-09-24",
+                "value": 45,
+                "potential_idea": "Implement dynamic screen scaling and aspect ratio adjustments to ensure optimal display on various iPad screen sizes and orientations.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 2,
+                "review": "This one is boring and difficult. I love playing these games but OMG the build station is what catches me off guard. All I get is 98% on the build even though it looked perfectly done well. Pastaria is the same way (but I don\u2019t mind that one cause it\u2019s more fun than this one.) I mean I don't mind getting 98% on build in these games but this one is strict about it, like you have to have it perfect perfect in order to get a 100%. But honestly, I deleted this game mainly because it\u2019s super boring, not the grading. I don\u2019t really mind getting high scores not 100% in these games but what I\u2019m saying is this is how strict the building is in this game. I deleted it because it was boring not really my taste (I have all the other ones though that are much rather entertaining and easier.) \ud83d\ude43\ud83e\udd14",
+                "date": "2024-05-18",
+                "value": 12,
+                "potential_idea": "Introduce a 'practice mode' for the build station that offers more lenient scoring and visual guides to help users understand precise building requirements.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "This is the worst game that I ever played so thanks a lot enjoy my stupid money flip line",
+                "date": "2024-03-29",
+                "value": 15,
+                "potential_idea": "Implement a more engaging and less 'stupid' monetization strategy for users who are unhappy with current in-app purchases.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "I accidentally bought this game. I WANT A REFUND!! \ud83d\udcaf",
+                "date": "2023-06-14",
+                "value": 15,
+                "potential_idea": "Implement an in-app 'undo purchase' or a clear refund request flow for accidental game purchases.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Scooperia To Go!",
+                "rating": 1,
+                "review": "ITS TOO SMALL FOR MY APPLE TABLET, It doesn\u2019t fit the screen. The other to go papa game fits my screen but not scooperia.",
+                "date": "2022-06-11",
+                "value": 70,
+                "potential_idea": "Develop a flexible layout engine for games that automatically scales and adapts to different tablet screen sizes, ensuring a perfect fit for all devices.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "405835358",
+        "name": "MilGPS",
+        "url": "https://apps.apple.com/us/app/milgps/id405835358?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "MilGPS",
+                "rating": 1,
+                "review": "Love this app. Been using it for years. BUT it no longer lets me plot points and make overlays, which is a critical function. No customer service to contact either.",
+                "date": "2025-04-27",
+                "value": 75,
+                "potential_idea": "Reimplement the plotting and overlay feature, coupled with accessible customer support channels, to address critical functionality loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MilGPS",
+                "rating": 1,
+                "review": "Won\u2019t run on iPad",
+                "date": "2025-02-17",
+                "value": 5,
+                "potential_idea": "Develop an iPad-optimized version of the app to leverage the larger screen real estate and offer a more robust user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MilGPS",
+                "rating": 2,
+                "review": "Does not pin point",
+                "date": "2025-01-14",
+                "value": 15,
+                "potential_idea": "Implement a persistent 'pin' or bookmark feature for key information within the app.",
                 "tags": [
                     "bug"
                 ]
