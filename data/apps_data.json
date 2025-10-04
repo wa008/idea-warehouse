@@ -12981,5 +12981,68 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1563121109",
+        "name": "Shattered Pixel Dungeon",
+        "url": "https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Shattered Pixel Dungeon",
+                "rating": 2,
+                "review": "I feel for the price point there should be more classes and better support. There is no iCloud saves, so if you delete the game you also delete your saves. Can\u2019t get the game refunded either, so a heads up to those considering purchasing. \n\nOtherwise it\u2019s a good pixel dungeon mod. Maybe I\u2019ll try playing it again if there\u2019s more content/saves added. Until then, I wasted my money.",
+                "date": "2025-09-27",
+                "value": 55,
+                "potential_idea": "Implement cloud saving (iCloud, Google Drive, etc.) and create options for content expansion through additional classes or game modes to justify the premium price point.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Shattered Pixel Dungeon",
+                "rating": 1,
+                "review": "If you want to play a fun mobile game, don\u2019t waste your money on this thing",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Develop a mobile game that offers genuinely fun and engaging gameplay, avoiding the perceived lack of value or enjoyment in the current app.",
+                "tags": []
+            },
+            {
+                "app_name": "Shattered Pixel Dungeon",
+                "rating": 1,
+                "review": "Doesn\u2019t display properly if you have font sizes adjusted if you are visually impaired and is unusable as a result.",
+                "date": "2025-09-17",
+                "value": 75,
+                "potential_idea": "Develop an accessibility mode that automatically adjusts UI elements for users with adjusted font sizes or visual impairments.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shattered Pixel Dungeon",
+                "rating": 1,
+                "review": "I don\u2019t know how this game has a 4.9 rating. The beginning of the game I fight a snake and it dodges 20 times and I die. Honestly I wish I could get my money back.",
+                "date": "2025-07-24",
+                "value": 15,
+                "potential_idea": "Implement a 'rubber banding' mechanic in the game to adjust enemy difficulty dynamically based on player performance, preventing overly frustrating early-game challenges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Shattered Pixel Dungeon",
+                "rating": 2,
+                "review": "Super easy to die in this. The game is hostile to you in ways few others are. Probably way more fun on a PC. Wouldn\u2019t recommend on a phone.",
+                "date": "2025-07-15",
+                "value": 55,
+                "potential_idea": "Develop a mobile-optimized control scheme or tiered difficulty setting for mobile players to address the high difficulty mentioned in the review.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
     }
 ]
