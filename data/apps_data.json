@@ -1381,515 +1381,6 @@
         ]
     },
     {
-        "id": "1400579543",
-        "name": "imo video calls and chat HD",
-        "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "This is the scam.",
-                "date": "2025-10-02",
-                "value": 10,
-                "potential_idea": "Implement robust security measures and transparency features to build user trust and prevent perceptions of fraudulent activity.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "It doesn\u2019t work for int contacts, it\u2019s not allowing to add contacts, nothing!",
-                "date": "2025-10-01",
-                "value": 15,
-                "potential_idea": "Implement robust contact integration that supports various contact types and allows seamless addition of new contacts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Useless app, can\u2019t add anyone . Emailed support , no response ! It\u2019s a scam .",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement a robust user invitation/connection system with responsive customer support to address core app functionality and user trust issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Now they are scamming even adds showing and country not changing",
-                "date": "2025-09-29",
-                "value": 10,
-                "potential_idea": "Implement a robust region/country selection feature with clear visual indicators and verification to prevent perceived 'scamming' related to ad content or pricing.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "There are tons on messenger app, why is this one limited to US and Canada numbers ?!?",
-                "date": "2025-09-27",
-                "value": 70,
-                "potential_idea": "Expand the app's support to include international phone numbers beyond the US and Canada.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "\u041d\u0435 \u0441\u0442\u043e\u0438\u0442 \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u0434\u0435\u043d\u0435\u0433",
-                "date": "2025-09-27",
-                "value": 10,
-                "potential_idea": "Offer a free trial period for the app to allow users to evaluate its value before purchasing.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Keeps telling me my phone number is invalid, but my phone number is valid and real",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Implement a robust phone number verification system that provides clear error messages and potential solutions for invalid input.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "I can\u2019t see international contacts",
-                "date": "2025-09-20",
-                "value": 12,
-                "potential_idea": "Implement a feature to display and manage international contacts within the app, including country code handling and search.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Everyone is using the free imo, but this paid version from the US can't connect with friends at all! You must change your Apple ID region to use it. This imo HD is fake!!",
-                "date": "2025-09-18",
-                "value": 15,
-                "potential_idea": "Develop a secure and region-agnostic paid version of the imo app that allows seamless global connections without requiring users to change their Apple ID region.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "This app is a waste of money.",
-                "date": "2025-09-17",
-                "value": 15,
-                "potential_idea": "Develop a freemium version of the app with core features to attract a wider user base and demonstrate value before purchase.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "IMO keeps banning accounts unfairly for no valid reason, even when users are just having normal conversations with friends. This is extremely frustrating and unprofessional.\n\nWhat makes the situation worse is that there is no phone number or direct support email to contact them. Users are left with no way to solve their issues properly.\n\nI do not recommend this app until they fix these problems and provide real customer support.",
-                "date": "2025-09-16",
-                "value": 95,
-                "potential_idea": "Implement a clear, multi-channel customer support system with a dedicated appeals process for account bans.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Regret",
-                "date": "2025-09-13",
-                "value": 15,
-                "potential_idea": "An in-app feature that allows users to reverse or undo recent irreversible actions.",
-                "tags": []
-            },
-            {
-                "app_name": "imo video calls and chat HD",
-                "rating": 1,
-                "review": "Attention overseas users! \nThis US version cannot make international calls. You must change your account region to use the official version. YouTube has tutorials.",
-                "date": "2025-09-11",
-                "value": 75,
-                "potential_idea": "Develop an international version of the app that supports users outside of the US for features like international calls.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "586149216",
-        "name": "Monash FODMAP Diet",
-        "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "While at first this app may have been one of the few around, there are far better resources. Being able to utilize Googles AI allows you to quickly search for specific foods. \n\nSEARCH: horrible search. I often get nothing related to my search, even as simple as a banana gets mixed results. \n\nRECIPES: there are maybe 20 recipes. They all stem from white American cuisine. Also, it mixes a lot with being healthy. Having minimal recipes that do not display diverse flavors really cuts your results.",
-                "date": "2025-09-30",
-                "value": 75,
-                "potential_idea": "Enhance the app's recipe discovery with a wider variety of global cuisines and explicit options to filter by health-focused or indulgent recipes.",
-                "tags": [
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Doesn\u2019t allow refunds? What a scam. This is supposed to be a database of foods with fodmap scores but they don\u2019t have any foods that a normal person would eat, just a bunch of expensive foods that are already labeled as low fodmap. Good luck finding any items from a regular grocery store. I wasted $8 on a useless app when I have to Google the fodmap content of any foods i actually plan to eat.",
-                "date": "2025-09-28",
-                "value": 75,
-                "potential_idea": "Expand the app's food database to include commonly available grocery store items and implement a clear refund policy or trial period.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "There are free app that give more details with regards to serving size and max serving size. It\u2019s very surprising that Monash doesn\u2019t do the same. Potatoes for example. My Dre app shows the percentage of each fod map it also says how many potatoes ( and size i.e medium potatoes) you can it and it still remain low fod map. MoNash on the other hand says 1/4 cup but up 500g. In my opinion it\u2019s not informative enough and comes across as lazy.",
-                "date": "2025-09-28",
-                "value": 80,
-                "potential_idea": "Incorporate detailed FODMAP serving size breakdown, including percentage contribution of each FODMAP group and visual aids for portion size, similar to competitor apps.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "This app is constantly contacting Facebook, Google, etc. just look at the privacy report.",
-                "date": "2025-09-15",
-                "value": 20,
-                "potential_idea": "Provide users with a transparent and configurable privacy dashboard to control data sharing with third-party services and view connection logs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "First of all, there\u2019s no search option. Under the Food Guide, most of the suggested foods are not available in the U.S., at least not at my neighborhood Kroger. I\u2019d love to have help from a dietitian, but I\u2019m not paying out of pocket. I\u2019ll ask my NP to refer me to a nutritionist in my area, one whom my Medicare will cover.",
-                "date": "2025-09-05",
-                "value": 60,
-                "potential_idea": "Integrate location-based food availability and Medicare-covered nutritionist search within the app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "a useless app that only promotes licensed products, offers little helpful information that isn\u2019t easily accessible or complete and can be found elsewhere for free",
-                "date": "2025-08-17",
-                "value": 65,
-                "potential_idea": "An app that aggregates product information from various sources, compares prices, and provides unbiased reviews for free, helping users make informed purchasing decisions.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "$8 most of it looks \"foreign\".  No oats/oatmeal? Hmm",
-                "date": "2025-08-16",
-                "value": 65,
-                "potential_idea": "Expand the app's food database to include a wider variety of common breakfast items like oats and oatmeal, with clear localization for different regional product names.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I found this app very useful until the latest update. Not only are my previous reintroductions gone, but the text is cut off in the reintroductions window so you can only guess what food you are supposed to be reintroducing. The text is there but only IF you are using the smallest possible font on your phone. I'm an older adult and can't read small fonts anymore. \u2639\ufe0f  This update does not consider the accessibility of those with poor eyesight. It's very disappointing and honestly, not very professional either. It's sad to see this happen to what used to be such a good resource.",
-                "date": "2025-08-14",
-                "value": 85,
-                "potential_idea": "Implement dynamic font scaling for all text elements within the app, particularly in reintroduction windows, to ensure readability for users with varying visual acuity and phone font size settings.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I was hoping for a features similar to the Carb Manager App where you can scan and track the foods you are eating and then see the FODMAP score.  This app doesn\u2019t have specific foods I am looking for and is hard to use if you are trying to discover which products in the store are or are not FODMAP.  I am disappointed that I purchased this app, even for only $8.",
-                "date": "2025-08-08",
-                "value": 75,
-                "potential_idea": "Integrate barcode scanning and a comprehensive, searchable FODMAP database with nutritional and FODMAP scoring for grocery items.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Rather a waste of money if you are looking up foods. Many basic food are not included in the search which is what I expected. Not much for the USA. Nothing under oils for Lard, Tallow or other meat fats for example. Most brands are not USA brands so not recommended for use for the USA.  No contact for help with using the app is readily found. Very disappointing.",
-                "date": "2025-07-14",
-                "value": 65,
-                "potential_idea": "Expand the app's food database to include a wider range of common American foods, including less common ingredients and specific brand information relevant to the US market.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "With the latest update, I can no longer save a PDF of my report, nor can I email it to myself as a copy. What have you done? I have no idea where I can get some help so I decided to leave a bad review. Maybe somebody will see it and help. I use the iPhone version. I don\u2019t understand why developers can\u2019t leave well enough alone. I run into these problems all the time with software.",
-                "date": "2025-07-08",
-                "value": 15,
-                "potential_idea": "Implement a clearer in-app help or support system that makes it easy for users to find solutions or contact customer service.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I have made sure the app is in US mode.  I can\u2019t foods that maybe canned vs. fresh/frozen. \n\nMissing USA titled foods or products. \n\nMost times not helpful because of this.",
-                "date": "2025-06-23",
-                "value": 55,
-                "potential_idea": "Allow users to filter food items by their preservation method (canned, fresh, frozen) and suggest specific US-titled products within those categories.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "I\u2019ve been using this app for my low FODMAP diet and am now using the diary for reintroduction of foods. Today I noticed all of my entries disappeared. Luckily I exported recently and only lost 2 days, so I did my best to reenter those. Just went on again and everything is gone again! I will need to track elsewhere because this can\u2019t keep happening. Please fix this issue.",
-                "date": "2025-06-03",
-                "value": 18,
-                "potential_idea": "Implement robust background data synchronization and automatic local backup of user diary entries to prevent data loss.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "This would be great if you lived in Australia. I am USA based and there is so far only one product on the  list that I can purchase in the USA. I wanted to make sure everyone knows it\u2019s USELESS. Don\u2019t buy it if you are American.",
-                "date": "2025-06-03",
-                "value": 80,
-                "potential_idea": "Geolocated product availability filters to show users only items purchasable in their region.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "If you are going to charge for an app at least try. This is no more than a list. They have a total of 8 breakfast recipes. Most include cheese or milk. One is just \u201cjam\u201d which is strawberries and sugar.",
-                "date": "2025-05-27",
-                "value": 15,
-                "potential_idea": "Expand the app's recipe library with a wider variety of breakfast options, including more dairy-free and allergy-friendly choices.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I installed the latest update and now all data from my diary is gone. I cannot recommend this app when it is built that poorly, and when the developers in charge don\u2019t do any verification that the update they\u2019re about to apply won\u2019t break existing features. Bad software design.\nThe design changes to the app aren\u2019t good either, the latest updates have been a downgrade in every way.",
-                "date": "2025-05-06",
-                "value": 15,
-                "potential_idea": "Implement robust data backup and restoration services to prevent user data loss during app updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Not nearly enough recipes, hard to navigate, and the recipes that they do have were still quite problematic. Definitely do not waste your money, a massive disappointment of an app",
-                "date": "2025-05-04",
-                "value": 75,
-                "potential_idea": "Expand the recipe library with a curated collection of highly-rated or user-submitted recipes, and implement a more intuitive navigation system with better categorization and search filters.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I just updated the app and found that it erased ALL of my diary entries. I\u2019ve been tracking for a long time so this is a big loss of data for me. I\u2019ll no longer use this app for tracking as it\u2019s no longer reliable and I\u2019m very disappointed considering this is a paid app. Just wow\u2026",
-                "date": "2025-05-03",
-                "value": 90,
-                "potential_idea": "Implement robust data backup and restore functionality for diary entries to prevent data loss during updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "What was the goal of changing the Diary add record / create report AND the save / cancel buttons? That change has reversed the positions of both functions, which means anyone who had been using the app and has muscle memory for making entries is now automatically touching the wrong buttons every single time they want to add to the diary. Was the point to frustrate existing users? Well, you\u2019ve succeeded.",
-                "date": "2025-05-03",
-                "value": 70,
-                "potential_idea": "Allow users to customize button placement or revert UI changes to a previous version to accommodate muscle memory and user preferences.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I have been diligently recording my diet and symptoms for 2 months. This morning, I decided to update the app and now ALL of that data is gone! So much work vanished in an instant.  Up until today, I would have given the app a 4 star rating. I have appreciated the food guide, recipes, and ease with which to track everything. It wasn\u2019t perfect\u2014but it was a great resource. However losing 2 months worth of valuable data is unpardonable.",
-                "date": "2025-05-03",
-                "value": 95,
-                "potential_idea": "Implement robust data backup and recovery mechanisms with cloud sync to prevent data loss during app updates or other unforeseen events.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The changes make the app useless for me. Was able to see whole day\u2019s activity and look at other days easily. Now having to scroll to see day\u2019s data.  Boo.",
-                "date": "2025-05-02",
-                "value": 85,
-                "potential_idea": "Restore a clear and easily navigable daily activity view that allows users to quickly access historical data.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "This app is great and makes it easy to track and find food. However, the new update is not good. The diary is too small and the reintroduction items are cut off and hard to use. The previous diary format was way better. Disappointed",
-                "date": "2025-05-02",
-                "value": 75,
-                "potential_idea": "Allow users to revert to the previous diary format in the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The food list isn\u2019t very well organized, the red/yellow/green lights aren\u2019t in order, so it will show you the values randomly. Has really strange ranges too, for something like cornichons it will tell you 1.76oz is fine, then 17.07oz is in the yellow zone. I could see someone eating like 3oz of them, but who is eating almost a pound? Why not represent this in a more simplistic way. \n\nFinally, when you click \u201cstart the diet\u201d, it just tells you what the diet is like, no more information than what you could find on Google, it doesn\u2019t actually start anything for you. No calendar, nothing, you need to go find a dietitian to do it for you.",
-                "date": "2025-04-27",
-                "value": 70,
-                "potential_idea": "Implement a smart, customizable food logging system with adjustable portion size ranges and a simplified visual indicator for dietary compliance, in addition to providing personalized diet plans and tracking tools within the app.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The food lists include packaged processed foods (from other countries despite using the country filter). It\u2019s cumbersome to have to weed through all this just to try to find something like steel cut oats which are not listed.",
-                "date": "2025-04-26",
-                "value": 75,
-                "potential_idea": "Implement a more robust and accurate food filtering system that prioritizes locally available and unprocessed food options, including a 'request new item' feature.",
-                "tags": [
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "While looking through the list of all the low fodmap certified food, I have my country selected in the filter, yet I\u2019m still seeing all the foods listed even if they are not in my country. Please fix!!!",
-                "date": "2025-04-01",
-                "value": 12,
-                "potential_idea": "Improve the country-based filtering for the low FODMAP food list to accurately display only foods available in the selected region.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Half the things I look up are not on here.",
-                "date": "2025-03-26",
-                "value": 60,
-                "potential_idea": "Expand the app's content database to include a wider range of information, potentially through user-generated contributions or partnerships.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "You know that I can\u2019t get a refund from Apple, the way you set up the App doesn\u2019t make it eligible. And I still canceled and deleted the app with in 3 hours. \nYou can keep the eight dollars or whatever. \nI hope this information is helpful to you, please DO NOT contact me if you have any other questions.\n\nBest regards  \nBS\ud83e\udd2c",
-                "date": "2025-03-15",
-                "value": 15,
-                "potential_idea": "Implement an in-app subscription cancellation flow that directly triggers a refund request to Apple for recent subscriptions, bypassing the need for users to manually contact Apple for refunds.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Just bought this app and right off the top, the first two categories of foods are \u201cLow FODMAP Certified Foods\u201d and \u201cLow FODMAP Certified Meals\u201d which are nothing more than a list of PROCESSED GARBAGE.\u201d very disappointed. Total waste of money.",
-                "date": "2025-02-28",
-                "value": 75,
-                "potential_idea": "Integrate a feature that clearly distinguishes between naturally low FODMAP whole foods and processed low FODMAP certified products.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I can\u2019t look up food while I\u2019m grocery shopping. Anything I type I. It says it doesn\u2019t exist. Very few recipes. I expected more from an app that costs $8.00. I wouldn\u2019t purchase this. I\u2019d like my money back. Not only is my gi tract irritated now.",
-                "date": "2025-02-16",
-                "value": 80,
-                "potential_idea": "Integrate grocery list functionality with recipe search to allow users to easily look up food items while shopping.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "I bought this app because someone mentioned scanning products but I see no where to scan products. The app feels pretty generic and you can just google stuff instead.",
-                "date": "2025-02-16",
-                "value": 75,
-                "potential_idea": "Implement a prominent barcode/product scanner feature to enable users to quickly access product information directly within the app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 1,
-                "review": "Not helpful.",
-                "date": "2025-02-05",
-                "value": 5,
-                "potential_idea": "Develop a feature that clearly articulates the benefits and functionality of the app to users.",
-                "tags": []
-            },
-            {
-                "app_name": "Monash FODMAP Diet",
-                "rating": 2,
-                "review": "The diary should be integrated with the food database to do personalised analysis of the effects and outcomes. The food database should be more sophisticated; i.e., deeper and broader in order to provide information about food and beverages available and consumed, and capable of gathering these data by UPC scans.",
-                "date": "2025-01-18",
-                "value": 80,
-                "potential_idea": "Integrate a sophisticated food database with a UPC scanner for personalized dietary analysis within the diary feature.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
         "id": "866450515",
         "name": "Forest: Focus for Productivity",
         "url": "https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515?uo=2",
@@ -13053,6 +12544,561 @@
                 "potential_idea": "Develop an advanced 'Dark Mode for Web' app that intelligently applies dark themes to websites lacking native support, with enhanced compatibility and performance optimizations to prevent rendering issues and crashes.",
                 "tags": [
                     "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1400579543",
+        "name": "imo video calls and chat HD",
+        "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This is the scam.",
+                "date": "2025-10-02",
+                "value": 10,
+                "potential_idea": "Implement a user-reporting system for suspicious activity and offer enhanced security features to combat potential scams.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It doesn\u2019t work for int contacts, it\u2019s not allowing to add contacts, nothing!",
+                "date": "2025-10-01",
+                "value": 15,
+                "potential_idea": "Develop a robust contact management system that supports a wider range of contact types and ensures seamless contact addition functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Useless app, can\u2019t add anyone . Emailed support , no response ! It\u2019s a scam .",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement a reliable contact and friend adding system with responsive customer support to improve user trust and app functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Now they are scamming even adds showing and country not changing",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement a robust geo-location verification system to prevent fraudulent ad serving and ensure accurate country-based content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "There are tons on messenger app, why is this one limited to US and Canada numbers ?!?",
+                "date": "2025-09-27",
+                "value": 85,
+                "potential_idea": "Expand the app's international number support beyond US and Canada to allow global communication.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u041d\u0435 \u0441\u0442\u043e\u0438\u0442 \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u0434\u0435\u043d\u0435\u0433",
+                "date": "2025-09-27",
+                "value": 0,
+                "potential_idea": "Analysis failed.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Keeps telling me my phone number is invalid, but my phone number is valid and real",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Implement a robust phone number validation system with clear error messages that explain why a number might be considered invalid.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I can\u2019t see international contacts",
+                "date": "2025-09-20",
+                "value": 55,
+                "potential_idea": "Allow users to filter or search for contacts by country code or region to manage international contacts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Everyone is using the free imo, but this paid version from the US can't connect with friends at all! You must change your Apple ID region to use it. This imo HD is fake!!",
+                "date": "2025-09-18",
+                "value": 15,
+                "potential_idea": "Develop a premium, unrestricted version of the 'imo HD' app that allows seamless global connections without region-locking or mandatory Apple ID region changes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This app is a waste of money.",
+                "date": "2025-09-17",
+                "value": 5,
+                "potential_idea": "The app needs a clear value proposition and demonstrable benefits to justify its cost.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "IMO keeps banning accounts unfairly for no valid reason, even when users are just having normal conversations with friends. This is extremely frustrating and unprofessional.\n\nWhat makes the situation worse is that there is no phone number or direct support email to contact them. Users are left with no way to solve their issues properly.\n\nI do not recommend this app until they fix these problems and provide real customer support.",
+                "date": "2025-09-16",
+                "value": 75,
+                "potential_idea": "Implement a direct customer support/appeal system for account bans within the app.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Regret",
+                "date": "2025-09-13",
+                "value": 15,
+                "potential_idea": "Implement a 'wishlist' or 'save for later' feature for items or content within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Attention overseas users! \nThis US version cannot make international calls. You must change your account region to use the official version. YouTube has tutorials.",
+                "date": "2025-09-11",
+                "value": 65,
+                "potential_idea": "Enable international calling functionality for overseas users within the current app version by detecting their region and guiding them to relevant settings or an alternative version.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This app does not allow to call any number outside United States. So save your money.",
+                "date": "2025-09-09",
+                "value": 75,
+                "potential_idea": "Expand the app's calling capabilities to include international numbers, allowing users to call globally.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It doesn\u2019t see all contacts from my list. When I purchased the app it didn\u2019t say my phone version supposed to be 9 or later. It doesn\u2019t work for me. What should I do now?",
+                "date": "2025-09-08",
+                "value": 15,
+                "potential_idea": "Implement a clear and upfront app requirement for operating system version before purchase, along with offering a refund or alternative solution for users whose devices are incompatible.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Paid for nothing! I wish I would read other reviews.",
+                "date": "2025-09-08",
+                "value": 65,
+                "potential_idea": "Implement a transparent pricing model with clear feature breakdowns for all subscription tiers to prevent users from feeling misled.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This is a scam. I paid $5 for it, and I can\u2019t talk to anyone outside US. Scam.",
+                "date": "2025-09-07",
+                "value": 70,
+                "potential_idea": "Allow users to select their region or country of origin to unlock access to users within their region.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0421\u043a\u0430\u0447\u0430\u043b\u0430 \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0438\u0441\u043a\u0430\u043b\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u043f\u043e\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u043c\u0430\u043c\u043e\u0439. \u042f \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435, \u043e\u043d\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0441\u0441\u044b\u043b\u043a\u0438 \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0441 2\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u0438 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432 \u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442. \u041e\u0447\u0435\u043d\u044c \u0436\u0430\u043b\u044c",
+                "date": "2025-09-06",
+                "value": 18,
+                "potential_idea": "A more reliable invitation and contact syncing system for cross-border communication within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It says free but why does it ask for $4.99 to download the app or is it scam?",
+                "date": "2025-09-06",
+                "value": 70,
+                "potential_idea": "Clearly label the app's pricing model (free to download vs. paid download) to avoid user confusion and build trust.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "this is useless app and please don't purchase it if you are looking to connect with your family nd friends outside US",
+                "date": "2025-09-04",
+                "value": 18,
+                "potential_idea": "Geographically-aware communication feature to enable seamless connection with contacts outside the user's current region, specifically addressing international calling/messaging limitations.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I want to use this imo app, but it is expensive and costs $4.99. I have to change my Apple ID country and region to download another imo app. Now it works.\nJas",
+                "date": "2025-09-03",
+                "value": 45,
+                "potential_idea": "Offer a regional pricing model or a free version of the imo app to make it more accessible to users in different economic regions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0421\u043a\u0430\u0447\u0430\u043b \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438 \u0437\u0430\u043f\u043b\u0430\u0442\u0438\u043b \u043e\u043a\u043e\u043b\u043e $5. \u041d\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c,\u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0438\u0448\u0435\u0442 \u0447\u0442\u043e \u043d\u0435 \u0432\u0435\u0440\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440.  \u041d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0437 \u043f\u0438\u0448\u0443 \u0442\u043e\u0447\u043d\u0435\u0435 \u043d\u043e\u043c\u0435\u0440 , \u043d\u043e \u043e\u0442\u0432\u0435\u0442\u0430 \u0442\u0430\u043a\u0436\u0435  \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430 \u043d\u0438\u0447\u0435\u0433\u043e \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e \u043d\u0435\u0442!!!",
+                "date": "2025-08-31",
+                "value": 15,
+                "potential_idea": "Implement a robust phone number validation and verification system to prevent registration errors and ensure user onboarding success.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Not working",
+                "date": "2025-08-31",
+                "value": 10,
+                "potential_idea": "Investigate and fix the core functionality of the app immediately, as it appears to be completely non-operational.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u0639\u0644\u0642 \u0639 \u0627\u0644\u0628\u0644\u062f \u0627\u0645\u0631\u064a\u0643\u0627. \u0648\u0627\u0646\u0627 \u0645\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0648\u0631\u0642\u0645\u064a \u0633\u0639\u0648\u062f\u064a. \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u062b\u0628\u062a \u0639\u0644\u0649 \u0639\u0644\u0645 \u0627\u0645\u0631\u064a\u0643\u0627 \u0648\u0631\u0645\u0632 \u0627\u0644\u062f\u0648\u0644\u0647. \u0648\u0631\u0627\u0627\u0627\u0641\u0636 \u064a\u062a\u063a\u064a\u0631 \u0645\u0639\u0627\u064a",
+                "date": "2025-08-24",
+                "value": 65,
+                "potential_idea": "Allow users to manually select their country and country code during app setup, overriding the automatic detection, to ensure accurate region settings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "This paid version doesn't work at all! We need to switch the Apple ID region to another country to download the free official version",
+                "date": "2025-08-19",
+                "value": 90,
+                "potential_idea": "Implement a streamlined in-app method for users to switch regions or access geo-restricted content for paid features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Ya cambi\u00e9 de ubicaci\u00f3n pero no me dejan poner mi nuevo tel\u00e9fono de mi nueva regi\u00f3n",
+                "date": "2025-08-08",
+                "value": 75,
+                "potential_idea": "Allow users to update their phone number and region information, especially after relocation, to maintain accurate account details and access region-specific features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Yes, the official imo is free for international calls. If it's not showing up, changing your Apple ID region (guides on YouTube can help) usually solves it.",
+                "date": "2025-08-06",
+                "value": 15,
+                "potential_idea": "Provide in-app guidance or a direct link within imo to assist users in troubleshooting region-related issues affecting international call functionality.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "If your App Store only shows paid versions, try changing your Apple ID's region to find and download the correct one.",
+                "date": "2025-07-29",
+                "value": 15,
+                "potential_idea": "Automated region switching or clear guidance for users struggling to find free versions of the app in different regions.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "2. Comment content: (Please don't keep this when commenting)\n\nTitle:  The free imo app exists! \n\nContent:  Yes, the official imo is free for international calls. If it's not showing up, changing your Apple ID region (guides on YouTube can help) usually solves it.",
+                "date": "2025-07-28",
+                "value": 18,
+                "potential_idea": "Develop a streamlined, in-app region switcher for app eligibility, simplifying the process of accessing free international calling features.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "The\u00a0official\u00a0imo app is free. If you only see paid versions, you likely need to switch your App Store region to find the correct one.",
+                "date": "2025-07-15",
+                "value": 15,
+                "potential_idea": "Implement a region-detection feature that automatically directs users to the correct, free version of the app based on their App Store region.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "I can\u2019t use as like WhatsApp",
+                "date": "2025-07-13",
+                "value": 15,
+                "potential_idea": "Implement core messaging functionalities to allow users to communicate directly within the app, similar to WhatsApp's chat features.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 2,
+                "review": "IMO had",
+                "date": "2025-07-09",
+                "value": 5,
+                "potential_idea": "The user needs a better way to manage their mobile app's interface and settings.",
+                "tags": []
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "The US region setting on my Apple ID prevents this paid version from working. Change the country to download the free version.",
+                "date": "2025-07-08",
+                "value": 85,
+                "potential_idea": "Allow users to change their in-app region settings independently of their Apple ID region for localized content and pricing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Because my Apple ID is set to the US, this paid version doesn't work. \r\nI found a guide on YouTube on how to change the Apple ID region to use the free version",
+                "date": "2025-07-03",
+                "value": 15,
+                "potential_idea": "Allow users to use the paid version of the app with different Apple ID regions by integrating alternative payment methods or region-specific licensing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "Free imo works globally; this paid US version fails completely. Find YouTube guides on changing your Apple ID region to use the free version.",
+                "date": "2025-06-29",
+                "value": 40,
+                "potential_idea": "Implement a feature allowing users to access the free version of the app globally, even when subscribed to a paid regional version, to overcome geo-restrictions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "\u0644\u0627 \u064a\u0639\u0645\u0644",
+                "date": "2025-06-25",
+                "value": 5,
+                "potential_idea": "Develop a robust error reporting system with user-friendly debugging tools to quickly identify and resolve app malfunctions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "It only works if you have a number from us. I live in germany and I can not use my number to login! Say in your app that it is only for us users! You don\u2019t even get 1 star!",
+                "date": "2025-06-22",
+                "value": 18,
+                "potential_idea": "Clearly state app's regional or user base limitations (e.g., US-only phone numbers) upfront in the app description and during onboarding.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "My Apple ID defaults to the US region, making this paid version incompatible. To download the free version, you'll need to switch your Apple ID region to another country.",
+                "date": "2025-06-19",
+                "value": 75,
+                "potential_idea": "Implement in-app region switching or address region compatibility issues for paid app versions.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "imo video calls and chat HD",
+                "rating": 1,
+                "review": "My Apple ID defaults to the US region, making this paid version incompatible. To download the free version, you'll need to switch your Apple ID region to another country.",
+                "date": "2025-06-19",
+                "value": 75,
+                "potential_idea": "Implement regional pricing and currency support to allow users to purchase the app in their local currency and region, regardless of their Apple ID default.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "586149216",
+        "name": "Monash FODMAP Diet",
+        "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "While at first this app may have been one of the few around, there are far better resources. Being able to utilize Googles AI allows you to quickly search for specific foods. \n\nSEARCH: horrible search. I often get nothing related to my search, even as simple as a banana gets mixed results. \n\nRECIPES: there are maybe 20 recipes. They all stem from white American cuisine. Also, it mixes a lot with being healthy. Having minimal recipes that do not display diverse flavors really cuts your results.",
+                "date": "2025-09-30",
+                "value": 75,
+                "potential_idea": "Expand recipe content to include a wider range of global cuisines and dietary preferences beyond 'healthy' American options, leveraging AI to categorize and tag ingredients for better searchability.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Doesn\u2019t allow refunds? What a scam. This is supposed to be a database of foods with fodmap scores but they don\u2019t have any foods that a normal person would eat, just a bunch of expensive foods that are already labeled as low fodmap. Good luck finding any items from a regular grocery store. I wasted $8 on a useless app when I have to Google the fodmap content of any foods i actually plan to eat.",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Expand the app's food database to include a wider variety of common grocery store items, categorized by FODMAP content.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "There are free app that give more details with regards to serving size and max serving size. It\u2019s very surprising that Monash doesn\u2019t do the same. Potatoes for example. My Dre app shows the percentage of each fod map it also says how many potatoes ( and size i.e medium potatoes) you can it and it still remain low fod map. MoNash on the other hand says 1/4 cup but up 500g. In my opinion it\u2019s not informative enough and comes across as lazy.",
+                "date": "2025-09-28",
+                "value": 85,
+                "potential_idea": "Enhance the Monash FODMAP app with more precise serving size guidance, including detailed breakdown of FODMAP percentages and flexible portion options (e.g., by weight and count) for low-FODMAP foods.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "This app is constantly contacting Facebook, Google, etc. just look at the privacy report.",
+                "date": "2025-09-15",
+                "value": 55,
+                "potential_idea": "An in-app privacy dashboard that transparently shows all third-party data sharing and allows users to manage or revoke permissions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "First of all, there\u2019s no search option. Under the Food Guide, most of the suggested foods are not available in the U.S., at least not at my neighborhood Kroger. I\u2019d love to have help from a dietitian, but I\u2019m not paying out of pocket. I\u2019ll ask my NP to refer me to a nutritionist in my area, one whom my Medicare will cover.",
+                "date": "2025-09-05",
+                "value": 60,
+                "potential_idea": "Integrate a food availability search feature that filters suggestions based on user's location and shopping preferences, and offer a service to find dietitians covered by Medicare.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "a useless app that only promotes licensed products, offers little helpful information that isn\u2019t easily accessible or complete and can be found elsewhere for free",
+                "date": "2025-08-17",
+                "value": 15,
+                "potential_idea": "Develop a comprehensive, free, and unbiased mobile app that aggregates and provides readily available information on a wide range of products, along with user reviews and comparisons.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "$8 most of it looks \"foreign\".  No oats/oatmeal? Hmm",
+                "date": "2025-08-16",
+                "value": 15,
+                "potential_idea": "Include a wider variety of common breakfast options, specifically oatmeal, in the app's food database.",
+                "tags": []
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "I found this app very useful until the latest update. Not only are my previous reintroductions gone, but the text is cut off in the reintroductions window so you can only guess what food you are supposed to be reintroducing. The text is there but only IF you are using the smallest possible font on your phone. I'm an older adult and can't read small fonts anymore. \u2639\ufe0f  This update does not consider the accessibility of those with poor eyesight. It's very disappointing and honestly, not very professional either. It's sad to see this happen to what used to be such a good resource.",
+                "date": "2025-08-14",
+                "value": 75,
+                "potential_idea": "Implement adaptive text resizing and data recovery features to ensure accessibility and prevent data loss in app updates.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 2,
+                "review": "I was hoping for a features similar to the Carb Manager App where you can scan and track the foods you are eating and then see the FODMAP score.  This app doesn\u2019t have specific foods I am looking for and is hard to use if you are trying to discover which products in the store are or are not FODMAP.  I am disappointed that I purchased this app, even for only $8.",
+                "date": "2025-08-08",
+                "value": 85,
+                "potential_idea": "Integrate a barcode scanner with a comprehensive FODMAP food database to help users identify low-FODMAP products directly in stores.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "Rather a waste of money if you are looking up foods. Many basic food are not included in the search which is what I expected. Not much for the USA. Nothing under oils for Lard, Tallow or other meat fats for example. Most brands are not USA brands so not recommended for use for the USA.  No contact for help with using the app is readily found. Very disappointing.",
+                "date": "2025-07-14",
+                "value": 60,
+                "potential_idea": "Expand the app's food database to include a wider range of common American foods, including specific meat fats like lard and tallow, and local brands.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Monash FODMAP Diet",
+                "rating": 1,
+                "review": "With the latest update, I can no longer save a PDF of my report, nor can I email it to myself as a copy. What have you done? I have no idea where I can get some help so I decided to leave a bad review. Maybe somebody will see it and help. I use the iPhone version. I don\u2019t understand why developers can\u2019t leave well enough alone. I run into these problems all the time with software.",
+                "date": "2025-07-08",
+                "value": 65,
+                "potential_idea": "Implement an in-app help and support center with clear documentation and contact options to address user confusion and issues.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
                 ]
             }
         ]
