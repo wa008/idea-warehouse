@@ -1562,479 +1562,6 @@
         ]
     },
     {
-        "id": "1484622401",
-        "name": "Religion inc. God Simulator",
-        "url": "https://apps.apple.com/us/app/religion-inc-god-simulator/id1484622401?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 2,
-                "review": "There is very little to this game, it\u2019s a copy of another popular game and they only copied the idea of the game not real mechanics.",
-                "date": "2025-09-04",
-                "value": 15,
-                "potential_idea": "Develop a mobile game that offers unique gameplay mechanics beyond simply replicating popular titles.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 2,
-                "review": "I like the game and all and I play on the easiest mode and I still CAN\u2019T win please update it and FIX it",
-                "date": "2025-05-24",
-                "value": 15,
-                "potential_idea": "Introduce adjustable difficulty levels within the game, allowing players to fine-tune the challenge beyond the current 'easiest' mode to better suit their skill.",
-                "tags": []
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 2,
-                "review": "It\u2019s alright, played 4 games on the hardest difficulty and I\u2019m not sure someone could lose at this. It\u2019s also very cartoony, a personal dislike of mine. It\u2019ll kill about 10 mins of your time and then you\u2019ll never look back. Wouldn\u2019t say it\u2019s particularly worth it",
-                "date": "2025-03-23",
-                "value": 55,
-                "potential_idea": "Introduce adjustable difficulty levels or a 'challenge mode' to increase the game's longevity and cater to more experienced players.",
-                "tags": []
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "Ran an ad before a loading or start screen even showed, instantly deleted. At least try to get players engaged before trying to get money if you\u2019re on a free-to-play basis. Otherwise just make it a paid game.",
-                "date": "2024-10-23",
-                "value": 15,
-                "potential_idea": "Implement a 'soft launch' or 'ad-free trial' period for new users before introducing advertisements in free-to-play mobile games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "This game is extremely biased you can obviously tell you ever developed this game was Christian or related heavily to Christian ideology a very surface level game no true depth or knowledge of other religions spirituality and ways of life. Don\u2019t recommend",
-                "date": "2024-10-06",
-                "value": 70,
-                "potential_idea": "Develop a mobile game that offers a diverse and inclusive exploration of global religions and spiritual practices, presented with depth and nuance.",
-                "tags": []
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "For the information of the people",
-                "date": "2024-09-17",
-                "value": 65,
-                "potential_idea": "Implement a 'Community Insights' feature that surfaces trending topics, popular discussions, or frequently asked questions within the app based on aggregated user activity.",
-                "tags": []
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "Can\u2019t get a feel for the game as they\u2019re constantly badgering you to pay or watch an ad.\n\n(What I experienced wasn\u2019t worth $1)",
-                "date": "2024-09-10",
-                "value": 65,
-                "potential_idea": "Offer an affordable one-time purchase option to permanently remove all ads and in-app purchase prompts.",
-                "tags": []
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 2,
-                "review": "I used to love this game and just rediscovered it a few days ago. Every time I try to open the app it crashes. Pleaseeee help me fix this so I can play",
-                "date": "2024-08-29",
-                "value": 15,
-                "potential_idea": "Implement robust crash reporting and automated recovery mechanisms to prevent app crashes and ensure a stable user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "Just started playing the game and have to say it\u2019s a fun game. however when I uploaded the new update, I now cannot open up the game. I clicked on the app and it just closes out .what\u2019s going on?! I tried uninstalling it and reinstalling and it will not open back up again. Please fix!",
-                "date": "2024-08-28",
-                "value": 15,
-                "potential_idea": "Implement robust backend testing and deployment strategies for app updates to prevent critical bugs that prevent app access.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 2,
-                "review": "The adds are a minute long and too often they ruined the game experience",
-                "date": "2024-06-03",
-                "value": 15,
-                "potential_idea": "Implement an optional premium subscription to remove all advertisements from the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "You should not have to pay for a game and not have to be right off the beginning. It is a sin and you\u2019re very greedy. amen",
-                "date": "2024-04-29",
-                "value": 15,
-                "potential_idea": "Offer a free trial period or a freemium model for the mobile game, allowing users to test gameplay before committing to a purchase.",
-                "tags": []
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 2,
-                "review": "So is looking for a game like this and I found it and then I started playing I snored all the reviews and then I clicked on it and I was like why do I have to not why can\u2019t I play all these different religions and then I clicked on the first one that you see and then I started playing it was really fun at first but then as I kept playing and start to get less fun and less fun instant stop giving me a religion but it\u2019s something fun so don\u2019t be fooled by how fun it looks in the pictures because it is not fun so take my advice don\u2019t take my advice it\u2019s up to you.",
-                "date": "2024-03-08",
-                "value": 10,
-                "potential_idea": "Allow users to choose from a wider variety of playable religions within the game, beyond the initial offering, to maintain long-term engagement.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Religion inc. God Simulator",
-                "rating": 1,
-                "review": "The ads never end giving you the reward, it\u2019s entertaining wasting my time like that for no reason. There\u2019s literally not even an option for customer support, it looks like delusionally they expect you to make a discord account to get any \u2018support\u2019. This\u2019s also a very unrealistic game. It should be titled religion or cult simulator since it has nothing to do with Christ the only God. Don\u2019t waste your time with this.",
-                "date": "2024-03-05",
-                "value": 65,
-                "potential_idea": "Implement a direct in-app customer support chat that doesn't require external accounts like Discord.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "388857410",
-        "name": "Blackjack & Card Counting Pro",
-        "url": "https://apps.apple.com/us/app/blackjack-card-counting-pro/id388857410?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "This is terrible app I wish I could get my money back for it idk why I purchased it , i does not teach you anything at all you just play play jack and they call it training I need a refund somehow \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f",
-                "date": "2025-09-10",
-                "value": 15,
-                "potential_idea": "Develop an app that clearly demonstrates the learning outcomes and methodology of its training programs upfront to manage user expectations.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "I didn\u2019t know it was just some notification saying what they suggested on. I thought it was going to explain very play if what is statically accurate to split, hit, stand, and double.. I would see a refund would be nice",
-                "date": "2025-09-09",
-                "value": 85,
-                "potential_idea": "Provide detailed, educational explanations of blackjack strategy (hit, stand, split, double down) directly within the app, integrated with the core gameplay.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 2,
-                "review": "The training is ok. No single deck. Dealer gets bj and 21 10x as many times as player. Just like Vegas. Don\u2019t buy.",
-                "date": "2025-08-04",
-                "value": 12,
-                "potential_idea": "Implement a more balanced training mode for Blackjack that simulates a wider range of dealer outcomes, reducing the artificial frequency of dealer naturals to provide a more representative learning experience.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "Running count is wrong im playing 2 hands, i got 7,5 jack,2 and dealer is showing 5  but its saying running count is 0",
-                "date": "2025-05-23",
-                "value": 15,
-                "potential_idea": "Implement real-time running count verification and correction within the blackjack card counting app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 2,
-                "review": "This is a good app don\u2019t get me wrong, helpful for beginners. It is simply just not worth $5. Once I bought the app, the most helpful feature was speed counting practice, but guess what? I HAD TO PAY FOR IT after paying to even download the app. Your $5 just lets you play fake blackjack and gives you a counter on the side, which yeah is helpful when trying to learn to count. But accessibility is poor (can\u2019t check count in between hands to double check if I am on track or not) and it is just overwhelmingly underdeveloped and in this day and age, $5 is such an overrated price for a simulation with like 3 features. $2 at best (Including ALL features).",
-                "date": "2025-05-14",
-                "value": 65,
-                "potential_idea": "Unlock all app features, including speed counting practice and accessibility improvements, for a one-time purchase or a more affordable tiered pricing model.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "No sound, does not gamify the process of learning counting- boring, bland, not intuitive- even after you pay, one mode is still pay walled",
-                "date": "2025-05-05",
-                "value": 75,
-                "potential_idea": "Integrate gamified elements and improved intuitiveness into the learning process, especially for the core counting module, while addressing paywall restrictions for previously purchased content.",
-                "tags": {
-                    "tags": [
-                        "bug",
-                        "valuable opinion"
-                    ]
-                }
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "App will not leave you alone until you give it a review. While I enjoy the app and I am having fun using it I don\u2019t like being forced. Don\u2019t RAPE me for reviews.",
-                "date": "2025-03-30",
-                "value": 15,
-                "potential_idea": "Allow users to customize the frequency and conditions under which review prompts appear.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "Do not waste your money. There are other apps way more effective and realistic",
-                "date": "2025-03-29",
-                "value": 15,
-                "potential_idea": "Develop a mobile app that provides more effective and realistic features for [specific function of the app].",
-                "tags": []
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "My dealer is so lucky he currently hasn\u2019t busted in 21 hands",
-                "date": "2025-03-19",
-                "value": 12,
-                "potential_idea": "Implement a 'lucky streak' tracker for players to monitor their consecutive wins or losses in card games.",
-                "tags": []
-            },
-            {
-                "app_name": "Blackjack & Card Counting Pro",
-                "rating": 1,
-                "review": "For a premium app, it has a lot of missing features and feels very bare bones. With only links to YouTube vids on how to count cards besides telling what to play on certain hands. I feel somewhat cheated by this app. It will only correct you on misplayed hands yet most of the time when I follow said \u201chelp\u201d I lose the hands more often than not. Very underwhelming experience.",
-                "date": "2025-01-31",
-                "value": 65,
-                "potential_idea": "Develop an advanced card counting trainer that integrates real-time feedback and simulation with detailed strategy explanations, going beyond simple YouTube links.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "357421934",
-        "name": "PeakFinder",
-        "url": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "This app is utter nonsense and not worth the money.",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Develop a mobile app that provides clear value propositions and transparent pricing to avoid user dissatisfaction with perceived 'nonsense'.",
-                "tags": []
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "I\u2019m in Washington pointing my phone right at Mt Baker and the app is giving me the names of peaks in Canada.",
-                "date": "2025-07-13",
-                "value": 75,
-                "potential_idea": "Implement a more accurate and localized peak identification feature that prioritizes nearby peaks and accounts for user location and orientation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Never seems to orient itself correctly without manual intervention.",
-                "date": "2025-06-19",
-                "value": 75,
-                "potential_idea": "Implement an automatic orientation recalibration feature that proactively detects and corrects misalignment without user input.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "\u65e0\u6cd5\u4f7f\u7528",
-                "date": "2025-06-16",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and user feedback mechanisms to clearly communicate app unavailibility and guide users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "I bought this app to identify mountains in the Denver metro area. I can\u2019t get it to work, wish there was a tutorial. I can\u2019t get the photo overlay to work. Very frustrating!",
-                "date": "2025-04-21",
-                "value": 12,
-                "potential_idea": "Develop an interactive tutorial and improve the photo overlay feature to guide users in identifying local landmarks.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Downloaded and tried to use in WV with lots of prominent peaks nearby and visible. It showed a couple of lesser peaks and not much else. Also the graphic indicating peaks was many, many degrees off. I\u2019m sorry I wasted five bucks on this worthless app.",
-                "date": "2025-02-23",
-                "value": 45,
-                "potential_idea": "Develop a mobile app that accurately identifies and visually displays prominent nearby mountain peaks by leveraging user location and accurate topographical data.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "This app has not worked in the entire NW.",
-                "date": "2024-07-19",
-                "value": 15,
-                "potential_idea": "Implement a robust location-aware service that ensures app functionality regardless of geographical area or network conditions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Got this because I live in central California right by the Sierra Nevada Mountain Range off of the 99 and 5 Freeways.  Where I am at, you can see the string of 14ers, starting with Mt. Langley.  The app does NOT detect any of them.  Also, was just on the 97 in NorCal with Mt. Shasta literally hulking right next to me on the Freeway.  No dice!!!  It did not detect it.  It has only ever picked up little mountains that you are close to.  I thought maybe I was too far away, but when I was right next to Shasta and the app didn\u2019t detect it, I was pretty much done with it.",
-                "date": "2024-06-24",
-                "value": 85,
-                "potential_idea": "Develop an augmented reality feature that can identify and label distant prominent mountains, even when not in close proximity, by utilizing location and known mountain databases.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Doesn\u2019t show me any mountains",
-                "date": "2024-06-11",
-                "value": 15,
-                "potential_idea": "Allow users to filter or search for specific geographical features like mountains within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "It seems 30-70\u2019 off all the time",
-                "date": "2024-06-09",
-                "value": 10,
-                "potential_idea": "Implement adaptive calibration or user-guided fine-tuning for improved location accuracy to correct consistent drift.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "I know where certain peaks are and this app is off. That is terrible",
-                "date": "2024-05-25",
-                "value": 10,
-                "potential_idea": "Implement a robust and accurate real-time GPS tracking system with advanced calibration features to ensure precise location data for all app users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "I would recommend not to update the app. It is not accurate anymore. And really hard to read any mountain now. \nThey should of never made any changes.",
-                "date": "2024-05-20",
-                "value": 15,
-                "potential_idea": "Restore the app to its previous stable and accurate state or offer users a toggle to revert to the old UI.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "I\u2019m here in the Himalayas bought this app and for an entire day have been trying to download the 248 require file. It won\u2019t progress pass 1%.\nMeanwhile I can watch YouTube, download this app, and rate obviously but the file will not download. \nI want a refund but can\u2019t request one.\n\nUnacceptable",
-                "date": "2024-04-23",
-                "value": 80,
-                "potential_idea": "Develop an offline mode or a robust download manager that allows users to download large files even with unstable or slow internet connections, including progress indicators and retry options.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 2,
-                "review": "I live in the Green Mountains of Vermont and this app has not been accurate a single time.",
-                "date": "2024-04-19",
-                "value": 70,
-                "potential_idea": "Improve location accuracy for outdoor and remote areas by integrating with more granular mapping data sources and potentially using crowdsourced accuracy reports.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Massive mountains right in front of me in Boulder Colorado. All the app shows is a flat line of no foothills - which is true , but no identification of the mountain peaks\nThen I try to add a photo to this comment and \u201cpaste\u201d is NOT an option\nMaybe my bad.  Maybe the apps bad",
-                "date": "2024-03-31",
-                "value": 65,
-                "potential_idea": "Integrate a feature that identifies mountain peaks and surrounding topography in landscape photos taken within the app.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Smaller peaks are labeled\u2026",
-                "date": "2024-03-19",
-                "value": 60,
-                "potential_idea": "Label all peaks, regardless of size, for comprehensive data visualization.",
-                "tags": []
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "Bummed that I paid $5 for this app and it is completely useless.",
-                "date": "2024-02-27",
-                "value": 50,
-                "potential_idea": "Offer a free trial or a more informative demo of the app's core functionality before purchase to ensure users understand its value.",
-                "tags": []
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 1,
-                "review": "As with most other apps, they start out simple and easy to use. Then they develop them further and only the young people can understand them. You have three categories of people under 45, under 70, and older. This happens like all the others and a piece of crap. But used to be easy and be able to see amount and easy is now a complicated piece of nonsense. I tried today the hiking one and I can\u2019t even figure out how to stop the hike or turn it off what a piece of crap",
-                "date": "2023-11-23",
-                "value": 75,
-                "potential_idea": "Develop an 'easy mode' or 'senior mode' within the app that simplifies the user interface and core functionalities for less tech-savvy users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "PeakFinder",
-                "rating": 2,
-                "review": "App worked great when I first downloaded it. Lately it seem to not know where I am. Attempted to use it in the Beartooths recently and it\u2019s showing some hills that weren\u2019t at my location. Currently trying to use it in the Missions and it\u2019s not actually showing what I\u2019m looking at.",
-                "date": "2023-08-27",
-                "value": 75,
-                "potential_idea": "Implement a more robust and precise location tracking system for offline or challenging GPS environments to accurately reflect the user's real-world position.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "935216956",
         "name": "Papers, Please",
         "url": "https://apps.apple.com/us/app/papers-please/id935216956?uo=2",
@@ -13062,6 +12589,574 @@
                 "date": "2025-09-07",
                 "value": 40,
                 "potential_idea": "Implement a rigorous compatibility testing protocol for specific vehicle models and years, providing users with verified compatibility information before purchase.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1484622401",
+        "name": "Religion inc. God Simulator",
+        "url": "https://apps.apple.com/us/app/religion-inc-god-simulator/id1484622401?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "There is very little to this game, it\u2019s a copy of another popular game and they only copied the idea of the game not real mechanics.",
+                "date": "2025-09-04",
+                "value": 65,
+                "potential_idea": "Enhance the mobile game with unique mechanics and features that differentiate it from its popular inspiration, rather than just copying the core concept.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "I like the game and all and I play on the easiest mode and I still CAN\u2019T win please update it and FIX it",
+                "date": "2025-05-24",
+                "value": 15,
+                "potential_idea": "Introduce a 'guided' or 'assisted' game mode for players struggling with the easiest difficulty.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "It\u2019s alright, played 4 games on the hardest difficulty and I\u2019m not sure someone could lose at this. It\u2019s also very cartoony, a personal dislike of mine. It\u2019ll kill about 10 mins of your time and then you\u2019ll never look back. Wouldn\u2019t say it\u2019s particularly worth it",
+                "date": "2025-03-23",
+                "value": 12,
+                "potential_idea": "Introduce a 'hardcore' difficulty mode with more punitive mechanics and a more realistic art style to challenge experienced players and cater to different aesthetic preferences.",
+                "tags": []
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Ran an ad before a loading or start screen even showed, instantly deleted. At least try to get players engaged before trying to get money if you\u2019re on a free-to-play basis. Otherwise just make it a paid game.",
+                "date": "2024-10-23",
+                "value": 70,
+                "potential_idea": "Implement a more engaging onboarding experience that introduces core gameplay mechanics before displaying any ads or monetization prompts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "This game is extremely biased you can obviously tell you ever developed this game was Christian or related heavily to Christian ideology a very surface level game no true depth or knowledge of other religions spirituality and ways of life. Don\u2019t recommend",
+                "date": "2024-10-06",
+                "value": 85,
+                "potential_idea": "Develop a mobile game that explores diverse world religions and spiritual practices with accurate and respectful representation.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "For the information of the people",
+                "date": "2024-09-17",
+                "value": 10,
+                "potential_idea": "Develop a feature that allows users to easily share curated information within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Can\u2019t get a feel for the game as they\u2019re constantly badgering you to pay or watch an ad.\n\n(What I experienced wasn\u2019t worth $1)",
+                "date": "2024-09-10",
+                "value": 80,
+                "potential_idea": "Offer a premium version of the app with no ads or paywalls for a one-time purchase or subscription.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "I used to love this game and just rediscovered it a few days ago. Every time I try to open the app it crashes. Pleaseeee help me fix this so I can play",
+                "date": "2024-08-29",
+                "value": 15,
+                "potential_idea": "Implement robust crash detection and reporting mechanisms to identify and resolve app stability issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Just started playing the game and have to say it\u2019s a fun game. however when I uploaded the new update, I now cannot open up the game. I clicked on the app and it just closes out .what\u2019s going on?! I tried uninstalling it and reinstalling and it will not open back up again. Please fix!",
+                "date": "2024-08-28",
+                "value": 15,
+                "potential_idea": "Implement robust pre-update testing and a rollback mechanism to prevent app crashes after updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "The adds are a minute long and too often they ruined the game experience",
+                "date": "2024-06-03",
+                "value": 75,
+                "potential_idea": "Offer users a one-time purchase or subscription to remove all in-app advertisements.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "You should not have to pay for a game and not have to be right off the beginning. It is a sin and you\u2019re very greedy. amen",
+                "date": "2024-04-29",
+                "value": 15,
+                "potential_idea": "Implement optional freemium models or offer a free trial period for paid mobile games to address user concerns about upfront costs.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "So is looking for a game like this and I found it and then I started playing I snored all the reviews and then I clicked on it and I was like why do I have to not why can\u2019t I play all these different religions and then I clicked on the first one that you see and then I started playing it was really fun at first but then as I kept playing and start to get less fun and less fun instant stop giving me a religion but it\u2019s something fun so don\u2019t be fooled by how fun it looks in the pictures because it is not fun so take my advice don\u2019t take my advice it\u2019s up to you.",
+                "date": "2024-03-08",
+                "value": 18,
+                "potential_idea": "Allow players to freely choose and switch between different religions within the game rather than being restricted to a single starting option.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "The ads never end giving you the reward, it\u2019s entertaining wasting my time like that for no reason. There\u2019s literally not even an option for customer support, it looks like delusionally they expect you to make a discord account to get any \u2018support\u2019. This\u2019s also a very unrealistic game. It should be titled religion or cult simulator since it has nothing to do with Christ the only God. Don\u2019t waste your time with this.",
+                "date": "2024-03-05",
+                "value": 15,
+                "potential_idea": "Develop a mobile game that accurately simulates religious or cult practices, distinct from Abrahamic religions, and offers in-app customer support.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "So far your game is pretty fun but then I would like to add some suggestion, can you add new different world layout? That would fascinate the exp of players and and fantasy layout too for elves or dwarves and other fantasy race, that would give the so much uniqueness and diversity in the game. And lastly please fix the bug and don\u2019t be too hard on adds because I don\u2019t want to play a game where every 20 sec I gotta watch the adds that takes 30-1min long which is crazy. So for now I would be generous to give 2 stars.",
+                "date": "2023-12-04",
+                "value": 75,
+                "potential_idea": "Introduce customizable fantasy world layouts themed around different races (e.g., elves, dwarves) to enhance player experience and game diversity.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "Downloaded and it didn\u2019t work",
+                "date": "2023-11-26",
+                "value": 5,
+                "potential_idea": "Implement robust pre-launch testing and improve app stability to prevent immediate crashes upon download.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "I can\u2019t play the game because every time I open the game it force closes.",
+                "date": "2023-11-25",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to identify and fix the root cause of persistent game crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "The game looked very interesting so I downloaded it but when I tried to make a game it kept kicking me out of the game at the part where you name your religion \nIf I was able to play it I would give it a higher rating but I can\u2019t \nFix your game.",
+                "date": "2023-11-24",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and debugging tools to prevent crashes during critical game setup phases.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "It keeps closing without me even doing anything",
+                "date": "2023-11-24",
+                "value": 15,
+                "potential_idea": "Implement robust background process management and crash reporting to ensure app stability and user retention.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Ok so for some reason every time I get on the game after like 30seconds or so it kicks me out of the game and repeat so yeah, can you try and fix this bug plz. (Ps I\u2019m on mobile)",
+                "date": "2023-11-24",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and stability testing to prevent frequent game crashes on mobile devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "I heard a lot of good things about this game but there\u2019s this one thing I try to login but it\u2019s not it never does let me login I can\u2019t get past the name religion part please fix",
+                "date": "2023-11-23",
+                "value": 15,
+                "potential_idea": "Fix the login issue preventing users from accessing the game after the 'name religion' selection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "When I first open up the game it kicks me out it happens before on my other phone to so if you are able to fix that glitch that would be very helpful. Also even if I get past the menus it gives you like two seconds to click any button before it kicks you out.",
+                "date": "2023-11-22",
+                "value": 12,
+                "potential_idea": "Implement automatic retry or a longer grace period for button presses in a game to prevent immediate crashes and ensure gameplay accessibility.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "I can\u2019t play this because it keeps kicking me out instantly I mean instantly I go into it and it kicks me out on the losing screen it\u2019s the same thing for my friend to",
+                "date": "2023-11-22",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and stability testing to prevent instant crashes upon app launch or during gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "I have tried to run the game multiple times but after loading it shuts it down and won\u2019t let me play. I\u2019d suggest figuring out this problem, as of the fact I have also seen many other negative reviews saying the same things. Please, if you can, fix your game. I\u2019d love to play it, but in it\u2019s current state, I can\u2019t.",
+                "date": "2023-11-21",
+                "value": 20,
+                "potential_idea": "Implement robust error handling and stability improvements to prevent the game from crashing during loading, addressing widespread user complaints.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Doesn\u2019t seem to be compatible with iPad gen 10. Crashes 5 seconds after loading, every time.",
+                "date": "2023-11-21",
+                "value": 15,
+                "potential_idea": "Ensure app compatibility and stability on newer iPad generations, specifically the iPad Gen 10.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "The game doesn\u2019t even work and it makes a buzzing sound and then it just exits the out of the game and it pisses me off",
+                "date": "2023-11-19",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and debugging tools to prevent game crashes and address audio glitches.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "It don\u2019t work I can\u2019t even be in the game for more than 10 seconds. I\u2019ve had this game before and it worked just fine. It doesn\u2019t anymore",
+                "date": "2023-11-18",
+                "value": 15,
+                "potential_idea": "Implement robust bug testing and rollback mechanisms for game updates to prevent performance degradation and game crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 1,
+                "review": "Iv downloaded and deleted multiple times and still won\u2019t even let me start the game. 10 seconds after I select the game it just force closed and that\u2019s it. Not even worth trying to download",
+                "date": "2023-11-18",
+                "value": 15,
+                "potential_idea": "A robust pre-launch diagnostic tool to identify and resolve game crashes before the user experiences them.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Religion inc. God Simulator",
+                "rating": 2,
+                "review": "The game crashes within 10 seconds of booting up, can\u2019t get past choosing a religion and difficulty without crashing and having to reload. Even if I do nothing and just sit idle on the home screen it still crashes just as quickly. Like I said I\u2019d really like to play this game, it looks unique and fun but trying 5 times in a row to race into the game before it crashes is very unwelcoming upon first impression",
+                "date": "2023-11-18",
+                "value": 18,
+                "potential_idea": "Implement robust crash reporting and automated debugging tools to identify and resolve persistent game crashes.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "388857410",
+        "name": "Blackjack & Card Counting Pro",
+        "url": "https://apps.apple.com/us/app/blackjack-card-counting-pro/id388857410?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "This is terrible app I wish I could get my money back for it idk why I purchased it , i does not teach you anything at all you just play play jack and they call it training I need a refund somehow \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f",
+                "date": "2025-09-10",
+                "value": 45,
+                "potential_idea": "Implement a structured, lesson-based learning module alongside gamified exercises in training apps to ensure genuine skill acquisition.",
+                "tags": []
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "I didn\u2019t know it was just some notification saying what they suggested on. I thought it was going to explain very play if what is statically accurate to split, hit, stand, and double.. I would see a refund would be nice",
+                "date": "2025-09-09",
+                "value": 75,
+                "potential_idea": "In-app explanations for card game strategy suggestions, detailing the statistical accuracy of different plays.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 2,
+                "review": "The training is ok. No single deck. Dealer gets bj and 21 10x as many times as player. Just like Vegas. Don\u2019t buy.",
+                "date": "2025-08-04",
+                "value": 65,
+                "potential_idea": "Implement a 'no single deck' option in the blackjack trainer to simulate realistic casino odds and improve player training.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "Running count is wrong im playing 2 hands, i got 7,5 jack,2 and dealer is showing 5  but its saying running count is 0",
+                "date": "2025-05-23",
+                "value": 18,
+                "potential_idea": "Implement an interactive blackjack card counting trainer that visually displays hands and allows users to input cards for real-time count verification.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 2,
+                "review": "This is a good app don\u2019t get me wrong, helpful for beginners. It is simply just not worth $5. Once I bought the app, the most helpful feature was speed counting practice, but guess what? I HAD TO PAY FOR IT after paying to even download the app. Your $5 just lets you play fake blackjack and gives you a counter on the side, which yeah is helpful when trying to learn to count. But accessibility is poor (can\u2019t check count in between hands to double check if I am on track or not) and it is just overwhelmingly underdeveloped and in this day and age, $5 is such an overrated price for a simulation with like 3 features. $2 at best (Including ALL features).",
+                "date": "2025-05-14",
+                "value": 12,
+                "potential_idea": "Implement a free tier for basic Blackjack simulation with speed counting practice, gating advanced features or full content behind a one-time purchase or subscription.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "No sound, does not gamify the process of learning counting- boring, bland, not intuitive- even after you pay, one mode is still pay walled",
+                "date": "2025-05-05",
+                "value": 75,
+                "potential_idea": "Implement gamified learning modules for counting with sound and interactive elements, making the learning process engaging and accessible without further paywalls.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "App will not leave you alone until you give it a review. While I enjoy the app and I am having fun using it I don\u2019t like being forced. Don\u2019t RAPE me for reviews.",
+                "date": "2025-03-30",
+                "value": 75,
+                "potential_idea": "Implement a less intrusive and user-configurable review prompt system within the app that allows users to opt-out or set their preferred review frequency.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "Do not waste your money. There are other apps way more effective and realistic",
+                "date": "2025-03-29",
+                "value": 50,
+                "potential_idea": "Develop a mobile app offering a more effective and realistic alternative to the current app.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "My dealer is so lucky he currently hasn\u2019t busted in 21 hands",
+                "date": "2025-03-19",
+                "value": 65,
+                "potential_idea": "Implement a streak tracker for users to monitor their winning or losing streaks in games like poker or blackjack within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Blackjack & Card Counting Pro",
+                "rating": 1,
+                "review": "For a premium app, it has a lot of missing features and feels very bare bones. With only links to YouTube vids on how to count cards besides telling what to play on certain hands. I feel somewhat cheated by this app. It will only correct you on misplayed hands yet most of the time when I follow said \u201chelp\u201d I lose the hands more often than not. Very underwhelming experience.",
+                "date": "2025-01-31",
+                "value": 75,
+                "potential_idea": "Develop an advanced blackjack training app that offers interactive simulations with real-time feedback on betting strategies and card counting principles, going beyond basic hand suggestions.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "357421934",
+        "name": "PeakFinder",
+        "url": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "This app is utter nonsense and not worth the money.",
+                "date": "2025-09-29",
+                "value": 5,
+                "potential_idea": "Develop an app that clearly articulates its value proposition and justifies its cost to users.",
+                "tags": []
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I\u2019m in Washington pointing my phone right at Mt Baker and the app is giving me the names of peaks in Canada.",
+                "date": "2025-07-13",
+                "value": 75,
+                "potential_idea": "Improve GPS accuracy and cross-referencing with topographical data for better peak identification, especially in border regions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Never seems to orient itself correctly without manual intervention.",
+                "date": "2025-06-19",
+                "value": 15,
+                "potential_idea": "Implement an automatic compass calibration feature for the app to ensure accurate orientation without user input.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "\u65e0\u6cd5\u4f7f\u7528",
+                "date": "2025-06-16",
+                "value": 15,
+                "potential_idea": "Investigate and fix the critical bug preventing the app from being used, likely related to core functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I bought this app to identify mountains in the Denver metro area. I can\u2019t get it to work, wish there was a tutorial. I can\u2019t get the photo overlay to work. Very frustrating!",
+                "date": "2025-04-21",
+                "value": 20,
+                "potential_idea": "Implement an interactive onboarding tutorial and troubleshoot common issues like photo overlay functionality to improve user experience and guide initial engagement.",
+                "tags": [
+                    "niche demand",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Downloaded and tried to use in WV with lots of prominent peaks nearby and visible. It showed a couple of lesser peaks and not much else. Also the graphic indicating peaks was many, many degrees off. I\u2019m sorry I wasted five bucks on this worthless app.",
+                "date": "2025-02-23",
+                "value": 70,
+                "potential_idea": "Develop a more accurate and comprehensive peak detection feature for outdoor enthusiasts that accounts for elevation data and user location to identify notable nearby peaks.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "This app has not worked in the entire NW.",
+                "date": "2024-07-19",
+                "value": 5,
+                "potential_idea": "Implement geo-fencing to ensure app functionality is restricted to or enabled in specific geographical regions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Got this because I live in central California right by the Sierra Nevada Mountain Range off of the 99 and 5 Freeways.  Where I am at, you can see the string of 14ers, starting with Mt. Langley.  The app does NOT detect any of them.  Also, was just on the 97 in NorCal with Mt. Shasta literally hulking right next to me on the Freeway.  No dice!!!  It did not detect it.  It has only ever picked up little mountains that you are close to.  I thought maybe I was too far away, but when I was right next to Shasta and the app didn\u2019t detect it, I was pretty much done with it.",
+                "date": "2024-06-24",
+                "value": 75,
+                "potential_idea": "Implement automatic detection of prominent mountain peaks within a wider radius, especially iconic ones like those in the Sierra Nevada and Cascade ranges, based on user location.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "Doesn\u2019t show me any mountains",
+                "date": "2024-06-11",
+                "value": 65,
+                "potential_idea": "Allow users to filter hiking trails or points of interest by specific geographical features, such as mountains.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "It seems 30-70\u2019 off all the time",
+                "date": "2024-06-09",
+                "value": 15,
+                "potential_idea": "Implement an AI-powered calibration feature that automatically adjusts the app's accuracy based on real-world data and user feedback.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I know where certain peaks are and this app is off. That is terrible",
+                "date": "2024-05-25",
+                "value": 15,
+                "potential_idea": "Implement a real-time geolocation correction feature to ensure accurate peak identification in the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "PeakFinder",
+                "rating": 1,
+                "review": "I would recommend not to update the app. It is not accurate anymore. And really hard to read any mountain now. \nThey should of never made any changes.",
+                "date": "2024-05-20",
+                "value": 15,
+                "potential_idea": "Revert the app to its previous stable version or offer a 'classic mode' for users who preferred the older interface and accuracy.",
                 "tags": [
                     "bug"
                 ]
