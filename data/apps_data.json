@@ -12720,5 +12720,205 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "6738784151",
+        "name": "A Little to the Left: Stars",
+        "url": "https://apps.apple.com/us/app/a-little-to-the-left-stars/id6738784151?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "A Little to the Left: Stars",
+                "rating": 1,
+                "review": "Buggy, unable to play beyond level 24 after paying 5 bucks for this stupid game",
+                "date": "2025-06-13",
+                "value": 15,
+                "potential_idea": "Implement a robust in-game support or bug reporting system that allows users to easily report issues and receive timely assistance, especially after in-app purchases.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "741990930",
+        "name": "Walkout Song DJ",
+        "url": "https://apps.apple.com/us/app/walkout-song-dj/id741990930?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "Doesn\u2019t work you can\u2019t use Spotify or  Apple Music",
+                "date": "2025-08-23",
+                "value": 15,
+                "potential_idea": "Integrate Spotify and Apple Music playback controls directly within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "This app is sad and the voice you can choose from are horrible !!! Don't buy",
+                "date": "2025-08-07",
+                "value": 15,
+                "potential_idea": "Introduce a wider and higher-quality selection of voice options for app narration or character voices.",
+                "tags": []
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "I\u2019ve tried everything that I can find on how to get songs from iTunes, I can\u2019t even get the iTunes app to open. Paid for the app and can\u2019t even use it.",
+                "date": "2025-05-24",
+                "value": 15,
+                "potential_idea": "Develop a robust troubleshooting guide and automated diagnostic tool within the app to help users resolve common issues like app crashes or inability to open.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 2,
+                "review": "Another mom created the playlist and sent me the file and so while I can see all the players and their songs and specifics, it will not sync with the music on my same music app.",
+                "date": "2025-03-22",
+                "value": 75,
+                "potential_idea": "Enable users to import and sync music playlists from external files directly into the app's music library.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 2,
+                "review": "In between player selection says it\u2019s waking speaker for a long period of time and just crashes, have to force restart it to just get it to work right for only the next player or 2 then doing it all over again. Volume between each announcement constantly has to be readjusted because it\u2019s all over the place it\u2019s either too loud or almost completely off. I use 2 PartyBox jbl speakers for our team and have tried to switch to other speakers to see if mine were the issue and still having the same things happen. Sad something so basic has become so infuriating that I\u2019m now looking elsewhere.",
+                "date": "2025-03-21",
+                "value": 75,
+                "potential_idea": "Implement robust and consistent audio volume synchronization and management for multi-speaker setups, preventing crashes during player announcements and ensuring stable volume levels.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "Not working well at all- glitchy and freezing :(",
+                "date": "2025-03-08",
+                "value": 18,
+                "potential_idea": "Improve app stability and performance by implementing robust error handling and optimization techniques to eliminate glitches and freezing.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "It\u2019s creating a weird 5 second gap between song and announcer now. It wasn\u2019t doing that earlier today and we have back to back games this weekend",
+                "date": "2024-09-21",
+                "value": 12,
+                "potential_idea": "Implement an automatic synchronization feature to eliminate audio gaps between music and voiceovers in live-streaming content.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "I would have never bought this app had I realized I had to have Apple Music and it is not compatible with Spotify or Amazon music!",
+                "date": "2024-06-09",
+                "value": 75,
+                "potential_idea": "Integrate with popular music streaming services like Spotify and Amazon Music to allow users to use their existing libraries.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "This app doesn\u2019t have its own library of songs and you need an Apple Music account. Website is very deceiving.  I just donated $6.",
+                "date": "2024-05-15",
+                "value": 15,
+                "potential_idea": "Integrate a curated, in-app library of royalty-free music or offer a freemium model with basic song access to reduce reliance on external subscriptions.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "I downloaded this app and I deleted it because I did not want to pay so I had deleted it but I still got charged 5$ even though I never even I think this is outrageous that I got charged.",
+                "date": "2024-04-19",
+                "value": 15,
+                "potential_idea": "Implement a clearer and more prominent preview of subscription costs and trial terms before users enter payment details to prevent accidental charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "Not worth it! It\u2019s computer voice!! No fun!",
+                "date": "2023-10-28",
+                "value": 55,
+                "potential_idea": "Integrate more engaging and fun voice options for app interactions, moving beyond standard synthesized voices.",
+                "tags": []
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "The voices are horrible",
+                "date": "2023-10-16",
+                "value": 15,
+                "potential_idea": "Offer a selection of higher-quality, more natural-sounding voice options for app narration and prompts.",
+                "tags": []
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "Half the voices didn\u2019t work in the English option.   It was speaking things that weren\u2019t selected.",
+                "date": "2023-06-30",
+                "value": 15,
+                "potential_idea": "Implement robust audio playback testing within the app to ensure all voice options function correctly and accurately reflect selected content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "iTunes is required! After you pay to get the app, you have to pay to get music too unless you have iTunes.",
+                "date": "2023-05-12",
+                "value": 75,
+                "potential_idea": "Allow users to import music directly from their device storage or cloud services within the app, bypassing the need for iTunes.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "Terrible APP and it glitches",
+                "date": "2023-05-10",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and bug reporting within the app to improve stability.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Walkout Song DJ",
+                "rating": 1,
+                "review": "i downloaded the app then realized it didn\u2019t support spotify",
+                "date": "2023-05-06",
+                "value": 15,
+                "potential_idea": "Integrate Spotify playback and library management directly within the app.",
+                "tags": [
+                    "niche demand"
+                ]
+            }
+        ]
     }
 ]
