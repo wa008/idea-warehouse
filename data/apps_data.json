@@ -861,90 +861,6 @@
         ]
     },
     {
-        "id": "6449003064",
-        "name": "Goblin Tools",
-        "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Goblin Tools",
-                "rating": 2,
-                "review": "Cool concept. Bought it a year ago, used it a few times. Doesn\u2019t work with the latest iOS update (26). The app only works on half the screen, the bottom is a blank white background. Plus it hasn\u2019t been updated by devs in 2+ years. Skip this app\u2014save your money.",
-                "date": "2025-09-28",
-                "value": 12,
-                "potential_idea": "Develop a mobile app synchronization tool that ensures app compatibility with new operating system updates.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Goblin Tools",
-                "rating": 1,
-                "review": "GIGO. Laughably bad. Example: breaking down cleaning for someone with ADHD. You can break down each task but all it does is spit out the same comments over and over only slightly more detailed. It doesn't give you a plan, or timelines, or tell you how to schedule cleaning, or help tell you what cleaning supplies to use on what surfaces. It's typical AI GIGO. I deleted the app even though I paid for it that's how bad it was LOL!",
-                "date": "2025-08-26",
-                "value": 85,
-                "potential_idea": "Develop an AI-powered app specifically designed for users with ADHD that provides personalized task breakdown, scheduling assistance, and practical recommendations for cleaning supplies and techniques.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Goblin Tools",
-                "rating": 1,
-                "review": "Constantly crashes. I liked the idea of this app, but it\u2019s unusable on a iPhone 16 with the latest IOS",
-                "date": "2025-08-06",
-                "value": 15,
-                "potential_idea": "Stabilize the app to prevent crashes on newer iPhone models with the latest iOS.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Goblin Tools",
-                "rating": 2,
-                "review": "\ud83d\ude01",
-                "date": "2025-07-27",
-                "value": 10,
-                "potential_idea": "Add a simple emoji-only feedback option for users who want to quickly express their satisfaction or dissatisfaction.",
-                "tags": []
-            },
-            {
-                "app_name": "Goblin Tools",
-                "rating": 1,
-                "review": "The application frequently crashes and displays the message \"Error occurred while converting your text.\" Please address this bug at your earliest convenience. The desktop version functions without issues.",
-                "date": "2025-05-19",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and recovery mechanisms for text conversion to prevent crashes and inform users of specific issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Goblin Tools",
-                "rating": 1,
-                "review": "I use the desktop version all the time but the app crashes any time I try to open it and go to anything like formalizer. I\u2019m very disappointed.",
-                "date": "2025-05-04",
-                "value": 15,
-                "potential_idea": "Improve app stability and performance to prevent crashes, especially when accessing specific features like the 'formalizer'.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Goblin Tools",
-                "rating": 1,
-                "review": "Love the app but it keeps crashing!!! Can't seem to get any support.",
-                "date": "2025-04-17",
-                "value": 14,
-                "potential_idea": "Integrate an in-app button to submit crash reports and request support directly to developers.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "435871950",
         "name": "HappyCow - Vegan Food Near You",
         "url": "https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950?uo=2",
@@ -1460,553 +1376,6 @@
                 "tags": [
                     "bug",
                     "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6444400410",
-        "name": "Farming Simulator 23 Mobile",
-        "url": "https://apps.apple.com/us/app/farming-simulator-23-mobile/id6444400410?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Farming Simulator 23 Mobile",
-                "rating": 1,
-                "review": "I was at the part where h get the header for the vehicle and then I finished that part and I\u2019m not getting told what to do and I\u2019m just driving around the field with the thing down and I don\u2019t see anything happening and nobody is telling me what to do.",
-                "date": "2025-07-17",
-                "value": 68,
-                "potential_idea": "An in-game guidance system that provides optional, context-sensitive hints or a progress compass when a player is stuck or has been inactive for a set period.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Farming Simulator 23 Mobile",
-                "rating": 1,
-                "review": "I was able to make millions using soy beans. And now I have a tractor for every container or plow (never have to disconnect)\n and I divide up my farm into four sections (upper left, upper right, lower left, and  lower right) which I farm during each month as I change sections that I am working on (while fertilizing the previous section also as I work clockwise) This is a casual and relaxing game highly recommended for low stress cozy gamers. Also, I store all my soy beans to sell in June in large containers with trucks attached and just park and sit them until June. I also have dedicated plows for each of the four sections with tractors attached and all small fertilizers have a mini tractor attached to it as do all of my transport container.\n\nI literally do not have to disconnect or connect anything every month. I just get in the tractor and work.\n\nI recommend doing the German farm into four sections as it is easier.",
-                "date": "2025-06-30",
-                "value": 15,
-                "potential_idea": "The app could introduce an 'auto-management' mode that automates routine tasks like connecting/disconnecting equipment and allocating resources based on user-defined schedules or economic triggers.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Farming Simulator 23 Mobile",
-                "rating": 1,
-                "review": "I love farm sim but why do I have to pay extra for other/ bigger tractors it\u2019s just stupid they Already make a lot of money off of the pc and console version?",
-                "date": "2025-05-22",
-                "value": 12,
-                "potential_idea": "Unlock all tractor customizations and upgrades with a one-time purchase or for free to enhance player experience in the mobile farm simulator.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Farming Simulator 23 Mobile",
-                "rating": 1,
-                "review": "It looks like you went backwards in time cause fs 18 is way better than this game u removed loader tractors hired workers sometimes hav a hangover cause they forget where they shod plant/cultivate etc in field 2 in particular they back up about 3/4 of the field then turn around and go back so part of the field doesn\u2019t get planted/cultivated\nAlso how the trees are cut way too high I want to like drive over the stumps without getting caught\nAlso when cutting the trees nt relistic in fs 18 it like cut it and we got to watch it all\nAgain fs 18 is way better",
-                "date": "2025-05-09",
-                "value": 45,
-                "potential_idea": "Implement more realistic and engaging tree cutting physics and animations to enhance immersion, similar to a previous version of the game.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "891194610",
-        "name": "Earn to Die 2",
-        "url": "https://apps.apple.com/us/app/earn-to-die-2/id891194610?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 2,
-                "review": "The only thing worse than P2W is P2W behind the guise of a quality game paid once. For shame.",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "Implement a clear and transparent 'pay-once' model for mobile games that explicitly avoids pay-to-win mechanics and in-app purchases.",
-                "tags": []
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 2,
-                "review": "The first one is probably one of my favorite and most satisfying games to play. This has been since i was a little kid. In this game, progression takes way too long, they spam boxes everywhere, and there isn\u2019t really many fun places to waste all of your boost like in the first one. The variety is definitely cool but after a while this game gets really boring and repetitive. The first one had way better pacing.",
-                "date": "2025-08-26",
-                "value": 65,
-                "potential_idea": "Introduce a faster progression system and more engaging level designs to combat boredom and repetition in the game.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "This game wouldn\u2019t be worth downloading if it was free, let alone spending money on it. Very lazy and boring design, you play the same level over and over upgrading your car to get a few meters further each time until you are so bored of the level, then you beat it and have to start all over from scratch with a new car. Very repetitive and BORING",
-                "date": "2025-08-24",
-                "value": 75,
-                "potential_idea": "Introduce a progression system that unlocks new game mechanics or challenges instead of just incremental car upgrades after completing levels.",
-                "tags": []
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "No meaningful upgrades or sense of progression",
-                "date": "2025-07-28",
-                "value": 15,
-                "potential_idea": "Implement a structured progression system with unlockable features, levels, or achievements to provide users with a clear sense of accomplishment and progress.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 2,
-                "review": "The game itself is alright but not as good as the first. The game progression takes double the time and whoever the level editor was put way to many boxes and obstacles in the levels. Like why are there so many I\u2019ve gotten stuck on so many of the boxes and crates to where I burn more fuel trying to get over them and lose fuel to make it to the end.\n\nI\u2019m sure that\u2019s the point but it makes the levels harder then they need to be",
-                "date": "2025-07-23",
-                "value": 70,
-                "potential_idea": "Introduce an adjustable difficulty setting or a 'fuel-saving' mode that reduces the number of obstacles in levels to improve game progression speed.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "It\u2019s a big pay to win game. Don\u2019t waste your time",
-                "date": "2025-03-20",
-                "value": 15,
-                "potential_idea": "Develop a mobile game with a transparent, non-predatory monetization model that prioritizes fair play and skill over spending.",
-                "tags": []
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 2,
-                "review": "Bad game",
-                "date": "2025-01-10",
-                "value": 0,
-                "potential_idea": "N/A - Review is too vague to generate a meaningful idea.",
-                "tags": []
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "Skip this game, it\u2019s extremely repetitive and really not fun at all in my option. You\u2019re stuck using the same stupid car the entire level, no option at all to upgrade to the next one. You also have to upgrade things in perfect sequence, it use to be you could pick the engine you want out, which would involve saving money for a good one. This one you have to upgrade the original engine and it takes 10X as long but doesn\u2019t really improve each upgrade. 1 full run will give you MAYBE 1 bar of upgrades out of like 10. So 10 runs to upgrade one area of your vehicle. Which there is like 7. The first game was just dumb, easy, super fun, and simple. This one is over complicated to a whole new level when the first game was totally perfect.",
-                "date": "2025-01-02",
-                "value": 55,
-                "potential_idea": "Reintroduce flexible car upgrade paths and a more rewarding progression system inspired by the first game.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "It says it costs 32 cents then it charges you $32.99. Do not buy",
-                "date": "2024-12-31",
-                "value": 20,
-                "potential_idea": "Implement a transparent and clearly displayed pricing model with an in-app confirmation step before any charges are processed to prevent accidental or misleading charges.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 2,
-                "review": "This game is all about driving for a while and going back to upgrade to get slightly further. You have to repeat the same cycle many times to finish a level and get penalized by a nicer-looking car with much inferior performance. It loses momentum, doesn\u2019t need any particular skills, and fails to entertain me.",
-                "date": "2024-11-23",
-                "value": 60,
-                "potential_idea": "Introduce a 'race against yourself' mode that allows players to compete against ghost replays of their previous runs to add a skill-based challenge and replayability.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "i\u2019ll begin with the improvements this game brings\u2026 vehicles now have destruction which can cause unique runs. also levels are now broken up in 2 or 3 parts with a gas stations, which in turn causes levels to be much longer\n\nnow the bad\u2026 the levels are all designs the same, like the exacts same, same looping background and your on the same highway environment the entire time, wayyy more boring then the first game. also can only get the next vehicles by completing the level, and once you obtain them, you cannot go back to your previous vehicle. because of this you pretty much go the same speed the entire game, the game gets exactly progressively harder with the upgrade of your vehicle, you\u2019ll never have a run that feels particularly impressive\n\ntry it for yourself if you want, it\u2019s cheap and it\u2019s slightly different then the first game, but overall wayy less overall content and far more stale overall gameplay with absolutely zero way to boost progression, you will always need to upgrade your vehicle to a certain point",
-                "date": "2024-07-01",
-                "value": 82,
-                "potential_idea": "Introduce a vehicle customization system that allows players to upgrade or change specific parts of their vehicles, regardless of level progression, and offer a 'garage mode' for replayability.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "Y\u2019all are finally coming out with a new game. Finally!!\nSo there should be no excuses for the game being trash",
-                "date": "2024-04-26",
-                "value": 15,
-                "potential_idea": "Develop a pre-launch quality assurance program with beta testing feedback to ensure the new game meets high user expectations.",
-                "tags": [
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 2,
-                "review": "Game says $0.29 got charged $7.72",
-                "date": "2024-04-10",
-                "value": 15,
-                "potential_idea": "Implement robust in-app purchase verification and clear pricing displays to prevent accidental overcharging.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "Just bought the game and already experiencing freezing only for a little while really annoying, please fix.",
-                "date": "2024-03-05",
-                "value": 15,
-                "potential_idea": "Implement robust bug reporting and in-game feedback system for players to easily report issues like freezing.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "The game involuntarily reset my progress, the only solution was to buy their second version what the f****ck?!",
-                "date": "2023-12-20",
-                "value": 65,
-                "potential_idea": "Implement a robust cloud save system to prevent in-game progress loss and avoid forcing users to purchase upgraded versions to recover data.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "what the title said^",
-                "date": "2023-10-25",
-                "value": 0,
-                "potential_idea": "It's impossible to provide a meaningful idea or value assessment without knowing what the title of the review says. Please provide the full review including the title.",
-                "tags": []
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "Every time I get to the loading screen it kicks me off !",
-                "date": "2023-10-23",
-                "value": 10,
-                "potential_idea": "Implement robust error handling and fallback mechanisms to prevent app crashes during loading.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Earn to Die 2",
-                "rating": 1,
-                "review": "crashes on start with ios 17",
-                "date": "2023-10-20",
-                "value": 10,
-                "potential_idea": "Improve app stability and compatibility with the latest iOS versions, specifically addressing the reported crash on startup with iOS 17.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1093131935",
-        "name": "Incredibox",
-        "url": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Incredibox",
-                "rating": 1,
-                "review": "The user interface is clunky, no way to actually make your own sounds. Everything is a canned noise that all you do is turn on or off. Maybe this is music making for today\u2019s kids, but if you\u2019re looking for truly creative music making, I recommend the Figure app by reasons.",
-                "date": "2025-09-25",
-                "value": 75,
-                "potential_idea": "Introduce a sound synthesis or sample import feature for users to create their own unique sounds within the app, moving beyond pre-set noises.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1491530147",
-        "name": "Slay the Spire",
-        "url": "https://apps.apple.com/us/app/slay-the-spire/id1491530147?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "Sadly I recommend against purchasing StS for iPhone.  The touch controls are highly unreliable.  I have fairly slender fingers and I\u2019m dextrous, using iPhone 13 Pro Max, and even when being very careful selecting cards, I still miss fairly often.  The 2nd to left-most card is super difficult to select to discard.  Selecting a card to discard will often result in the wrong card being thrown away, regardless of how careful you are to touch it directly.  Also, after touching a card, it remains weirdly \u201csticky\u201d \u2014 i.e. it often won\u2019t go back into your hand, and you have to carefully click around your other cards, hoping to deselect it, lest it be played.  The issues are fairly constant; definitely recommend not spending $10 on this.  Just play on PC.",
-                "date": "2025-09-12",
-                "value": 65,
-                "potential_idea": "Implement an enhanced touch target system for card selection in mobile games, widening the touch area or providing visual feedback before a card is locked into discard.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 1,
-                "review": "Terrible controls, unplayable.",
-                "date": "2025-08-29",
-                "value": 15,
-                "potential_idea": "Implement an in-app tutorial or customizable control scheme to make the mobile game more accessible.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "I adore this game, have sunk a ridiculous amount of hours into it but wanted to come leave some feedback for the devs that the latest update has added a lot of frustration to my experience on iOS (iPhone XS if it matters). Cards in my hand have gotten super sticky - very often when I tap to select they don\u2019t rise high enough up to be able to read the text and I\u2019ll have to tap them up and down 3 or 4 times, often have to tap a different card and go back to it before it\u2019ll pop up properly. \n\nI\u2019m methodical enough that it hasn\u2019t led to too many misplays, and I\u2019m never too proud to scum save when it does\u2026but it does make my turns take a lot longer and adds a lot of extra tapping and frustration. \n\nIt was running fine for years so I was surprised to see anything change this late into the game. So while on one hand I\u2019m happy to see this game is still getting some dev love on mobile, on the other all it\u2019s caused me is grief lol so hopefully they\u2019re still up for some more tweaking! It\u2019ll be an easy 5 stars with this one gripe fixed. Thanks!",
-                "date": "2025-08-28",
-                "value": 50,
-                "potential_idea": "Implement an enhanced touch sensitivity and selection mechanism for cards in hand to prevent 'sticky' card behavior and ensure immediate readability.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "huge fan of slay the spire, but the low framerate in this version makes it really difficult to do precise card interactions and makes playing much more of a chore than it needs to be. even on the newest iphone 16s,\nframerate still lags, so seems like a developer update is badly needed.",
-                "date": "2025-07-22",
-                "value": 80,
-                "potential_idea": "Optimize the mobile app's performance and framerate to ensure smooth and responsive card interactions, especially for demanding games like Slay the Spire.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "Have played this on PC & Android with no issues & loved it. Just got an IPhone & the experience is notably worse. Incredible game, just a bad experience on IOS.",
-                "date": "2025-07-19",
-                "value": {
-                    "intensity": 20,
-                    "difference": 5,
-                    "scope": 20,
-                    "feasibility": 15,
-                    "total": 60
-                },
-                "potential_idea": "Enhance the iOS version of the game to match the performance and user experience of the PC and Android versions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 1,
-                "review": "The writing size is too small.",
-                "date": "2025-05-06",
-                "value": 80,
-                "potential_idea": "Allow users to adjust font size within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 1,
-                "review": "Can't proceed because the finish turn button not working",
-                "date": "2025-03-17",
-                "value": 15,
-                "potential_idea": "Implement robust bug reporting and user feedback mechanisms within the app to quickly identify and address critical issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "I just found out that crucial cards are not being unlocked. This app is abandoned and broken.",
-                "date": "2025-02-04",
-                "value": 15,
-                "potential_idea": "Implement an automated system to detect and notify users about broken or inaccessible features within the app.",
-                "tags": [
-                    "no update for long time",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Slay the Spire",
-                "rating": 2,
-                "review": "I see why so many people swear by this game, but the number of times I\u2019ve \u2018accidentally\u2019 played a card I didn\u2019t intend to due to the faulty user interface is just inexcusable. I doubt this game will receive updates to fix any of its issues with the sequel just around the corner, so I\u2019d recommend folks just wait for that.",
-                "date": "2025-01-06",
-                "value": 45,
-                "potential_idea": "Improve the in-game user interface to prevent accidental card plays, potentially with a confirmation step for critical actions.",
-                "tags": [
-                    "bug",
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "404990064",
-        "name": "SkyView\u00ae",
-        "url": "https://apps.apple.com/us/app/skyview/id404990064?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "This tells you that you'll get all the bells and whistles when it's no different from the lite version, i wasted 5 dollars on this app compared to downloading the free version. Do not waste your money on this just get skyview lite it's the same exact app same displays of planets stars and objects and trajectories of said medium it just doesn't cost you 5 dollars for no reason at all. Very disappointed with my purchase",
-                "date": "2025-10-02",
-                "value": 18,
-                "potential_idea": "Clearly differentiate premium app features from the free 'lite' version or offer a more substantial upgrade that justifies the cost.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I\u2019ve tried deleting and reinstalling several times. I\u2019ve restarted my phone. I\u2019ve played with the calibration. The app just refuses to work. I\u2019ve had this app forever and it\u2019s always been one of my favorites. My kids and I love finding the planets. Please fix this app so I can update my review!",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "A robust diagnostic tool within the app to help users troubleshoot persistent issues themselves.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "I really wanted to see where the JWST is floating in space but was disappointed to find that it is no yet integrated into the app. Other than that I enjoy anything space related and this app gives me the opportunity to see where the heavenly bodies are!",
-                "date": "2025-08-28",
-                "value": 75,
-                "potential_idea": "Integrate real-time JWST location tracking into the space exploration app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "I really like this app for its clear, uncluttered view of the night sky. Unfortunately, the real stars are rarely where SkyView says they are. Tonight, it showed the Big Dipper at due north. If someone knows how to accurately calibrate this app, please let me know. Waving it in a figure 8 doesn\u2019t seem to work.",
-                "date": "2025-07-30",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 20,
-                    "feasibility": 15,
-                    "total": 70
-                },
-                "potential_idea": "Implement an advanced, user-guided calibration tool that helps users accurately align the app's star positions with the real night sky, going beyond simple figure-8 motions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "Love this app. But it\u2019s not locating correctly on my phone. Help!",
-                "date": "2025-04-27",
-                "value": 15,
-                "potential_idea": "Implement a 'manual location correction' feature allowing users to manually set or adjust their location when automatic detection fails.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I\u2019ve paid for the upgraded version and it will not be in the correct orientation.",
-                "date": "2025-03-05",
-                "value": 15,
-                "potential_idea": "Implement enhanced device orientation locking functionality with manual override options within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 2,
-                "review": "You used to label the planets. What happened? I paid to use the app. I am extremely disappointed.",
-                "date": "2025-02-28",
-                "value": 75,
-                "potential_idea": "Reintroduce and enhance planet labeling features for educational and astronomical discovery apps, appealing to users who value detailed celestial information.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I bought this because it boasted that it could take augmented pictures of the sky. No matter what I do the camera stays shaded out.",
-                "date": "2025-02-26",
-                "value": 18,
-                "potential_idea": "Implement a robust sky-tracking AR feature that accurately overlays celestial objects and information without camera shading issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "Paid to upgrade and nothing appears like the screenshots. Literally the same as the basic, free version. Don\u2019t waste your money. They won\u2019t approve a refund.",
-                "date": "2025-02-01",
-                "value": 85,
-                "potential_idea": "Implement a clear, feature-differentiated premium version of the app with transparent upgrade benefits accurately reflected in screenshots.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "This app did not work. The app also says it will not refund the $2.99 I paid for it. Scam beware.",
-                "date": "2025-02-01",
-                "value": 15,
-                "potential_idea": "Implement a clear and accessible refund policy and process within the app, especially for paid features, to build user trust and avoid accusations of fraudulent behavior.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "I tried both auto and manual calibration, neither of which was effective. But either way, it couldn\u2019t find the moon, even when I had the camera view enabled and was pointing right at it. This used to be a more reliable app.",
-                "date": "2025-02-01",
-                "value": 65,
-                "potential_idea": "Implement an improved moon-finding algorithm that leverages historical celestial data and user feedback to counter recent reliability issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "Manually calibrating every time open app",
-                "date": "2025-01-21",
-                "value": 15,
-                "potential_idea": "Implement an automatic calibration feature or a 'remember last calibration' setting for the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "SkyView\u00ae",
-                "rating": 1,
-                "review": "Was charged for this app I never wanted and being refused a refund which is insane .",
-                "date": "2025-01-14",
-                "value": 18,
-                "potential_idea": "Implement a clear and straightforward refund policy with an easy-to-access refund request feature within the app.",
-                "tags": [
-                    "bug"
                 ]
             }
         ]
@@ -13039,6 +12408,607 @@
                 "date": "2025-07-15",
                 "value": 55,
                 "potential_idea": "Develop a mobile-optimized control scheme or tiered difficulty setting for mobile players to address the high difficulty mentioned in the review.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6449003064",
+        "name": "Goblin Tools",
+        "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Goblin Tools",
+                "rating": 2,
+                "review": "Cool concept. Bought it a year ago, used it a few times. Doesn\u2019t work with the latest iOS update (26). The app only works on half the screen, the bottom is a blank white background. Plus it hasn\u2019t been updated by devs in 2+ years. Skip this app\u2014save your money.",
+                "date": "2025-09-28",
+                "value": 18,
+                "potential_idea": "An app that automatically adapts its UI to new OS updates to prevent display issues on different screen sizes.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "GIGO. Laughably bad. Example: breaking down cleaning for someone with ADHD. You can break down each task but all it does is spit out the same comments over and over only slightly more detailed. It doesn't give you a plan, or timelines, or tell you how to schedule cleaning, or help tell you what cleaning supplies to use on what surfaces. It's typical AI GIGO. I deleted the app even though I paid for it that's how bad it was LOL!",
+                "date": "2025-08-26",
+                "value": 75,
+                "potential_idea": "Develop an AI-powered ADHD-friendly life management assistant that provides personalized task breakdown, scheduling guidance, and resource recommendations beyond generic advice.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "Constantly crashes. I liked the idea of this app, but it\u2019s unusable on a iPhone 16 with the latest IOS",
+                "date": "2025-08-06",
+                "value": 10,
+                "potential_idea": "Implement robust crash reporting and stability improvements to ensure the app functions reliably on modern devices and operating systems.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 2,
+                "review": "\ud83d\ude01",
+                "date": "2025-07-27",
+                "value": 0,
+                "potential_idea": "This review is too short and lacks information to generate a meaningful potential idea.",
+                "tags": []
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "The application frequently crashes and displays the message \"Error occurred while converting your text.\" Please address this bug at your earliest convenience. The desktop version functions without issues.",
+                "date": "2025-05-19",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and reporting for text conversion failures, ensuring a stable mobile experience comparable to the desktop version.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "I use the desktop version all the time but the app crashes any time I try to open it and go to anything like formalizer. I\u2019m very disappointed.",
+                "date": "2025-05-04",
+                "value": 15,
+                "potential_idea": "Improve app stability and prevent crashes, especially when accessing specific features like 'formalizer', to ensure a seamless user experience comparable to the desktop version.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Goblin Tools",
+                "rating": 1,
+                "review": "Love the app but it keeps crashing!!! Can't seem to get any support.",
+                "date": "2025-04-17",
+                "value": 15,
+                "potential_idea": "Implement a robust in-app customer support system with clear contact options and troubleshooting guides.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6444400410",
+        "name": "Farming Simulator 23 Mobile",
+        "url": "https://apps.apple.com/us/app/farming-simulator-23-mobile/id6444400410?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "I was at the part where h get the header for the vehicle and then I finished that part and I\u2019m not getting told what to do and I\u2019m just driving around the field with the thing down and I don\u2019t see anything happening and nobody is telling me what to do.",
+                "date": "2025-07-17",
+                "value": 18,
+                "potential_idea": "Implement an in-game tutorial or guidance system that provides clear next steps to the player when they are stuck or unsure of what to do.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "I was able to make millions using soy beans. And now I have a tractor for every container or plow (never have to disconnect)\n and I divide up my farm into four sections (upper left, upper right, lower left, and  lower right) which I farm during each month as I change sections that I am working on (while fertilizing the previous section also as I work clockwise) This is a casual and relaxing game highly recommended for low stress cozy gamers. Also, I store all my soy beans to sell in June in large containers with trucks attached and just park and sit them until June. I also have dedicated plows for each of the four sections with tractors attached and all small fertilizers have a mini tractor attached to it as do all of my transport container.\n\nI literally do not have to disconnect or connect anything every month. I just get in the tractor and work.\n\nI recommend doing the German farm into four sections as it is easier.",
+                "date": "2025-06-30",
+                "value": 17,
+                "potential_idea": "Implement an automated farm management system that allows users to pre-assign equipment to specific fields and tasks, eliminating manual connection/disconnection of machinery.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "I love farm sim but why do I have to pay extra for other/ bigger tractors it\u2019s just stupid they Already make a lot of money off of the pc and console version?",
+                "date": "2025-05-22",
+                "value": 16,
+                "potential_idea": "Introduce tiered tractor ownership or unlockable advanced tractors in the mobile farm sim, rather than requiring direct purchase of 'other/bigger' models.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Farming Simulator 23 Mobile",
+                "rating": 1,
+                "review": "It looks like you went backwards in time cause fs 18 is way better than this game u removed loader tractors hired workers sometimes hav a hangover cause they forget where they shod plant/cultivate etc in field 2 in particular they back up about 3/4 of the field then turn around and go back so part of the field doesn\u2019t get planted/cultivated\nAlso how the trees are cut way too high I want to like drive over the stumps without getting caught\nAlso when cutting the trees nt relistic in fs 18 it like cut it and we got to watch it all\nAgain fs 18 is way better",
+                "date": "2025-05-09",
+                "value": 65,
+                "potential_idea": "Enhance AI for hired workers to accurately complete field tasks like planting and cultivating without errors, and improve logging realism with a more detailed tree-cutting animation.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "891194610",
+        "name": "Earn to Die 2",
+        "url": "https://apps.apple.com/us/app/earn-to-die-2/id891194610?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "The only thing worse than P2W is P2W behind the guise of a quality game paid once. For shame.",
+                "date": "2025-09-25",
+                "value": 75,
+                "potential_idea": "Develop a mobile game that strictly adheres to a 'pay-once' model with no in-app purchases, emphasizing fair progression and rewarding gameplay.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "The first one is probably one of my favorite and most satisfying games to play. This has been since i was a little kid. In this game, progression takes way too long, they spam boxes everywhere, and there isn\u2019t really many fun places to waste all of your boost like in the first one. The variety is definitely cool but after a while this game gets really boring and repetitive. The first one had way better pacing.",
+                "date": "2025-08-26",
+                "value": 15,
+                "potential_idea": "Introduce a 'nostalgia mode' that recreates the pacing and gameplay mechanics of the original game to address player fatigue and boredom with the current progression system.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "This game wouldn\u2019t be worth downloading if it was free, let alone spending money on it. Very lazy and boring design, you play the same level over and over upgrading your car to get a few meters further each time until you are so bored of the level, then you beat it and have to start all over from scratch with a new car. Very repetitive and BORING",
+                "date": "2025-08-24",
+                "value": 55,
+                "potential_idea": "Introduce a compelling progression system with diverse challenges or unlockable content beyond simple distance upgrades to maintain player engagement and variety.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "No meaningful upgrades or sense of progression",
+                "date": "2025-07-28",
+                "value": 70,
+                "potential_idea": "Implement a clear reward system and progression milestones to enhance user engagement and the sense of accomplishment.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "The game itself is alright but not as good as the first. The game progression takes double the time and whoever the level editor was put way to many boxes and obstacles in the levels. Like why are there so many I\u2019ve gotten stuck on so many of the boxes and crates to where I burn more fuel trying to get over them and lose fuel to make it to the end.\n\nI\u2019m sure that\u2019s the point but it makes the levels harder then they need to be",
+                "date": "2025-07-23",
+                "value": 75,
+                "potential_idea": "Introduce a 'fuel assist' option or adjustable difficulty settings that reduce the number of obstacles for players struggling with level progression.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "It\u2019s a big pay to win game. Don\u2019t waste your time",
+                "date": "2025-03-20",
+                "value": 15,
+                "potential_idea": "Implement a 'no pay-to-win' mode with balanced progression for a fairer gaming experience.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "Bad game",
+                "date": "2025-01-10",
+                "value": 2,
+                "potential_idea": "Develop a new mobile game with a focus on exceptionally polished core mechanics and engaging gameplay to stand out in a crowded market.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "Skip this game, it\u2019s extremely repetitive and really not fun at all in my option. You\u2019re stuck using the same stupid car the entire level, no option at all to upgrade to the next one. You also have to upgrade things in perfect sequence, it use to be you could pick the engine you want out, which would involve saving money for a good one. This one you have to upgrade the original engine and it takes 10X as long but doesn\u2019t really improve each upgrade. 1 full run will give you MAYBE 1 bar of upgrades out of like 10. So 10 runs to upgrade one area of your vehicle. Which there is like 7. The first game was just dumb, easy, super fun, and simple. This one is over complicated to a whole new level when the first game was totally perfect.",
+                "date": "2025-01-02",
+                "value": 15,
+                "potential_idea": "Introduce a branching upgrade path for vehicles, allowing players to specialize and choose their upgrade order based on a more dynamic in-game economy, reminiscent of the first game's approach.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "It says it costs 32 cents then it charges you $32.99. Do not buy",
+                "date": "2024-12-31",
+                "value": 15,
+                "potential_idea": "Implement a clear and enforced pricing model with transparent billing to prevent misleading charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "This game is all about driving for a while and going back to upgrade to get slightly further. You have to repeat the same cycle many times to finish a level and get penalized by a nicer-looking car with much inferior performance. It loses momentum, doesn\u2019t need any particular skills, and fails to entertain me.",
+                "date": "2024-11-23",
+                "value": 15,
+                "potential_idea": "Introduce a 'skill-based challenge' mode that offers alternative progression paths beyond simple upgrades, rewarding player skill and strategic driving.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "i\u2019ll begin with the improvements this game brings\u2026 vehicles now have destruction which can cause unique runs. also levels are now broken up in 2 or 3 parts with a gas stations, which in turn causes levels to be much longer\n\nnow the bad\u2026 the levels are all designs the same, like the exacts same, same looping background and your on the same highway environment the entire time, wayyy more boring then the first game. also can only get the next vehicles by completing the level, and once you obtain them, you cannot go back to your previous vehicle. because of this you pretty much go the same speed the entire game, the game gets exactly progressively harder with the upgrade of your vehicle, you\u2019ll never have a run that feels particularly impressive\n\ntry it for yourself if you want, it\u2019s cheap and it\u2019s slightly different then the first game, but overall wayy less overall content and far more stale overall gameplay with absolutely zero way to boost progression, you will always need to upgrade your vehicle to a certain point",
+                "date": "2024-07-01",
+                "value": 60,
+                "potential_idea": "Implement a system that allows players to unlock and switch between previously acquired vehicles at any point in a run, accompanied by level variations or unlockable environments to combat repetitive gameplay.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "Y\u2019all are finally coming out with a new game. Finally!!\nSo there should be no excuses for the game being trash",
+                "date": "2024-04-26",
+                "value": 5,
+                "potential_idea": "Develop a robust quality assurance and playtesting process to ensure new game releases meet high standards and user expectations.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 2,
+                "review": "Game says $0.29 got charged $7.72",
+                "date": "2024-04-10",
+                "value": 15,
+                "potential_idea": "Implement a transparent pricing confirmation screen before any purchase is finalized within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "Just bought the game and already experiencing freezing only for a little while really annoying, please fix.",
+                "date": "2024-03-05",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and performance optimization to prevent in-game freezing issues for a smoother user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "The game involuntarily reset my progress, the only solution was to buy their second version what the f****ck?!",
+                "date": "2023-12-20",
+                "value": 75,
+                "potential_idea": "Implement secure cloud save functionality to prevent involuntary progress loss in mobile games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "what the title said^",
+                "date": "2023-10-25",
+                "value": 5,
+                "potential_idea": "Implement a feature that allows users to easily copy and paste text between the app and other applications on their device.",
+                "tags": []
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "Every time I get to the loading screen it kicks me off !",
+                "date": "2023-10-23",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and graceful degradation for loading screens to prevent app crashes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Earn to Die 2",
+                "rating": 1,
+                "review": "crashes on start with ios 17",
+                "date": "2023-10-20",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and automated recovery mechanisms for iOS 17 to ensure app stability.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1093131935",
+        "name": "Incredibox",
+        "url": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Incredibox",
+                "rating": 1,
+                "review": "The user interface is clunky, no way to actually make your own sounds. Everything is a canned noise that all you do is turn on or off. Maybe this is music making for today\u2019s kids, but if you\u2019re looking for truly creative music making, I recommend the Figure app by reasons.",
+                "date": "2025-09-25",
+                "value": 70,
+                "potential_idea": "Introduce a sound design module allowing users to create and import their own custom sounds for music generation.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1491530147",
+        "name": "Slay the Spire",
+        "url": "https://apps.apple.com/us/app/slay-the-spire/id1491530147?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "Sadly I recommend against purchasing StS for iPhone.  The touch controls are highly unreliable.  I have fairly slender fingers and I\u2019m dextrous, using iPhone 13 Pro Max, and even when being very careful selecting cards, I still miss fairly often.  The 2nd to left-most card is super difficult to select to discard.  Selecting a card to discard will often result in the wrong card being thrown away, regardless of how careful you are to touch it directly.  Also, after touching a card, it remains weirdly \u201csticky\u201d \u2014 i.e. it often won\u2019t go back into your hand, and you have to carefully click around your other cards, hoping to deselect it, lest it be played.  The issues are fairly constant; definitely recommend not spending $10 on this.  Just play on PC.",
+                "date": "2025-09-12",
+                "value": 90,
+                "potential_idea": "Implement adjustable touch sensitivity and larger, more forgiving touch targets for card selection and deselection to improve usability on mobile devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 1,
+                "review": "Terrible controls, unplayable.",
+                "date": "2025-08-29",
+                "value": 15,
+                "potential_idea": "Implement customizable in-game controls that allow users to re-map buttons and adjust sensitivity.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "I adore this game, have sunk a ridiculous amount of hours into it but wanted to come leave some feedback for the devs that the latest update has added a lot of frustration to my experience on iOS (iPhone XS if it matters). Cards in my hand have gotten super sticky - very often when I tap to select they don\u2019t rise high enough up to be able to read the text and I\u2019ll have to tap them up and down 3 or 4 times, often have to tap a different card and go back to it before it\u2019ll pop up properly. \n\nI\u2019m methodical enough that it hasn\u2019t led to too many misplays, and I\u2019m never too proud to scum save when it does\u2026but it does make my turns take a lot longer and adds a lot of extra tapping and frustration. \n\nIt was running fine for years so I was surprised to see anything change this late into the game. So while on one hand I\u2019m happy to see this game is still getting some dev love on mobile, on the other all it\u2019s caused me is grief lol so hopefully they\u2019re still up for some more tweaking! It\u2019ll be an easy 5 stars with this one gripe fixed. Thanks!",
+                "date": "2025-08-28",
+                "value": 15,
+                "potential_idea": "Implement a 'drag and reveal' gesture for cards in hand that works reliably on iOS to ensure full text legibility.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "huge fan of slay the spire, but the low framerate in this version makes it really difficult to do precise card interactions and makes playing much more of a chore than it needs to be. even on the newest iphone 16s,\nframerate still lags, so seems like a developer update is badly needed.",
+                "date": "2025-07-22",
+                "value": 15,
+                "potential_idea": "Implement frame rate optimizations and graphics enhancements to improve game responsiveness and visual fluidity for a smoother gameplay experience.",
+                "tags": [
+                    "bug",
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "Have played this on PC & Android with no issues & loved it. Just got an IPhone & the experience is notably worse. Incredible game, just a bad experience on IOS.",
+                "date": "2025-07-19",
+                "value": 80,
+                "potential_idea": "Optimize the mobile app's performance and user experience specifically for iOS devices to match the quality of its PC and Android counterparts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 1,
+                "review": "The writing size is too small.",
+                "date": "2025-05-06",
+                "value": 10,
+                "potential_idea": "Implement adjustable text size options within the app to cater to users with different visual needs.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 1,
+                "review": "Can't proceed because the finish turn button not working",
+                "date": "2025-03-17",
+                "value": 15,
+                "potential_idea": "Develop a robust bug reporting and immediate feedback system for critical game-breaking bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "I just found out that crucial cards are not being unlocked. This app is abandoned and broken.",
+                "date": "2025-02-04",
+                "value": {
+                    "intensity": 20,
+                    "difference": 5,
+                    "scope": 15,
+                    "feasibility": 15,
+                    "total": 55
+                },
+                "potential_idea": "Implement a robust background process and notification system to ensure all critical game progression elements unlock correctly and timely.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Slay the Spire",
+                "rating": 2,
+                "review": "I see why so many people swear by this game, but the number of times I\u2019ve \u2018accidentally\u2019 played a card I didn\u2019t intend to due to the faulty user interface is just inexcusable. I doubt this game will receive updates to fix any of its issues with the sequel just around the corner, so I\u2019d recommend folks just wait for that.",
+                "date": "2025-01-06",
+                "value": 55,
+                "potential_idea": "Implement an 'undo' feature for played cards to prevent accidental moves caused by UI issues.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "404990064",
+        "name": "SkyView\u00ae",
+        "url": "https://apps.apple.com/us/app/skyview/id404990064?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "This tells you that you'll get all the bells and whistles when it's no different from the lite version, i wasted 5 dollars on this app compared to downloading the free version. Do not waste your money on this just get skyview lite it's the same exact app same displays of planets stars and objects and trajectories of said medium it just doesn't cost you 5 dollars for no reason at all. Very disappointed with my purchase",
+                "date": "2025-10-02",
+                "value": 18,
+                "potential_idea": "Clearly distinguish the premium features in the app's description and during the purchase process to manage user expectations.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I\u2019ve tried deleting and reinstalling several times. I\u2019ve restarted my phone. I\u2019ve played with the calibration. The app just refuses to work. I\u2019ve had this app forever and it\u2019s always been one of my favorites. My kids and I love finding the planets. Please fix this app so I can update my review!",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement a robust in-app troubleshooting and diagnostic tool to guide users through common technical issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "I really wanted to see where the JWST is floating in space but was disappointed to find that it is no yet integrated into the app. Other than that I enjoy anything space related and this app gives me the opportunity to see where the heavenly bodies are!",
+                "date": "2025-08-28",
+                "value": 75,
+                "potential_idea": "Integrate real-time tracking of the James Webb Space Telescope's location within the app to complement existing celestial body tracking.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "I really like this app for its clear, uncluttered view of the night sky. Unfortunately, the real stars are rarely where SkyView says they are. Tonight, it showed the Big Dipper at due north. If someone knows how to accurately calibrate this app, please let me know. Waving it in a figure 8 doesn\u2019t seem to work.",
+                "date": "2025-07-30",
+                "value": 75,
+                "potential_idea": "Implement an enhanced, guided in-app calibration tool for the sky view to ensure real-time accuracy.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "Love this app. But it\u2019s not locating correctly on my phone. Help!",
+                "date": "2025-04-27",
+                "value": 15,
+                "potential_idea": "Improve the app's location accuracy and provide a troubleshooting guide for location issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I\u2019ve paid for the upgraded version and it will not be in the correct orientation.",
+                "date": "2025-03-05",
+                "value": 15,
+                "potential_idea": "Implement automatic screen orientation correction for users who have paid for premium features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 2,
+                "review": "You used to label the planets. What happened? I paid to use the app. I am extremely disappointed.",
+                "date": "2025-02-28",
+                "value": 75,
+                "potential_idea": "Reintroduce and enhance planet labeling features in the app, potentially as a premium option for paying users.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I bought this because it boasted that it could take augmented pictures of the sky. No matter what I do the camera stays shaded out.",
+                "date": "2025-02-26",
+                "value": 50,
+                "potential_idea": "Implement a robust color calibration and light correction feature for augmented reality sky photography to overcome camera shading issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "Paid to upgrade and nothing appears like the screenshots. Literally the same as the basic, free version. Don\u2019t waste your money. They won\u2019t approve a refund.",
+                "date": "2025-02-01",
+                "value": 18,
+                "potential_idea": "Implement a clear and accurate preview of premium features before purchase, or an automated refund process for unmet premium feature expectations.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "This app did not work. The app also says it will not refund the $2.99 I paid for it. Scam beware.",
+                "date": "2025-02-01",
+                "value": 15,
+                "potential_idea": "Implement a clear and accessible refund policy with a user-friendly refund request process to build trust and address user concerns about perceived scams.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "SkyView\u00ae",
+                "rating": 1,
+                "review": "I tried both auto and manual calibration, neither of which was effective. But either way, it couldn\u2019t find the moon, even when I had the camera view enabled and was pointing right at it. This used to be a more reliable app.",
+                "date": "2025-02-01",
+                "value": 70,
+                "potential_idea": "Reintroduce and improve the moon-finding algorithm to restore previous accuracy and reliability for astronomical observation apps.",
                 "tags": [
                     "bug"
                 ]
