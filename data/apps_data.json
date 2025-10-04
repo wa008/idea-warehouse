@@ -12139,5 +12139,586 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "1536762482",
+        "name": "Spirit Talker \u00ae",
+        "url": "https://apps.apple.com/us/app/spirit-talker/id1536762482?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "The app doesn\u2019t work. When I tried to get a refund through Apple and explain the issue they refused me a refund. When I tried to dispute the reason the again denied me. So waste of $$ on an app that doesn\u2019t work. Save your $$$ this app is a scam and doesn\u2019t work. I tried in 2 different haunted locations for several hours and got nothing while others were getting things on several different devices. I tried it on a ghost tour also and got nothing. I tried it in a few cemeteries and nothing. I tried it in multiple haunted houses and nothing. Definitely a scam.",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Implement a robust diagnostic tool to help users troubleshoot app functionality and connectivity issues for ghost detection apps experiencing operational failures.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Kept telling me to put on motion sensor in app and wouldn\u2019t let me do it so had to delete.  Waste of money",
+                "date": "2025-09-24",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and clear troubleshooting guides for device pairing and sensor setup.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 2,
+                "review": "So before the motion tracking update I could use it but after the update my phone says it\u2019s not possible to enable it so I can\u2019t use the app I spent money on",
+                "date": "2025-09-24",
+                "value": 12,
+                "potential_idea": "Provide a clear rollback option to revert to the previous version of the app after a problematic update.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Constantly says motion detection is off but everything is on",
+                "date": "2025-09-20",
+                "value": 15,
+                "potential_idea": "Implement a robust diagnostic tool to automatically identify and suggest solutions for motion detection errors within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I was charged 47 dollars for this app when it says 4.99!!!! This needs fixed!!!!!!",
+                "date": "2025-09-15",
+                "value": 80,
+                "potential_idea": "Implement a clear and prominent display of the actual purchase price before final confirmation to prevent billing discrepancies.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 2,
+                "review": "I\u2019ve used this app a lot and had a lot of fun and interesting results with it, but I\u2019ve encountered an issue that makes it unusable-to use it I need to allow motion tracking but that\u2019s not in the app access request list.",
+                "date": "2025-09-08",
+                "value": 15,
+                "potential_idea": "Implement a clear and prominent in-app request for motion tracking permissions, explaining its necessity, to address user inability to use the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "After an \u201cupdate\u201d from the makers of the app it has become non-functional. Upon opening the app you will be asked to turn on motion detection in your settings in order to use the app. When you use the button to go to settings you will see that motion detection is not a setting that is available. I really wish the developers would remedy this in order to make the app function again.",
+                "date": "2025-09-01",
+                "value": 15,
+                "potential_idea": "Revert the app update or fix the motion detection feature to function as intended.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Fake app, random scary words pop up. Not real. I regret the purchase, wish I could a refund.",
+                "date": "2025-08-10",
+                "value": 15,
+                "potential_idea": "Implement robust content moderation for user-generated text to prevent the display of offensive or alarming content and offer a clear refund process.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "App needs a new update!",
+                "date": "2025-08-09",
+                "value": 5,
+                "potential_idea": "Implement regular, scheduled app updates that introduce new features and improvements.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "The motion access ain\u2019t even in settings and I can\u2019t even play on it",
+                "date": "2025-08-09",
+                "value": 12,
+                "potential_idea": "Implement a clear and accessible 'motion access' setting within the app's main settings menu, allowing users to easily enable or disable motion-based gameplay.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Downloaded the app and it won\u2019t work on my phone. Mind you it\u2019s an iPhone. Can\u2019t get my money back either. Really disappointed",
+                "date": "2025-08-06",
+                "value": 15,
+                "potential_idea": "Implement improved compatibility testing for a wider range of iOS devices before app release to prevent installation failures.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "This is not worth it",
+                "date": "2025-08-04",
+                "value": 5,
+                "potential_idea": "The app needs a clearer value proposition that justifies its cost or effort to users.",
+                "tags": []
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Bought this app and used in a house with no paranormal activity whatsoever just to see what happens. I was asking questions and getting completely indirect responses. It would just spit out completely random words and phrase that made no sense. Each response would come out about 45 seconds to a minute apart. I only had a couple responses that were related to my hobbies in the house like \u201ccan you play music\u201d and I do in fact play piano. However, this could have been a coincidence and I\u2019m not at all convinced that this app works.",
+                "date": "2025-08-01",
+                "value": 18,
+                "potential_idea": "Develop a paranormal investigation app that utilizes AI to provide contextually relevant interpretations of random word/phrase outputs, and offers a more engaging and responsive user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 2,
+                "review": "Well a few times has said accurate things I was in the cemetery at night and it said cemetery another time it said my last name Denis in my house but not all the time is accurate",
+                "date": "2025-07-27",
+                "value": 15,
+                "potential_idea": "Implement user-reported location verification to improve the accuracy of real-world context detection for voice assistants or location-aware apps.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I want my money back this dosent work at all",
+                "date": "2025-07-16",
+                "value": 15,
+                "potential_idea": "Implement a robust refund and customer support system to address user dissatisfaction with non-functioning app features, offering a clear and easy process for users to reclaim their purchase or seek effective solutions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Been in places that got actual evp response just throws out random words names never answered a single question",
+                "date": "2025-07-10",
+                "value": 75,
+                "potential_idea": "Develop an app that uses AI to analyze and interpret EVP recordings, identifying potential words, names, and contextual relevance to answer user-posed questions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Still can use the app wants motion turned on. There is no option for it",
+                "date": "2025-07-01",
+                "value": 12,
+                "potential_idea": "Implement an optional motion tracking feature within the app for users who wish to enable it.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Motion Access Needed: says \u201cmotion action is disabled. Please enable it in settings to continue using this app.\u201d It takes me to a menu in my phone that nothing is wrong. Unable to even use this app. Not able to get a refund either.",
+                "date": "2025-06-24",
+                "value": 65,
+                "potential_idea": "Provide a clearer explanation or troubleshooting guide within the app when motion access is denied, including explicit instructions on where to find and how to enable it on the user's device.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I bought this app after a  devastating loss and on the first attempt the program would not run. It would open and then crash repeatedly, no matter how many uninstall/reinstall attempts were made. After deleting the app for a few months I reinstalled again and while it FINALLY worked, it requested access to my motion sensor detectors in my phone and there is not such thing on my phone, the app is again useless. I wouldn\u2019t waste a dime on this app.",
+                "date": "2025-06-20",
+                "value": 18,
+                "potential_idea": "Develop a robust app diagnostic tool that auto-identifies and reports device compatibility issues with sensor requirements to users before purchase or upon first launch.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I paid for the version of this app and now when I got to open it it gives me this box that says my motion tracking is not on and tells me to go to setting and they only give me three choices and motion tracking is not one.  So I\u2019m not sure what is going on here but I\u2019m starting to smell a scam . Why would it say something about motion tracking when in over a year it never has before and now it won\u2019t work ? Nope want my money back.  Like now please.",
+                "date": "2025-06-02",
+                "value": 75,
+                "potential_idea": "Implement a clear and accessible in-app guide or tutorial for users to correctly enable motion tracking, including direct links to relevant device settings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I went to use the app and it keeps telling me to turn on motion tracking, in settings. I click go to settings, but there is no motion track option. My phone is on the latest software, and the app is entirely unusable for me now. Can someone please fix this?",
+                "date": "2025-06-02",
+                "value": 15,
+                "potential_idea": "Implement a clear and accurate 'Motion Tracking' setting within the app, or provide accurate guidance to its location in the phone's system settings when requested.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 2,
+                "review": "After my phone updated I can\u2019t use spirit talker at all, says to turn on motion tracking in order to use the app but when I go to my settings to figure it out motion tracking doesn\u2019t even come up for this app I\u2019ve went through all of my settings to turn it on, I did turn it on but it still doesn\u2019t show up on the app settings. So the app is practically useless for me now unless somehow it can be fixed I would love to go back to using this app",
+                "date": "2025-05-18",
+                "value": 55,
+                "potential_idea": "Implement a clear in-app guide or troubleshooting section to help users enable necessary motion tracking permissions after phone updates.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I\u2019ve been really interested lately in the paranormal so I downloaded spirit talker apps, and I came across this one and I saw it in a few YouTube videos and I really wanted to try it and all the reviews had five stars so I downloaded and at the same exact day I downloaded it, I deleted it \nI hated it. I was drinking water and I asked it loud clear to describe what I was drinking and it said \"Ava\" and then right after that it said \"wait and listen\" and I did and nothing happened. Then it starts saying a bunch of random words. and I was just disappointed please don\u2019t get it.",
+                "date": "2025-05-13",
+                "value": 15,
+                "potential_idea": "Develop a paranormal investigation app that provides more structured and engaging ghost hunting experiences, with clearer prompts and more meaningful responses than random word generation.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I have to admit I was hoping for something great, from this app.  This app just randomly says sentences that have nothing to do with the surroundings or really, anything.   It\u2019s a play app.  Not a real recording device.",
+                "date": "2025-05-11",
+                "value": 75,
+                "potential_idea": "Develop a mobile app that uses AI and device sensors to generate contextually relevant and creative sentences or descriptions based on a user's real-world surroundings.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I don\u2019t wanna be rude bc i usually don\u2019t review apps but the motion issues is not fixed.. I feel like I just wasted 5$ on an app that won\u2019t even work.. if I can\u2019t use the app can I at least get my money back bc I don\u2019t have much money to be spending and I got this app originally to talk to my dead cousin",
+                "date": "2025-05-08",
+                "value": 85,
+                "potential_idea": "Implement a robust refund policy for users experiencing critical app malfunctions.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "After using several devices,\napps, and the like - this does not match up with actual paranormal events. Even when I\u2019ve had EMF readings, dowsing rod confirmations and flashlights turn on, this app has never proven accurate. It\u2019s programmed to spit out a phrase every 1-99 seconds. Longest pause time I\u2019ve had was 92 seconds. Spirits aren\u2019t that obsessive with humans, generally speaking.",
+                "date": "2025-04-30",
+                "value": 75,
+                "potential_idea": "Develop a paranormal investigation app that uses advanced sensor fusion (EMF, audio) and AI to interpret and correlate real-world paranormal activity with predicted spirit communication patterns.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "Says something about motion",
+                "date": "2025-04-22",
+                "value": 12,
+                "potential_idea": "A motion-based activity tracking feature that automatically categorizes and logs different types of movement, such as walking, running, and cycling.",
+                "tags": []
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "No good keeps saying motion sensor and after it\u2019s on it continues to say the same!",
+                "date": "2025-04-20",
+                "value": 15,
+                "potential_idea": "Provide clearer, real-time feedback to users regarding sensor status and troubleshooting guidance within the app to prevent persistent error messages.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 2,
+                "review": "Will just come up with random words and phrases wherever and whenever turn it on",
+                "date": "2025-04-19",
+                "value": 80,
+                "potential_idea": "Implement a 'predictive text' feature that intelligently suggests words and phrases based on user context and common usage patterns.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Spirit Talker \u00ae",
+                "rating": 1,
+                "review": "I didn\u2019t want my \u201csmart phone\u201d to become more dumb. Complete stupidity.  Just let it run while watching tv Matthew.  \ud83e\udd23 That\u2019s literally the random nonsense this app produces.",
+                "date": "2025-04-13",
+                "value": 58,
+                "potential_idea": "An app that intelligently filters and summarizes notification content to prevent accidental or nonsensical voice-to-text transcriptions from being sent.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6448530928",
+        "name": "Total War\u2122: EMPIRE",
+        "url": "https://apps.apple.com/us/app/total-war-empire/id6448530928?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 2,
+                "review": "Was excited to play but can\u2019t.  After downloading from App Store the game stops 1/3 in with message \u201cnot enough free space\u201d, despite having 100gb free on my phone.  Empire interface reflects only have 2gb free (unclear what it\u2019s referencing, but not my phone storage). All other downloads (including Rome) perform as expected. So some kind of glitch with Empire thinking there isn\u2019t enough room\u2026. Tough as Empire was driving purchase and seems to be a good transition to mobile.  Devs seem responsive, so hopefully they can resolve.",
+                "date": "2025-09-07",
+                "value": 15,
+                "potential_idea": "Implement a more robust storage detection mechanism for games to accurately reflect available device space and prevent 'not enough free space' errors for users with ample storage.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 1,
+                "review": "Cannot complete a battle during the French Ohio valley missions due to hud constantly disappearing. Troop movement is wonky. For example: I try to line up rangers in the woods and it sends them to the edge of the map.",
+                "date": "2025-09-06",
+                "value": 65,
+                "potential_idea": "Implement robust troop pathfinding and AI to ensure accurate unit movement and combat engagement within game levels, specifically addressing issues during complex missions. Additionally, a persistent UI toggle or auto-restore feature for the HUD during intense gameplay could be beneficial.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 1,
+                "review": "Don\u2019t waste your money not worth it you\u2019ll regret it",
+                "date": "2025-08-26",
+                "value": 10,
+                "potential_idea": "Develop a trial period or a more detailed preview of the app's premium features before purchase to prevent user regret.",
+                "tags": []
+            },
+            {
+                "app_name": "Total War\u2122: EMPIRE",
+                "rating": 1,
+                "review": "the controls are unplayable. Moving your troops and forming them up is impossible. You have to do some thing with two fingers that only sometimes works. Before battle it\u2019s like pulling teeth. Durning the battle it\u2019s not possible. So sad because this is my favorite total war",
+                "date": "2025-07-20",
+                "value": 85,
+                "potential_idea": "Introduce improved, context-aware touch controls for troop movement and formation that are intuitive and reliable, eliminating the need for complex multi-finger gestures.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6463616555",
+        "name": "Ticket to Ride\u00ae",
+        "url": "https://apps.apple.com/us/app/ticket-to-ride/id6463616555?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "Do you like playing Ticket to Ride when your opponent can see your destination cards and decide which train cards are at the top of the deck during your turn? Me neither.",
+                "date": "2025-10-02",
+                "value": 75,
+                "potential_idea": "Implement a 'fog of war' or hidden information mode for competitive digital board games to ensure fair play and strategic depth.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "Gameplay is good. Interface is fine. \u201cAI\u201d players can take 30-60 seconds just to decide to take 2 cards. Far too long for a single player game. Haven\u2019t tried non battery saving mode so that might help, but if you want to sit down and bang out a few games in 30 minutes, this isn\u2019t your game.\n\nUpdate: Battery save mode off didn\u2019t appreciably speed up the game. But it caused the battery drop from 73% to 45% in a single game. I\u2019ll be holding off on the DLC until they address these issues. There was previously a better version of this game that they removed in favor of one with micro-transactions. Too bad, that version was amazing, and still had the other expansions available to buy. I don\u2019t know if it was the same company or not, but a clear example of removing a successful version and replacing it with a marginally functional one with higher revenue potential.",
+                "date": "2025-09-28",
+                "value": 65,
+                "potential_idea": "Introduce an option for significantly faster AI turns, potentially by reducing AI decision-making complexity or allowing users to queue certain AI actions.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "The fact that you have to have two separate apps and neither of them work well at all. The original app had some issues but at least it was fun and uncomplicated to play. I wish someone else would pick this up and actually make a usable version. Do not waste your time and money on this!!",
+                "date": "2025-09-22",
+                "value": 70,
+                "potential_idea": "Develop a unified, fun, and uncomplicated mobile game that combines the features of the original app with improvements to address current issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Recently downloaded this one after using the original app for a long time. I really don\u2019t like how this map looks. It\u2019s so cluttered and hard to see the important details. It desperately needs the hard black outlines around each train spot. The names of the cities shouldn\u2019t over lap the train spots.  It looks so messy right now even with the \u201csimple\u201d map on. Can we get a map that looks closer to the original game design and colors?",
+                "date": "2025-09-21",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 18,
+                    "feasibility": 15,
+                    "total": 68
+                },
+                "potential_idea": "Implement a customizable map display option that allows users to choose between different visual themes, including one that closely mimics the original game's design and color palette with clear outlines for train spots and non-overlapping city names.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "Wouldn\u2019t even open; hung up on the first screen",
+                "date": "2025-09-09",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to prevent app startup failures and provide developers with immediate insights into critical bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "We love to play this game.  I live 500+ miles from my family and we played often.  \nBut now the game says \u201cthis board can\u2019t be joined because it is created with an incompatible version of the game\u201d. \nWe loved the previous app and had paid for it.  Then we paid $40+ each to have all boards on the new app.  \nPlease give us our game back!!!!",
+                "date": "2025-09-08",
+                "value": 75,
+                "potential_idea": "Implement a robust version management system with clear in-app notifications for game version updates to prevent cross-version play issues for remote players.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "This app freezes and crashes very often on my iPad. On Steam PC it will often hang during an online game at someone else\u2019s turn and the turn is never taken so I either stack up idle games or resign and lose stars. Very frustrating experience.",
+                "date": "2025-08-23",
+                "value": 65,
+                "potential_idea": "Implement a robust 'timeout' or 'automatic resignation' feature for online games to prevent users from being stuck in indefinitely frozen games on both mobile and PC platforms.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "I used to love playing this game on an older version, but with this one, I don\u2019t like both versions of the map. They are too busy looking and the road colors are too small.",
+                "date": "2025-08-20",
+                "value": 12,
+                "potential_idea": "Introduce a customizable map overlay with adjustable road color saturation and detail levels to reduce visual clutter.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "I AM SO OVER THIS GAME CRASHING!! This game is fun when it works, but it\u2019s not fair that when it crashes I lose stars because of it. Also not fair that if I click on a four person game because I want to play with three other people, that if the host starts it\u2019s before there are four people I either have to play or lose stars. I didn\u2019t want to play with just three people that\u2019s why I clicked a four person game. They should also move the route cards because I have clicked them accidentally when I\u2019ve wanted to pick up the top card.",
+                "date": "2025-08-19",
+                "value": 70,
+                "potential_idea": "Implement an automatic star recovery system for game crashes and introduce a stricter matchmaking rule that ensures four players join before a game begins to prevent players from losing stars due to premature starts.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "Major issues lately. I\u2019ve had this app for a while, and have enjoyed playing it with friends. It worked pretty well for the most part, with an occasional glitch that required a re-launch of app. For the past few days however, it has been freezing at the conclusion of games, never revealing the winner. This is pretty frustrating when you shell out $30 for the full version of the game.",
+                "date": "2025-08-19",
+                "value": 75,
+                "potential_idea": "Implement robust error handling and automatic game state saving for the full version of the game to prevent freezing at conclusion and losing results.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "2 things- one, without being able to play it vertically on my phone, basically unusable. It\u2019s uncomfortable and awkward at best. Two- I don\u2019t need an app threatening me that ai is literally going to replace me if I don\u2019t follow the rules. Feels pretty cold and um\u2026 I don\u2019t want to see the word \u201cai\u201d when I\u2019m freaking playing a game that\u2019s all about building the first RAILROAD tracks. Seems pretty off brand.",
+                "date": "2025-08-17",
+                "value": 85,
+                "potential_idea": "Implement adjustable orientation settings for mobile gameplay, allowing vertical play on phones and ensuring AI-related pronouncements are contextually appropriate and brand-aligned.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "The game won\u2019t even start because it won\u2019t let me select my birthdate. What a joke.",
+                "date": "2025-08-17",
+                "value": 10,
+                "potential_idea": "Implement a robust birthdate selection mechanism that prevents game startup if invalid or unselected, ensuring accessibility and core functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "No internet connection found! Please check your connection and try again.\nWhat is wrong with this, tried to reinstall it, still not working",
+                "date": "2025-08-14",
+                "value": 15,
+                "potential_idea": "Implement robust offline functionality for core app features, allowing users to access and use functionality even without an internet connection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "I am so tired of this app crashing!!! So frustrating.",
+                "date": "2025-08-11",
+                "value": 15,
+                "potential_idea": "Implement robust crash reporting and debugging tools to ensure app stability and reduce user frustration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 1,
+                "review": "I cannot figure out the rules or physical mechanics to play this game. The tutorial is in no way helpful. I feel stupid.",
+                "date": "2025-08-10",
+                "value": 75,
+                "potential_idea": "Develop an interactive, gamified tutorial with visual aids and step-by-step guidance specifically designed to explain game mechanics and rules for new players.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Ticket to Ride\u00ae",
+                "rating": 2,
+                "review": "When you play a game like this you really need to put misbehaved people on a no play list.",
+                "date": "2025-08-10",
+                "value": 75,
+                "potential_idea": "Implement a user-selectable 'block' or 'mute' list feature for problematic players in multiplayer games.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
     }
 ]
