@@ -1381,552 +1381,6 @@
         ]
     },
     {
-        "id": "941143328",
-        "name": "Five Nights at Freddy's 2",
-        "url": "https://apps.apple.com/us/app/five-nights-at-freddys-2/id941143328?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "Great game! I\u2019ve bought the in app purchase, and the locator helps sooooo much! Usually, most of the animatronics are no problem. Foxy? No issue. Just wind up the music box to its maximum and then check for him. Withered freddy? No problem. Even on the last nights he isn\u2019t very active. If he moves, shine your light. However there IS a game breaking issue with withered Bonnie and sometimes withered chica. When I was on night 4, every time chica was in my office I would don my Freddy head. Guess what?  I\u2019m still killed regardless of what I\u2019m doing. I am currently on night 5 and I can\u2019t pass it because of withered Bonnie killing me no matter what. Pls fix this as I spent 10$. By update: THIS IS STUPID! AT 5:00 I WAS KILLED BY BONNIE BECAUSE OF THE GLITCH! STOP THIS AND IT WILL GO TO 5 STARS. Update #2: withered Freddy is doing this too. Also pls slow down the ai of everything due to me (who played fnaf 2 for 3 years) failing not even 5 minutes into the game. FIX THIS!!!!!!",
-                "date": "2025-08-26",
-                "value": 65,
-                "potential_idea": "Introduce a 'training room' or 'simulation mode' within the game that allows players to practice encounters with specific animatronics at a reduced difficulty or with enhanced visibility, separate from the main game progression.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "This is good",
-                "date": "2025-07-30",
-                "value": 0,
-                "potential_idea": "N/A",
-                "tags": []
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "I only go for quick fingers cause the mask button is so hard but it will be hard",
-                "date": "2025-07-29",
-                "value": 15,
-                "potential_idea": "Implement a 'quick fingers' mode with a larger, more accessible mask button.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "All other nights are skill based but night 6 sometimes it is literally impossible picture this: you flipped down the monitor to flash foxy but withered Bonnie attacks easy right? WRONG! then the music box is flashing red at you so you have to go wind it up immediately then you HAVE to flash foxy but withered chica attacks! Right when he finishes balloon boy or mangle attacks and you have to get rid of them then you either die of the Puppet or by foxy. It is completely luck based",
-                "date": "2025-07-24",
-                "value": {
-                    "intensity": 20,
-                    "difference": 15,
-                    "scope": 15,
-                    "feasibility": 10,
-                    "total": 60
-                },
-                "potential_idea": "Implement an adaptive difficulty system in the game that adjusts enemy attack patterns and timing based on player performance to prevent impossible scenarios and reduce reliance on luck.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "On night one toy bonnie will jumpscare you even before coming out of the vents. It\u2019s unplayable past night one",
-                "date": "2025-07-22",
-                "value": 15,
-                "potential_idea": "Implement a more balanced difficulty curve for early game levels in horror simulation games to ensure a smoother player experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "Dude I used to love this game but theirs no audio like I can\u2019t hear anything, please fix your game before i crash out",
-                "date": "2025-07-19",
-                "value": 15,
-                "potential_idea": "Implement a comprehensive audio troubleshooting guide and in-app audio settings for the game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 2,
-                "review": "Custom night 10/20 mode or \u201cgolden Freddy\u201d is bugged. There is supposed to be a cooldown between blackouts after an animatronic comes into the room, but withered chica does not obey by this, because immediately after a Toy Bonnie blackout she appears, making me either die to her or the puppets music box running out. Please fix this",
-                "date": "2025-06-07",
-                "value": 18,
-                "potential_idea": "Implement a more robust cooldown mechanism for animatronic abilities, particularly blackouts, to ensure fair gameplay and prevent immediate reappearances that disrupt player strategy.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Five Nights at Freddy's 2",
-                "rating": 1,
-                "review": "I bought the survival kit and then get a new phone then click restore purchase and don\u2019t get my purchases back I WANT MY MONEY BACK",
-                "date": "2025-06-04",
-                "value": 85,
-                "potential_idea": "Implement a reliable cross-device purchase restoration system for paid content to prevent users from losing access to their purchases after switching devices.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6547834967",
-        "name": "Animal Crossing: Pocket Camp C",
-        "url": "https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 2,
-                "review": "No more new cookies and I already have everything. Heart broken.\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
-                "date": "2025-10-01",
-                "value": 70,
-                "potential_idea": "A feature to permanently unlock or offer alternative redemption options for desirable in-app items or rewards that are no longer attainable through current mechanics.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 1,
-                "review": "Played this game for 4 years and I lost ALL my data after I just paid 20 dollars? The old game would automatically back up why delete this feature???",
-                "date": "2025-09-09",
-                "value": 95,
-                "potential_idea": "Implement an automatic cloud backup feature for game data to prevent data loss, especially after in-app purchases.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 2,
-                "review": "i have an absurd amount of bells and a very low amount of leaf tickets. youre able to trade bells for leafs but only a certain amount of times which is dumb because i run out very fast and then have zero leaf tickets left to get anything!!! on top of that certain items stay in shop for a limited amount of time so i cant even buy stuff before it leaves shop because i dont have enough leafs! fix this! you cant take out purchases and then make getting leaf tickets limited to a certain amount per month! very very dumb",
-                "date": "2025-08-28",
-                "value": 70,
-                "potential_idea": "Allow unlimited trading of bells for leaf tickets within the app, with a dynamic conversion rate.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 2,
-                "review": "so I played on the their app before I got shut down so I decided to waste 20 DOLLARS on this app which won\u2019t let me sign in. 20 dollars that I could have bought a lip gloss with, heck 2 lip glosses. worst app ever. i love animal crossing though",
-                "date": "2025-08-21",
-                "value": 75,
-                "potential_idea": "Implement a robust sign-in and account recovery system to prevent users from losing access or being unable to use paid features.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 1,
-                "review": "Nintendo thinks that in every situation where you change phones, you\u2019ll remember to go into this game and use their one-of-a-kind save transfer tool (that keeps your data for 3 days) instead of using the built-in iOS option for completely seamless data backup.\n\nThis means your save, which you\u2019ve worked on over the course of a year, likely multiple years, can be completely lost if your phone is stolen, broken, or lost. This is obviously stupid and they went out of their way to avoid using iCloud backup for reasons that I can\u2019t fathom.",
-                "date": "2025-08-12",
-                "value": 17,
-                "potential_idea": "Implement seamless cloud backup integration for game save data, leveraging standard device backup solutions.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 1,
-                "review": "Highly disappointed to learn their was a time frame to be able to get your account with the old version. Not worth 20$ I already lost so much money with the old version. That when trying to play this says no data found. .",
-                "date": "2025-08-10",
-                "value": 65,
-                "potential_idea": "Implement a clear and transparent data migration process for users transitioning from older versions of the app, ensuring no data loss and offering potential recovery options for lost data.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Animal Crossing: Pocket Camp C",
-                "rating": 1,
-                "review": "All my hard work down the drain. I don\u2019t even want the game anymore I spent 20 dollars !!!",
-                "date": "2025-08-01",
-                "value": 75,
-                "potential_idea": "Implement an in-game or app-level system for cloud saves or account-based progress syncing across devices to prevent data loss.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1461751938",
-        "name": "Purple Place - Classic Games",
-        "url": "https://apps.apple.com/us/app/purple-place-classic-games/id1461751938?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 2,
-                "review": "Lowkey i was so excited when i saw this but it ain\u2019t nothing like the original like lowkey i was expecting the same sound affects or At least close to the old characters but nope i use to play this game so much but i cant cause this ain\u2019t kinda a replica, can y\u2019all change the sound or characters specially for the cake game i beggggg.",
-                "date": "2025-09-29",
-                "value": 75,
-                "potential_idea": "Incorporate original sound effects and character designs from a previous version of the game, particularly for the 'cake game,' to appeal to nostalgic users.",
-                "tags": [
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 2,
-                "review": "I\u2019m looking for this game but as pc software so it would be better and more enjoyable I was chocked it\u2019s not",
-                "date": "2025-09-22",
-                "value": 70,
-                "potential_idea": "Develop a PC desktop version of the mobile game to offer a more immersive and enjoyable gaming experience.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Ever so often the entire game board shrinks and the squares overlap each and the only way to get it back to normal is back out and get back in and (most of the time), this starts a new game. Annoying and useless. Definitely not like the original, which would be okay (sort of), if it didn\u2019t glitch.",
-                "date": "2025-07-13",
-                "value": 15,
-                "potential_idea": "Implement a robust bug-fixing mechanism to prevent game board glitches and ensure game state persistence upon exiting and re-entering the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "i was looking for this game for the longest but it was only on the old pc software so i finally found it on the app store and it\u2019s not the same as before, completely different and not really anything to do anymore its boring and light work\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f, even though it\u2019s just $2 it\u2019s not worth those $2.",
-                "date": "2025-06-30",
-                "value": 75,
-                "potential_idea": "Revitalize the mobile version of the classic PC game by bringing back its original engaging gameplay mechanics and content.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "The game is general is just buggy and.. idk even know.. its buggy, it glitches, the characters look freaky..",
-                "date": "2025-04-05",
-                "value": 15,
-                "potential_idea": "Improve game stability and character model aesthetics to reduce bugs and visual glitches.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "It\u2019s not nostalgic how it was back then I\u2019m a 06 baby and it just doesn\u2019t hit the same anymore",
-                "date": "2025-04-04",
-                "value": 60,
-                "potential_idea": "Incorporate personalized 'throwback' modes that replicate the user interface and content from specific past eras of the app, catering to users seeking nostalgia.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "This is a generic version of the game. Not the same creator. Wouldn\u2019t suggest spending the $1.99.",
-                "date": "2025-03-30",
-                "value": 15,
-                "potential_idea": "Develop a mobile app that clearly distinguishes official versions of games from clones or fan-made creations, perhaps through verified developer badges or a curated marketplace.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 2,
-                "review": "Nothing like the original game wish I could get a refund.",
-                "date": "2025-03-30",
-                "value": 20,
-                "potential_idea": "Develop a mobile app that allows users to request refunds for digital purchases they are dissatisfied with, similar to gaming app refund policies.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "It\u2019s not what you think but it is what you think it was, it\u2019s those games but they aren\u2019t the same and don\u2019t play out as they did when you played it before, the idea is there but the execution isn\u2019t the best.",
-                "date": "2025-03-20",
-                "value": 15,
-                "potential_idea": "Introduce user-defined game rule variations and historical gameplay saving to allow for personalized and replayable game experiences.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "It's okay I guess... But not worth the $1.99 it's a bad replica of purble place with worse graphics and bad sound design. The original purble place is free and still available to play on computer so just get that instead",
-                "date": "2025-03-18",
-                "value": 60,
-                "potential_idea": "Develop a free, mobile-optimized reimagining of classic educational games like Purble Place, focusing on improved graphics and sound design.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "This game has no purpose, no levels or anything. it was fun for 2 seconds. Don\u2019t waste your money.",
-                "date": "2025-02-23",
-                "value": 75,
-                "potential_idea": "Add a progression system with clear goals, levels, and objectives to the game to provide long-term engagement.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "The real game is called Purble place and has functioning game modes that are more difficult and entertaining than this copy.",
-                "date": "2025-02-23",
-                "value": 12,
-                "potential_idea": "Develop a mobile game with more challenging and engaging game modes inspired by the classic 'Purble Place' game.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Boring game. Not the same waste of money smh.",
-                "date": "2025-02-10",
-                "value": 10,
-                "potential_idea": "Develop a more engaging and rewarding game experience with a focus on surprising elements and value for money.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "I thought it was going to be like purble place. But I\u2019m so disappointed.",
-                "date": "2025-02-07",
-                "value": 60,
-                "potential_idea": "Develop a mobile game with a Purble Place-like theme, focusing on engaging mini-games for cognitive skill development.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "My game froze while making cakes\u2026\ud83e\udee4",
-                "date": "2025-01-29",
-                "value": 75,
-                "potential_idea": "Implement robust autosave functionality in the game to prevent progress loss during critical gameplay moments like cake making.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 2,
-                "review": "Needs to be more challenging",
-                "date": "2025-01-17",
-                "value": 15,
-                "potential_idea": "Introduce difficulty levels or adaptive difficulty to the app to cater to a wider range of user skill and engagement.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Only one level",
-                "date": "2024-11-30",
-                "value": 10,
-                "potential_idea": "Introduce new levels or content packs to expand gameplay in the mobile app.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 2,
-                "review": "I don\u2019t even know how to begin, but something feels so wrong about this. it plays nothing like the peeble place i played as a child. i don\u2019t understand why fully, but it\u2019s just not right. something is off about this game. i\u2019m sorry to the devs",
-                "date": "2024-11-26",
-                "value": 15,
-                "potential_idea": "Develop a retro-inspired game mode or a 'classic' version of the game that accurately replicates the feel and mechanics of older, beloved versions to cater to nostalgic players.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Game said 1.99 but charged my card almost 6 dollars!!!",
-                "date": "2024-11-12",
-                "value": 18,
-                "potential_idea": "Implement a transparent pricing breakdown before purchase confirmation in the app, clearly showing base price, taxes, and any other fees.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Is not the same as when I was a kid playing it. I payed two dollars for this and I kinda want my money back",
-                "date": "2024-09-09",
-                "value": 10,
-                "potential_idea": "Offer a 'classic mode' within the app that replicates the original gameplay experience of older, beloved games.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Creepy",
-                "date": "2024-08-20",
-                "value": 20,
-                "potential_idea": "Implement a strict privacy mode that completely disables data collection and personalizes the user experience without using any personal information.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 2,
-                "review": "I absolutely adored this game when it was one of the few game options of the time, among solitaire and minefield. For years I\u2019ve yearned for another chance to play the cake game, hear the sound effects and see the flying clovers\u2026 I was so excited to think I could finally relive those fond memories, however, this recreation hasn\u2019t met my expectations, whatsoever. At first I thought $1.99 was a modest price for the revival of the Purble Place I remember, but this game simply isn\u2019t it. Although most of the visuals are wonderful, I feel a lot more effort could have been put into the actual gameplay. I\u2019ve never purchased a game from the App Store before, but I really got my hopes up. I don\u2019t understand why or how this game could be worth the two dollars.",
-                "date": "2024-07-28",
-                "value": 17,
-                "potential_idea": "Develop a faithful and high-quality mobile recreation of classic mini-games like those found in Purble Place, focusing on authentic gameplay and sound for nostalgic users.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "This is a soulless attempt at replicating something that was great. The updated graphics ruin it, the dolls don't register moves half the time. You only get to make one tier cakes on a belt that needs to be moved manually.\nIt's not even close to the original or even fun for that matter. It's just a soulless cash grab at nostalgia.",
-                "date": "2024-06-08",
-                "value": 70,
-                "potential_idea": "Develop a mobile game that accurately replicates the nostalgic gameplay and aesthetic of a beloved classic, focusing on polished mechanics and authentic user experience over superficial graphical updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "I remember playing this game as a kid and purchased it immediately after seeing it on the App Store. Imagine my disappointment when I realized the cake game, my absolute favorite, was made into a simple cake copying game without an ounce of difficulty.\nThe conveyor belt does not even move on its own anymore and at most you\u2019ll make a one tier cake. Don\u2019t waste your money and just reminisce through memories.",
-                "date": "2024-05-25",
-                "value": 70,
-                "potential_idea": "Reintroduce a 'classic mode' for the cake game with original difficulty settings and mechanics, including a customizable conveyor belt speed.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "This game is absolutely nothing like the OG one on the computer, Highly disappointed and a waste of my 2 dollars !!! \ud83d\ude21",
-                "date": "2024-05-01",
-                "value": 75,
-                "potential_idea": "Develop a mobile version of the classic PC game that the user misses, preserving its original gameplay mechanics and aesthetics.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "the original game got harder as you played. this ine just lets you replay the first level of each over and over.",
-                "date": "2024-04-27",
-                "value": 75,
-                "potential_idea": "Implement a progressive difficulty scaling system for the game, where challenges increase over time and player progression, instead of fixed replayable early levels.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Not the original purple place, very disappointed.",
-                "date": "2024-04-19",
-                "value": 15,
-                "potential_idea": "Develop a mobile game that replicates the gameplay and aesthetic of the classic 'Purple Place' computer game.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "Waste of money! Not like the original. Free games are better.",
-                "date": "2024-03-21",
-                "value": 45,
-                "potential_idea": "Offer a free tier with core functionality to attract users and demonstrate the app's value before requiring a purchase.",
-                "tags": []
-            },
-            {
-                "app_name": "Purple Place - Classic Games",
-                "rating": 1,
-                "review": "What if I didn\u2019t like it and want to delete it but I already paid for it\ud83d\ude2d",
-                "date": "2024-01-24",
-                "value": 75,
-                "potential_idea": "Implement a trial period or a partial refund option for premium features to address user remorse after purchase.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "6740349855",
-        "name": "Backyard Football '99",
-        "url": "https://apps.apple.com/us/app/backyard-football-99/id6740349855?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Backyard Football '99",
-                "rating": 2,
-                "review": "Needs an analog stick for player movement. There is plenty of space since the game doesn\u2019t take up the whole screen. Also pretty laggy. When I click a play there is like a 2 sec delay",
-                "date": "2025-09-12",
-                "value": 75,
-                "potential_idea": "Implement an on-screen analog stick for player movement in games with available screen space, addressing lag and responsiveness issues.",
-                "tags": [
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Football '99",
-                "rating": 1,
-                "review": "Without question this is the worst Iphone game I\u2019ve ever played let alone payed for.  Refund should be issued to me and everyone.",
-                "date": "2025-09-09",
-                "value": 15,
-                "potential_idea": "Implement a transparent refund policy and process for in-app purchases in mobile games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Backyard Football '99",
-                "rating": 2,
-                "review": "Need to have a digital analog stick. Lot of times when you run the ball you\u2019ll try to tap to run but the running back will pass the ball. Game is to clunky",
-                "date": "2025-09-09",
-                "value": 75,
-                "potential_idea": "Implement a virtual analog joystick control option for improved player movement and ball handling in sports games.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
         "id": "298206806",
         "name": "iReal Pro",
         "url": "https://apps.apple.com/us/app/ireal-pro/id298206806?uo=2",
@@ -13115,6 +12569,576 @@
                     "bug",
                     "valuable opinion"
                 ]
+            }
+        ]
+    },
+    {
+        "id": "941143328",
+        "name": "Five Nights at Freddy's 2",
+        "url": "https://apps.apple.com/us/app/five-nights-at-freddys-2/id941143328?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "Great game! I\u2019ve bought the in app purchase, and the locator helps sooooo much! Usually, most of the animatronics are no problem. Foxy? No issue. Just wind up the music box to its maximum and then check for him. Withered freddy? No problem. Even on the last nights he isn\u2019t very active. If he moves, shine your light. However there IS a game breaking issue with withered Bonnie and sometimes withered chica. When I was on night 4, every time chica was in my office I would don my Freddy head. Guess what?  I\u2019m still killed regardless of what I\u2019m doing. I am currently on night 5 and I can\u2019t pass it because of withered Bonnie killing me no matter what. Pls fix this as I spent 10$. By update: THIS IS STUPID! AT 5:00 I WAS KILLED BY BONNIE BECAUSE OF THE GLITCH! STOP THIS AND IT WILL GO TO 5 STARS. Update #2: withered Freddy is doing this too. Also pls slow down the ai of everything due to me (who played fnaf 2 for 3 years) failing not even 5 minutes into the game. FIX THIS!!!!!!",
+                "date": "2025-08-26",
+                "value": 90,
+                "potential_idea": "Implement an adaptive AI difficulty or adjustable AI speed setting to cater to both new and experienced players, especially addressing issues with specific animatronics.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "This is good",
+                "date": "2025-07-30",
+                "value": 5,
+                "potential_idea": "Integrate a quick feedback mechanism to capture positive sentiment like the user expressed.",
+                "tags": []
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "I only go for quick fingers cause the mask button is so hard but it will be hard",
+                "date": "2025-07-29",
+                "value": 10,
+                "potential_idea": "Implement an easier-to-access or larger 'mask' button for the mobile app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "All other nights are skill based but night 6 sometimes it is literally impossible picture this: you flipped down the monitor to flash foxy but withered Bonnie attacks easy right? WRONG! then the music box is flashing red at you so you have to go wind it up immediately then you HAVE to flash foxy but withered chica attacks! Right when he finishes balloon boy or mangle attacks and you have to get rid of them then you either die of the Puppet or by foxy. It is completely luck based",
+                "date": "2025-07-24",
+                "value": 16,
+                "potential_idea": "Introduce an 'assist mode' that slightly adjusts game difficulty or offers optional hints to overcome extremely challenging or luck-dependent segments in the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "On night one toy bonnie will jumpscare you even before coming out of the vents. It\u2019s unplayable past night one",
+                "date": "2025-07-22",
+                "value": 15,
+                "potential_idea": "Implement a difficulty slider or an adjustable AI behavior setting to prevent early, unscripted jumpscares in specific game scenarios.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "Dude I used to love this game but theirs no audio like I can\u2019t hear anything, please fix your game before i crash out",
+                "date": "2025-07-19",
+                "value": 15,
+                "potential_idea": "Implement robust audio debugging tools for developers to quickly identify and resolve audio playback issues in mobile games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 2,
+                "review": "Custom night 10/20 mode or \u201cgolden Freddy\u201d is bugged. There is supposed to be a cooldown between blackouts after an animatronic comes into the room, but withered chica does not obey by this, because immediately after a Toy Bonnie blackout she appears, making me either die to her or the puppets music box running out. Please fix this",
+                "date": "2025-06-07",
+                "value": 12,
+                "potential_idea": "Implement a bug fix for the 'Custom Night' mode '10/20' that ensures animatronics, like Withered Chica, adhere to blackout cooldowns to prevent unfair player deaths.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Five Nights at Freddy's 2",
+                "rating": 1,
+                "review": "I bought the survival kit and then get a new phone then click restore purchase and don\u2019t get my purchases back I WANT MY MONEY BACK",
+                "date": "2025-06-04",
+                "value": 85,
+                "potential_idea": "Implement a robust cross-device purchase restoration system that automatically syncs or allows for manual re-syncing of in-app purchases across user accounts.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6547834967",
+        "name": "Animal Crossing: Pocket Camp C",
+        "url": "https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "No more new cookies and I already have everything. Heart broken.\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+                "date": "2025-10-01",
+                "value": 75,
+                "potential_idea": "Implement a system for users to trade or gift unwanted in-app items with other users, especially when they have no use for them.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "Played this game for 4 years and I lost ALL my data after I just paid 20 dollars? The old game would automatically back up why delete this feature???",
+                "date": "2025-09-09",
+                "value": 95,
+                "potential_idea": "Implement an automatic cloud backup system to prevent data loss, similar to the previous version of the game.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "i have an absurd amount of bells and a very low amount of leaf tickets. youre able to trade bells for leafs but only a certain amount of times which is dumb because i run out very fast and then have zero leaf tickets left to get anything!!! on top of that certain items stay in shop for a limited amount of time so i cant even buy stuff before it leaves shop because i dont have enough leafs! fix this! you cant take out purchases and then make getting leaf tickets limited to a certain amount per month! very very dumb",
+                "date": "2025-08-28",
+                "value": 75,
+                "potential_idea": "Allow players to have more flexible or unlimited conversion of in-game currency (bells) to premium currency (leaf tickets) to address item scarcity and time-limited shop availability.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "so I played on the their app before I got shut down so I decided to waste 20 DOLLARS on this app which won\u2019t let me sign in. 20 dollars that I could have bought a lip gloss with, heck 2 lip glosses. worst app ever. i love animal crossing though",
+                "date": "2025-08-21",
+                "value": 65,
+                "potential_idea": "Implement a robust sign-in and account recovery system with customer support to address user inability to access paid features after initial purchase.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "Nintendo thinks that in every situation where you change phones, you\u2019ll remember to go into this game and use their one-of-a-kind save transfer tool (that keeps your data for 3 days) instead of using the built-in iOS option for completely seamless data backup.\n\nThis means your save, which you\u2019ve worked on over the course of a year, likely multiple years, can be completely lost if your phone is stolen, broken, or lost. This is obviously stupid and they went out of their way to avoid using iCloud backup for reasons that I can\u2019t fathom.",
+                "date": "2025-08-12",
+                "value": 95,
+                "potential_idea": "Implement seamless cloud backup for game data using native iOS or Android backup systems, replacing or augmenting the current proprietary save transfer tool.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "Highly disappointed to learn their was a time frame to be able to get your account with the old version. Not worth 20$ I already lost so much money with the old version. That when trying to play this says no data found. .",
+                "date": "2025-08-10",
+                "value": 18,
+                "potential_idea": "Implement a data recovery or data migration tool for users migrating from older versions of the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "All my hard work down the drain. I don\u2019t even want the game anymore I spent 20 dollars !!!",
+                "date": "2025-08-01",
+                "value": 90,
+                "potential_idea": "Implement a robust cloud save feature that automatically backs up user progress and in-app purchases to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "add a way to backup data",
+                "date": "2025-07-27",
+                "value": 75,
+                "potential_idea": "Implement an automated cloud backup feature for app data to prevent loss.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 2,
+                "review": "Loved the game, played it for YEARS. But be WARNED!!! When you backup data, it only stays for 7 days. So unless, you upload it every week there is no way to be sure your stuff is saved. My phone screen broke, and now I can\u2019t transfer anything.. I was on level 78. So yeah fun game but.. be careful. I\u2019m deleting mine tbh wast of $20. Probably gonna dispute it tbh.",
+                "date": "2025-07-15",
+                "value": 85,
+                "potential_idea": "Implement an automatic daily cloud backup service for game data to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "My phone malfunctioned and I wasn\u2019t able to save the game.  Years of hard work gone!  Seriously, even cheap phone games automatically back up.\nIt\u2019s just not worth it to start over.  Beware if your phone needs a new system installed you will your game.",
+                "date": "2025-07-01",
+                "value": 95,
+                "potential_idea": "Implement automatic cloud backup for game progress to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Animal Crossing: Pocket Camp C",
+                "rating": 1,
+                "review": "There was no warning about any deadline for transferring over from the old app so i had to find out the hard way that all of my progress is gone. i dont even want to play the game anymore. i wish i could get my money back",
+                "date": "2025-06-28",
+                "value": 85,
+                "potential_idea": "Implement proactive, multi-channel notifications for critical app events like data migration deadlines to prevent user data loss.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1461751938",
+        "name": "Purple Place - Classic Games",
+        "url": "https://apps.apple.com/us/app/purple-place-classic-games/id1461751938?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "Lowkey i was so excited when i saw this but it ain\u2019t nothing like the original like lowkey i was expecting the same sound affects or At least close to the old characters but nope i use to play this game so much but i cant cause this ain\u2019t kinda a replica, can y\u2019all change the sound or characters specially for the cake game i beggggg.",
+                "date": "2025-09-29",
+                "value": 75,
+                "potential_idea": "Incorporate original or classic sound effects and character designs as optional/legacy modes in the mobile game.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "I\u2019m looking for this game but as pc software so it would be better and more enjoyable I was chocked it\u2019s not",
+                "date": "2025-09-22",
+                "value": 70,
+                "potential_idea": "Develop a desktop version of the mobile game, offering a more immersive and enjoyable PC gaming experience.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Ever so often the entire game board shrinks and the squares overlap each and the only way to get it back to normal is back out and get back in and (most of the time), this starts a new game. Annoying and useless. Definitely not like the original, which would be okay (sort of), if it didn\u2019t glitch.",
+                "date": "2025-07-13",
+                "value": 18,
+                "potential_idea": "Implement a 'resume game' feature to automatically restore the previous game state after a non-fatal glitch, preventing game restarts.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "i was looking for this game for the longest but it was only on the old pc software so i finally found it on the app store and it\u2019s not the same as before, completely different and not really anything to do anymore its boring and light work\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f, even though it\u2019s just $2 it\u2019s not worth those $2.",
+                "date": "2025-06-30",
+                "value": 75,
+                "potential_idea": "Recreate the original PC version of the game accurately on mobile, focusing on restoring lost gameplay mechanics and features.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "The game is general is just buggy and.. idk even know.. its buggy, it glitches, the characters look freaky..",
+                "date": "2025-04-05",
+                "value": 15,
+                "potential_idea": "Implement robust bug testing and character model refinement to address in-game glitches and unsettling character designs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "It\u2019s not nostalgic how it was back then I\u2019m a 06 baby and it just doesn\u2019t hit the same anymore",
+                "date": "2025-04-04",
+                "value": 90,
+                "potential_idea": "Implement curated nostalgia modes that allow users to select and experience specific time periods (e.g., 'Early 2000s', '90s Vibes') within the app.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This is a generic version of the game. Not the same creator. Wouldn\u2019t suggest spending the $1.99.",
+                "date": "2025-03-30",
+                "value": 10,
+                "potential_idea": "Develop a feature that clearly distinguishes official versions of games from imitators, perhaps through verified developer badges or official release announcements.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "Nothing like the original game wish I could get a refund.",
+                "date": "2025-03-30",
+                "value": 15,
+                "potential_idea": "Implement a game mode that replicates the experience of the original game to satisfy nostalgic players.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "It\u2019s not what you think but it is what you think it was, it\u2019s those games but they aren\u2019t the same and don\u2019t play out as they did when you played it before, the idea is there but the execution isn\u2019t the best.",
+                "date": "2025-03-20",
+                "value": 55,
+                "potential_idea": "A mobile game that offers dynamic, replayable gameplay experiences with unpredictable outcomes, reminiscent of nostalgia but with evolving mechanics.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "It's okay I guess... But not worth the $1.99 it's a bad replica of purble place with worse graphics and bad sound design. The original purble place is free and still available to play on computer so just get that instead",
+                "date": "2025-03-18",
+                "value": 10,
+                "potential_idea": "Develop a free-to-play mobile game that captures the nostalgic gameplay of Purble Place with improved graphics and sound design to attract a wider audience.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This game has no purpose, no levels or anything. it was fun for 2 seconds. Don\u2019t waste your money.",
+                "date": "2025-02-23",
+                "value": 65,
+                "potential_idea": "Introduce a progression system with clear goals, levels, and unlockable content to give the game a sense of purpose.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "The real game is called Purble place and has functioning game modes that are more difficult and entertaining than this copy.",
+                "date": "2025-02-23",
+                "value": 15,
+                "potential_idea": "Develop a mobile game with more challenging and entertaining game modes inspired by the 'Purble Place' game.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Boring game. Not the same waste of money smh.",
+                "date": "2025-02-10",
+                "value": 15,
+                "potential_idea": "Develop a more engaging and rewarding game experience with clear value proposition to avoid user perception of wasted money.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "I thought it was going to be like purble place. But I\u2019m so disappointed.",
+                "date": "2025-02-07",
+                "value": 15,
+                "potential_idea": "Develop a mobile game inspired by the classic Purble Place, offering multiple engaging mini-games for casual entertainment.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "My game froze while making cakes\u2026\ud83e\udee4",
+                "date": "2025-01-29",
+                "value": 15,
+                "potential_idea": "Implement robust auto-save functionality to prevent data loss in games during critical gameplay moments.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "Needs to be more challenging",
+                "date": "2025-01-17",
+                "value": 15,
+                "potential_idea": "Introduce adjustable difficulty levels or game modes for users seeking a greater challenge.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Only one level",
+                "date": "2024-11-30",
+                "value": 15,
+                "potential_idea": "Expand the app with additional game levels or content to provide a more engaging and longer-lasting user experience.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "I don\u2019t even know how to begin, but something feels so wrong about this. it plays nothing like the peeble place i played as a child. i don\u2019t understand why fully, but it\u2019s just not right. something is off about this game. i\u2019m sorry to the devs",
+                "date": "2024-11-26",
+                "value": 15,
+                "potential_idea": "Recreate the 'Peeble Place' game with a focus on replicating the nostalgic gameplay mechanics and feel of the original childhood version.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Game said 1.99 but charged my card almost 6 dollars!!!",
+                "date": "2024-11-12",
+                "value": 18,
+                "potential_idea": "Implement a clear, in-app billing transparency feature that shows users the exact breakdown of costs before purchase and confirms the final charged amount.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Is not the same as when I was a kid playing it. I payed two dollars for this and I kinda want my money back",
+                "date": "2024-09-09",
+                "value": 20,
+                "potential_idea": "Offer a premium 'classic mode' with original gameplay and graphics for nostalgia-seekers.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Creepy",
+                "date": "2024-08-20",
+                "value": 15,
+                "potential_idea": "Implement enhanced privacy controls and user data transparency to alleviate user concerns about 'creepiness' and build trust.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 2,
+                "review": "I absolutely adored this game when it was one of the few game options of the time, among solitaire and minefield. For years I\u2019ve yearned for another chance to play the cake game, hear the sound effects and see the flying clovers\u2026 I was so excited to think I could finally relive those fond memories, however, this recreation hasn\u2019t met my expectations, whatsoever. At first I thought $1.99 was a modest price for the revival of the Purble Place I remember, but this game simply isn\u2019t it. Although most of the visuals are wonderful, I feel a lot more effort could have been put into the actual gameplay. I\u2019ve never purchased a game from the App Store before, but I really got my hopes up. I don\u2019t understand why or how this game could be worth the two dollars.",
+                "date": "2024-07-28",
+                "value": 60,
+                "potential_idea": "Develop a faithful and high-quality remake of the classic 'Purble Place' suite of mini-games, focusing on accurate visuals and engaging gameplay to recapture nostalgic appeal.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This is a soulless attempt at replicating something that was great. The updated graphics ruin it, the dolls don't register moves half the time. You only get to make one tier cakes on a belt that needs to be moved manually.\nIt's not even close to the original or even fun for that matter. It's just a soulless cash grab at nostalgia.",
+                "date": "2024-06-08",
+                "value": 18,
+                "potential_idea": "Revert graphics and gameplay to match the original popular version of the game, focusing on core mechanics and fun over updated aesthetics.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "I remember playing this game as a kid and purchased it immediately after seeing it on the App Store. Imagine my disappointment when I realized the cake game, my absolute favorite, was made into a simple cake copying game without an ounce of difficulty.\nThe conveyor belt does not even move on its own anymore and at most you\u2019ll make a one tier cake. Don\u2019t waste your money and just reminisce through memories.",
+                "date": "2024-05-25",
+                "value": 75,
+                "potential_idea": "Reintroduce and enhance the original 'cake game' mechanic from the user's childhood, featuring more complex cake designs, dynamic conveyor belts, and multi-tier cake challenges.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "This game is absolutely nothing like the OG one on the computer, Highly disappointed and a waste of my 2 dollars !!! \ud83d\ude21",
+                "date": "2024-05-01",
+                "value": 80,
+                "potential_idea": "Develop a mobile version of the original PC game that accurately recreates its gameplay and mechanics, addressing the demand for authentic nostalgia.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "the original game got harder as you played. this ine just lets you replay the first level of each over and over.",
+                "date": "2024-04-27",
+                "value": {
+                    "intensity": 15,
+                    "difference": 10,
+                    "scope": 15,
+                    "feasibility": 18,
+                    "total": 58
+                },
+                "potential_idea": "Introduce adaptive difficulty scaling to the mobile game that increases challenge based on player progression, mirroring the experience of the original game.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Not the original purple place, very disappointed.",
+                "date": "2024-04-19",
+                "value": 15,
+                "potential_idea": "Develop a retro gaming app that specifically recreates classic Windows games like 'Purple Place' in their original form.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "Waste of money! Not like the original. Free games are better.",
+                "date": "2024-03-21",
+                "value": 8,
+                "potential_idea": "Develop a freemium model for the app, offering basic functionality for free and advanced features via a subscription or one-time purchase, mirroring the appeal of popular free games.",
+                "tags": []
+            },
+            {
+                "app_name": "Purple Place - Classic Games",
+                "rating": 1,
+                "review": "What if I didn\u2019t like it and want to delete it but I already paid for it\ud83d\ude2d",
+                "date": "2024-01-24",
+                "value": 75,
+                "potential_idea": "Implement a trial period or a partial refund option for users who are unsatisfied with a paid app feature.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6740349855",
+        "name": "Backyard Football '99",
+        "url": "https://apps.apple.com/us/app/backyard-football-99/id6740349855?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Backyard Football '99",
+                "rating": 2,
+                "review": "Needs an analog stick for player movement. There is plenty of space since the game doesn\u2019t take up the whole screen. Also pretty laggy. When I click a play there is like a 2 sec delay",
+                "date": "2025-09-12",
+                "value": 80,
+                "potential_idea": "Implement an on-screen analog joystick for character movement in the mobile game to improve player control and responsiveness, especially given available screen real estate.",
+                "tags": {
+                    "tags": [
+                        "niche demand",
+                        "bug"
+                    ]
+                }
+            },
+            {
+                "app_name": "Backyard Football '99",
+                "rating": 1,
+                "review": "Without question this is the worst Iphone game I\u2019ve ever played let alone payed for.  Refund should be issued to me and everyone.",
+                "date": "2025-09-09",
+                "value": 15,
+                "potential_idea": "Implement a robust refund policy with clear and accessible instructions for users requesting a refund.",
+                "tags": []
             }
         ]
     }
