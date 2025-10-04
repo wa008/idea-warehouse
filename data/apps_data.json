@@ -1,613 +1,5 @@
 [
     {
-        "id": "1010311475",
-        "name": "QuickBend: Conduit Bending",
-        "url": "https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 2,
-                "review": "I don\u2019t know if it\u2019s just my app but the multiplier is off on mine. .",
-                "date": "2024-03-27",
-                "value": 15,
-                "potential_idea": "Implement an in-app calculator or verification tool to help users confirm the accuracy of the app's multiplier calculations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 1,
-                "review": "This app is too glitchy! I press buttons, and nothing happens. I will be in the middle of trying to select bends, and the app closes. has the potential to be an extremely great app, but does not work on my iPhone 10.",
-                "date": "2023-08-30",
-                "value": 15,
-                "potential_idea": "Improve app stability and performance to prevent crashes and unresponsive buttons, particularly on older iPhone models.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 1,
-                "review": "It was the most perfect, easy to use bending application ever, and the most recent update has ruined it in my eyes",
-                "date": "2023-03-08",
-                "value": 65,
-                "potential_idea": "Implement an opt-out or rollback option for app updates to allow users to revert to previous stable versions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 2,
-                "review": "The iPhone version of this app is not the same or as good as android version. Trying to do parallel kicks and it won\u2019t change the reference pipe. The app is supposed to save time.",
-                "date": "2022-03-29",
-                "value": 70,
-                "potential_idea": "Develop a feature for the iOS version of the app that ensures consistent functionality and user experience parity with the Android version, specifically addressing issues like the 'parallel kicks' reference pipe problem to meet user expectations for time-saving.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 2,
-                "review": "Thanks for ruining this app. We don\u2019t do the metric system in the u.s.  You give the option to change it but it won\u2019t let me",
-                "date": "2021-02-22",
-                "value": 70,
-                "potential_idea": "Implement a robust and persistent unit conversion feature that correctly applies user preferences for measurement systems (e.g., imperial vs. metric) throughout the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 2,
-                "review": "Just purchased this app and the math calculations are in cm . I can not change to inch\u2019s on the app ! I have no was of getting app support , or contacting the app developer. Is there anyone that can help me this problem?",
-                "date": "2020-08-07",
-                "value": 75,
-                "potential_idea": "Add support for unit conversion (e.g., cm to inches) and a clear in-app support/contact developer feature.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "QuickBend: Conduit Bending",
-                "rating": 1,
-                "review": "Worst app ever! Very confusing and definitely not user friendly. I have been in the IBEW Local 98 for 23 years and this is by far the worst bending app. Save your money and look elsewhere!",
-                "date": "2020-01-30",
-                "value": 75,
-                "potential_idea": "Develop a user-friendly and intuitive mobile app specifically designed for electricians that simplifies complex bending calculations and saves users time.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "525299323",
-        "name": "Land Nav Assistant",
-        "url": "https://apps.apple.com/us/app/land-nav-assistant/id525299323?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Land Nav Assistant",
-                "rating": 1,
-                "review": "I get the 1.99 cost for this app,but what was the extra 42.39 for,if you are going to charge this for an app put the full cost up front and not try to rip someone off",
-                "date": "2024-03-05",
-                "value": 18,
-                "potential_idea": "Implement transparent, one-time upfront pricing for all app purchases and in-app purchases to avoid user confusion and perceived 'hidden fees'.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Land Nav Assistant",
-                "rating": 1,
-                "review": "Crashes constantly, not useful.",
-                "date": "2022-03-21",
-                "value": 18,
-                "potential_idea": "Improve app stability to prevent constant crashes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Land Nav Assistant",
-                "rating": 1,
-                "review": "Used this app for a mission.  Used it to verify coordinates.  Talking about a waste of a Dollar! Was 250M of from every point.  Glad this was only to verify  position.  Map and Compass is always the best first source for finding out where your objective is.   \n\nBy the way 2 others teams used it as we'll to verify.  250M of for all three of us..... In the wrong direction!! Refund pending.",
-                "date": "2013-06-16",
-                "value": 85,
-                "potential_idea": "Implement a dynamic calibration system for the app's GPS accuracy, allowing users to account for real-world site-specific deviations. Optionally, provide offline map caching for critical missions.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1477229754",
-        "name": "Papa's Cheeseria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-cheeseria-to-go/id1477229754?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Cheeseria To Go!",
-                "rating": 2,
-                "review": "The reason I put the review as 1 is because I downloaded this game for my sister because she really wanted it, at first she did the tutorial and then she had to do it by her self but then when she would get to the frying the fries station it wouldn\u2019t let her put the fries anywhere and then after just made her have to do it again and again and it still didn\u2019t work she got really frustrated and started crying because it wouldn\u2019t let her do anything at that specific station please fix this bug.",
-                "date": "2025-05-06",
-                "value": 15,
-                "potential_idea": "Implement a robust tutorial system with interactive checkpoints and fallback options to prevent game-breaking bugs.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cheeseria To Go!",
-                "rating": 1,
-                "review": "I don\u2019t like this game every time I try and place the cheese or something else on the bread half of it is off the bread when I\u2019m pressing the middle save your 1.99 don\u2019t buy",
-                "date": "2024-12-03",
-                "value": 15,
-                "potential_idea": "Implement a precise placement mechanic with visual guides or snapping to the bread for food dressing games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Cheeseria To Go!",
-                "rating": 1,
-                "review": "This game is way over rated I don\u2019t get bored easily this is not worth the money and it\u2019s better to just play for free on your chrome so keep up your 199 and buy something else\u2026",
-                "date": "2024-05-13",
-                "value": 12,
-                "potential_idea": "Offer a compelling free-to-play tier or a significantly lower price point for the mobile game to compete with browser-based free alternatives.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cheeseria To Go!",
-                "rating": 2,
-                "review": "I really don\u2019t enjoy playing to go papas games. They make me more stressed and since I am used to HD layouts, I have a harder time. Please make more HD games as well.",
-                "date": "2021-07-21",
-                "value": 45,
-                "potential_idea": "Develop a mobile game with an option to switch between standard and high-definition graphical layouts.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Cheeseria To Go!",
-                "rating": 2,
-                "review": "I suspected that scores weren\u2019t matching with the performance of the game. I recently finished Sushiria and I didn\u2019t expect inaccuracy, because that game is great. But I purposely messed up the cook time on an \u201cangry\u201d customer in Cheeseria, and it gave me a perfect score for it. Safe to say, kinda bummed the accuracy is off. Makes you not wanna try to play.",
-                "date": "2020-11-15",
-                "value": 0,
-                "potential_idea": "Analysis failed.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1361473095",
-        "name": "MuseDash",
-        "url": "https://apps.apple.com/us/app/musedash/id1361473095?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "\u660e\u660e\u8054\u7f51\u7684\u4f46\u662f\u65e0\u6cd5\u767b\u9646\u2026\u4e0b\u5348\u8fd8\u53ef\u4ee5\u7684",
-                "date": "2025-08-19",
-                "value": 15,
-                "potential_idea": "Implement a robust offline mode or a more informative error message for login failures.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "GIVE ME MORE ALIEN STAGE SONGS AND ILL GIVE A 5",
-                "date": "2025-08-08",
-                "value": 15,
-                "potential_idea": "Expand the song library for the 'Alien Stage' game mode, integrating new tracks based on user requests.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "i know its kinda dumb but I\u2019m pretty salty about the purchased items not carrying over to another device when you log onto another device, i bought the Rin and Len pack on my computer and was so disappointed because it didn\u2019t carry over to my phone, and i don\u2019t want to buy it again (i can\u2019t even buy it again). i\u2019m kinda sad because i\u2019ve been wanting to do this for a long time \ud83d\ude41",
-                "date": "2025-07-05",
-                "value": 75,
-                "potential_idea": "Implement cross-device purchase synchronization for in-app content and items.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "\u6211\u670d\u4e86\uff0c\u6211\u4e00\u76f4\u5728\u70b9\u56de\u590d\u8d2d\u4e70\uff0c\u751a\u81f3\u91cd\u65b0\u8fdb\u5165\uff0c\u8d2d\u4e70\u7684\u89d2\u8272\u5c31\u662f\u6062\u590d\u4e0d\u4e86\uff0c\u8981\u5e72\u5565\u2753\u2753\u2753\u6211\u7684\u5988\u5440\u6211\u90fd\u61d2\u5f97\u8bf4\u4e86",
-                "date": "2025-01-29",
-                "value": 15,
-                "potential_idea": "Implement a robust system for restoring purchased in-app items or characters that are not appearing correctly after purchase, potentially including a direct customer support contact within the app for such issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "The game constantly over sexualises the girl character and one of the loading tips is \u201chow old are the girls? Don\u2019t ask that!\u201d LIKE WHAT. THATS A MINOR AND HER BOOBS ARE OUT.",
-                "date": "2025-01-12",
-                "value": 18,
-                "potential_idea": "Implement stricter content moderation policies and user reporting tools to prevent the over-sexualization of characters and offensive in-game content.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "\u8ba1\u5212\u901a\u90fd\u80fd\u7ed9\u6211\u5361\u6ca1\uff1f\u597d\u597d\u4fee\u7406\u90a3\u4e2abug\u5427\u3002",
-                "date": "2025-01-06",
-                "value": 70,
-                "potential_idea": "Improve app performance to eliminate lag and crashing issues, particularly during complex operations.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 2,
-                "review": "Smooth",
-                "date": "2024-12-27",
-                "value": 5,
-                "potential_idea": "The user reviews the app as 'smooth,' suggesting a focus on overall user experience and performance is important to users.",
-                "tags": []
-            },
-            {
-                "app_name": "MuseDash",
-                "rating": 1,
-                "review": "You have to pay for EVERYTHING",
-                "date": "2024-11-25",
-                "value": 85,
-                "potential_idea": "Introduce a freemium tier with limited but useful features to cater to budget-conscious users.",
-                "tags": [
-                    "niche demand"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1589391989",
-        "name": "Mapper for Safari",
-        "url": "https://apps.apple.com/us/app/mapper-for-safari/id1589391989?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "I followed the app\u2019s instructions on how to use in Apple Maps but it does not work.",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Develop a troubleshooting guide or in-app tutorial that visually demonstrates the integration of the app with Apple Maps.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "I followed the instructions and it doesn\u2019t redirect my search to maps",
-                "date": "2025-09-24",
-                "value": 15,
-                "potential_idea": "Improve the accuracy and reliability of the app's search redirection functionality to maps, ensuring it consistently functions as expected.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "Garbage paid extension doesn\u2019t work",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Improve the reliability and functionality of paid extensions/premium features in the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "This app does not work so I wasted the money and time trying to get it to work",
-                "date": "2025-09-11",
-                "value": 15,
-                "potential_idea": "Implement robust error handling and provide clear, actionable troubleshooting steps for common issues to improve user onboarding and reduce frustration.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "Instructions for how to set Mapper up don\u2019t work.  Also, it is unclear as to what Mapper is exactly designed to do.",
-                "date": "2025-08-26",
-                "value": 15,
-                "potential_idea": "Develop clear onboarding tutorials and a concise 'What is this app?' explanation section to improve user understanding and initial setup.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "Not good extension it does not work all the time.",
-                "date": "2025-08-16",
-                "value": 15,
-                "potential_idea": "Improve the reliability and consistency of the app's core functionality.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "Total waste of money. The directions don\u2019t even work anymore. It\u2019s probably for an old version of Safari or Google.",
-                "date": "2025-08-13",
-                "value": 60,
-                "potential_idea": "Develop a smart update mechanism that automatically detects and adjusts for outdated integrations with third-party services like browsers and search engines.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "This app doesn\u2019t switch a map or address link from Google maps to Apple Maps app. iOS 18.5",
-                "date": "2025-08-04",
-                "value": 40,
-                "potential_idea": "Allow users to choose their preferred default map application (e.g., Google Maps, Apple Maps) within the app for opening location links.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 2,
-                "review": "If I look up food near me, I can scroll through the list and hit directions button and have it bring up directions to go to McDonald\u2019s, but if I look up dispensaries near me and hit the directions button, it opens maps, but doesn\u2019t put in the address",
-                "date": "2025-07-25",
-                "value": 60,
-                "potential_idea": "Enable direct navigation to dispensaries from the app's search results by pre-filling map applications with the dispensary's address.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 2,
-                "review": "Good",
-                "date": "2025-07-21",
-                "value": 0,
-                "potential_idea": "N/A",
-                "tags": []
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 2,
-                "review": "G",
-                "date": "2025-07-08",
-                "value": 10,
-                "potential_idea": "The rating system for the app should be more nuanced, allowing users to provide specific feedback on different aspects of the app instead of a single star rating.",
-                "tags": []
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "Worked for a while, but now it sends to random addresses.",
-                "date": "2025-06-08",
-                "value": 15,
-                "potential_idea": "Implement a robust 'test send' feature with confirmation before sending to selected recipients.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 1,
-                "review": "This app doesn\u2019t work at all. Every map I open opens in Google maps.",
-                "date": "2025-05-30",
-                "value": 15,
-                "potential_idea": "Integrate native map viewing functionality within the app to avoid defaulting to external map applications.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Mapper for Safari",
-                "rating": 2,
-                "review": "Did not work that well for me. In safari, it seemed to work intermittently at best. And no response when I contacted developer.",
-                "date": "2025-04-02",
-                "value": 15,
-                "potential_idea": "Implement robust cross-browser compatibility testing and improve user support responsiveness for the mobile app.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1444761746",
-        "name": "RFS - Real Flight Simulator",
-        "url": "https://apps.apple.com/us/app/rfs-real-flight-simulator/id1444761746?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 1,
-                "review": "Why is it so hard to be able to to link to my other devices .",
-                "date": "2025-09-29",
-                "value": 75,
-                "potential_idea": "Implement seamless cross-device synchronization and linking capabilities for users to easily access and manage their data across multiple devices.",
-                "tags": [
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 2,
-                "review": "The physics of this game are not good. Also the fact that you have to pay to get 95% of the planes in this game. At least the graphics are somewhat good.",
-                "date": "2025-09-28",
-                "value": 55,
-                "potential_idea": "Introduce a free-to-play tier with a wider selection of planes and potentially a more realistic physics engine to address user complaints about paywalls and gameplay.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 1,
-                "review": "To the developers. I would enjoy the game if it didn\u2019t crash on flights longer than one hour. It\u2019s happening every day. I lose everything. Someone calls and the game crashes. Why should I pay if this keeps happening?!?! Please fix it.",
-                "date": "2025-09-22",
-                "value": 18,
-                "potential_idea": "Implement an auto-save feature that periodically saves game progress, especially during longer play sessions or when external events like calls occur.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 1,
-                "review": "Don\u2019t buy it its a scam i paid 0.99$ just to get stuck on pack #1491",
-                "date": "2025-09-16",
-                "value": 18,
-                "potential_idea": "Implement a robust automated support system to assist users stuck on specific content or levels in the app, with a clear refund or unlock option.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 1,
-                "review": "This flight sim is a mess. Every time I try to play, I get nonstop subscription pop-ups, even though I already have one. The account won\u2019t link properly, and instead of flying, I\u2019m stuck fighting with errors. Really disappointing for what should\u2019ve been a great game.",
-                "date": "2025-09-09",
-                "value": 18,
-                "potential_idea": "Implement a more robust account linking and subscription management system to prevent recurring subscription pop-ups and ensure seamless access to premium features.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 1,
-                "review": "When I updated RFS and got back into it I noticed that all of the real and custom RFS aircraft liveries were gone except for the Default and Rortos livery I tried everything to make RFS go back to normal but nothing worked this update sucked anyway",
-                "date": "2025-09-01",
-                "value": 15,
-                "potential_idea": "Implement a robust data backup and restore feature for user-created and downloaded in-app assets like liveries to prevent data loss after updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "RFS - Real Flight Simulator",
-                "rating": 1,
-                "review": "THIS GAME SCAMED MY SISTER. SHE PAYED THE $29.99 6 MONTH DEAL AND THEY CHARGED HER $46.27 AND I COULD NOT USE THE THINGS THAT ARE PROMISED IN THE PRO VERSION OF THE GAME. NEVER BUT THIS GAME THEY WILL TRY TO SCAM YOU. I WISH I WAS ABLE TO RATE IT A 0",
-                "date": "2025-08-30",
-                "value": 75,
-                "potential_idea": "Implement transparent and clearly displayed pricing for all subscription tiers within the app, along with a robust in-app support system or dedicated customer service channel to address billing disputes and feature access issues promptly.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "446760220",
-        "name": "FINAL FANTASY TACTICS :WotL",
-        "url": "https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "FINAL FANTASY TACTICS :WotL",
-                "rating": 1,
-                "review": "Needs support for controller/Bluetooth keyboard. \nI can use my keyboard with bootleg Emulators to play Final Fantasy Tactics advance and A2. \nThis crude tapping is imprecise and frustrating.",
-                "date": "2025-08-08",
-                "value": 75,
-                "potential_idea": "Add Bluetooth controller and keyboard support for a more precise and less frustrating gaming experience.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "FINAL FANTASY TACTICS :WotL",
-                "rating": 2,
-                "review": "Unfortunately this game just does not function well as a touch screen game. Really tried to give it a go but it just so uncomfortable and slow that I had to throw in the towel. Stick to controller on this one.",
-                "date": "2025-07-24",
-                "value": 70,
-                "potential_idea": "Develop a mobile game specifically optimized for touch controls, offering a fluid and intuitive gameplay experience distinct from traditional controller-based games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "FINAL FANTASY TACTICS :WotL",
-                "rating": 1,
-                "review": "Lack of multiplayer is really disappointing considering it was present in the PSP version",
-                "date": "2025-07-02",
-                "value": 75,
-                "potential_idea": "Implement a local or online multiplayer mode, similar to the PSP version, within the mobile app.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "FINAL FANTASY TACTICS :WotL",
-                "rating": 1,
-                "review": "Rather than add an accessibility feature to an existing port Square Enix knew they were working on a second remaster and would rather charge $50 for the ability to play this game with a controller.",
-                "date": "2025-06-13",
-                "value": 60,
-                "potential_idea": "Implement comprehensive controller support as a standard feature in mobile game remasters, rather than an expensive add-on.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "FINAL FANTASY TACTICS :WotL",
-                "rating": 1,
-                "review": "Can\u2019t even play the game I want my money back",
-                "date": "2025-06-10",
-                "value": 18,
-                "potential_idea": "Implement a robust refund system with clear eligibility criteria for users unable to access or play purchased games.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "FINAL FANTASY TACTICS :WotL",
-                "rating": 2,
-                "review": "Can you please update your screen it takes up a third of my screen. You need to update ff9 screen to full screen or at least fill it enough where there a 10th of a screen not being used like the other remasters\n\nEdit: notice the ivalance cronicle version is not coming to iOS: can you guys at least please update this version to support modern screen size, as it still fill the space of 4 inch phone from a decade  ago but not more modern display size",
-                "date": "2025-06-04",
-                "value": 85,
-                "potential_idea": "Implement adaptive screen resizing for older games to support modern, larger display sizes and aspect ratios without significant black bars or wasted space.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
         "id": "338893931",
         "name": "Prepware Aviation Maintenance",
         "url": "https://apps.apple.com/us/app/prepware-aviation-maintenance/id338893931?uo=2",
@@ -11981,6 +11373,613 @@
                 "potential_idea": "Offer a tiered subscription model for the mobile app, with the basic tier mirroring the functionality and experience of the company's free website to address user price sensitivity.",
                 "tags": [
                     "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1010311475",
+        "name": "QuickBend: Conduit Bending",
+        "url": "https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 2,
+                "review": "I don\u2019t know if it\u2019s just my app but the multiplier is off on mine. .",
+                "date": "2024-03-27",
+                "value": 15,
+                "potential_idea": "Implement robust testing and validation for the multiplier feature to ensure accuracy across all user instances and devices.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 1,
+                "review": "This app is too glitchy! I press buttons, and nothing happens. I will be in the middle of trying to select bends, and the app closes. has the potential to be an extremely great app, but does not work on my iPhone 10.",
+                "date": "2023-08-30",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and performance optimization to prevent unexpected app closures and unresponsive buttons, particularly on older iPhone models.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 1,
+                "review": "It was the most perfect, easy to use bending application ever, and the most recent update has ruined it in my eyes",
+                "date": "2023-03-08",
+                "value": 75,
+                "potential_idea": "Develop a feature to allow users to opt-out of or revert to previous versions of app updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 2,
+                "review": "The iPhone version of this app is not the same or as good as android version. Trying to do parallel kicks and it won\u2019t change the reference pipe. The app is supposed to save time.",
+                "date": "2022-03-29",
+                "value": 60,
+                "potential_idea": "Implement feature parity between iOS and Android versions of the app for a consistent user experience, particularly for comparative analysis tools like 'parallel kicks'.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 2,
+                "review": "Thanks for ruining this app. We don\u2019t do the metric system in the u.s.  You give the option to change it but it won\u2019t let me",
+                "date": "2021-02-22",
+                "value": 15,
+                "potential_idea": "Allow users to persistently choose and save their preferred unit of measurement (e.g., imperial or metric) within the app, ensuring it remains applied across all relevant functions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 2,
+                "review": "Just purchased this app and the math calculations are in cm . I can not change to inch\u2019s on the app ! I have no was of getting app support , or contacting the app developer. Is there anyone that can help me this problem?",
+                "date": "2020-08-07",
+                "value": 75,
+                "potential_idea": "Allow users to switch between metric (cm) and imperial (inches) units for all app calculations and settings, and implement a clear in-app support or contact developer channel.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "QuickBend: Conduit Bending",
+                "rating": 1,
+                "review": "Worst app ever! Very confusing and definitely not user friendly. I have been in the IBEW Local 98 for 23 years and this is by far the worst bending app. Save your money and look elsewhere!",
+                "date": "2020-01-30",
+                "value": 75,
+                "potential_idea": "A streamlined, intuitive bending app for union members with clear tutorials and pre-set common bending configurations.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "525299323",
+        "name": "Land Nav Assistant",
+        "url": "https://apps.apple.com/us/app/land-nav-assistant/id525299323?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Land Nav Assistant",
+                "rating": 1,
+                "review": "I get the 1.99 cost for this app,but what was the extra 42.39 for,if you are going to charge this for an app put the full cost up front and not try to rip someone off",
+                "date": "2024-03-05",
+                "value": 85,
+                "potential_idea": "Implement a clear, up-front pricing model for app purchases or subscriptions, clearly itemizing all costs to prevent user confusion and perceived hidden charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Land Nav Assistant",
+                "rating": 1,
+                "review": "Crashes constantly, not useful.",
+                "date": "2022-03-21",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and crash reporting to ensure app stability and reliability for all users.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Land Nav Assistant",
+                "rating": 1,
+                "review": "Used this app for a mission.  Used it to verify coordinates.  Talking about a waste of a Dollar! Was 250M of from every point.  Glad this was only to verify  position.  Map and Compass is always the best first source for finding out where your objective is.   \n\nBy the way 2 others teams used it as we'll to verify.  250M of for all three of us..... In the wrong direction!! Refund pending.",
+                "date": "2013-06-16",
+                "value": 85,
+                "potential_idea": "Implement a robust GPS accuracy testing and calibration feature within the app to ensure reliable coordinate verification for users.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1477229754",
+        "name": "Papa's Cheeseria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-cheeseria-to-go/id1477229754?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Cheeseria To Go!",
+                "rating": 2,
+                "review": "The reason I put the review as 1 is because I downloaded this game for my sister because she really wanted it, at first she did the tutorial and then she had to do it by her self but then when she would get to the frying the fries station it wouldn\u2019t let her put the fries anywhere and then after just made her have to do it again and again and it still didn\u2019t work she got really frustrated and started crying because it wouldn\u2019t let her do anything at that specific station please fix this bug.",
+                "date": "2025-05-06",
+                "value": 55,
+                "potential_idea": "Implement more robust error handling and user guidance for critical gameplay mechanics, especially for younger or less experienced players, to prevent game-breaking bugs and user frustration.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cheeseria To Go!",
+                "rating": 1,
+                "review": "I don\u2019t like this game every time I try and place the cheese or something else on the bread half of it is off the bread when I\u2019m pressing the middle save your 1.99 don\u2019t buy",
+                "date": "2024-12-03",
+                "value": 15,
+                "potential_idea": "Implement a precise placement mechanic with visual guides and snap-to-grid for food-building games.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Cheeseria To Go!",
+                "rating": 1,
+                "review": "This game is way over rated I don\u2019t get bored easily this is not worth the money and it\u2019s better to just play for free on your chrome so keep up your 199 and buy something else\u2026",
+                "date": "2024-05-13",
+                "value": 60,
+                "potential_idea": "Develop a free-to-play version of the game with optional cosmetic in-app purchases to attract a wider audience and generate revenue.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Cheeseria To Go!",
+                "rating": 2,
+                "review": "I really don\u2019t enjoy playing to go papas games. They make me more stressed and since I am used to HD layouts, I have a harder time. Please make more HD games as well.",
+                "date": "2021-07-21",
+                "value": 65,
+                "potential_idea": "Introduce an option to switch to an HD visual style for all games within the app to cater to users accustomed to higher-fidelity graphics.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Cheeseria To Go!",
+                "rating": 2,
+                "review": "I suspected that scores weren\u2019t matching with the performance of the game. I recently finished Sushiria and I didn\u2019t expect inaccuracy, because that game is great. But I purposely messed up the cook time on an \u201cangry\u201d customer in Cheeseria, and it gave me a perfect score for it. Safe to say, kinda bummed the accuracy is off. Makes you not wanna try to play.",
+                "date": "2020-11-15",
+                "value": 75,
+                "potential_idea": "Implement a more sophisticated scoring system that accurately reflects customer satisfaction based on order accuracy and preparation quality, rather than just completion.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1361473095",
+        "name": "MuseDash",
+        "url": "https://apps.apple.com/us/app/musedash/id1361473095?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "\u660e\u660e\u8054\u7f51\u7684\u4f46\u662f\u65e0\u6cd5\u767b\u9646\u2026\u4e0b\u5348\u8fd8\u53ef\u4ee5\u7684",
+                "date": "2025-08-19",
+                "value": 15,
+                "potential_idea": "Implement robust offline caching for user data and login credentials to allow partial app functionality during intermittent network connectivity.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "GIVE ME MORE ALIEN STAGE SONGS AND ILL GIVE A 5",
+                "date": "2025-08-08",
+                "value": 15,
+                "potential_idea": "Expand the in-app music library with more songs, potentially themed around popular in-game events or challenges.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "i know its kinda dumb but I\u2019m pretty salty about the purchased items not carrying over to another device when you log onto another device, i bought the Rin and Len pack on my computer and was so disappointed because it didn\u2019t carry over to my phone, and i don\u2019t want to buy it again (i can\u2019t even buy it again). i\u2019m kinda sad because i\u2019ve been wanting to do this for a long time \ud83d\ude41",
+                "date": "2025-07-05",
+                "value": 85,
+                "potential_idea": "Implement cross-platform progression and purchase synchronization for game content.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "\u6211\u670d\u4e86\uff0c\u6211\u4e00\u76f4\u5728\u70b9\u56de\u590d\u8d2d\u4e70\uff0c\u751a\u81f3\u91cd\u65b0\u8fdb\u5165\uff0c\u8d2d\u4e70\u7684\u89d2\u8272\u5c31\u662f\u6062\u590d\u4e0d\u4e86\uff0c\u8981\u5e72\u5565\u2753\u2753\u2753\u6211\u7684\u5988\u5440\u6211\u90fd\u61d2\u5f97\u8bf4\u4e86",
+                "date": "2025-01-29",
+                "value": 85,
+                "potential_idea": "Implement a robust character restoration feature that automatically backs up and allows users to recover purchased characters if they disappear.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "The game constantly over sexualises the girl character and one of the loading tips is \u201chow old are the girls? Don\u2019t ask that!\u201d LIKE WHAT. THATS A MINOR AND HER BOOBS ARE OUT.",
+                "date": "2025-01-12",
+                "value": 95,
+                "potential_idea": "Implement content moderation tools and clear age ratings for games to prevent the sexualization of minor characters and offensive content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "\u8ba1\u5212\u901a\u90fd\u80fd\u7ed9\u6211\u5361\u6ca1\uff1f\u597d\u597d\u4fee\u7406\u90a3\u4e2abug\u5427\u3002",
+                "date": "2025-01-06",
+                "value": 15,
+                "potential_idea": "Implement robust bug fixing and performance optimization for the app to ensure smoother operation, especially during complex processes.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 2,
+                "review": "Smooth",
+                "date": "2024-12-27",
+                "value": 0,
+                "potential_idea": "No idea can be generated from feedback this short and unspecific.",
+                "tags": []
+            },
+            {
+                "app_name": "MuseDash",
+                "rating": 1,
+                "review": "You have to pay for EVERYTHING",
+                "date": "2024-11-25",
+                "value": 30,
+                "potential_idea": "Implement a freemium model with core features available for free and advanced features offered through optional subscriptions or one-time purchases.",
+                "tags": [
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1589391989",
+        "name": "Mapper for Safari",
+        "url": "https://apps.apple.com/us/app/mapper-for-safari/id1589391989?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "I followed the app\u2019s instructions on how to use in Apple Maps but it does not work.",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Improve integration and provide clear, step-by-step troubleshooting for Apple Maps functionality.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "I followed the instructions and it doesn\u2019t redirect my search to maps",
+                "date": "2025-09-24",
+                "value": 10,
+                "potential_idea": "Implement a robust error handling and reporting mechanism for search redirection issues to provide clearer feedback to users when functionality fails.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "Garbage paid extension doesn\u2019t work",
+                "date": "2025-09-22",
+                "value": 15,
+                "potential_idea": "Develop a reliable and functional paid extension for existing apps, ensuring it delivers on promised features.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "This app does not work so I wasted the money and time trying to get it to work",
+                "date": "2025-09-11",
+                "value": 15,
+                "potential_idea": "Develop an app that provides a guaranteed working version of core functionalities, offering a refund if it fails, to build user trust and avoid wasted investment.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "Instructions for how to set Mapper up don\u2019t work.  Also, it is unclear as to what Mapper is exactly designed to do.",
+                "date": "2025-08-26",
+                "value": 10,
+                "potential_idea": "Implement a comprehensive onboarding tutorial and an 'About' section to clarify the app's purpose and functionality.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "Not good extension it does not work all the time.",
+                "date": "2025-08-16",
+                "value": 15,
+                "potential_idea": "Implement a feature that automatically detects and reports when the app's extension is not functioning correctly.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "Total waste of money. The directions don\u2019t even work anymore. It\u2019s probably for an old version of Safari or Google.",
+                "date": "2025-08-13",
+                "value": 50,
+                "potential_idea": "Develop an app that automatically detects and updates outdated integrations or links within mobile applications.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "This app doesn\u2019t switch a map or address link from Google maps to Apple Maps app. iOS 18.5",
+                "date": "2025-08-04",
+                "value": 50,
+                "potential_idea": "Allow users to choose their preferred navigation app (e.g., Google Maps, Apple Maps, Waze) for opening map or address links within the app.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 2,
+                "review": "If I look up food near me, I can scroll through the list and hit directions button and have it bring up directions to go to McDonald\u2019s, but if I look up dispensaries near me and hit the directions button, it opens maps, but doesn\u2019t put in the address",
+                "date": "2025-07-25",
+                "value": 85,
+                "potential_idea": "Automatically populate the destination address in the native maps app when requesting directions to a dispensary.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 2,
+                "review": "Good",
+                "date": "2025-07-21",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 2,
+                "review": "G",
+                "date": "2025-07-08",
+                "value": 5,
+                "potential_idea": "Implement a sentiment analysis feature to categorize user feedback.",
+                "tags": []
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "Worked for a while, but now it sends to random addresses.",
+                "date": "2025-06-08",
+                "value": 15,
+                "potential_idea": "Implement robust address validation and confirmation steps before sending to prevent accidental misdirection.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 1,
+                "review": "This app doesn\u2019t work at all. Every map I open opens in Google maps.",
+                "date": "2025-05-30",
+                "value": 10,
+                "potential_idea": "Integrate an in-app map viewer to prevent external app redirection for map displays.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Mapper for Safari",
+                "rating": 2,
+                "review": "Did not work that well for me. In safari, it seemed to work intermittently at best. And no response when I contacted developer.",
+                "date": "2025-04-02",
+                "value": 30,
+                "potential_idea": "Implement robust error handling and user feedback mechanisms for in-app browser functionality and developer communication.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1444761746",
+        "name": "RFS - Real Flight Simulator",
+        "url": "https://apps.apple.com/us/app/rfs-real-flight-simulator/id1444761746?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 1,
+                "review": "Why is it so hard to be able to to link to my other devices .",
+                "date": "2025-09-29",
+                "value": 70,
+                "potential_idea": "Implement seamless cross-device syncing and linking to allow users to easily access their data and preferences across multiple devices.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 2,
+                "review": "The physics of this game are not good. Also the fact that you have to pay to get 95% of the planes in this game. At least the graphics are somewhat good.",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Introduce a freemium model with a limited selection of core planes accessible to all users, alongside purchasable premium plane packs for advanced players.",
+                "tags": [
+                    "bug",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 1,
+                "review": "To the developers. I would enjoy the game if it didn\u2019t crash on flights longer than one hour. It\u2019s happening every day. I lose everything. Someone calls and the game crashes. Why should I pay if this keeps happening?!?! Please fix it.",
+                "date": "2025-09-22",
+                "value": 18,
+                "potential_idea": "Implement robust offline play and data saving mechanisms to prevent progress loss during game crashes, especially on longer sessions or when interrupted.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 1,
+                "review": "Don\u2019t buy it its a scam i paid 0.99$ just to get stuck on pack #1491",
+                "date": "2025-09-16",
+                "value": 15,
+                "potential_idea": "Implement a robust bug reporting and resolution system with direct communication channels for users encountering technical issues or being blocked from progress.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 1,
+                "review": "This flight sim is a mess. Every time I try to play, I get nonstop subscription pop-ups, even though I already have one. The account won\u2019t link properly, and instead of flying, I\u2019m stuck fighting with errors. Really disappointing for what should\u2019ve been a great game.",
+                "date": "2025-09-09",
+                "value": 75,
+                "potential_idea": "Implement a robust account linking and subscription verification system to prevent duplicate or erroneous pop-ups for existing subscribers.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 1,
+                "review": "When I updated RFS and got back into it I noticed that all of the real and custom RFS aircraft liveries were gone except for the Default and Rortos livery I tried everything to make RFS go back to normal but nothing worked this update sucked anyway",
+                "date": "2025-09-01",
+                "value": 70,
+                "potential_idea": "Develop a robust backup and restore feature for user-created aircraft liveries and custom settings within RFS to prevent data loss after updates or reinstallations.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "RFS - Real Flight Simulator",
+                "rating": 1,
+                "review": "THIS GAME SCAMED MY SISTER. SHE PAYED THE $29.99 6 MONTH DEAL AND THEY CHARGED HER $46.27 AND I COULD NOT USE THE THINGS THAT ARE PROMISED IN THE PRO VERSION OF THE GAME. NEVER BUT THIS GAME THEY WILL TRY TO SCAM YOU. I WISH I WAS ABLE TO RATE IT A 0",
+                "date": "2025-08-30",
+                "value": 18,
+                "potential_idea": "Implement a 'purchase verification' feature that allows users to confirm what they are actually being charged and what features are unlocked before completing a transaction.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "446760220",
+        "name": "FINAL FANTASY TACTICS :WotL",
+        "url": "https://apps.apple.com/us/app/final-fantasy-tactics-wotl/id446760220?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "FINAL FANTASY TACTICS :WotL",
+                "rating": 1,
+                "review": "Needs support for controller/Bluetooth keyboard. \nI can use my keyboard with bootleg Emulators to play Final Fantasy Tactics advance and A2. \nThis crude tapping is imprecise and frustrating.",
+                "date": "2025-08-08",
+                "value": 75,
+                "potential_idea": "Integrate Bluetooth controller and keyboard support into the app to enable more precise and enjoyable gameplay for users who prefer external input methods.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "FINAL FANTASY TACTICS :WotL",
+                "rating": 2,
+                "review": "Unfortunately this game just does not function well as a touch screen game. Really tried to give it a go but it just so uncomfortable and slow that I had to throw in the towel. Stick to controller on this one.",
+                "date": "2025-07-24",
+                "value": 85,
+                "potential_idea": "Develop a mobile gaming app specifically designed for optimal touch screen controls, prioritizing responsiveness and intuitive gestures.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "FINAL FANTASY TACTICS :WotL",
+                "rating": 1,
+                "review": "Lack of multiplayer is really disappointing considering it was present in the PSP version",
+                "date": "2025-07-02",
+                "value": 75,
+                "potential_idea": "Implement multiplayer functionality in the mobile app, mirroring its presence in the PSP version.",
+                "tags": [
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "FINAL FANTASY TACTICS :WotL",
+                "rating": 1,
+                "review": "Rather than add an accessibility feature to an existing port Square Enix knew they were working on a second remaster and would rather charge $50 for the ability to play this game with a controller.",
+                "date": "2025-06-13",
+                "value": 75,
+                "potential_idea": "Implement robust native controller support for mobile games, allowing users to purchase add-on controller functionality for older titles.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "FINAL FANTASY TACTICS :WotL",
+                "rating": 1,
+                "review": "Can\u2019t even play the game I want my money back",
+                "date": "2025-06-10",
+                "value": 15,
+                "potential_idea": "Implement a robust refund system with clear terms of service and customer support for users unable to access purchased content.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "FINAL FANTASY TACTICS :WotL",
+                "rating": 2,
+                "review": "Can you please update your screen it takes up a third of my screen. You need to update ff9 screen to full screen or at least fill it enough where there a 10th of a screen not being used like the other remasters\n\nEdit: notice the ivalance cronicle version is not coming to iOS: can you guys at least please update this version to support modern screen size, as it still fill the space of 4 inch phone from a decade  ago but not more modern display size",
+                "date": "2025-06-04",
+                "value": 75,
+                "potential_idea": "Implement adaptive screen scaling for older game ports to dynamically fit modern display sizes, preventing black bars or wasted screen space.",
+                "tags": [
+                    "no update for long time",
+                    "bug"
                 ]
             }
         ]
