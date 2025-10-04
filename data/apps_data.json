@@ -1465,638 +1465,6 @@
         ]
     },
     {
-        "id": "6502453075",
-        "name": "Balatro",
-        "url": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Balatro",
-                "rating": 2,
-                "review": "Fun game but my progress doesn\u2019t save anymore.  Many players complain of the same issue for over a year now.",
-                "date": "2025-09-25",
-                "value": 15,
-                "potential_idea": "Implement a cloud-based save system for game progress to prevent data loss and address persistent user complaints.",
-                "tags": [
-                    "bug",
-                    "no update for long time"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Ever since the new ios update the game is extremely slow and glitchy. It almost unplayable. Fix your game!",
-                "date": "2025-09-22",
-                "value": 15,
-                "potential_idea": "Optimize app performance to ensure smooth gameplay after operating system updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Runs horrrrrendus",
-                "date": "2025-09-18",
-                "value": 15,
-                "potential_idea": "Improve app performance and stability to address widespread user-reported issues.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 2,
-                "review": "I don\u2019t really understand all the 5 star reviews.   I have masters degrees in math and statistics (which sad;y you almost need in this game to play really well), and even I just couldn\u2019t find FUN at the heart of this game.   I find the graphics muddy and the level of wildcards overkill.   This is a game for people who deal a poker hand and say \u201cReds are wild, sevens can be converted to face cards unless there are an odd number of sevens on the board, and then they count as Aces\u2026..\u201d.  Not fun for me!!",
-                "date": "2025-09-17",
-                "value": 70,
-                "potential_idea": "Develop a mobile game with a more intuitive and accessible ruleset, focusing on core gameplay loops that are easy to grasp and offer strategic depth without overwhelming complexity.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Would be really nice if we could replay tutorial when coming back to game after awhile away.",
-                "date": "2025-09-15",
-                "value": 50,
-                "potential_idea": "Implement a 'replay tutorial' feature for users who return to the app after a break.",
-                "tags": [
-                    "valuable opinion",
-                    "niche demand"
-                ]
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "I hope you like gambling because that\u2019s all it is",
-                "date": "2025-09-15",
-                "value": 15,
-                "potential_idea": "Incorporate a 'safe mode' or 'responsible gambling' features to help users limit their spending and play time.",
-                "tags": []
-            },
-            {
-                "app_name": "Balatro",
-                "rating": 1,
-                "review": "Bro this game is absolutely insane i cannot stop playing this game this was totally worth the payment i cannot stop tell u right now ur gonna enjoy it",
-                "date": "2025-09-07",
-                "value": 12,
-                "potential_idea": "Implement a 'recommended challenges' feature based on player progression and engagement to further incentivize continued play.",
-                "tags": []
-            }
-        ]
-    },
-    {
-        "id": "1406710800",
-        "name": "Stardew Valley",
-        "url": "https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Will make you waste countless hours on it and then break your heart by deleting everything you do. There is no way save it other than going to sleep which doesn\u2019t actually save it at all. My brand new iPad died ONCE and I lost more than a year of game play because there is no save option. Losing one or two days is one thing, an entire year in the game?!?! You lost me. It\u2019s almost 2026, a save option shouldn\u2019t need to be suggested. I\u2019m not playing 1970\u2019s pong for a reason.",
-                "date": "2025-09-27",
-                "value": 95,
-                "potential_idea": "Implement an automatic cloud save feature for app progress, allowing users to restore their data even after app deletion or device failure.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "I can\u2019t see the health bar properly on the iPhone 17 with even having the tool screen shortened. I never had that issue on android.",
-                "date": "2025-09-27",
-                "value": 75,
-                "potential_idea": "Implement adaptive UI scaling for health bars and tool screens across different devices, specifically addressing display issues on newer iPhones.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "I bought this game 3 years ago. But I still waiting for version can play on Mac. I show it can download from Steam for MacOS but i can\u2019t download on AppStore.",
-                "date": "2025-09-21",
-                "value": 18,
-                "potential_idea": "Develop and release a macOS version of the mobile game, allowing existing App Store purchasers to access it.",
-                "tags": [
-                    "no update for long time",
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Zero",
-                "date": "2025-09-20",
-                "value": 10,
-                "potential_idea": "Improve overall app performance and stability to prevent crashes and freezes.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Please enable mouse and keyboard play!!! I\u2019m so sad that I can\u2019t play with my keyboard. I am a pc player and just downloaded SDV on my IPad thinking i could play while I\u2019m on the road. I\u2019m only giving one star to bring attention to this post, I really do love SDV and would give this game 100 out of 5 stars.",
-                "date": "2025-09-09",
-                "value": 80,
-                "potential_idea": "Integrate support for external keyboard and mouse input for mobile versions of Stardew Valley.",
-                "tags": [
-                    "niche demand",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 2,
-                "review": "Not surprised",
-                "date": "2025-09-09",
-                "value": 0,
-                "potential_idea": "None",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Scam",
-                "date": "2025-09-08",
-                "value": 15,
-                "potential_idea": "Implement stronger fraud detection and reporting mechanisms to combat scams within the app.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "The game gives you some options to adjust menu spacing and other UI, but it is extremely limited! No matter what some things get cut off or are extremely awkward on the screen. Love this game but not on mobile. It\u2019s practically unplayable.\n\nNot even able to refund while only playing for a couple minutes! Very upsetting.",
-                "date": "2025-09-01",
-                "value": 75,
-                "potential_idea": "Implement advanced, customizable UI scaling and layout options for mobile versions of games to ensure all elements are properly displayed and accessible on various screen sizes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "\u800c\u662f\u5b83\u548c\u6211\u6700\u8ba8\u538c\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u771f\u7684\u5f88\u559c\u6b22\u661f\u9732\u8c37\u7269\u8bed\uff0c\u521a\u5f00\u59cb\u5728iPhone\u4e0a\u73a9\u8fd9\u4e2a\u6e38\u620f\uff0c\u975e\u5e38\u559c\u6b22\u3002\u6574\u5929\u90fd\u518d\u73a9\u3002\u4e4b\u540e\u6211\u53c8\u5728steam\u4e0a\u4e70\u4e86\u5b83\uff0c\u5f00\u4e86\u65b0\u7684\u5b58\u6863\u3002\u8fd9\u4e2a\u6e38\u620f\u4e00\u76f4\u662f\u6211\u907f\u98ce\u7684\u6e2f\u6e7e\u3002\u7136\u800c\u5b83\u548c\u66fe\u7ecf\u7f51\u7206\u8fc7\u6211\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u518d\u4e5f\u65e0\u6cd5\u76f4\u89c6\u661f\u9732\u8c37\u7269\u8bed\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u6bcf\u5f53\u6211\u6253\u5f00\u8fd9\u4e2a\u6e38\u620f\u6211\u53ef\u80fd\u4f1a\u60f3\u5230\u66fe\u7ecf\u88ab\u7f51\u7206\u7684\u65f6\u523b\u3002\u6211\u77e5\u9053\u6211\u65e0\u6cd5\u6539\u53d8\u8fd9\u6b21\u8054\u52a8\u7684\u51b3\u5b9a\u3002\u6211\u53ea\u597d\u4e0d\u518d\u73a9\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u518d\u89c1\u3002",
-                "date": "2025-08-27",
-                "value": 75,
-                "potential_idea": "Allow users to customize in-game content to exclude specific unwanted collaborations or themes.",
-                "tags": []
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 2,
-                "review": "As the title says there is barely a tutorial. The first night I couldn\u2019t get into my house so I passed out and then was charged 50 coins bc the medical team had to rescue me. Would have been nice to know ahead of time. Controlling where the avatar moves is clunky. There\u2019s no map, you just wander aimlessly around town and hope for the best. I\u2019m still not sure how to sell things in my inventory. All of this after 30 minutes of play\u2026for 5 dollars?! Lame",
-                "date": "2025-08-21",
-                "value": 80,
-                "potential_idea": "Implement an interactive in-game tutorial and a mini-map system to guide new players and explain core mechanics.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "Couldn\u2019t move past creating my farmer",
-                "date": "2025-08-18",
-                "value": 15,
-                "potential_idea": "Implement a tutorial or guided onboarding process that explicitly shows users how to create a farmer profile.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 2,
-                "review": "The energy bar and health bar are too low on the screen and not fully visible on iPhone 16 pro max and there\u2019s no way I\u2019ve found to move them. This needs to be fixed it directly hurts gameplay.",
-                "date": "2025-08-18",
-                "value": 75,
-                "potential_idea": "Allow users to reposition or resize UI elements, such as health and energy bars, on mobile screens to improve visibility and gameplay experience, particularly on newer devices.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "\u624b\u673a\u7248\u6ca1\u6709mod\u6e38\u620f\u4f53\u9a8c\u592a\u5dee\u4e86 \u505a\u4e86\u624b\u67c4\u64cd\u4f5c\u4f46\u662f\u5b8c\u5168\u6ca1\u6709\u7528\u5fc3\uff0c\u660e\u660e\u53ef\u4ee5\u76f4\u63a5\u628apc\u7aef\u624b\u67c4\u64cd\u4f5c\u79fb\u690d\u8fc7\u6765\u5374\u975e\u8981\u5e9f\u9664\u53f3\u6447\u6746\u529f\u80fd\u5bfc\u81f4\u73b0\u5728\u624b\u67c4\u51e0\u4e4e\u662f\u4e2a\u5e9f\u7269",
-                "date": "2025-08-13",
-                "value": 75,
-                "potential_idea": "Implement full PC-level controller support for the mobile app, including restoring the right analog stick functionality and optimizing existing controls.",
-                "tags": [
-                    "niche demand",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Stardew Valley",
-                "rating": 1,
-                "review": "\u8bf7\u4f5c\u8005\u56de\u590d\u6211\uff0c\u4e3a\u4ec0\u4e48\u6211\u7684ipad\u4e0b\u8f7d\u4ee5\u540e\uff0c\u4e5f\u663e\u793a\u51fa\u6765\u4e86\u5408\u4f5c\u90a3\u4e2a\u6309\u94ae\uff0c\u4f46\u662f\u8fdb\u53bb\u4ee5\u540e\u53ea\u80fd\u52a0\u5165\u522b\u4eba\u7684\u4e3b\u673a\uff0c\u81ea\u5df1\u4e0d\u80fd\u5efa\u4e3b\u673a\uff1f",
-                "date": "2025-08-13",
-                "value": 15,
-                "potential_idea": "Allow users to host their own game sessions on iPad, not just join others.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "824305459",
-        "name": "Papa's Freezeria To Go!",
-        "url": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "I don\u2019t know hth this gone on my phone, but I am being charged and I cannot see how to cancel subscription!",
-                "date": "2025-08-29",
-                "value": 18,
-                "potential_idea": "Implement a clear and accessible 'Manage Subscription' section within the app, allowing users to easily view, modify, or cancel their subscriptions.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "It\u2019s a knockoff pirate version of the original game, horrible pixelated quality.",
-                "date": "2025-08-09",
-                "value": 15,
-                "potential_idea": "Develop a mobile game with high-fidelity graphics and an original theme to stand out from copycat titles.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "Hd version shows up better but you can play this for cheaper option",
-                "date": "2025-07-12",
-                "value": 65,
-                "potential_idea": "Offer a tiered pricing model with a 'lite' or 'basic' version that provides core functionality at a lower cost, alongside the premium HD version.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "day 1 of asking for my account back\ud83d\ude14",
-                "date": "2025-06-26",
-                "value": 75,
-                "potential_idea": "Implement a multi-step account recovery process with clear communication and progress tracking for users who have lost access to their accounts.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "This game was one of my favorites when I was younger, I can\u2019t bring myself to continue playing it though, because the graphics are so bad. This game would be 5/5 if it were more updated like the newer papa\u2019s mobile games. Not worth 99\u00a2.",
-                "date": "2025-05-17",
-                "value": 75,
-                "potential_idea": "Implement a significant graphics overhaul for older mobile games to modernize their visual appeal, similar to how newer titles in the series have been updated.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "I just purchased this game and the gameplay screen is very small and such bad quality! I would like my .99 back, you can keep this game. I\u2019m very disappointed because I love papa games",
-                "date": "2025-05-12",
-                "value": 18,
-                "potential_idea": "Implement a 'full screen' or 'high quality' graphics mode option within the game for users who desire a better visual experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "this game is absolutely NOTHING like the computer version.. and it doesn\u2019t even let you drag toppings into the right place. what a waste of $1.06 \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
-                "date": "2025-05-02",
-                "value": 70,
-                "potential_idea": "Implement a drag-and-drop interface for placing toppings in the mobile game, mirroring the functionality of its computer counterpart.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "Quality was terrible and blurry.",
-                "date": "2025-04-30",
-                "value": 10,
-                "potential_idea": "Implement an image quality enhancement feature to automatically sharpen and de-blur photos within the app.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "I feel like the screen is small and pixelated and it doesn\u2019t even give us enough time to get someone\u2019s order done before another customer arrives, i would be making customer 1s, and Then they keep showing up, its very fast but the drinks take very slow and the speed up button is basically useless, it doesn\u2019t help.",
-                "date": "2025-04-07",
-                "value": 18,
-                "potential_idea": "Introduce a 'rush mode' or a visual queue management system to better control customer arrival pacing and allocate staff resources efficiently.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "I LITERALLY WORK 7 DAYS A WEEK!!! AND ONLY GOT 107 DOLLARS LIKE WHAT IS MINIMUM WAGE??????? HOW MANY HOURS AM I WORKING?? HOW DO YOU EXPECT ME TO PAY RENT??? BILLS??? HELLLOOO?????",
-                "date": "2025-03-26",
-                "value": 75,
-                "potential_idea": "A feature that automatically tracks estimated hours worked based on app usage and calculates potential earnings against a user-defined minimum wage or target income.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "This says it works on IPad. It\u2019s a complete lie. I downloaded this game to play it and it does not want to work. The screen flips. Fix your game",
-                "date": "2025-03-23",
-                "value": 15,
-                "potential_idea": "Develop a version of the app specifically optimized for iPad compatibility with a stable screen orientation.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 1,
-                "review": "The game is trash I hate it",
-                "date": "2025-03-08",
-                "value": 5,
-                "potential_idea": "Rebuilding the game from scratch with a focus on core gameplay mechanics and user experience.",
-                "tags": []
-            },
-            {
-                "app_name": "Papa's Freezeria To Go!",
-                "rating": 2,
-                "review": "It doesn\u2019t work on my end and they won\u2019t give me any refund for it. It just keeps freezing and lagging.",
-                "date": "2025-02-21",
-                "value": 15,
-                "potential_idea": "Implement a robust debugging and reporting tool within the app to help users submit detailed error logs and request refunds more effectively when performance issues arise.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "625334537",
-        "name": "Geometry Dash",
-        "url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Geometry Dash",
-                "rating": 2,
-                "review": "I\u2019ve been playing Geometry Dash for five years and don\u2019t get me wrong I love this game but with the new iOS 26 update on iPhone, it\u2019s lagging the heck out of my session causing me to die over and over again. It\u2019s either apple\u2018s fault or my iPhone fault because this game is actually so easy to run",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Optimize the mobile app for performance on specific operating system versions to prevent lag and improve user experience.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "I just paid for this game again on my new phone and now its super buggy. Im on ios 26 in a iphone 15 and it was less buggy on my iphone XR!",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement a robust cross-device and cross-platform progression system for paid mobile games, allowing users to seamlessly transfer their game progress and purchases to new devices without repurchasing.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "Couldn\u2019t even make an account wow this is so bad. She says my email is not a real thing, but it is. I tried to get over a simple jump and I\u2019m not even touching the spike and it killed me. This game is so stupid. Don\u2019t even get me started with the Level editor.",
-                "date": "2025-09-30",
-                "value": 18,
-                "potential_idea": "Implement an in-game bug reporting tool with direct submission of error logs and gameplay recordings for faster issue resolution.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "ITS LAGGING SO MUCH!!! IPHONE 16 PRO AND LAGGING",
-                "date": "2025-09-29",
-                "value": 15,
-                "potential_idea": "Optimize app performance for high-end devices to eliminate lag.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "been playing for 10+ years and now the games so laggy from the update i cant even play \ud83d\ude41",
-                "date": "2025-09-28",
-                "value": 15,
-                "potential_idea": "Optimize app performance to eliminate lag caused by updates, ensuring a smooth gaming experience for long-term users.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "ROBTOP YOUR LEVElS THE WORST JUST LIKE YOU",
-                "date": "2025-09-28",
-                "value": 10,
-                "potential_idea": "Implement a user feedback system for level design to allow players to rate and comment on levels, informing future design choices.",
-                "tags": []
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "i play geometry dash alot, i test games out, i stream, I also develop things in the game itself, its been lagging for as long as i can remember and i havent told my viewers, i am doing this off-stream. but yeah, please fix the errors",
-                "date": "2025-09-28",
-                "value": 75,
-                "potential_idea": "Implement performance optimizations and advanced debugging tools within the mobile app to address lagging issues, particularly for users who engage in demanding activities like game development and live streaming.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 2,
-                "review": "This game is so good and I really wanna have 2.22! I also have a suggestion: make animation work on mobile because when I try to press ANIM it just puts me back in the main editor. Steps: select an object, tap edit group, tap anim.",
-                "date": "2025-09-28",
-                "value": 65,
-                "potential_idea": "Enable animation editing functionality specifically for mobile devices to allow users to create and modify animations directly within the app on their phones.",
-                "tags": [
-                    "valuable opinion",
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 1,
-                "review": "bad words",
-                "date": "2025-09-27",
-                "value": 5,
-                "potential_idea": "Implement a profanity filter to block offensive language within the app.",
-                "tags": []
-            },
-            {
-                "app_name": "Geometry Dash",
-                "rating": 2,
-                "review": "Why sometimes when I open the app it just is going 1 fps and sometimes it doesn\u2019t? I\u2019m on an iPhone 16 so it shouldn\u2019t have problems so idk why it\u2019s lagging sooo bad cuz it didn\u2019t used to do this",
-                "date": "2025-09-26",
-                "value": 15,
-                "potential_idea": "Implement performance profiling tools within the app to diagnose and resolve inconsistent frame rate issues on high-end devices.",
-                "tags": [
-                    "bug"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "1118115766",
-        "name": "Bloons TD 6",
-        "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=2",
-        "description": "",
-        "reviews": [
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Was torn whether to give 1 or 5 stars, been playing for 2-3 years and have always thought it was an awesome near-perfect game\u2014 easily 5+ stars. Over the past 1-2 months, it has been and still is CONSTANTLY crashing. I submitted a message to support team via ninja kiwi\u2019s website several weeks ago to make them aware if they weren\u2019t already. Before I did that, I had given it plenty of time to resolve after making absolutely sure the softwares for both the game and my iPhone were up-to-date. It\u2019s been a few weeks since submitting that message, and it is STILL crashing. I\u2019ve been trying to get black borders on maps, and in EVERY CHIMPS ATTEMPT I DO ON ANY MAP IT ALWAYS CRASHES, which prevents me from getting the black borders!! EVEN ON THE BASIC HARD DIFFICULTY LEVEL, it crashes WELL BEFORE round 80. Every. Single. Freakin. Game. It is so frustrating and it having been happening for as long as it has, as often as it does, has gotten ridiculous. Please either change the freaking chimps so you can still get the chimps medal with black eyes (and thus black border) when the game crashes, or fix the crashes. \n\nThe game used to only crash when my son and I would play co-op and get into rounds 140+, and that would be infuriating and ridiculous when at least one of us would always be kicked and completely lose access to re-join the game. Now it\u2019s crashing on solo games sometimes before round 60, always before round 80, and it completely messes up the opportunity to get the medals/borders for maps that ninja kiwi designed to be a part of the game! Sorry rant over. Please fix. This is ridic.",
-                "date": "2025-10-01",
-                "value": 18,
-                "potential_idea": "Implement a robust auto-save and recovery system for game progress, especially for challenging modes like CHIMPS, to prevent data loss and frustration due to crashes.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "It\u2019s like my 10th time playing and some reason it\u2019s taking forever to load. PLEASE FIX THIS!",
-                "date": "2025-09-30",
-                "value": 15,
-                "potential_idea": "Implement faster loading times and optimized performance for the mobile game.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Six dollars and when I download the game, I can\u2019t even play yet. I have to go through hours of unlocking stuff if you\u2019re gonna do that at least tell people before they download the game that they\u2019re not actually buying the game. They actually have to spend multiple hours and even a day to actually play at four capacity and even then you have to pay for almost everything else please make it so we don\u2019t have to get tower XP at least for the base to the paragons make sense",
-                "date": "2025-09-24",
-                "value": 16,
-                "potential_idea": "Implement a clearer pre-purchase disclosure of in-game progression requirements and monetization, and offer an option to bypass or significantly reduce the grind for core game elements like tower XP.",
-                "tags": [
-                    "bug",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "This game has fallen off so hard no good updates all just more updates to try to take money and the only way to make monkey money is playing the same map over and over again just to need 30k more monkey money when you make 30 every 40 waves \ud83e\udee9",
-                "date": "2025-09-24",
-                "value": 75,
-                "potential_idea": "Introduce alternative, more engaging ways to earn in-game currency beyond repetitive map grinding, such as daily challenges, mini-games, or social events.",
-                "tags": [
-                    "no update for long time",
-                    "valuable opinion"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Legends now crashes near the end of any level. It\u2019s beyond frustrating, since I spend 20 minutes getting through a difficult level only to have the game crash and then when I reload it counts as a LOSS! At the very least I shouldn\u2019t lose because your game code wasn\u2019t tested on iOS.  Please fix Legends. It cost extra beyond just the game itself!!!!!!",
-                "date": "2025-09-23",
-                "value": 15,
-                "potential_idea": "Implement a robust autosave and recovery system for levels to prevent progress loss due to crashes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 2,
-                "review": "Game is super addicting, however I can\u2019t get past round 153 without it crashing my game, crashes all the time at high rounds on mobile, I have a IPhone 13 and it can\u2019t handle this game on high rounds. Once that\u2019s fixed, easy 5 stars.",
-                "date": "2025-09-23",
-                "value": 85,
-                "potential_idea": "A performance optimization mode that automatically reduces graphical fidelity and background processes during high-intensity gameplay rounds to prevent crashes.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 2,
-                "review": "The game is amazing but it instantly banned me when I made an account and I don\u2019t have hacks or anything",
-                "date": "2025-09-20",
-                "value": 15,
-                "potential_idea": "Implement a more robust and transparent automatic ban detection system with a clear appeal or review process for users who believe they were banned unfairly.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 2,
-                "review": "When too many micro transactions for a 7 dollar game. Disgusting. Pay to win. Pathetic monetization.",
-                "date": "2025-09-19",
-                "value": 65,
-                "potential_idea": "Implement a one-time purchase option for games that currently rely heavily on microtransactions to unlock content or progress.",
-                "tags": []
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "I loaded up balloons after updating the iOS 26 and now it just black screens and crashes.",
-                "date": "2025-09-17",
-                "value": 10,
-                "potential_idea": "Implement robust error handling and crash reporting mechanisms to proactively identify and resolve bugs, especially after OS updates.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "I\u2019ve been playing this game about a week and the game keeps telling me I am not connected and I sit on the screen that says it\u2019s trying to reconnect for 5-10 minutes until I finally just back out. This especially happens when I play co-op mode. Very unhappy. I enjoy the app but don\u2019t appreciate wasting my insta monkeys when I can\u2019t even finish the game.",
-                "date": "2025-09-13",
-                "value": 15,
-                "potential_idea": "Implement robust offline mode or improved connection stability management to prevent game interruptions and resource loss during gameplay.",
-                "tags": [
-                    "bug"
-                ]
-            },
-            {
-                "app_name": "Bloons TD 6",
-                "rating": 1,
-                "review": "Monkey",
-                "date": "2025-09-13",
-                "value": 15,
-                "potential_idea": "Develop a mobile app that allows users to create and manage custom soundboards with unique sound effects.",
-                "tags": [
-                    "valuable opinion"
-                ]
-            }
-        ]
-    },
-    {
         "id": "373493387",
         "name": "AnkiMobile Flashcards",
         "url": "https://apps.apple.com/us/app/ankimobile-flashcards/id373493387?uo=2",
@@ -12949,6 +12317,602 @@
                 "date": "2025-09-29",
                 "value": 18,
                 "potential_idea": "Implement robust cross-platform account synchronization to ensure VPN credentials work seamlessly across different operating systems after app updates.",
+                "tags": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6502453075",
+        "name": "Balatro",
+        "url": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Balatro",
+                "rating": 2,
+                "review": "Fun game but my progress doesn\u2019t save anymore.  Many players complain of the same issue for over a year now.",
+                "date": "2025-09-25",
+                "value": 15,
+                "potential_idea": "Implement more robust cloud syncing to prevent progress loss in the game.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Ever since the new ios update the game is extremely slow and glitchy. It almost unplayable. Fix your game!",
+                "date": "2025-09-22",
+                "value": {
+                    "intensity": 20,
+                    "difference": 5,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 60
+                },
+                "potential_idea": "Optimize game performance to eliminate lag and glitches post-iOS updates.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Runs horrrrrendus",
+                "date": "2025-09-18",
+                "value": 10,
+                "potential_idea": "Improve overall app performance and stability, addressing crashing and lagging issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 2,
+                "review": "I don\u2019t really understand all the 5 star reviews.   I have masters degrees in math and statistics (which sad;y you almost need in this game to play really well), and even I just couldn\u2019t find FUN at the heart of this game.   I find the graphics muddy and the level of wildcards overkill.   This is a game for people who deal a poker hand and say \u201cReds are wild, sevens can be converted to face cards unless there are an odd number of sevens on the board, and then they count as Aces\u2026..\u201d.  Not fun for me!!",
+                "date": "2025-09-17",
+                "value": 55,
+                "potential_idea": "Introduce a 'casual' or 'simplified' game mode with streamlined rules and clearer visuals to appeal to a broader audience beyond strategy enthusiasts.",
+                "tags": []
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "Would be really nice if we could replay tutorial when coming back to game after awhile away.",
+                "date": "2025-09-15",
+                "value": 16,
+                "potential_idea": "Implement a 'Replay Tutorial' feature within the app, allowing returning users to refresh their memory on game mechanics.",
+                "tags": [
+                    "valuable opinion",
+                    "niche demand"
+                ]
+            },
+            {
+                "app_name": "Balatro",
+                "rating": 1,
+                "review": "I hope you like gambling because that\u2019s all it is",
+                "date": "2025-09-15",
+                "value": 15,
+                "potential_idea": "Implement a 'responsible gaming' feature that offers tools and resources to help users manage their gambling habits within the app.",
+                "tags": [
+                    "niche demand"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1406710800",
+        "name": "Stardew Valley",
+        "url": "https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Will make you waste countless hours on it and then break your heart by deleting everything you do. There is no way save it other than going to sleep which doesn\u2019t actually save it at all. My brand new iPad died ONCE and I lost more than a year of game play because there is no save option. Losing one or two days is one thing, an entire year in the game?!?! You lost me. It\u2019s almost 2026, a save option shouldn\u2019t need to be suggested. I\u2019m not playing 1970\u2019s pong for a reason.",
+                "date": "2025-09-27",
+                "value": 100,
+                "potential_idea": "Implement an automatic cloud-based save feature for game progress to prevent data loss.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "I can\u2019t see the health bar properly on the iPhone 17 with even having the tool screen shortened. I never had that issue on android.",
+                "date": "2025-09-27",
+                "value": 62,
+                "potential_idea": "Develop an adaptive UI scaling feature that optimizes health bar visibility across different iPhone models and screen aspect ratios, addressing UI rendering issues.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "I bought this game 3 years ago. But I still waiting for version can play on Mac. I show it can download from Steam for MacOS but i can\u2019t download on AppStore.",
+                "date": "2025-09-21",
+                "value": 15,
+                "potential_idea": "Develop a macOS version of the mobile game, compatible with Mac App Store downloads, mirroring its Steam availability.",
+                "tags": [
+                    "no update for long time",
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Zero",
+                "date": "2025-09-20",
+                "value": 15,
+                "potential_idea": "Improve app stability to prevent crashes and data loss.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Please enable mouse and keyboard play!!! I\u2019m so sad that I can\u2019t play with my keyboard. I am a pc player and just downloaded SDV on my IPad thinking i could play while I\u2019m on the road. I\u2019m only giving one star to bring attention to this post, I really do love SDV and would give this game 100 out of 5 stars.",
+                "date": "2025-09-09",
+                "value": 65,
+                "potential_idea": "Implement keyboard and mouse support for mobile versions of Stardew Valley to allow PC-like play on tablets.",
+                "tags": [
+                    "niche demand",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 2,
+                "review": "Not surprised",
+                "date": "2025-09-09",
+                "value": 10,
+                "potential_idea": "This review suggests a need for proactive issue reporting or a system to acknowledge known bugs.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Scam",
+                "date": "2025-09-08",
+                "value": 15,
+                "potential_idea": "Implement enhanced security measures and transparency to build user trust.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "The game gives you some options to adjust menu spacing and other UI, but it is extremely limited! No matter what some things get cut off or are extremely awkward on the screen. Love this game but not on mobile. It\u2019s practically unplayable.\n\nNot even able to refund while only playing for a couple minutes! Very upsetting.",
+                "date": "2025-09-01",
+                "value": 85,
+                "potential_idea": "Implement advanced, adaptive UI scaling and layout options that automatically adjust content to fit various screen sizes and aspect ratios without user intervention, going beyond basic spacing adjustments.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "\u800c\u662f\u5b83\u548c\u6211\u6700\u8ba8\u538c\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u771f\u7684\u5f88\u559c\u6b22\u661f\u9732\u8c37\u7269\u8bed\uff0c\u521a\u5f00\u59cb\u5728iPhone\u4e0a\u73a9\u8fd9\u4e2a\u6e38\u620f\uff0c\u975e\u5e38\u559c\u6b22\u3002\u6574\u5929\u90fd\u518d\u73a9\u3002\u4e4b\u540e\u6211\u53c8\u5728steam\u4e0a\u4e70\u4e86\u5b83\uff0c\u5f00\u4e86\u65b0\u7684\u5b58\u6863\u3002\u8fd9\u4e2a\u6e38\u620f\u4e00\u76f4\u662f\u6211\u907f\u98ce\u7684\u6e2f\u6e7e\u3002\u7136\u800c\u5b83\u548c\u66fe\u7ecf\u7f51\u7206\u8fc7\u6211\u7684\u6e38\u620f\u8054\u52a8\u4e86\u3002\u6211\u518d\u4e5f\u65e0\u6cd5\u76f4\u89c6\u661f\u9732\u8c37\u7269\u8bed\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u6bcf\u5f53\u6211\u6253\u5f00\u8fd9\u4e2a\u6e38\u620f\u6211\u53ef\u80fd\u4f1a\u60f3\u5230\u66fe\u7ecf\u88ab\u7f51\u7206\u7684\u65f6\u523b\u3002\u6211\u77e5\u9053\u6211\u65e0\u6cd5\u6539\u53d8\u8fd9\u6b21\u8054\u52a8\u7684\u51b3\u5b9a\u3002\u6211\u53ea\u597d\u4e0d\u518d\u73a9\u8fd9\u4e2a\u6e38\u620f\u4e86\u3002\u518d\u89c1\u3002",
+                "date": "2025-08-27",
+                "value": 15,
+                "potential_idea": "Allow users to disable or opt-out of specific in-game events or collaborations within Stardew Valley.",
+                "tags": []
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 2,
+                "review": "As the title says there is barely a tutorial. The first night I couldn\u2019t get into my house so I passed out and then was charged 50 coins bc the medical team had to rescue me. Would have been nice to know ahead of time. Controlling where the avatar moves is clunky. There\u2019s no map, you just wander aimlessly around town and hope for the best. I\u2019m still not sure how to sell things in my inventory. All of this after 30 minutes of play\u2026for 5 dollars?! Lame",
+                "date": "2025-08-21",
+                "value": 75,
+                "potential_idea": "Integrate an interactive in-game tutorial that guides new players through core mechanics like movement, inventory management, and basic survival, with tooltips and immediate feedback.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 1,
+                "review": "Couldn\u2019t move past creating my farmer",
+                "date": "2025-08-18",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and user guidance to prevent users from getting stuck during profile creation or initial setup.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Stardew Valley",
+                "rating": 2,
+                "review": "The energy bar and health bar are too low on the screen and not fully visible on iPhone 16 pro max and there\u2019s no way I\u2019ve found to move them. This needs to be fixed it directly hurts gameplay.",
+                "date": "2025-08-18",
+                "value": 75,
+                "potential_idea": "Implement customizable UI element positioning for in-game HUD elements like energy and health bars to accommodate different screen sizes and user preferences.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "824305459",
+        "name": "Papa's Freezeria To Go!",
+        "url": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "I don\u2019t know hth this gone on my phone, but I am being charged and I cannot see how to cancel subscription!",
+                "date": "2025-08-29",
+                "value": 75,
+                "potential_idea": "Implement a clear and accessible 'Manage Subscription' section within the app's settings to allow users to easily view and cancel their subscriptions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "It\u2019s a knockoff pirate version of the original game, horrible pixelated quality.",
+                "date": "2025-08-09",
+                "value": 40,
+                "potential_idea": "Develop an original mobile game with a distinct art style to avoid comparisons to existing titles.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "Hd version shows up better but you can play this for cheaper option",
+                "date": "2025-07-12",
+                "value": 55,
+                "potential_idea": "Offer a tiered subscription model with a 'lite' version at a lower price point, featuring slightly reduced graphical fidelity or other minor compromises, to appeal to budget-conscious users.",
+                "tags": [
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "day 1 of asking for my account back\ud83d\ude14",
+                "date": "2025-06-26",
+                "value": 15,
+                "potential_idea": "Implement a user-friendly account recovery process with clear steps and support channels.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "This game was one of my favorites when I was younger, I can\u2019t bring myself to continue playing it though, because the graphics are so bad. This game would be 5/5 if it were more updated like the newer papa\u2019s mobile games. Not worth 99\u00a2.",
+                "date": "2025-05-17",
+                "value": {
+                    "intensity": 20,
+                    "difference": 15,
+                    "scope": 20,
+                    "feasibility": 15,
+                    "total": 70
+                },
+                "potential_idea": "Update older mobile games with remastered graphics to appeal to nostalgic players and modern audiences.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "I just purchased this game and the gameplay screen is very small and such bad quality! I would like my .99 back, you can keep this game. I\u2019m very disappointed because I love papa games",
+                "date": "2025-05-12",
+                "value": 15,
+                "potential_idea": "Offer a refund or credit for users unsatisfied with graphical quality or screen size issues in the mobile game.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "this game is absolutely NOTHING like the computer version.. and it doesn\u2019t even let you drag toppings into the right place. what a waste of $1.06 \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+                "date": "2025-05-02",
+                "value": 75,
+                "potential_idea": "Enhance the mobile app with a drag-and-drop interface for placing toppings, mirroring the functionality of the desktop version, to improve gameplay and user experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "Quality was terrible and blurry.",
+                "date": "2025-04-30",
+                "value": 10,
+                "potential_idea": "Implement an image quality enhancement feature that automatically sharpens and clarifies user-uploaded images.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "I feel like the screen is small and pixelated and it doesn\u2019t even give us enough time to get someone\u2019s order done before another customer arrives, i would be making customer 1s, and Then they keep showing up, its very fast but the drinks take very slow and the speed up button is basically useless, it doesn\u2019t help.",
+                "date": "2025-04-07",
+                "value": 70,
+                "potential_idea": "Introduce a 'pause service' functionality that allows users to temporarily halt new customer arrivals when the current order queue is overwhelming or drinks are taking too long.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "I LITERALLY WORK 7 DAYS A WEEK!!! AND ONLY GOT 107 DOLLARS LIKE WHAT IS MINIMUM WAGE??????? HOW MANY HOURS AM I WORKING?? HOW DO YOU EXPECT ME TO PAY RENT??? BILLS??? HELLLOOO?????",
+                "date": "2025-03-26",
+                "value": 75,
+                "potential_idea": "An app that helps gig workers and hourly employees calculate estimated earnings based on hours worked and minimum wage laws, and track their income against vital expenses like rent and bills.",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "This says it works on IPad. It\u2019s a complete lie. I downloaded this game to play it and it does not want to work. The screen flips. Fix your game",
+                "date": "2025-03-23",
+                "value": 15,
+                "potential_idea": "Develop a dedicated iPad version of the game that properly adapts to the device's screen orientation and size.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "The game is trash I hate it",
+                "date": "2025-03-08",
+                "value": 0,
+                "potential_idea": "N/A",
+                "tags": []
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "It doesn\u2019t work on my end and they won\u2019t give me any refund for it. It just keeps freezing and lagging.",
+                "date": "2025-02-21",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and offer a seamless refund process for users experiencing persistent app freezing and lagging.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 1,
+                "review": "It was a $0.99 game which should\u2019ve been a $1.08 charge. Instead it charged me $16\ud83d\ude14\ud83e\udd1a\ud83c\udffc",
+                "date": "2025-02-19",
+                "value": 70,
+                "potential_idea": "Implement a robust in-app purchase verification system to prevent incorrect billing, especially for small, recurring charges.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Papa's Freezeria To Go!",
+                "rating": 2,
+                "review": "I accidentally deleted the game and it reset all of my progress, it\u2019s also outdated compared to the other games.",
+                "date": "2025-02-11",
+                "value": 75,
+                "potential_idea": "Implement a cloud-based save system to prevent loss of game progress upon accidental uninstallation or device change.",
+                "tags": [
+                    "bug",
+                    "no update for long time"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "625334537",
+        "name": "Geometry Dash",
+        "url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "The is game is too stupid and it never will update",
+                "date": "2025-10-02",
+                "value": 10,
+                "potential_idea": "Implement more engaging and varied gameplay mechanics to prevent the game from feeling repetitive and implement a regular update schedule with new content.",
+                "tags": [
+                    "no update for long time"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 2,
+                "review": "I\u2019ve been playing Geometry Dash for five years and don\u2019t get me wrong I love this game but with the new iOS 26 update on iPhone, it\u2019s lagging the heck out of my session causing me to die over and over again. It\u2019s either apple\u2018s fault or my iPhone fault because this game is actually so easy to run",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Optimize the mobile app for compatibility with the latest operating system updates to prevent performance issues and lag.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "I just paid for this game again on my new phone and now its super buggy. Im on ios 26 in a iphone 15 and it was less buggy on my iphone XR!",
+                "date": "2025-09-30",
+                "value": 18,
+                "potential_idea": "Implement a robust game transfer or cloud save system that allows users to seamlessly migrate their purchased game data to new devices without requiring re-purchase or encountering bugs.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "Couldn\u2019t even make an account wow this is so bad. She says my email is not a real thing, but it is. I tried to get over a simple jump and I\u2019m not even touching the spike and it killed me. This game is so stupid. Don\u2019t even get me started with the Level editor.",
+                "date": "2025-09-30",
+                "value": 15,
+                "potential_idea": "Implement a more robust email verification system and refine hitbox detection for in-game physics.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "ITS LAGGING SO MUCH!!! IPHONE 16 PRO AND LAGGING",
+                "date": "2025-09-29",
+                "value": 15,
+                "potential_idea": "Optimize app performance for high-end devices to eliminate lag.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "been playing for 10+ years and now the games so laggy from the update i cant even play \ud83d\ude41",
+                "date": "2025-09-28",
+                "value": 85,
+                "potential_idea": "Develop a performance optimization feature that specifically targets and resolves lag issues caused by app updates in gaming apps, ensuring a consistently smooth gameplay experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "ROBTOP YOUR LEVElS THE WORST JUST LIKE YOU",
+                "date": "2025-09-28",
+                "value": 5,
+                "potential_idea": "Implement a community-driven level rating and filtering system to help users discover high-quality levels.",
+                "tags": []
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 1,
+                "review": "i play geometry dash alot, i test games out, i stream, I also develop things in the game itself, its been lagging for as long as i can remember and i havent told my viewers, i am doing this off-stream. but yeah, please fix the errors",
+                "date": "2025-09-28",
+                "value": 75,
+                "potential_idea": "Optimize mobile app performance, particularly for graphically intensive games like Geometry Dash, by implementing advanced caching protocols and background process management.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Geometry Dash",
+                "rating": 2,
+                "review": "This game is so good and I really wanna have 2.22! I also have a suggestion: make animation work on mobile because when I try to press ANIM it just puts me back in the main editor. Steps: select an object, tap edit group, tap anim.",
+                "date": "2025-09-28",
+                "value": 15,
+                "potential_idea": "Enable the animation feature to function correctly on mobile devices, allowing users to create and edit animations within the app.",
+                "tags": [
+                    "valuable opinion",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1118115766",
+        "name": "Bloons TD 6",
+        "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=2",
+        "description": "",
+        "reviews": [
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 2,
+                "review": "Love the game. But me and my partner have been playing this game in co-op sitting right next to each other and it keeps disconnecting us, costing us to lose our monkeys that we had saved.",
+                "date": "2025-10-02",
+                "value": 70,
+                "potential_idea": "Implement a local co-op mode with enhanced connection stability for shared device play.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 2,
+                "review": "Game crashes constantly. Switching devices, redownloading, etc etc does nothing to fix the problem. Fun game but the crashing after wave 200 gets super old. Have deleted the game since it\u2019s basically unplayable with the amount of bugs it has.",
+                "date": "2025-10-01",
+                "value": 15,
+                "potential_idea": "Implement robust error handling and stability improvements to prevent game crashes, especially in later game stages.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Gameplay is fine but online play has 1-3/all players leaving before round 1 even starts. Connection issues with every match, every player nearly every time. Lot of reviews others have mentioned this. Game is fun, but it\u2019s got the worst online I\u2019ve ever seen & its player-base is not great.",
+                "date": "2025-10-01",
+                "value": 75,
+                "potential_idea": "Implement a robust matchmaking system that prioritizes stable connections and penalizes players who disconnect early to improve the online play experience.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Was torn whether to give 1 or 5 stars, been playing for 2-3 years and have always thought it was an awesome near-perfect game\u2014 easily 5+ stars. Over the past 1-2 months, it has been and still is CONSTANTLY crashing. I submitted a message to support team via ninja kiwi\u2019s website several weeks ago to make them aware if they weren\u2019t already. Before I did that, I had given it plenty of time to resolve after making absolutely sure the softwares for both the game and my iPhone were up-to-date. It\u2019s been a few weeks since submitting that message, and it is STILL crashing. I\u2019ve been trying to get black borders on maps, and in EVERY CHIMPS ATTEMPT I DO ON ANY MAP IT ALWAYS CRASHES, which prevents me from getting the black borders!! EVEN ON THE BASIC HARD DIFFICULTY LEVEL, it crashes WELL BEFORE round 80. Every. Single. Freakin. Game. It is so frustrating and it having been happening for as long as it has, as often as it does, has gotten ridiculous. Please either change the freaking chimps so you can still get the chimps medal with black eyes (and thus black border) when the game crashes, or fix the crashes. \n\nThe game used to only crash when my son and I would play co-op and get into rounds 140+, and that would be infuriating and ridiculous when at least one of us would always be kicked and completely lose access to re-join the game. Now it\u2019s crashing on solo games sometimes before round 60, always before round 80, and it completely messes up the opportunity to get the medals/borders for maps that ninja kiwi designed to be a part of the game! Sorry rant over. Please fix. This is ridic.",
+                "date": "2025-10-01",
+                "value": 18,
+                "potential_idea": "Implement an auto-save feature for CHIMPS game modes that allows players to resume interrupted games due to crashes, preserving their progress towards medals and black borders.",
+                "tags": [
+                    "bug",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "It\u2019s like my 10th time playing and some reason it\u2019s taking forever to load. PLEASE FIX THIS!",
+                "date": "2025-09-30",
+                "value": 20,
+                "potential_idea": "Optimize app loading times for a smoother user experience, especially after multiple play sessions.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Six dollars and when I download the game, I can\u2019t even play yet. I have to go through hours of unlocking stuff if you\u2019re gonna do that at least tell people before they download the game that they\u2019re not actually buying the game. They actually have to spend multiple hours and even a day to actually play at four capacity and even then you have to pay for almost everything else please make it so we don\u2019t have to get tower XP at least for the base to the paragons make sense",
+                "date": "2025-09-24",
+                "value": 70,
+                "potential_idea": "Offer a 'full unlock' or 'early access' purchase option within the app to bypass initial grinding for players who have already paid a base fee.",
+                "tags": [
+                    "bug"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "This game has fallen off so hard no good updates all just more updates to try to take money and the only way to make monkey money is playing the same map over and over again just to need 30k more monkey money when you make 30 every 40 waves \ud83e\udee9",
+                "date": "2025-09-24",
+                "value": 15,
+                "potential_idea": "Introduce alternative, more engaging methods for earning in-game currency beyond repetitive map grinding, or offer more rewarding progression for time spent.",
+                "tags": [
+                    "no update for long time",
+                    "valuable opinion"
+                ]
+            },
+            {
+                "app_name": "Bloons TD 6",
+                "rating": 1,
+                "review": "Legends now crashes near the end of any level. It\u2019s beyond frustrating, since I spend 20 minutes getting through a difficult level only to have the game crash and then when I reload it counts as a LOSS! At the very least I shouldn\u2019t lose because your game code wasn\u2019t tested on iOS.  Please fix Legends. It cost extra beyond just the game itself!!!!!!",
+                "date": "2025-09-23",
+                "value": 15,
+                "potential_idea": "Implement a robust save-state feature for game levels to prevent progress loss due to crashes.",
                 "tags": [
                     "bug"
                 ]
